@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și a trimis regele Iehoiakim oameni în Mițraim, ⟨את⟩ Elnatan fiul lui Acvor, și oameni cu el, spre Mițraim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Iehoiakim"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnatan"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "lui Acvor"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "și oameni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T04:06:58.192160994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci cine va mânca, și cine se va grăbi, afară de mine?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "va mânca"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "se va grăbi"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T09:13:17.044581538Z",
+  "model": "glm-5.3"
+}

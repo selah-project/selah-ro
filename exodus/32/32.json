@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și acum, dacă vei purta păcatul lor — și dacă nu, șterge-mă, te rog, din cartea ta pe care ai scris.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "vei purta"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "păcatul lor"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "șterge-mă"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "din cartea ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "ai scris"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:34.357456150Z",
+  "model": "glm-5.3"
+}

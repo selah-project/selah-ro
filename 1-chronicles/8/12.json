@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Fiii lui Elpaal: Ever, și Mișam, și Șamed — el a zidit ⟨את⟩ Ono și ⟨את⟩ Lod și satele ei.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Fiii"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "lui Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "și Mișam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "și Șamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "și satele ei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:19:07.704093238Z",
+  "model": "glm-5.3"
+}

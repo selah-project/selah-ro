@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și au căutat o tânără frumoasă în tot hotarul lui Israel, și au găsit-o ⟨את⟩ pe Avișag șunamita, și au adus-o ⟨את⟩ la împărat.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "Și au căutat"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "o tânără"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "frumoasă"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hotarul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "și au găsit-o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Avișag șunamita"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "pe Avișag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "șunamita"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au adus-o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea, la împărat"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "la împărat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:47.257007455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a zis omul lui Elohim: Unde a căzut? Și i-a arătat ⟨את⟩ locul. Și a tăiat un lemn și l-a aruncat acolo, și a făcut fierul să plutească.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Unde"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "a căzut"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "și i-a arătat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locul"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "și a tăiat"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "un lemn"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "și a aruncat"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "și a făcut să plutească"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "fierul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:24:24.308608722Z",
+  "model": "glm-5.3"
+}

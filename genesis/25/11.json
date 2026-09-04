@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a fost după moartea lui Avraham, și l-a binecuvântat Elohim ⟨את⟩ Ițhac, fiul lui; și a locuit Ițhac lângă Beer-Lahai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și l-a binecuvântat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ițhac"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a locuit"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lahai-"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:01:29.923044437Z",
+  "model": "glm-5.3"
+}

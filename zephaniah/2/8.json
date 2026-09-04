@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Am auzit ocara lui Moab și batjocurile fiilor lui Amon, care au ocarât ⟨את⟩ poporul meu și s-au făcut mari împotriva hotarului lor.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Am auzit"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ocara"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "lui Moab"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "și batjocurile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "lui Amon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "au ocarât"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "și s-au făcut mari"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "hotarului lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:51:18.913463709Z",
+  "model": "glm-5.3"
+}

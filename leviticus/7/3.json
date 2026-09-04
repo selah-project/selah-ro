@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și ⟨את⟩ toată grăsimea lui să aducă din el: ⟨את⟩ coada grasă și ⟨את⟩ grăsimea care acoperă ⟨את⟩ măruntaiele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată grăsimea lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "grăsimea lui"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "să aducă"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "coada grasă"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "coada grasă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "care acoperă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măruntaiele"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaiele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:01.397586924Z",
+  "model": "glm-5.3"
+}

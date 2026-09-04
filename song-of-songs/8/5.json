@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Cine este aceasta care urcă din pustie, sprijinindu-se de iubitul ei? Sub mărul de aur te-am trezit; acolo te-a purtat mama ta, acolo a purtat în pântece cea care te-a născut.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "urcă"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustie"
+    },
+    {
+      "surface": "מתרפקקת",
+      "gloss": "sprijinindu-se"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "iubitul ei"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Sub"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "mărul de aur"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "te-am trezit"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "te-a purtat"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama ta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "a purtat în pântece"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "cea care te-a născut"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:14.311329318Z",
+  "model": "glm-5.3"
+}

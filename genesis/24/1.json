@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și Avraham era bătrân, venise în zile, și Yahve îl binecuvântase pe Avraham ⟨את⟩ în totul.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Și Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "era bătrân"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venise"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "în zile"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "și Yahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "binecuvântase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "pe Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în totul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:04.783343613Z",
+  "model": "glm-5.3"
+}

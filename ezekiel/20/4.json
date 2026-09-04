@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Vei judeca ⟨את⟩ ei, vei judeca, fiul omului? ⟨את⟩ urâciunile părinților lor fă-le să le cunoască!",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Vei judeca"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "vei judeca"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urâciunile părinților lor"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "urâciunile"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "fă-le să le cunoască"
+    }
+  ],
+  "timestamp": "2026-09-04T10:12:18.269104143Z",
+  "model": "glm-5.3"
+}

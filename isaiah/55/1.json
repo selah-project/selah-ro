@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Ho, tot cel însetat, veniți la ape, și cel ce nu are argint, veniți, cumpărați și mâncați, și veniți, cumpărați fără argint și fără preț vin și lapte!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "cel însetat"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "veniți"
+    },
+    {
+      "surface": "למים",
+      "gloss": "la ape"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și cel ce"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu are"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "veniți"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "cumpărați"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "și mâncați"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "și veniți"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "cumpărați"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "fără"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "și fără"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "preț"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "și lapte"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:22.907901784Z",
+  "model": "glm-5.3"
+}

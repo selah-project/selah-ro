@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a zis Iehoșua: Deschideți ⟨את⟩ gura peșterii și scoateți la mine ⟨את⟩ pe cei cinci regi, aceștia, din peșteră.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "Deschideți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "peșterii"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "și scoateți afară"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cei cinci regi"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "cei cinci"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "regi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "peșteră"
+    }
+  ],
+  "timestamp": "2026-09-04T07:03:02.196919332Z",
+  "model": "glm-5.3"
+}

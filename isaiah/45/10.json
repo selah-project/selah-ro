@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Vai celui ce spune tatălui său: «Ce naști?» — și femeii: «Ce duci la lumină?»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "celui ce spune"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "naști"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "și femeii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "duci la lumină"
+    }
+  ],
+  "timestamp": "2026-09-04T03:51:21.525380232Z",
+  "model": "glm-5.3"
+}

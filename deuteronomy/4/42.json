@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 4:42",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "să fugă acolo ucigașul care își ucide ⟨את⟩ aproapele fără să știe, iar el nu-l ura mai înainte, ieri-alaltăieri, și să fugă spre una dintre cetățile acestea și să trăiască.",
+  "tokens": [
+    {
+      "surface": "לנס",
+      "gloss": "să fugă"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "ucigașul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "ucide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aproapele"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapele"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "să știe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iar el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "ieri-alaltăieri"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "mai înainte"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "și să fugă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "האל",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "și să trăiască"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:32.320498172Z",
+  "model": "glm-5.3"
+}

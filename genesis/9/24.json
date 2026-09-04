@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "S-a trezit Noa din vinul său și a aflat ⟨את⟩ ce i-a făcut fiul cel mai mic.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "S-a trezit"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "din vinul său"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "și a aflat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce i-a făcut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "cel mai mic"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:22.193739889Z",
+  "model": "glm-5.3"
+}

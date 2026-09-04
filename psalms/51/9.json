@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Purifică-mă cu isop și voi fi curat, spală-mă și mai mult decât zăpada voi fi alb.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "purifică-mă"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "cu isop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "și voi fi curat"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "spală-mă"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "și mai mult decât zăpada"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "voi fi alb"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:22.365589029Z",
+  "model": "glm-5.3"
+}

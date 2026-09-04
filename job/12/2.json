@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Adevărat, că voi sunteți ⟨את⟩ poporul, și odată cu voi va muri înțelepciunea!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Adevărat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "odată cu voi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "va muri"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:06:39.046540217Z",
+  "model": "glm-5.3"
+}

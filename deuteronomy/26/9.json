@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "și ne-a adus la locul acesta, și ne-a dat ⟨את⟩ pământul acesta, pământ curgând de lapte și de miere.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "și ne-a adus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "curgând"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "de lapte"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "și de miere"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:56.422300607Z",
+  "model": "glm-5.3"
+}

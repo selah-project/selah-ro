@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Spuneți către Elohim: cât de înfricoșător ⟨este⟩ lucrul tău! În mulțimea puterii tale îți vor minți vrăjmașii tăi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Spuneți"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "către Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cât de"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "înfricoșător"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "lucrul tău"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "În mulțimea"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "puterii tale"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "vor minți"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vrăjmașii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:00.037140196Z",
+  "model": "glm-5.3"
+}

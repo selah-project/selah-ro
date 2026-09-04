@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Iar pe ⟨את⟩ oamenii care erau la intrarea casei i-au lovit cu orbire, de la mic până la mare, și s-au istovit să găsească ușa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar pe ⟨את⟩",
+      "marks": "oamenii"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la intrarea"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "i-au lovit"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "cu orbire"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "de la mic"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "și s-au istovit"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "să găsească"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ușa"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:19.516405385Z",
+  "model": "glm-5.3"
+}

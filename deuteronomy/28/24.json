@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Va da Yahve ⟨את⟩ ploaia pământului tău praf și pulbere; din cer va coborî pe tine până vei fi nimicit.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Va da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ploaia"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ploaia"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "pământului tău"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "praf"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "și pulbere"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cer"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "va coborî"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pe tine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "vei fi nimicit"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:38.141103858Z",
+  "model": "glm-5.3"
+}

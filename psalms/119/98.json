@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Peste vrăjmașii mei mă face mai înțelept porunca ta, căci ea ⟨este⟩ pentru mine pe vecie.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "Peste vrăjmașii mei"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "mă face mai înțelept"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "porunca ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:52.733423636Z",
+  "model": "glm-5.3"
+}

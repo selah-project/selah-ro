@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "între mine și între fiii lui Israel: semn ⟨este⟩ ea pentru totdeauna, căci șase zile a făcut Yahve ⟨את⟩ cerurile și ⟨את⟩ pământul, și în ziua a șaptea s-a odihnit și a răsuflat.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אות",
+      "gloss": "semn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "șase"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cerurile"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "și în ziua"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a șaptea"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "s-a odihnit"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "și a răsuflat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:38.479557204Z",
+  "model": "glm-5.3"
+}

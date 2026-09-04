@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și Aminadav l-a născut pe Nahșon, și Nahșon l-a născut pe Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "și Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Nahșon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahșon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "și Nahșon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:30.820651021Z",
+  "model": "glm-5.3"
+}

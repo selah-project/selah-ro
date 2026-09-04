@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și ⟨את⟩ Eival, și ⟨את⟩ Avimael, și ⟨את⟩ Șeva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Eival"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șeva"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:03.232462503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "A smerit pe cale puterea lui, a scurtat zilele ⟨mele⟩.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "A smerit"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe cale"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "puterea lui"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "a scurtat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele ⟨mele⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:15.655197785Z",
+  "model": "glm-5.3"
+}

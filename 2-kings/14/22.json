@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "El a zidit ⟨את⟩ Elat și l-a adus înapoi lui Iehuda, după ce s-a culcat regele cu părinții săi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "și l-a adus înapoi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "s-a culcat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții săi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:04.185604299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Nu ridicați în sus cornul vostru, nu vorbiți cu ceafă înțepenită ⟨de îndrăzneală⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ridicați"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "în sus"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "cornul vostru"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "vorbiți"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "cu ceafă"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "înțepenită ⟨de îndrăzneală⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:27.672483812Z",
+  "model": "glm-5.3"
+}

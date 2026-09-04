@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 11:37",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și pe tine ⟨את⟩ te voi lua, și vei domni peste tot ce va dori sufletul tău, și vei fi rege peste Israel.",
+  "tokens": [
+    {
+      "surface": "ואתך",
+      "gloss": "și ⟨את⟩ pe tine",
+      "marks": "te voi lua (אקח)"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "voi lua"
+    },
+    {
+      "surface": "ומלכת",
+      "gloss": "și vei domni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "peste tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "va dori"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sufletul tău"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "și vei fi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:32.101745844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Să dea obrazul celui ce-l lovește, să se sature de ocară.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "să dea"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "celui ce-l lovește"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "obrazul"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "să se sature"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "de ocară"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:56.400284727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 113,
+  "translation": "Lăudați-L pe Ya! Lăudați, robii lui Yahve, lăudați ⟨את⟩ numele lui Yahve!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lăudați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui Yahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:33.022234698Z",
+  "model": "glm-5.3"
+}

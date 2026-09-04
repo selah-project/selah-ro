@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a scris în scrisoare, zicând: Puneți ⟨את⟩ pe Uria în fața luptei celei mai aprige și întoarceți-vă din urma lui, ca să fie lovit și să moară.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "și a scris"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "în scrisoare"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "puneți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "pe Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "מול",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "luptei"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "celei mai aprige"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "și întoarceți-vă"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "din urma lui"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ca să fie lovit"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "și să moară"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:07.441391816Z",
+  "model": "glm-5.3"
+}

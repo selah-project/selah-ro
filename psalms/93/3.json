@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 93,
+  "translation": "Au ridicat râurile, Yahve, au ridicat râurile glasul lor, înalță râurile spargele lor.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "au ridicat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "râurile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "au ridicat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "râurile"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "glasul lor"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "inalță"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "râurile"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "spargele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:19.726348162Z",
+  "model": "glm-5.3"
+}

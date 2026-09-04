@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a spus David către Elohim: Am păcătuit foarte, că am făcut lucrul acesta; și acum, te rog, îndepărtează ⟨את⟩ nelegiuirea robului tău, căci am fost foarte nebun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Am păcătuit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrul acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "îndepărtează"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelegiuirea robului tău"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robului tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "am fost foarte nebun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T06:12:46.859640166Z",
+  "model": "glm-5.3"
+}

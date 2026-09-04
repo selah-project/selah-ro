@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Nu să-ți faci idol ciuşit și nicio formă ⟨care este⟩ în cerurile de sus, și ⟨care este⟩ în pământul de jos, și ⟨care este⟩ în apele de sub pământ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să-ți faci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "idol ciuşit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și nicio"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "formă"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care este"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în cerurile"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "de sus"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și care este"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământul"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de jos"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și care este"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în apele"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sub"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:42.617606556Z",
+  "model": "glm-5.3"
+}

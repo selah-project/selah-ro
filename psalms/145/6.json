@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Și puterea faptelor tale înfricoșătoare vor rosti, și măreția ta o voi povesti.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "Și puterea"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "faptelor tale înfricoșătoare"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vor rosti"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "și măreția ta"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "o voi povesti"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:48.589361548Z",
+  "model": "glm-5.3"
+}

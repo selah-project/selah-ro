@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Povară ⟨את⟩ Bavelului — aceasta a văzut-o Ieșaiahu, fiul lui Amoț.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Povară"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "a văzut-o"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ieșaiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "lui Amoț"
+    }
+  ],
+  "timestamp": "2026-09-04T03:40:07.659029989Z",
+  "model": "glm-5.3"
+}

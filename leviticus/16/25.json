@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Iar ⟨את⟩ grăsimea jertfei de păcat o va face să fumegie pe altar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfei de păcat"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "o va face să fumegie"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:11.663831462Z",
+  "model": "glm-5.3"
+}

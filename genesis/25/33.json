@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a spus Iaacov: „Jură-mi ⟨astăzi!\"⟩ Și i-a jurat lui, și a vândut ⟨את⟩ dreptul de întâi-născut al său lui Iaacov.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "jură"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "și a jurat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "și a vândut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dreptul de întâi-născut al său"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "dreptul de întâi-născut al său"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:53.030761318Z",
+  "model": "glm-5.3"
+}

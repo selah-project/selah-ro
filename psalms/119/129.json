@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Minuni sunt mărturiile tale; de aceea le păzește nefeșul meu.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "Minuni"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "sunt mărturiile tale"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "le păzește"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeșul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:41.975257545Z",
+  "model": "glm-5.3"
+}

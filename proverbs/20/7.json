@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Cel care umblă în neprihănirea ⟨sa⟩ — drept ⟨este⟩; fericiți fiii lui după el.",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "cel care umblă"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "în neprihănirea sa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "drept"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "fericiți"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:23.845597963Z",
+  "model": "glm-5.3"
+}

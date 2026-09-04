@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și au făcut așa vrăjitorii cu vrăjitoriile lor, și au suit ⟨את⟩ broaștele peste pământul Mițraimului.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Și au făcut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "vrăjitorii"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "cu vrăjitoriile lor"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "și au suit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "broaștele"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "broaștele"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:08.817594678Z",
+  "model": "glm-5.3"
+}

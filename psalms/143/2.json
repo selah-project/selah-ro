@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Și nu intra la judecată ⟨את⟩ cu robul tău, căci nu se va îndreptăți înaintea feței tale nicio ființă vie.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "intra"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "la judecată"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu robul tău"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "cu robul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "se va îndreptăți"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea feței tale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nicio"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ființă vie"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:51.600737902Z",
+  "model": "glm-5.3"
+}

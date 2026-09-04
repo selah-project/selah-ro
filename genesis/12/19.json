@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "De ce ai zis: «Sora mea ⟨ea⟩ este», și am luat-o ⟨את⟩ pentru mine de soție? Și acum, iată soția ta — ia ⟨את⟩ și pleacă.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ai zis"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Sora mea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ea⟩ este"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "și am luat-o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de soție"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "soția ta"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "și pleacă"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:07.939162479Z",
+  "model": "glm-5.3"
+}

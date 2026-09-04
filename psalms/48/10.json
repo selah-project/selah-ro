@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Am cugetat, Elohim, la hesedul tău, în mijlocul templului tău.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "am cugetat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "la hesedul tău"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "templului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:49.639738947Z",
+  "model": "glm-5.3"
+}

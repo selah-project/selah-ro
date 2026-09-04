@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Hesed (îndurare) și adevărul s-au întâlnit, dreptatea și pacea s-au sărutat.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "și adevărul"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "s-au întâlnit"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "și pacea"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "s-au sărutat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:04.137959805Z",
+  "model": "glm-5.3"
+}

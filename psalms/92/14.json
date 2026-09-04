@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "Sădiți în casa lui Yahve, în curțile lui Elohim al nostru vor înflori.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Sădiți"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "în curțile"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lui Elohim al nostru"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "vor înflori"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:37.746010684Z",
+  "model": "glm-5.3"
+}

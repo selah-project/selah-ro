@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "și să așezi ⟨את⟩ curtea de jur împrejur, și să pui ⟨את⟩ perdeaua porții curții.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "și să așezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "curtea"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curtea"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeaua porții curții"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perdeaua"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curții"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:56.224093891Z",
+  "model": "glm-5.3"
+}

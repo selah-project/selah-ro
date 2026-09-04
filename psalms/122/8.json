@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 122,
+  "translation": "Pentru frații mei și prietenii mei voi grăi: pace înăuntrul tău!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pentru"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frații mei"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "și prietenii mei"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "voi grăi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨rog⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "בך",
+      "gloss": "înăuntrul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:57.401832804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Toate oasele mele vor spune: Yahve, cine ⟨este⟩ ca tine, care scapi pe cel sărman de cel mai puternic decât el, și pe cel sărman și pe cel nevoiaș de jefuitorul lui?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toate"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "oasele mele"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "vor spune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ca tine"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "care scapi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pe cel sărman"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "de cel mai puternic"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "decât el"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "și pe cel sărman"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și pe cel nevoiaș"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "de jefuitorul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:47.259592066Z",
+  "model": "glm-5.3"
+}

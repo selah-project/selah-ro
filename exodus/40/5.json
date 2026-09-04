@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "și să pui ⟨את⟩ altarul de aur al tămâierii înaintea Aronului Mărturiei, și să pui ⟨את⟩ perdeaua de la intrarea cortului.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul de aur"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "al tămâierii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aronului"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Mărturiei"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeaua"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perdeaua"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "de la intrare"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "cortului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:56.223622005Z",
+  "model": "glm-5.3"
+}

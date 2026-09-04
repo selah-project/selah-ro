@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Nu așa cei răi, ci ca pleava pe care vântul o împrăștie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ci⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ca pleava"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "o împrăștie"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vântul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:59.826788778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Inima mea se zvârcolește în mine, și spaimele morții au căzut peste mine.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "se zvârcolește"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "și spaimele"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "au căzut"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:33.624639160Z",
+  "model": "glm-5.3"
+}

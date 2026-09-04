@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a fost bun cuvântul în ochii lui Adonai, că a cerut Șelomo ⟨את⟩ cuvântul acesta.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Și a fost bun"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "lui Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "a cerut"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:16:34.404423205Z",
+  "model": "glm-5.3"
+}

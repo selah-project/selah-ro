@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "ca să creadă că ți s-a arătat Yahve, Elohim al părinților lor, Elohim al lui Avraham, Elohim al lui Ițhac și Elohim al lui Iaacov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "creadă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "s-a arătat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ți"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "lui Ițhac"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "și Elohim al"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:36.651445009Z",
+  "model": "glm-5.3"
+}

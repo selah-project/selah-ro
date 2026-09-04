@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "O lumină pentru piciorul meu ⟨este⟩ cuvântul tău și o lumină pentru cărarea mea.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "O lumină"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "pentru piciorul meu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "וְאוֹר",
+      "gloss": "și o lumină"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "pentru cărarea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:38.179052697Z",
+  "model": "glm-5.3"
+}

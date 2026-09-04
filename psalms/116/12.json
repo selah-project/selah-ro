@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Ce voi răsplăti lui Yahve, ⟨pentru⟩ toate binefacerile lui asupra mea?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "voi răsplăti"
+    },
+    {
+      "surface": "ליהווה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "binefacerile lui"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:35.315147188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "și Iehoțadac a mers în surghiun, când a dus Yahve ⟨את⟩ Iehuda și Ierușalaim, prin mâna lui Nevuhadnețar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "și Iehoțadac"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a mers"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "în surghiun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "și Ierușalaim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "lui Nevuhadnețar"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:39.686198286Z",
+  "model": "glm-5.3"
+}

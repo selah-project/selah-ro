@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Ochii voștri au văzut ⟨את⟩ ceea ce a făcut Yahve cu Baal-Peor: căci tot omul care a mers după Baal-Peor, Yahve, Elohim tău, l-a nimicit din mijlocul tău.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "Ochii voștri"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "cu Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a mers"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "l-a nimicit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tău"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "din mijlocul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:11.190581399Z",
+  "model": "glm-5.3"
+}

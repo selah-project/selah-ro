@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a zis Yahve către satan: De unde vii? Și a răspuns satan ⟨את⟩ lui Yahve și a zis: De la colindat pământul și de la umblatul prin el.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "De unde"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "vii"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "și a răspuns"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "De la colindat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "și de la umblatul"
+    },
+    {
+      "surface": "בה",
+      "gloss": "prin el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:23.720774450Z",
+  "model": "glm-5.3"
+}

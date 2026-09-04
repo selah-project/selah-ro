@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "O generație ai cărei dinți sunt săbii și măselele lui cuțite, ca să mănânce ⟨את⟩ săracii de pe pământ și ⟨את⟩ nevoiașii dintre oameni.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "generație"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "săbii"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dinții lui"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "și cuțite"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "măselele lui"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ca să mănânce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "săracii"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "săracii"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de pe pământ"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "și nevoiașii"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dintre oameni"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:49.842878096Z",
+  "model": "glm-5.3"
+}

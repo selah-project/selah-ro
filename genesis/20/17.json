@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "S-a rugat Avraham către Elohim, și a tămăduit Elohim ⟨את⟩ Avimeleh și ⟨את⟩ pe soția lui și pe roabele lui, și au născut.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "s-a rugat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "și a tămăduit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Avimeleh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe soția lui"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția lui"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "și pe roabele lui"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "și au născut"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:33.143074260Z",
+  "model": "glm-5.3"
+}

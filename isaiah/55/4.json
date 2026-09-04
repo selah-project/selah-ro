@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Iată, martor pentru neamuri l-am dat pe el, căpetenie și poruncitor pentru neamuri.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "עד",
+      "gloss": "martor"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "pentru neamuri"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "l-am dat pe el"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "căpetenie"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "și poruncitor"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "pentru neamuri"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:22.908463286Z",
+  "model": "glm-5.3"
+}

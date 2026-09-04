@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a născut Noah trei fii: ⟨את⟩ Șem, ⟨את⟩ Ham și ⟨את⟩ Iafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Și a născut"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Șem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Iafet"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:24.233878856Z",
+  "model": "glm-5.3"
+}

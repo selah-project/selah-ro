@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "Mă înghit potrivnicii mei toată ziua, căci mulți sunt cei ce se luptă cu mine, din înălțime.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "Mă înghit"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "potrivnicii mei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mulți"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "cei ce se luptă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "din înălțime"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:02.588667401Z",
+  "model": "glm-5.3"
+}

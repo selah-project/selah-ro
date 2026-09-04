@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "După el s-a ridicat Iair, Ghiladitul, și a judecat ⟨את⟩ Israelul douăzeci și doi de ani.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "s-a ridicat"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Iair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Ghiladitul"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "și a judecat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "și doi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    }
+  ],
+  "timestamp": "2026-09-04T02:33:07.859208835Z",
+  "model": "glm-5.3"
+}

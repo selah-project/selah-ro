@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și s-a uitat filisteanul și l-a văzut ⟨את⟩ David și l-a disprețuit, pentru că era un tânăr și roșcat, împreună cu frumos la privire.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "Și s-a uitat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteanul"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "și l-a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "și l-a disprețuit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un tânăr"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "și roșcat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "frumos"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "la privire"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:18.294970211Z",
+  "model": "glm-5.3"
+}

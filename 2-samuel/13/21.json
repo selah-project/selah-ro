@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și David, regele, a auzit ⟨את⟩ toate cuvintele acestea, și s-a aprins ⟨de mânie⟩ pentru el foarte.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "și regele"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "și s-a aprins"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:54.097397501Z",
+  "model": "glm-5.3"
+}

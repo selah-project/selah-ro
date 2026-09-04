@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Elohim, la ieșirea ta înaintea poporului tău, la pășirea ta prin pustiul sterp — Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "la ieșirea ta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporului tău"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "la pășirea ta"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "prin pustiul sterp"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:05.926825044Z",
+  "model": "glm-5.3"
+}

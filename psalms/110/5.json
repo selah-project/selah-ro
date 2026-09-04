@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 110,
+  "translation": "Adonai la dreapta ta: zdrobește în ziua mâniei lui împărați.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "zdrobește"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mâniei lui"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "împărați"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:47.982756850Z",
+  "model": "glm-5.3"
+}

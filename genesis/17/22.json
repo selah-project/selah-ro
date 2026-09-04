@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a încetat să vorbească cu ⟨את⟩ el, și s-a suit Elohim de pe Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "și a încetat"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "să vorbească"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și s-a suit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:34.537359104Z",
+  "model": "glm-5.3"
+}

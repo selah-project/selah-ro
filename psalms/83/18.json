@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Să fie rușinați și să fie îngroziți în veac și în veci, și să fie rușinați de rușine și să piară!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Să fie rușinați"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "și să fie îngroziți"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "עד",
+      "gloss": "și în veci"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "și să fie rușinați de rușine"
+    },
+    {
+      "surface": "ואובדו",
+      "gloss": "și să piară"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:46.509525882Z",
+  "model": "glm-5.3"
+}

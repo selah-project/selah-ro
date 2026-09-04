@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Cel cu suflet larg aprinde ceartă, dar cel ce se încrede în Yahve va fi îngrășat.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "larg"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "suflet"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "aprinde"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ceartă"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "dar cel ce se încrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "va fi îngrășat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:43.678049021Z",
+  "model": "glm-5.3"
+}

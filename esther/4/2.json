@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "și a venit până înaintea porții regelui, căci nu ⟨era⟩ îngăduit să se intre la poarta regelui îmbrăcat în sac.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "era îngăduit să se intre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "שער",
+      "gloss": "poarta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "îmbrăcat"
+    },
+    {
+      "surface": "שק",
+      "gloss": "în sac"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:39.225798580Z",
+  "model": "glm-5.3"
+}

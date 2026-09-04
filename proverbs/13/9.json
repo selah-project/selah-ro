@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Lumina celor drepți se veselește, iar candela celor răi se stinge.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Lumina"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "celor drepți"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se veselește"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "iar candela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "se stinge"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:05.892360557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Dacă vei vedea măgarul celui ce te urăște ghemuit sub povara lui și te vei opri să-l lași lui — lasând să-l lași împreună cu el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vei vedea"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "măgarul"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "celui ce te urăște"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "ghemuit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "povara lui"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "și te vei opri"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "să-l lași"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "lasând"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "să-l lași"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "împreună cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:40.967952538Z",
+  "model": "glm-5.3"
+}

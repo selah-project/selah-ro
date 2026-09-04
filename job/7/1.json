@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Oare ⟨nu⟩ ⟨este⟩ o slugă de oaste omului pe pământ, și ca zilele unui plătit zilele lui?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Oare ⟨nu⟩"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "o slugă de oaste"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "și ca zilele"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "unui plătit"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "zilele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:16.581284514Z",
+  "model": "glm-5.3"
+}

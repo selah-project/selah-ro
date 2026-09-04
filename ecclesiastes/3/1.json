@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Pentru orice ⟨este⟩ un vreme hotărâtă, și un ceas pentru orice dor sub ceruri.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Pentru orice"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "vreme hotărâtă"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un ceas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru orice"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dor"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:06.691766555Z",
+  "model": "glm-5.3"
+}

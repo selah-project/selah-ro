@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Gol se plimbă fără haină, și flămânzii duc snopul.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Gol"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "se plimbă"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "haină"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "și flămânzii"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "duc"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "snopul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:40.128538391Z",
+  "model": "glm-5.3"
+}

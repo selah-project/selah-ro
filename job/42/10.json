@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și Yahve a întors rostul lui Iiov, când s-a rugat pentru prietenii săi; și Yahve a adăugat ⟨את⟩ tot ce avea Iiov, îndoit.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Și Yahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a întors"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rostul"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "rostul"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "lui Iiov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "când s-a rugat"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "prietenii săi"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "și a adăugat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "avea Iiov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "îndoit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:09:21.689267857Z",
+  "model": "glm-5.3"
+}

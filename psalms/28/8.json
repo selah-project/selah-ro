@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Yahve ⟨este⟩ tărie pentru ei și cetate de izbânzi pentru Mașiahul lui — el ⟨este⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tărie"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pentru ei"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "și cetate de scăpare"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "de izbânzi"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "pentru Mașiahul lui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el ⟨este⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:43.972453131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar Yahve este în templul său cel sfânt: tăcere înaintea lui, tot pământul!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Iar Yahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "în templul"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfânt al său"
+    },
+    {
+      "surface": "הס",
+      "gloss": "tăcere"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:51:17.260773150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Căci așa a vorbit Yahve: pe degeaba ați fost vânduți, și nu cu argint veți fi răscumpărați.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pe degeaba"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "ați fost vânduți"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "cu argint"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "veți fi răscumpărați"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:18.691106163Z",
+  "model": "glm-5.3"
+}

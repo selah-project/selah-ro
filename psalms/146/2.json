@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 146,
+  "translation": "Îl voi lăuda pe Yahve în viața mea, îi voi cânta lui Elohim cât voi fi încă.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Îl voi lăuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "în viața mea"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "îi voi cânta"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "cât voi fi încă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:52.345849157Z",
+  "model": "glm-5.3"
+}

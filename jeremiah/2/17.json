@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Oare nu aceasta ți se face ție, fiindcă ai părăsit ⟨את⟩ Yahve, Elohim al tău, în vremea când te călăuzea pe drum?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ți se face"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "ai părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "în vremea"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "călăuzea"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    }
+  ],
+  "timestamp": "2026-09-04T03:58:01.492903791Z",
+  "model": "glm-5.3"
+}

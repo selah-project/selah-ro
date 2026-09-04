@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Cel ce lucrează pământul lui se va sătura de pâine, iar cel ce urmărește lucruri deșarte ⟨este⟩ lipsit de minte.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "cel ce lucrează"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "pământul lui"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se va sătura"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pâine"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "iar cel ce urmărește"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "lucruri deșarte"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "lipsit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de minte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:11.897866928Z",
+  "model": "glm-5.3"
+}

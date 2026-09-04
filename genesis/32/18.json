@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a poruncit ⟨את⟩ celui dintâi, zicând: Dacă te va întâlni Esav, fratele meu, și te va întreba, zicând: Al cui ești tu? și încotro mergi? și ale cui sunt acestea înaintea ta?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "și a poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui dintâi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "celui dintâi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "te va întâlni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratele meu"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "și te va întreba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "למי",
+      "gloss": "al cui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "și încotro"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "și ale cui"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sunt acestea"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:29.808301268Z",
+  "model": "glm-5.3"
+}

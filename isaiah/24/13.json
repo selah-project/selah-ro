@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 24:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Căci așa va fi în mijlocul pământului, în mijlocul popoarelor: ca la scuturarea măslinii, ca la culegerea boabelor rămase, ori ca la culesul viilor care s-a terminat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarelor"
+    },
+    {
+      "surface": "כנקף",
+      "gloss": "ca la scuturarea"
+    },
+    {
+      "surface": "זית",
+      "gloss": "măslinii"
+    },
+    {
+      "surface": "כעוללת",
+      "gloss": "ca la culegerea boabelor rămase"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ori"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "s-a terminat"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "culesul viilor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:43.953957796Z",
+  "model": "glm-5.3"
+}

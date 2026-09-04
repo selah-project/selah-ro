@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar dacă darul de mâncare de ceaun ⟨este al⟩ jertfei tale, din făină de soi cu untdelemn să fie făcut.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "dar de mâncare"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ceaun"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "al jertfei tale"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "făină de soi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "cu untdelemn"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să fie făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:14.004357840Z",
+  "model": "glm-5.3"
+}

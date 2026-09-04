@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "zicând: Elohim ⟨l⟩-a părăsit; prigoniți-l și prindeți-l, căci nu ⟨este⟩ niciun izbăvitor!",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "a părăsit"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "prigoniți-l"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "și prindeți-l"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "niciun izbăvitor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:02.267755210Z",
+  "model": "glm-5.3"
+}

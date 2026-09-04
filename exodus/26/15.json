@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și să faci ⟨את⟩ scândurile pentru Locuință: lemn de acacia, în picioare.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "și să faci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "scândurile"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "scândurile"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pentru Locuință"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemn de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "în picioare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:31.073606999Z",
+  "model": "glm-5.3"
+}

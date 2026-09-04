@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căci mânia îl ucide pe nebun, și pizma îl omoară pe cel ușor de înșelat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "pe nebun"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "îl ucide"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "și pe cel ușor de înșelat"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "îl omoară"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "pizma"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:32.792101587Z",
+  "model": "glm-5.3"
+}

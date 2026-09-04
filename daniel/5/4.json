@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Au băut vinul și au adus laudă dumnezeilor de aur și de argint, de aramă, de fier, de lemn și de piatră.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "au băut"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "vinul"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "și au adus laudă"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "dumnezeilor"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "și de argint"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "de aramă"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "de fier"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "de lemn"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "și de piatră"
+    }
+  ],
+  "timestamp": "2026-09-04T05:50:44.749777566Z",
+  "model": "glm-5.3"
+}

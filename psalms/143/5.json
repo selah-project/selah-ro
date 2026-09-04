@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Mi-am amintit zilele din vechime, am cugetat la tot lucrul tău, la fapta mâinilor tale murmurez.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "mi-am amintit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "din vechime"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "am cugetat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "la tot"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "lucrul tău"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "la fapta"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mâinilor tale"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "murmurez"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:26.679434406Z",
+  "model": "glm-5.3"
+}

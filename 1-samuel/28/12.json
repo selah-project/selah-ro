@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a văzut femeia ⟨את⟩ Șemuel și a țipat cu glas mare; și a zis femeia către Șaul, zicând: De ce m-ai înșelat? Și tu ești Șaul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "și a țipat"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "cu glas"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "m-ai înșelat"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Și tu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:51:23.548459139Z",
+  "model": "glm-5.3"
+}

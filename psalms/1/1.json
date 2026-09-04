@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Ferice de omul care nu a umblat în sfatul celor răi și în calea păcătoșilor nu a stat și în șederea batjocoritorilor nu a șezut.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a umblat"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "în sfatul"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "și în calea"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "păcătoșilor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "a stat"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "și în șederea"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "batjocoritorilor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a șezut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:59.826173357Z",
+  "model": "glm-5.3"
+}

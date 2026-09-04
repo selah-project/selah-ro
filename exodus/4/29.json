@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a mers Moșe și Aharon, și au adunat ⟨את⟩ pe toți bătrânii fiilor lui Israel.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "și Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "și au adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți bătrânii fiilor lui Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:08.480609943Z",
+  "model": "glm-5.3"
+}

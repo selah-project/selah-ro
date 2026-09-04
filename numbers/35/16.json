@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Iar dacă ⟨l-a⟩ lovit cu un instrument de fier și a murit, el este un omorâtor: omorâtorul acela va fi omorât de-a binelea.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "cu un instrument"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "de fier"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "l-a lovit"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "omorâtor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "va fi omorât"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "omorâtorul acela"
+    }
+  ],
+  "timestamp": "2026-09-04T06:56:35.204936489Z",
+  "model": "glm-5.3"
+}

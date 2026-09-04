@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Ai pus bucurie în inima mea, mai multă decât ⟨la vremea⟩ când li se înmulțesc grâul și vinul lor.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ai pus"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bucurie"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "în inima mea"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "decât ⟨la vremea⟩ când"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "grâul"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "și vinul lor"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "li se înmulțesc"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:23.135559036Z",
+  "model": "glm-5.3"
+}

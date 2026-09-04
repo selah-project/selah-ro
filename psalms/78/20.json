@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Iată, a lovit stânca și au țâșnit ape, pâraie s-au revărsat; oare va putea să dea și pâine, va pregăti carne pentru poporul lui?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "צור",
+      "gloss": "stânca"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "și au țâșnit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "וונחלים",
+      "gloss": "pâraie"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "s-au revărsat"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "oare"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "va putea"
+    },
+    {
+      "surface": "תת",
+      "gloss": "să dea"
+    },
+    {
+      "surface": "אם",
+      "gloss": "va"
+    },
+    {
+      "surface": "יוכין",
+      "gloss": "pregăti"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "pentru poporul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:50.327601531Z",
+  "model": "glm-5.3"
+}

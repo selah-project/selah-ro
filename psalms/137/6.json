@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 137,
+  "translation": "Să se lipească limba mea de cerul gurii mele, dacă nu te voi pomeni, dacă nu voi înălța ⟨את⟩ Ierușalaimul deasupra bucuriei mei celei dintâi!",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Să se lipească"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "limba mea"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "de cerul gurii mele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "te voi pomeni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "voi înălța"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaimul"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimul"
+    },
+    {
+      "surface": "על",
+      "gloss": "deasupra"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capului"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "bucuriei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:17.774855683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Și au strigat către Yahve în strâmtorarea lor, din strâmtorările lui i-a izbăvit.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "și au strigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "în strâmtorarea"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "din strâmtorările lor"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "i-a izbăvit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:13.264839895Z",
+  "model": "glm-5.3"
+}

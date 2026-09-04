@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Că m-au înconjurat talazurile morții, torentele lui Belial m-au înspăimântat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "m-au înconjurat"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "talazurile"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "torentele"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "lui Belial"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "m-au înspăimântat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:04:43.630180637Z",
+  "model": "glm-5.3"
+}

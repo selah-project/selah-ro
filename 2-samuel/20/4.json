@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a zis regele către Amașa: cheamă-mi ⟨את⟩ oamenii lui Iuda trei zile, iar tu aici stai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amașa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "cheamă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii lui Iuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iar tu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stai"
+    }
+  ],
+  "timestamp": "2026-09-04T03:04:30.794352620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Îmi voi spăla în nevinovăție palmele și voi înconjura ⟨את⟩ altarul tău, Yahve,",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "îmi voi spăla"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "în nevinovăție"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palmele"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "și voi înconjura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul tău"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altarul tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:33.085535388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Să adauge Yahve ⟨asupra voastră⟩, asupra voastră și asupra fiilor voștri.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "să adauge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨asupra voastră⟩"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "asupra voastră"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "fiilor voștri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:32.189445907Z",
+  "model": "glm-5.3"
+}

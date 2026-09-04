@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Dar eu sunt mereu cu tine: m-ai apucat de mâna mea dreaptă.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dar eu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mereu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "m-ai apucat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "de mâna"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mea dreaptă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:41.350600027Z",
+  "model": "glm-5.3"
+}

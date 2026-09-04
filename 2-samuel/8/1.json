@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a fost după aceea: a lovit David ⟨את⟩ Peliștimii și i-a smerit, și a luat David ⟨את⟩ frâul orașului-mamă din mâna Peliștimilor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peliștimii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliștimii"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "și i-a smerit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frâul"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "frâul"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "orașului-mamă"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliștimilor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:06.564277655Z",
+  "model": "glm-5.3"
+}

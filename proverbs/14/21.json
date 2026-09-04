@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Disprețuiește aproapele său cel ce păcătuiește, iar cel ce are milă de săraci — ferice de el.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "disprețuiește"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "aproapele său"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "cel ce păcătuiește"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "iar cel ce are milă"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "de săraci"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "ferice de el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:18.909193342Z",
+  "model": "glm-5.3"
+}

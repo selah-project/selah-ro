@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci nu pentru totdeauna va fi uitat cel lipsit, nădejdea celor smeriți nu va pieri pe vecie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "va fi uitat"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "cel lipsit"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "nădejdea"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "celor smeriți"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "nu va pieri"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pe vecie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:57.626527995Z",
+  "model": "glm-5.3"
+}

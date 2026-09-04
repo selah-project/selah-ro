@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Căci gândurile Mele nu sunt gândurile voastre, și căile voastre nu sunt căile Mele, — oracleul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "gândurile Mele"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "gândurile voastre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "căile voastre"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "căile Mele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracleul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:07.047933396Z",
+  "model": "glm-5.3"
+}

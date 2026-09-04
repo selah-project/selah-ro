@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a zis către ei regele Mițraimului: De ce, Moșe și Aharon, risipiți ⟨את⟩ poporul de la lucrările lui? Mergeți la muncile voastre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "și Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "risipiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "de la lucrările lui"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mergeți"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "la muncile voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:00.171942750Z",
+  "model": "glm-5.3"
+}

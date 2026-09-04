@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Căci ne-ai izbăvit de vrăjmașii noștri, și pe cei ce ne ursc i-ai făcut de rușine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "ne-ai izbăvit"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "de vrăjmașii noștri"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "și pe cei ce ne ursc"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "i-ai făcut de rușine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:35.741806512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și i-a pus sub pază, în casa căpeteniei călăilor, în casa închisorii — locul unde era Iosif legat acolo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și i-a pus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei (cei doi dregători)"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "sub pază"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "căpeteniei"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "călăilor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "închisorii"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "legat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:43.974051310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și i s-a vestit lui Șaul că a venit David la Keila; și a zis Șaul: L-a predat Elohim ⟨את⟩ în mâna mea, căci s-a închis intrând într-o cetate cu porți și zăvor.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și i s-a vestit"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "la Keila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "l-a predat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el (David)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "în mâna mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "s-a închis"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "intrând"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "într-o cetate"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "cu porți"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "și zăvor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:11:46.362750936Z",
+  "model": "glm-5.3"
+}

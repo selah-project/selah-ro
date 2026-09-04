@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Cu ce își va curăți tânărul calea sa? Păzind-o după cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "cu ce"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "va curăți"
+    },
+    {
+      "surface": "נער",
+      "gloss": "tânărul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calea sa"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "calea sa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "păzind"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "după cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:15.407266064Z",
+  "model": "glm-5.3"
+}

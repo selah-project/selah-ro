@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și să păziți ⟨את⟩ paza Mea, ca să nu faceți din hotarele urâciunilor care s-au făcut înaintea voastră, și să nu vă spurcați cu ele; Eu sunt Yahve Elohim vostru.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Și să păziți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paza Mea"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "paza Mea"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "faceți"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "din hotarele"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "urâciunilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "s-au făcut"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "vă spurcați"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "cu ele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:00.066527826Z",
+  "model": "glm-5.3"
+}

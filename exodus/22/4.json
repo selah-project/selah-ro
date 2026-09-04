@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă un om va paște un ogor sau o vie și va lăsa ⟨את⟩ vitele lui și vor paște în ogorul altuia, din ce e mai bun din ogorul lui și din ce e mai bun din via lui va plăti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "va paște"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "un ogor"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vie"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "și va lăsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitele lui"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "vitele lui"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "și vor paște"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în ogorul"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altuia"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "din ce e mai bun"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "din ogorul lui"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "și din ce e mai bun"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "din via lui"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va plăti"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:25.075363154Z",
+  "model": "glm-5.3"
+}

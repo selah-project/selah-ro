@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Iată, Eu îi scol pe ei din locul în care i-ați vândut ⟨את⟩ acolo, și voi întoarce răsplata voastră pe capul vostru.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "îi scol"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "i-ați vândut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei — acolo (șamá)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "și voi întoarce"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "răsplata voastră"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "pe capul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T07:48:50.241942315Z",
+  "model": "glm-5.3"
+}

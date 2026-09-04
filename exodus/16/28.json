@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a spus Yahve către Moșe: până când vă veți lepăda să păziți poruncile mele și Tora mea?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "când"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "vă veți lepăda"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păziți"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "poruncile mele"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "și Tora mea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:18:42.910658346Z",
+  "model": "glm-5.3"
+}

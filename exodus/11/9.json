@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a spus Yahve către Moșe: nu va asculta Paro de voi, pentru ca să se înmulțească minunile mele în țara Mițraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "va asculta"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "de voi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru ca"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "să se înmulțească"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "minunile mele"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:19.802355396Z",
+  "model": "glm-5.3"
+}

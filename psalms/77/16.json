@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Ai răscumpărat cu brațul poporul tău, fiii lui Iaacov și ai lui Iosif. Sela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Ai răscumpărat"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "cu brațul"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "și ai lui Iosif"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:22.626028864Z",
+  "model": "glm-5.3"
+}

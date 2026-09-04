@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și acum, locuitori ai Ierușalaimului și oameni ai lui Iehuda: judecați, vă rog, între mine și între via mea!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "locuitori"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ai Ierușalaimului"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și oameni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ai lui Iehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "judecați"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vă rog"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "via mea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:07.563051706Z",
+  "model": "glm-5.3"
+}

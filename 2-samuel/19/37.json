@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Puțin va trece slujitorul tău ⟨את⟩ Iordanul, cu ⟨את⟩ regele — și de ce să-mi răsplătească regele răsplata aceasta?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Puțin"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "va trece"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordanul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanul"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "și de ce"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "să-mi răsplătească"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "răsplată"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:03:38.376796148Z",
+  "model": "glm-5.3"
+}

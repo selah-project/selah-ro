@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Dacă aș fi zis: «voi povesti astfel», iată, aș fi trădat neamul copiilor tăi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aș fi zis"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "voi povesti"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "astfel"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "דור",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "copiilor tăi"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "aș fi trădat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:02.698858413Z",
+  "model": "glm-5.3"
+}

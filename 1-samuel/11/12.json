@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a spus poporul către Șemuël: cine ⟨este⟩ cel care a zis: „Șaul să domnească peste noi?” Dați ⟨את⟩ oamenii aceia și îi vom omorî.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuël"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "cel care a zis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "să domnească"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Dați"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii aceia"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "și îi vom omorî"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:46.958209528Z",
+  "model": "glm-5.3"
+}

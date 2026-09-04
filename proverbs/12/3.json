@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Nu se va întări omul prin răutate, iar rădăcina celor drepți nu se va clătina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "se va întări"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "prin răutate"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "iar rădăcina"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "celor drepți"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "se va clătina"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:01.207357118Z",
+  "model": "glm-5.3"
+}

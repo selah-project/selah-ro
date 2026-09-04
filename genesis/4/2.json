@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a mai născut ⟨את⟩ fratele lui, ⟨את⟩ Hevel. Și a fost Hevel păstor de oi, iar Cain muncitor al pământului.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Și a mai"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fratele lui"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "păstor de"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "oi"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "iar Cain"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muncitor al"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:28.167652815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "atunci vei auzi în ceruri ⟨את⟩ rugăciunea lor și ⟨את⟩ cererea lor și vei face dreptatea lor.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "și vei auzi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rugăciunea lor"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "rugăciunea lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cererea lor"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "cererea lor"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și vei face"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "dreptatea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:13:28.966836562Z",
+  "model": "glm-5.3"
+}

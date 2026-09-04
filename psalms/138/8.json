@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 138,
+  "translation": "Yahve va desăvârși ⟨ce este⟩ pentru mine; Yahve, hesedul tău ⟨este⟩ în veac; lucrările mâinilor tale nu le lăsa să se slăbească.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "va desăvârși"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "lucrările"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mâinilor tale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "leş lăsa să se slăbească"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:52.331036243Z",
+  "model": "glm-5.3"
+}

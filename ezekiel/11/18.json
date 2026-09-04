@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și vor veni acolo și vor îndepărta ⟨את⟩ toate urâciunile ei și ⟨את⟩ toate scârbele ei din ea.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Și vor veni"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "și vor îndepărta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate urâciunile ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "urâciunile ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate scârbele ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "scârbele ei"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "din ea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:41:15.781097446Z",
+  "model": "glm-5.3"
+}

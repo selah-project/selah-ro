@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a născut Ada ⟨את⟩ Iaval: el a fost părintele celor care locuiesc în corturi și ⟨au⟩ turme.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Și a născut"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Iaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "părintele"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "celor care locuiesc"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "în corturi"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "și turme"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:30.823067464Z",
+  "model": "glm-5.3"
+}

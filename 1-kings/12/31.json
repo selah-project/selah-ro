@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a făcut ⟨את⟩ o casă de înălțimi, și a făcut coheni din marginile poporului, care nu erau din fiii lui Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o casă de înălțimi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "o casă"
+    },
+    {
+      "surface": "במות",
+      "gloss": "de înălțimi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "coheni"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "din marginile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "din fiii"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "lui Levi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:37.393059704Z",
+  "model": "glm-5.3"
+}

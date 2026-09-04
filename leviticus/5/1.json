@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și un suflet când păcătuiește și aude vocea unui blestem, și el este martor sau a văzut sau a știut — dacă nu vestește, atunci va purta nelegiuirea lui.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Și un suflet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "păcătuiește"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "și aude"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vocea"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "unui blestem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "este martor"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a știut"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "vestește"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "atunci va purta"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "nelegiuirea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:21.689625612Z",
+  "model": "glm-5.3"
+}

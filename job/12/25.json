@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Ei pipăie întunericul și nu lumină, și El îi rătăcește ca ⟨pe⟩ un om beat.",
+  "tokens": [
+    {
+      "surface": "יְמַֽשְׁשׁוּ",
+      "gloss": "pipăie"
+    },
+    {
+      "surface": "חֹ֥שֶׁךְ",
+      "gloss": "întunericul"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "א֑וֹר",
+      "gloss": "lumină"
+    },
+    {
+      "surface": "וַ֝יַּתְעֵ֗ם",
+      "gloss": "și El i-a rătăcit"
+    },
+    {
+      "surface": "כַּשִּׁכּֽוֹר",
+      "gloss": "ca un om beat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:39.472473714Z",
+  "model": "glm-5.3"
+}

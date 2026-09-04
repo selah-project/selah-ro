@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Adu-ți aminte ⟨את⟩ ziua Șabatului, ca să-l sfințești.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Adu-ți aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziua Șabatului"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Șabatului"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ca să-l sfințești"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:04.663046757Z",
+  "model": "glm-5.3"
+}

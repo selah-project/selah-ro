@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "O sămânță îl va sluji; se va vesti lui Adonai pentru o generație.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "O sămânță"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "îl va sluji"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "se va vesti"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "lui Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pentru o generație"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:01.255645343Z",
+  "model": "glm-5.3"
+}

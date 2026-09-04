@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus regele: Tăiați copilul cel viu în două și dați-o pe jumătate uneia și ⟨את⟩ jumătatea celeilalte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "Tăiați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copilul cel viu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "החי",
+      "gloss": "cel viu"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "în două"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "și dați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumătatea"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "jumătatea"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "uneia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "jumătatea"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "jumătatea"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "celeilalte"
+    }
+  ],
+  "timestamp": "2026-09-04T03:09:41.407369667Z",
+  "model": "glm-5.3"
+}

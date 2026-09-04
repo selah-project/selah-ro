@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și eu am auzit și nu am înțeles, și am zis: «Domnul meu, care ⟨este⟩ sfârșitul acestora?»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Și eu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "am înțeles"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "și am zis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Domnul meu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "care"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sfârșit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:16:36.281465386Z",
+  "model": "glm-5.3"
+}

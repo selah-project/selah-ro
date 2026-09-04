@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Căci urâciune ⟨este⟩ înaintea lui Yahve cel stricat, iar ⟨את⟩ cei drepți are ca sfatul lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "urâciune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "cel stricat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sfatul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:36.475007315Z",
+  "model": "glm-5.3"
+}

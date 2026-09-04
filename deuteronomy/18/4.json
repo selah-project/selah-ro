@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Cel dintâi din grâul tău, din mustul tău și din untdelemnul tău, și cel dintâi din tunsul oilor tale, să i-l dai lui.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Cel dintâi"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "din grâul tău"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "din mustul tău"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "și din untdelemnul tău"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "și cel dintâi"
+    },
+    {
+      "surface": "גז",
+      "gloss": "din tunsul"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "oilor tale"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "să dai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:56.279978807Z",
+  "model": "glm-5.3"
+}

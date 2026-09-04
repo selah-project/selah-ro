@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Să păzească fiii lui Israel ⟨את⟩ Șabatul, ca să țină ⟨את⟩ Șabatul pentru neamurile lor, legământ veșnic.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Să păzească"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șabatul"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Șabatul"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ca să țină"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șabatul"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Șabatul"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "pentru neamurile lor"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnic"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:35.131321646Z",
+  "model": "glm-5.3"
+}

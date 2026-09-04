@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Cine ⟨am⟩ eu în ceruri? Și cu tine, pe pământ nu am dorit nimic ⟨decât tine⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨am⟩ eu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Și cu tine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "am dorit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:50.443389828Z",
+  "model": "glm-5.3"
+}

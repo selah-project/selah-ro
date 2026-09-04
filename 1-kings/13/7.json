@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a vorbit regele către omul lui Elohim: vino cu mine ⟨את⟩ acasă și întărește-te, și îți voi da un dar.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "באה",
+      "gloss": "vino"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu mine ⟨את⟩",
+      "marks": "omul lui Elohim"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "acasă"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "și întărește-te"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "și voi da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "un dar"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:25.421141637Z",
+  "model": "glm-5.3"
+}

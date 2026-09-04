@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Unde ⟨este⟩ cuvântul regelui, ⟨este⟩ stăpânire; și cine să-i spună: ce faci?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Unde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvânt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "stăpânire"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "să spună"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "faci"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:17.274649743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și pământul era tohu și bohu, și întuneric ⟨era⟩ pe fața adâncului, și ruah-ul lui Elohim plutea pe fața apelor.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Și pământul"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "era"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "și bohu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "și întuneric"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "adâncului"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "și ruah-ul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "plutea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apelor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:51.310738681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Cel care aduce ⟨את⟩ sângele jertfelor de pace și ⟨את⟩ grăsimea, dintre fiii lui Aharon, lui îi va fi coapsa dreaptă ca parte.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "cel care aduce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele jertfelor de pace"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "al jertfelor de pace"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dintre fiii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "coapsa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "a dreaptă"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "ca parte"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:53.417717179Z",
+  "model": "glm-5.3"
+}

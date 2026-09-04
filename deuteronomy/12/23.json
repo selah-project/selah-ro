@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Doar să fii stăruitor să nu mănânci sângele, căci sângele este viața, și să nu mănânci viața împreună cu carnea.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Doar"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "să fii stăruitor"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mănânci"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "viața"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mănânci"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "viața"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carnea"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:50.797596188Z",
+  "model": "glm-5.3"
+}

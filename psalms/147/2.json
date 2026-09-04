@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Zidește Yahve Ierușalaim; pe cei împrăștiați ai lui Israel îi adună.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Zidește"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "pe cei împrăștiați ai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "îi adună"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.398410366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "«Să rupem ⟨את⟩ legăturile lor și să le aruncăm de la noi frâiele lor!»",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Să rupem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legăturile lor"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "legăturile lor"
+    },
+    {
+      "surface": "וונשליכה",
+      "gloss": "și să le aruncăm"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de la noi"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "frâiele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:46.795738419Z",
+  "model": "glm-5.3"
+}

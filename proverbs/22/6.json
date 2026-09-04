@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Unește-l pe tânăr cu calea lui de la început; chiar când va îmbătrâni, nu se va abate de la ea.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "Unește-l pe... de la început"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "tânărul"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "căii lui"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "va îmbătrâni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "se va abate"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "de la ea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:19.567986707Z",
+  "model": "glm-5.3"
+}

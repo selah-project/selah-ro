@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și după aceea a plecat poporul din Hațerot și au tăbărât în pustiul Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "și după aceea"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "a plecat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "din Hațerot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "și au tăbărât"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiul"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:18.835912346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Că îl întâmpini cu binecuvântări bune, pui pe capul lui cunună de aur curat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "îl întâmpini"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "cu binecuvântări"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bune"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "pui"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "pe capul lui"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "cunună"
+    },
+    {
+      "surface": "פז",
+      "gloss": "de aur curat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:00.766875638Z",
+  "model": "glm-5.3"
+}

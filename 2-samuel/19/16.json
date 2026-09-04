@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și s-a întors regele și a venit până la Iarden, iar Iehuda a venit la Ghilgal ca să meargă în întâmpinarea regelui, ca să-l treacă pe rege ⟨את⟩ Iardenul.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și s-a întors"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "iar Iehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "la Ghilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ca să meargă"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "în întâmpinarea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ca să-l treacă pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iardenul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:04:23.666475228Z",
+  "model": "glm-5.3"
+}

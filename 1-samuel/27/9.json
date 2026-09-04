@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a lovit David ⟨את⟩ țara și nu lăsa în viață nici om și nici femeie; și lua oi și vite și măgari și cămile și haine, și se întorcea și venea la Akiș.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "Și a lovit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "lăsa în viață"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "și femeie"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "și lua"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "oi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "și vite"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "și măgari"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "și cămile"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "și haine"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și se întorcea"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și venea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiș"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:29.738866532Z",
+  "model": "glm-5.3"
+}

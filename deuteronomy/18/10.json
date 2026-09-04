@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Să nu se afle în tine cineva care își trece fiul sau fiica prin foc, ghicitor de ghicituri, cititor de semne, vrăjitor,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "se afle"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "care își trece"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "sau fiica"
+    },
+    {
+      "surface": "באש",
+      "gloss": "prin foc"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "ghicitor"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "de ghicituri"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "cititor de semne"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "vrăjitor"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "farmecător"
+    }
+  ],
+  "timestamp": "2026-09-04T02:08:08.182082206Z",
+  "model": "glm-5.3"
+}

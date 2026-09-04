@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Către dirijorul de cântări, al fiilor lui Korah, mașchil ⟨poem didactic⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorul de cântări"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "al fiilor"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "lui Korah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mașchil ⟨poem didactic⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:19.291507779Z",
+  "model": "glm-5.3"
+}

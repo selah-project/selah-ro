@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Iar Atalia, mama lui Ahazia, a văzut că murise fiul ei, și s-a ridicat și a nimicit ⟨את⟩ toată sămânța împărăției.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Iar Atalia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "lui Ahazia"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מת",
+      "gloss": "murise"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul ei"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "s-a ridicat"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "a nimicit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată sămânța împărăției"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânța"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăției"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:09.429787116Z",
+  "model": "glm-5.3"
+}

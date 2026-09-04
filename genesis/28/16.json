@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "S-a trezit Iaacov din somnul lui și a zis: într-adevăr, este Yahve în locul acesta, iar eu nu am știut.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "S-a trezit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "din somnul lui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "într-adevăr"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "am știut"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:24.572639712Z",
+  "model": "glm-5.3"
+}

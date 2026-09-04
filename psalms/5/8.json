@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Iar eu, în mulțimea hesedului tău (îndurării), voi intra în casa ta; mă voi închina către templul cel sfânt al tău, în frica de tine.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "în mulțimea"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedului tău"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "voi intra"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "în casa ta"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "mă voi închina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templul"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "cel sfânt al tău"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "în frica de tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:17.335743854Z",
+  "model": "glm-5.3"
+}

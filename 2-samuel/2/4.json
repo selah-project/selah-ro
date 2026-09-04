@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și au venit oamenii lui Iehuda și l-au uns acolo ⟨את⟩ David ca rege peste casa lui Iehuda. Și au vestit lui David, zicând: Oamenii din Iaviș-Ghilad sunt cei care au îngropat ⟨את⟩ Șaul.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Și au venit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "și l-au uns"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ca rege"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "Și au vestit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Oamenii"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "din Iaviș"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ghilad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sunt cei care"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "au îngropat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:55:03.487008798Z",
+  "model": "glm-5.3"
+}

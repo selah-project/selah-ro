@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Toate acestea au venit asupra noastră, și nu te-am uitat, și nu am mințit în legământul tău.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toate"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "au venit asupra noastră"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "te-am uitat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "am mințit"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "în legământul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:05.669793274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și a chemat către Iohanan, fiul lui Kareah, și către toți căpeteniile oștenilor care ⟨erau⟩ ⟨את⟩ cu el, și la tot poporul, de la cel mic până la cel mare.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Iohanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "lui Kareah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și către"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "oștenilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el",
+      "marks": "oștenii care erau cu Iohanan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "și la tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "de la cel mic"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "cel mare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:38:09.425377974Z",
+  "model": "glm-5.3"
+}

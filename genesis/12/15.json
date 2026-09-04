@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și au văzut ⟨את⟩ ea căpeteniile lui Paro și au lăudat ⟨את⟩ ea înaintea lui Paro, și a fost luată femeia în casa lui Paro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "și au lăudat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "și a fost luată"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:06.295873812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "până când se va turna peste noi duh de la înălțime, și pustiul va ajunge câmpie roditoare, iar câmpia roditoare va fi socotită pădure.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "până când"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "se va turna"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "de la înălțime"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va ajunge"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustiul"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "câmpie roditoare"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "iar câmpia roditoare"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "pădure"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "va fi socotită"
+    }
+  ],
+  "timestamp": "2026-09-04T03:44:34.950368168Z",
+  "model": "glm-5.3"
+}

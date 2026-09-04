@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Oare ⟨este⟩ vreme vouă, voi, să locuiți în casele voastre acoperite, iar casa aceasta ⟨să fie⟩ pustiită?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Oare ⟨este⟩ vreme"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "să locuiți"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "în casele voastre"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "acoperite"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "iar casa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pustiită"
+    }
+  ],
+  "timestamp": "2026-09-04T04:48:35.999503446Z",
+  "model": "glm-5.3"
+}

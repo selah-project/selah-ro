@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și Ioab și Avișai, fratele lui, au ucis ⟨את⟩ pe Asael, fratele lor, la Ghibeon, în bătălie.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Și Ioab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "și Avișai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "au ucis"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "pe Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "המית",
+      "gloss": "omorâse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Asael"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "fratele lor"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "la Ghibeon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "în bătălie"
+    }
+  ],
+  "timestamp": "2026-09-04T02:55:28.784179011Z",
+  "model": "glm-5.3"
+}

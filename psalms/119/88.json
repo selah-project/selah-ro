@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "După hesedul tău fă-mă să trăiesc, și voi păzi mărturia gurii tale.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "după hesedul tău"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "fă-mă să trăiesc"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "și voi păzi"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "mărturia"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gurii tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:56.735975976Z",
+  "model": "glm-5.3"
+}

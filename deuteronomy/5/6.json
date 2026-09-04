@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Eu ⟨sunt⟩ Yahve, Elohim al tău, care te-am scos din țara Mițraim, din casa robilor.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "te-am scos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robilor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:15.129002172Z",
+  "model": "glm-5.3"
+}

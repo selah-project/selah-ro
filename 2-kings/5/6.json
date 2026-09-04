@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a adus scrisoarea către regele lui Israel, zicând: și acum, la venirea acestei scrisori la tine, iată, ți-am trimis ⟨את⟩ Naaman, slujitorul meu, ca să-l vindeci de lepra lui.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a adus"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "scrisoarea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "la venirea"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "scrisorii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestei"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "am trimis"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slujitorul meu"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "ca să-l vindeci"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "de lepra lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:46.264869272Z",
+  "model": "glm-5.3"
+}

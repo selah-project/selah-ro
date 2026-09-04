@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "și piei de berbeci înroșite, și piei de tahăș, și lemn de acacia de Șitim,",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "și piei"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "de berbeci"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "înroșite"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "și piei"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "de tahăș"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "și lemn"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "de acacia de Șitim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:04.548704579Z",
+  "model": "glm-5.3"
+}

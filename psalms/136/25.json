@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "Dă pâine la tot trupul, căci în veac ⟨este⟩ hesedul lui.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Dă"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "la tot"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:17.817279432Z",
+  "model": "glm-5.3"
+}

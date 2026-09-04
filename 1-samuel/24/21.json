@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și acum, iată, știu că domni vei domni, și se va ridica în mâna ta împărăția lui Israel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "domni"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "vei domni"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "și se va ridica"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:48:52.334546348Z",
+  "model": "glm-5.3"
+}

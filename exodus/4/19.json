@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a spus Yahve către Moșe în Midian: Du-te, întoarce-te în Mițraim, căci au murit toți oamenii care căutau ⟨את⟩ viața ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "în Midian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Du-te"
+    },
+    {
+      "surface": "שב",
+      "gloss": "întoarce-te"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "au murit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "care căutau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața ta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "viața ta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:01.437532188Z",
+  "model": "glm-5.3"
+}

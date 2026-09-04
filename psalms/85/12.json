@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Adevărul din pămâmt va răsări, și dreptatea din ceruri se va pleca să privească.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Adevărul"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământ"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "va răsări"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "și dreptatea"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "din ceruri"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "se va pleca să privească"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:04.138222710Z",
+  "model": "glm-5.3"
+}

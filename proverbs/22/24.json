@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Nu te împrieteni ⟨את⟩ cu un om mânios și ⟨את⟩ cu un om de iuțime nu merge;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "te împrieteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu un om mânios"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "stăpânul"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mâniei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "de iuțime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "merge"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:28.743110599Z",
+  "model": "glm-5.3"
+}

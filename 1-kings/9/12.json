@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a ieșit Hiram din Țor să vadă ⟨את⟩ cetățile pe care i le-a dat Șelomo, și n-au fost drepte în ochii lui.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "din Țor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetățile"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "au fost drepte"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:12:44.451008478Z",
+  "model": "glm-5.3"
+}

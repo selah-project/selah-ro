@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 120,
+  "translation": "Prea mult a locuit sufletul meu împreună cu cel ce urăște pacea.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Prea mult"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "a locuit"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "cel ce urăște"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pacea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:06.861294502Z",
+  "model": "glm-5.3"
+}

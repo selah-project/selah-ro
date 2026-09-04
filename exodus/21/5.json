@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Iar dacă va spune negreșit robul: am iubit ⟨את⟩ stăpânul meu, ⟨את⟩ soția mea și ⟨את⟩ copiii mei, nu voi ieși liber.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "va spune"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "negreșit"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "robul"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "am iubit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stăpânul meu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stăpânul meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soția mea"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "soția mea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "copiii mei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "copiii mei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "voi ieși"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "liber"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:18.217824600Z",
+  "model": "glm-5.3"
+}

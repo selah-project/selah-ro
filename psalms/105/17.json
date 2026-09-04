@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "A trimis înaintea lor un om: pentru slugie a fost vândut Iosif.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "a trimis"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "înaintea lor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pentru slugie"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "a fost vândut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:36.256734407Z",
+  "model": "glm-5.3"
+}

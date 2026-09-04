@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Mângâiați, mângâiați poporul Meu, va zice Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Mângâiați"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "mângâiați"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul Meu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "va zice"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:58.342407525Z",
+  "model": "glm-5.3"
+}

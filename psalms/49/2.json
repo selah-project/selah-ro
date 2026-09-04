@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Auziți aceasta, toate popoarele; luați amână, toți locuitorii lumii acesteia trecătoare.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Auziți"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "luați amână"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "[lumii acesteia trecătoare]"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:49.689990015Z",
+  "model": "glm-5.3"
+}

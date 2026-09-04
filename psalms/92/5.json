@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "Că m-ai bucurat, Yahve, prin lucrarea ta, de lucrările mâinilor tale voi cânta de veselie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "m-ai bucurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "prin lucrarea ta"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "de lucrările"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mâinilor tale"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "voi cânta de veselie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:06.057482866Z",
+  "model": "glm-5.3"
+}

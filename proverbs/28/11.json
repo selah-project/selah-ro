@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Înțelept în ochii lui ⟨este⟩ omul bogat, dar săracul cu pricepere îl va cerceta.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Înțelept"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogat"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "dar săracul"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "cu pricepere"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "îl va cerceta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:04.659276272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 82,
+  "translation": "Judecați ⟨pe⟩ cel slab și ⟨pe⟩ orfan, ⟨pe⟩ cel apăsat și ⟨pe⟩ sărac — faceți-i drepți!",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Judecați"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨pe⟩ cel slab"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "și ⟨pe⟩ orfan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨pe⟩ cel apăsat"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "și ⟨pe⟩ sărac"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "faceți-i drepți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:21.351074231Z",
+  "model": "glm-5.3"
+}

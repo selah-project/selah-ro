@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și Yahve a dat ⟨את⟩ harul poporului în ochii lui Mițraim, și le-au împlinit cererea; și au prădat ⟨את⟩ Mițraim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harul"
+    },
+    {
+      "surface": "חן",
+      "gloss": "harul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lui Mițraim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "le-au împlinit cererea"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "au prădat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mițraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:30.086694493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Vor mărturisi ⟨את⟩ vina lor și ⟨את⟩ vina părinților lor: trădarea cu care m-au trădat, și chiar că au mers cu mine în împotrivire.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "vor mărturisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vina lor"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "vina lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vina"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vina"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "trădarea lor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "m-au trădat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pe mine"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "au mers"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "în împotrivire"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:39.473592948Z",
+  "model": "glm-5.3"
+}

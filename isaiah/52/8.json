@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Glasul străjerilor tăi! Își ridică glasul, împreună vor cânta de bucurie, că ochi în ochi vor vedea la întoarcerea lui Yahve Țion.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Glasul"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "străjerilor tăi"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ridică"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vor cânta de bucurie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochi"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "în ochi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vor vedea"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "la întoarcerea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion",
+      "marks": "Țion"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.580202337Z",
+  "model": "glm-5.3"
+}

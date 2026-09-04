@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Noaptea în zi au prefăcut-o, lumina ⟨este⟩ aproape din pricina întunericului.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "Noaptea"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "în zi"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "au prefăcut-o"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumina"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "aproape"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întunericului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:30:04.170902163Z",
+  "model": "glm-5.3"
+}

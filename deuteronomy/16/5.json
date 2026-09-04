@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Nu poți să jertfești ⟨את⟩ Pesahul în una din porțile tale pe care Yahve Elohim al tău ți-o dă.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "poți"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "să jertfești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesahul"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesahul"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "în una"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "din porțile tale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:38.909815882Z",
+  "model": "glm-5.3"
+}

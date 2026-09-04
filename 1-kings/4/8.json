@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și acestea sunt numele lor: Ben-Hur, în muntele Efraimului.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "sunt numele lor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "חור",
+      "gloss": "lui Hur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în muntele"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:16:23.625873206Z",
+  "model": "glm-5.3"
+}

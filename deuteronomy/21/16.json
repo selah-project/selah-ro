@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "atunci va fi: în ziua în care îi va face ⟨את⟩ pe fiii săi să moștenească ⟨את⟩ tot ce va avea, nu va putea să-l facă întâi-născut ⟨את⟩ pe fiul celei iubite, în fața fiului celei urâte — cel întâi-născut.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הנחילו",
+      "gloss": "îi va face să moștenească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe fiii săi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pe fiii săi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce va avea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va avea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "va putea"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "să-l facă întâi-născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe fiul celei iubite"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pe fiul"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "celei iubite"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiului"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "celei urâte"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "cel întâi-născut"
+    }
+  ],
+  "timestamp": "2026-09-04T02:09:15.103621483Z",
+  "model": "glm-5.3"
+}

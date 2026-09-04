@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Ai adăugat la neam, Yahve, ai adăugat la neam, te-ai făcut plin de greutate de slavă; ai întins toate marginile pământului.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "ai adăugat"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "la neam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "ai adăugat"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "la neam"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "te-ai făcut plin de greutate de slavă"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "ai întins departe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "marginile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:05.502973703Z",
+  "model": "glm-5.3"
+}

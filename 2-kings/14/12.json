@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a fost înfrânt Iehuda înaintea Israelului, și au fugit oamenii, fiecare la cortul său.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "Și a fost înfrânt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "și au fugit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare om"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "la cortul său"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:31.950012900Z",
+  "model": "glm-5.3"
+}

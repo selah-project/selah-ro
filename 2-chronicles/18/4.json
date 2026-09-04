@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a spus Iehoșafat către regele Israelului: «Caută, te rog, astăzi ⟨את⟩ cuvântul lui Yahve.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Iehoșafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Caută"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul lui Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:24:31.879226749Z",
+  "model": "glm-5.3"
+}

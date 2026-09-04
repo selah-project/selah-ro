@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 133,
+  "translation": "Ca untdelemnul cel bun pe cap, care coboară pe barbă, barba lui Aharon, care coboară pe gura hainelor lui.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Ca untdelemnul"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "cel bun"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "coboară"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "barba"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "barba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "care coboară"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "hainelor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:38.016365931Z",
+  "model": "glm-5.3"
+}

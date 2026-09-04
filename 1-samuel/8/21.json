@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a auzit Șemuël ⟨את⟩ toate cuvintele poporului și le-a vorbit în urechile lui Yahve.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "și le-a vorbit"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "în urechile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:02.977480542Z",
+  "model": "glm-5.3"
+}

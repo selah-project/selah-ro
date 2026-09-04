@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Un martor de încredere nu va minți, iar un martor al minciunii va sufla minciuni.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "martor"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "de încredere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "va minți"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "iar va sufla"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "minciuni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "martor"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "al minciunii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:53.747349191Z",
+  "model": "glm-5.3"
+}

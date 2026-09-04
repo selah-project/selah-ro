@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "S-a stins de supărare ochiul meu, a îmbătrânit din pricina tuturor vrăjmașilor mei.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "s-a stins"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "de supărare"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochiul meu"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "a îmbătrânit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "din pricina tuturor"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "vrăjmașilor mei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:19.758722410Z",
+  "model": "glm-5.3"
+}

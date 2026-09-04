@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Să nu se întoarcă cel zdrobit rușinat; apăsatul și lipsitul să laude numele tău.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "se întoarcă"
+    },
+    {
+      "surface": "דך",
+      "gloss": "cel zdrobit"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "rușinat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "apăsatul"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și lipsitul"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "să laude"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:18.466559478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Dar n-au ascultat, ci și-au înțepenit ⟨את⟩ ceafa, ca ceafa părinților lor, care nu au crezut în Yahve, Elohim al lor.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dar nu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "au ascultat"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ci au înțepenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceafa lor"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ceafa lor"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "ca ceafa"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "au crezut"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim al lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:46.646602907Z",
+  "model": "glm-5.3"
+}

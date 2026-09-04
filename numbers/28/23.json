@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "În afară de ardererea-de-dimineață, care ⟨este⟩ pentru arderea cea necurmată, să faceți ⟨את⟩ acestea.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "în afară de"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "arderea-de-tot"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dimineații"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "pentru arderea"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "cea necurmată"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "să faceți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acestea"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:54:08.468574675Z",
+  "model": "glm-5.3"
+}

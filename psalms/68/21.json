@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Elohim ⟨este⟩ al nostru, El al izbăvirilor, și ale lui Yahve, Adonai, ⟨sunt⟩ ieșirile morții.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "al nostru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "al izbăvirilor"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "și ale lui Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ale morții"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "ieșirile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:36.423696501Z",
+  "model": "glm-5.3"
+}

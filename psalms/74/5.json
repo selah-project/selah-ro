@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "E cunoscut ⟨ca unul⟩ care urcă sus, într-un desiș de lemn — topoare.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "e cunoscut"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "ca unul care urcă"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "sus"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "într-un desiș"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "de lemn"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "topoare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:23.828312630Z",
+  "model": "glm-5.3"
+}

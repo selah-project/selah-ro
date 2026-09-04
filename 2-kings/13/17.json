@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a zis: Deschide fereastra spre răsărit; și a deschis. Și a zis Elișa: Trage! Și a tras. Și a zis: Săgeată de izbăvire a lui Yahve, și săgeată de izbăvire împotriva lui Aram; și vei lovi ⟨את⟩ Aram la Afec, până la nimicire.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Deschide"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fereastra"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "spre răsărit"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "și a deschis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elișa"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "Trage!"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "și a tras"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "Săgeată"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "de izbăvire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a lui Yahve"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "și săgeată"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "de izbăvire"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "împotriva lui Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "și vei lovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "la Afec"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "la nimicire"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:01.034769384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Inima stăpânului ei se încrede în ea, și de pradă nu va duce lipsă.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "se încrede"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "stăpânului ei"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "și de pradă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "va duce lipsă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:32.599587597Z",
+  "model": "glm-5.3"
+}

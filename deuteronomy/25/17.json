@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Adu-ți aminte ce ți-a făcut Amalek pe drum, la ieșirea voastră din Mițraim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Adu-ți aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ți-"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "la ieșirea voastră"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:17.622841779Z",
+  "model": "glm-5.3"
+}

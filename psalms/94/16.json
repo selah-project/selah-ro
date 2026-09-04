@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Cine se va ridica pentru mine împotriva făptuitorilor de rău? Cine va sta pentru mine împotriva celor ce lucrează nelegiuirea?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se va ridica"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "făptuitorilor de rău"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "va sta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "celor ce lucrează"
+    },
+    {
+      "surface": "און",
+      "gloss": "nelegiuirea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:05.725468536Z",
+  "model": "glm-5.3"
+}

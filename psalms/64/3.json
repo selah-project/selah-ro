@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Mă ascunzi de sfatul făptuitorilor de rău, de răscoala lucrătorilor de nelegiuire.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "mă ascunzi"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "de sfatul"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "făptuitorilor de rău"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "de răscoala"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "lucrătorilor"
+    },
+    {
+      "surface": "און",
+      "gloss": "de nelegiuire"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:10.434416323Z",
+  "model": "glm-5.3"
+}

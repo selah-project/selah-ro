@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Descoperă-mi ochii, ca să privesc minunățiile din Tora ta.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Descoperă"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ca să privesc"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "minunățiile"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "din Tora ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:04.468905478Z",
+  "model": "glm-5.3"
+}

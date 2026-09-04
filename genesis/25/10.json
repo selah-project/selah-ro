@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "câmpul pe care l-a cumpărat Avraham de la ⟨את⟩ fiii lui Het; acolo ⟨a fost⟩ îngropat Avraham și Sara, soția lui.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "câmpul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "l-a cumpărat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "fiii lui Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "חת",
+      "gloss": "lui Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "⟨a fost⟩ îngropat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "și Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:01:29.922781951Z",
+  "model": "glm-5.3"
+}

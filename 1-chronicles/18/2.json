@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a lovit ⟨את⟩ Moavul, și au fost moabiții robi lui David, purtători de dar.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moavul"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavul"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moabiții"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "purtători de"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dar"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:06.146115745Z",
+  "model": "glm-5.3"
+}

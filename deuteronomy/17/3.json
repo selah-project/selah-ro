@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "și a mers și a slujit altor dumnezei și s-a închinat lor, și soarelui sau lunii sau întregii oștiri a cerurilor, pe care nu am poruncit-o —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "și a slujit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "alți"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "și s-a închinat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "și soarelui"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "lunii"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "întregii"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "oștiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a cerurilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "am poruncit"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:49.638115463Z",
+  "model": "glm-5.3"
+}

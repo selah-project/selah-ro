@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "L-au făcut gelos cu străini, cu urâciuni l-au mâniat.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "L-au făcut gelos"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "cu străini"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "cu urâciuni"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "l-au mâniat"
+    }
+  ],
+  "timestamp": "2026-09-04T02:14:23.473756539Z",
+  "model": "glm-5.3"
+}

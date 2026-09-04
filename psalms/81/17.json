@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Și l-a hrănit cu grăsimea grâului, și cu miere din stâncă te-aș fi săturat.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "Și l-a hrănit"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "cu grăsimea"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "grâului"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "și din stâncă"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "cu miere"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "te-aș fi săturat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:09.216246041Z",
+  "model": "glm-5.3"
+}

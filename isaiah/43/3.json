@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Căci eu ⟨sunt⟩ Yahve, Elohim al tău, Cel Sfânt al lui Israel, izbăvitorul tău; am dat ca răscumpărare pentru tine Mițraim, Cuș și Seba în locul tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Cel Sfânt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "izbăvitorul tău"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "răscumpărare pentru tine"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Cuș"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "și Seba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "în locul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:16.782256984Z",
+  "model": "glm-5.3"
+}

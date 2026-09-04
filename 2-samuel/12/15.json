@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a plecat Natan la casa lui, și a lovit Yahve ⟨את⟩ copilul pe care i-l născuse lui David soția lui Uria, și ⟨copilul⟩ a căzut fără nădejde.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a plecat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copilul"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i-l născuse"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "lui Uria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "și a căzut fără nădejde"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:56.836686289Z",
+  "model": "glm-5.3"
+}

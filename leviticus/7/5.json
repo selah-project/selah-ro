@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și va face să fumegă cohenul ⟨את⟩ ele pe altar, dar de foc pentru Yahve; jertfă de vină ⟨este⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Și va face să fumegă"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ele",
+      "marks": "grăsimea și rinichii — părțile jertfei de vină"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dar de foc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "jertfă de vină"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el este"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:09.530755231Z",
+  "model": "glm-5.3"
+}

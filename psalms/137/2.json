@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 137,
+  "translation": "Pe sălcii, în mijlocul lor, am atârnat kinnoroturile noastre.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "sălcii"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "în mijlocul lor"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "am atârnat"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kinnoroturile noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:57.993683329Z",
+  "model": "glm-5.3"
+}

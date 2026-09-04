@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 101,
+  "translation": "Nu va locui în mijlocul casei mele cel ce face înșelăciune; cel ce vorbește minciuni nu va rămâne înaintea ochilor mei.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "va locui"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "casei mele"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cel ce face"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "înșelăciune"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cel ce vorbește"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "minciuni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "va rămâne"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochilor mei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:15.854279024Z",
+  "model": "glm-5.3"
+}

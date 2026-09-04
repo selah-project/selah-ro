@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Să piară păcătoșii de pe pământ și cei răi să nu mai fie. Binecuvântează, suflete al meu, ⟨את⟩ Yahve! Halelu-Ya!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "Să piară"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "păcătoșii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "și cei răi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "să nu mai"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "fie"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Binecuvântează"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "suflete al meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:32.046976415Z",
+  "model": "glm-5.3"
+}

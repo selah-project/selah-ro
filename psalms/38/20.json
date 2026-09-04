@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Iar vrăjmașii mei sunt viți și puternici, și cei ce mă urăsc pe nedrept s-au înmulțit.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Iar vrăjmașii mei"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sunt viți"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "și puternici"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "s-au înmulțit"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "cei ce mă urăsc"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pe nedrept"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:19.236705487Z",
+  "model": "glm-5.3"
+}

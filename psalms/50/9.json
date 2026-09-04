@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Nu voi lua din casa ta taur, din țarcurile tale țapi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "voi lua"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "din casa ta"
+    },
+    {
+      "surface": "פר",
+      "gloss": "taur"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "din țarcurile tale"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "țapi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:28.383029906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Împrumută cel rău și nu dă înapoi, iar cel drept are milă și dăruiește.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "Împrumută"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dă înapoi"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "iar cel drept"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "are milă"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "și dăruiește"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:42.396569216Z",
+  "model": "glm-5.3"
+}

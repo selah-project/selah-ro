@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 6:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Casa aceasta pe care tu o zidești — dacă vei merge în hotarele mele și ⟨את⟩ judecățile mele vei face și vei păzi ⟨את⟩ toate poruncile mele ca să mergi în ele, ⟨atunci⟩ voi ridica ⟨את⟩ cuvântul meu cu tine ⟨את⟩, pe care l-am grăit către David, tatăl tău.",
+  "tokens": [
+    {
+      "surface": "הבית",
+      "gloss": "Casa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zidești"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "vei merge"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "în hotarele mele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "judecățile mele"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecățile mele"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "și vei păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate poruncile mele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "poruncile mele"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ca să mergi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "voi ridica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul meu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvântul meu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu tine ⟨את⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "l-am grăit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    }
+  ],
+  "timestamp": "2026-09-04T03:10:30.339157753Z",
+  "model": "glm-5.3"
+}

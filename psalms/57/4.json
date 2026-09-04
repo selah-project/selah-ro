@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Va trimite din ceruri și mă va mântui; ocărăște pe cel ce gâfâie după mine. Sela. Va trimite Elohim hesedul Său și adevărul Său.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "va trimite"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "din ceruri"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "și mă va mântui"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ocărăște"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "pe cel ce gâfâie după mine"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "va trimite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul Său"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "și adevărul Său"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:13.031549268Z",
+  "model": "glm-5.3"
+}

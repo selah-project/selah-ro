@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Binecuvântat ești tu, Yahve; învață-mă hotărârile tale.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "binecuvântat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "învață-mă"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotărârile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:15.407698417Z",
+  "model": "glm-5.3"
+}

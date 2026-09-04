@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a dat Elohim ⟨את⟩ lui Daniel pentru hesed (bunăvoință) și pentru îndurări înaintea căpeteniei eunucilor.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "pentru hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "și pentru îndurări"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שר",
+      "gloss": "căpeteniei"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunucilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:47:53.904612014Z",
+  "model": "glm-5.3"
+}

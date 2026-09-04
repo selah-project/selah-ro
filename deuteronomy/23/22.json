@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 23:22",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Când vei face un vot către Yahve, Elohim al tău, să nu amâni să-l împlinești, căci cere va cere Yahve, Elohim al tău, de la tine, și va fi în tine păcat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "vei face un vot"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "un vot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "să amâni"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "să-l împlinești"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "cere"
+    },
+    {
+      "surface": "ידרשנו",
+      "gloss": "va cere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "de la tine"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "păcat"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:17.215050567Z",
+  "model": "glm-5.3"
+}

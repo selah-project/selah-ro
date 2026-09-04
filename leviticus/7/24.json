@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și grăsimea dobitocului mort de la sine și grăsimea celui sfâșiat pot fi folosite la orice lucru, dar a mânca să nu-l mâncați.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Și grăsimea"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "dobitocului mort de la sine"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "și grăsimea"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "celui sfâșiat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "poate fi folosită"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "la orice"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lucru"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dar a mânca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "să-l mâncați"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:12.026446227Z",
+  "model": "glm-5.3"
+}

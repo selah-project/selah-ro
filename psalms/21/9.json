@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Va afla mâna ta pe toți vrăjmașii tăi, dreapta ta va afla pe cei ce te urăsc.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "va afla"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vrăjmașii tăi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "va afla"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "pe cei ce te urăsc"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:59.045724768Z",
+  "model": "glm-5.3"
+}

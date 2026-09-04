@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Țineți sfat și va fi sfărâmat, vorbiți o vorbă și nu se va ridica, căci cu noi ⟨este⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Țineți sfat"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "un sfat"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "și va fi sfărâmat"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "vorbiți"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o vorbă"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se va ridica"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cu noi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T07:24:56.638174914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Eu m-am culcat și am dormit, m-am trezit, căci Yahve mă sprijină.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "m-am culcat"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "și am dormit"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "m-am trezit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "mă sprijină"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:34.507336617Z",
+  "model": "glm-5.3"
+}

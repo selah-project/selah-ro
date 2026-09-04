@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "El a lovit ⟨את⟩ pe filișteni până la Aza și ⟨את⟩ hotarele ei, de la turnul străjilor până la cetatea întărită.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filișteni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filișteni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hotarele ei"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "hotarele ei"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "de la turnul"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "străjilor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "întărită"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:17.347863281Z",
+  "model": "glm-5.3"
+}

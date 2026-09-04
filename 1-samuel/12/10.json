@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și au strigat către Yahve și au zis: Am greșit, căci am părăsit ⟨את⟩ pe Yahve și am slujit ⟨את⟩ Baalilor și ⟨את⟩ Aștaroturilor; și acum izbăvește-ne din mâna dușmanilor noștri, și îți vom sluji ție.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Și au strigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "am greșit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "am părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "și am slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalilor"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalilor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aștaroturilor"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Aștaroturilor"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "izbăvește-ne"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "dușmanilor noștri"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "și îți vom sluji ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:36.645247530Z",
+  "model": "glm-5.3"
+}

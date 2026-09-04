@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Să nu vezi ⟨את⟩ boul fratelui tău sau ⟨את⟩ oaia lui rătăcite și să te ascunzi de ele; să le aduci neapărat înapoi fratelui tău.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תִרְאֶה֩",
+      "gloss": "vezi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "boul"
+    },
+    {
+      "surface": "שׁ֨וֹר",
+      "gloss": "boul"
+    },
+    {
+      "surface": "אָחִ֜יךָ",
+      "gloss": "fratelui tău"
+    },
+    {
+      "surface": "א֤וֹ",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "oaia lui"
+    },
+    {
+      "surface": "שֵׂיוֹ֙",
+      "gloss": "oaia lui"
+    },
+    {
+      "surface": "נִדָּחִ֔ים",
+      "gloss": "rătăcite"
+    },
+    {
+      "surface": "וְהִתְעַלַּמְתָּ֖",
+      "gloss": "și să te ascunzi"
+    },
+    {
+      "surface": "מֵהֶ֑ם",
+      "gloss": "de ele"
+    },
+    {
+      "surface": "הָשֵׁ֥ב",
+      "gloss": "să aduci neapărat"
+    },
+    {
+      "surface": "תְּשִׁיבֵ֖ם",
+      "gloss": "înapoi"
+    },
+    {
+      "surface": "לְאָחִֽיךָ",
+      "gloss": "fratelui tău"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:13.102099654Z",
+  "model": "glm-5.3"
+}

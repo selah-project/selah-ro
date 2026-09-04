@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și va fi că ⟨את⟩ tine te vor vedea egiptenii și vor zice: aceasta este soția lui; și ⟨את⟩ mine mă vor ucide, iar ⟨את⟩ tine te vor lăsa să trăiască.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "te vor vedea"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "pe tine"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "egiptenii"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "și vor zice"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția lui"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "și mă vor ucide"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "iar ⟨את⟩",
+      "marks": "pe tine"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "te vor lăsa să trăiască"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:11.092690739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și Oholibama a născut ⟨את⟩ Ieiș, și ⟨את⟩ Ialam, și ⟨את⟩ Korah; aceștia sunt fiii lui Esav, care i s-au născut în țara Chenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Și Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ieiș"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Ieiș"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Ialam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Ialam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "s-au născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T01:06:28.606142174Z",
+  "model": "glm-5.3"
+}

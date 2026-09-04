@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și s-a închinat Avraham înaintea poporului țării.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "Și s-a închinat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:53.249484562Z",
+  "model": "glm-5.3"
+}

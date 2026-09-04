@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și au făcut oamenii așa, și au luat două vaci care alăptau, și le-au legat de căruță, iar ⟨את⟩ vițeii lor i-au închis în casă.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "și au făcut"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "și au luat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "două"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "vaci"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "care alăptau"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "și le-au legat"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "de căruță"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vițeii lor"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "vițeii lor"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "i-au închis"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:53:44.758660173Z",
+  "model": "glm-5.3"
+}

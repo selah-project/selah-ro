@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a mers Avram cum îi vorbise Yahve, și a mers ⟨את⟩ el Lot; iar Avram era fiu de cinci și șaptezeci de ani la ieșirea lui din Haran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "îi vorbise"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "iar Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "de cinci"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "și șaptezeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "la ieșirea lui"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "din Haran"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:24.688318717Z",
+  "model": "glm-5.3"
+}

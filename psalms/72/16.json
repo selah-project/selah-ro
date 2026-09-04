@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Să fie belșug de grâu în pământ, pe vârful munților să se legene ca Libanul rodul lui, și să înflorească din cetate ca iarba pământului.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "belșug"
+    },
+    {
+      "surface": "בר",
+      "gloss": "de grâu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pe vârful"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munților"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "să se legene"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "ca Libanul"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "rodul lui"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "și să înflorească"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "din cetate"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:33.642301399Z",
+  "model": "glm-5.3"
+}

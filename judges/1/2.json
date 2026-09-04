@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a zis Yahve: Iehuda va sui; iată, am dat ⟨את⟩ țara în mâna lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "va sui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:53:21.528174398Z",
+  "model": "glm-5.3"
+}

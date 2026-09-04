@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Amintirea mulțimii bunătății tale o vor vărsa din belșug, iar dreptatea ta o vor cânta cu strigăt de bucurie.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "amintirea"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mulțimii"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "bunătății tale"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "o vor vărsa din belșug"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "iar dreptatea ta"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "o vor cânta cu strigăt de bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:22.283156031Z",
+  "model": "glm-5.3"
+}

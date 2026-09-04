@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Nu te lăuda cu ziua de mâine, căci nu știi ce va naște o zi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "te lăuda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "cu ziua"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "de mâine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "știi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "va naște"
+    },
+    {
+      "surface": "יום",
+      "gloss": "o zi"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:47.484008160Z",
+  "model": "glm-5.3"
+}

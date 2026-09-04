@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "și nu știu să facă ce este drept — neum al lui Yahve — cei care adună violență și jaf în citadelele lor.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "știu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ce este drept"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "cei care adună"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violență"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "și jaf"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "în citadelele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:22.727078619Z",
+  "model": "glm-5.3"
+}

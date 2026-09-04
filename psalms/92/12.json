@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "Și ochiul meu va privi la pânditorii mei, la cei ce se ridică împotriva mea, la făptuitorii de rău — îi vor auzi urechile mele.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "Și va privi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochiul meu"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "la pânditorii mei"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "la cei ce se ridică"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "făptuitorii de rău"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "vor auzi"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "urechile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:52.334261423Z",
+  "model": "glm-5.3"
+}

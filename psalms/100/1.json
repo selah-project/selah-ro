@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 100,
+  "translation": "Un mizmor de mulțumire. Strigați către Yahve, tot pământul!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "de mulțumire"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "strigați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:59.862830677Z",
+  "model": "glm-5.3"
+}

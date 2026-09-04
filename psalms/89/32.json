@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "dacă vor pângări hotarele mele și poruncile mele nu le vor păzi,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "hotarele mele"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "vor pângări"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "și poruncile mele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "vor păzi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:25.790985587Z",
+  "model": "glm-5.3"
+}

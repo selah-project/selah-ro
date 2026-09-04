@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Căci tu ai făcut ⟨asta⟩ în ascuns, iar eu voi face ⟨את⟩ lucrul acesta înaintea întregului Israel și înaintea soarelui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "în ascuns"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "voi face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrul acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregului"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "și înaintea"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarelui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:23.147797291Z",
+  "model": "glm-5.3"
+}

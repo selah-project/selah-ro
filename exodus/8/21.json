@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a chemat Paro ⟨pe⟩ Moșe și ⟨pe⟩ Aharon și a zis: Duceți-vă, jertfiți Elohimului vostru în țară.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ו לאהרן",
+      "gloss": "și pe Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Duceți-vă"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "jertfiți"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "Elohimului vostru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:52.152995752Z",
+  "model": "glm-5.3"
+}

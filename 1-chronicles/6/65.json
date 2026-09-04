@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și din tribul lui Gad: ⟨את⟩ Raamot în Ghilad și ⟨את⟩ pășunile ei, și ⟨את⟩ Mahanaim și ⟨את⟩ pășunile ei.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Și din tribul"
+    },
+    {
+      "surface": "גד",
+      "gloss": "lui Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "în Ghilad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pășunile ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Mahanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pășunile ei"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:59.144647781Z",
+  "model": "glm-5.3"
+}

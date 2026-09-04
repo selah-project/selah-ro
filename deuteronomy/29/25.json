@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "și au mers și au slujit altor dumnezei și s-au închinat lor — dumnezei pe care nu i-au cunoscut și pe care nu li i-a dat ⟨El⟩ lor.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "și au mers"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "și au slujit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altori"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "și s-au închinat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "i-au cunoscut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "li i-a dat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:50.527548858Z",
+  "model": "glm-5.3"
+}

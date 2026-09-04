@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "pe care l-a încheiat ⟨את⟩ cu Avraham, și jurământul lui pentru Ițhac.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כָּרַת",
+      "gloss": "a încheiat"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "cu Avraham"
+    },
+    {
+      "surface": "אַבְרָהָם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וּשְׁבוּעָתוֹ",
+      "gloss": "și jurământul lui"
+    },
+    {
+      "surface": "לְיִצְחָק",
+      "gloss": "pentru Ițhac"
+    }
+  ],
+  "timestamp": "2026-09-04T06:11:09.312098233Z",
+  "model": "glm-5.3"
+}

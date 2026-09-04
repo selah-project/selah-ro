@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Doar împotriva mea se întoarce el, își întoarce mâna lui toată ziua.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Doar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "se întoarce"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "întoarce"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:53.083458162Z",
+  "model": "glm-5.3"
+}

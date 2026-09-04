@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Mai bună este mustrarea pe față decât iubirea ascunsă.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "mai bună"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "mustrarea"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "pe față"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "decât iubirea"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "ascunsă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:35.721208513Z",
+  "model": "glm-5.3"
+}

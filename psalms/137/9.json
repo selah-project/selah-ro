@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 137,
+  "translation": "Fericit va fi cel ce va apuca și va zdrobi ⟨את⟩ pruncii tăi de stâncă.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Fericit"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "cel ce va apuca"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "și va zdrobi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pruncii tăi"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "pruncii tăi"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "de"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "stâncă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:16.827270556Z",
+  "model": "glm-5.3"
+}

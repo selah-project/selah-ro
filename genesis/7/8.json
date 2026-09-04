@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Din vitele curate și din vitele care nu sunt curate, și din păsări și din tot ce se târăște pe sol —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Din"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vitele"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "curate"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "și din"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vitele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "nu sunt"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "curate"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "și din"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "păsări"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și din tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "se târăște"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sol"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:56.985852786Z",
+  "model": "glm-5.3"
+}

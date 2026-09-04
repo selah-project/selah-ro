@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "și ⟨את⟩ Parșandata, și ⟨את⟩ Dalfon, și ⟨את⟩ Asfata",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Parșandata"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parșandata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Dalfon"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalfon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Asfata"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Asfata"
+    }
+  ],
+  "timestamp": "2026-09-04T05:47:20.049253222Z",
+  "model": "glm-5.3"
+}

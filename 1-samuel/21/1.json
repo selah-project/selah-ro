@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și s-a sculat și a plecat, și Iehonatan a venit în cetate.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "s-a sculat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a plecat"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Iehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    }
+  ],
+  "timestamp": "2026-09-04T02:49:40.759968750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și au auzit filiștienii ⟨את⟩ sunetul strigăturii și au zis: ce ⟨este⟩ sunetul acestei strigături mari în tabăra evreilor? Și au știut că arca lui Yahve a venit în tabără.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Și au auzit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștienii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunetul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sunetul"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "strigăturii"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sunetul"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "strigăturii"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "în tabăra"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "evreilor"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "Și au știut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabără"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:10.606939891Z",
+  "model": "glm-5.3"
+}

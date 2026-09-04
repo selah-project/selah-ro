@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 6:13",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Căci de la cel mai mic al lor până la cel mai mare al lor, fiecare prădează câștig nedrept; și de la navi până la cohen, fiecare face minciună.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מקטנם",
+      "gloss": "de la cel mai mic al lor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "גדולם",
+      "gloss": "cel mai mare al lor"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "prădează"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "câștig nedrept"
+    },
+    {
+      "surface": "ומנביא",
+      "gloss": "și de la navi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "cohen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    }
+  ],
+  "timestamp": "2026-09-04T04:00:05.179584235Z",
+  "model": "glm-5.3"
+}

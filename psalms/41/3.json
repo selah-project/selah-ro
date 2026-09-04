@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Yahve îl va păzi și îl va ține în viață; îl va îndrepta ⟨pe⟩ pământ, și nu-l vei da în sufletul dușmanilor lui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "îl va păzi"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "și îl va ține în viață"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "îl va îndrepta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "vei da"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "în sufletul"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dușmanilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:46.297590131Z",
+  "model": "glm-5.3"
+}

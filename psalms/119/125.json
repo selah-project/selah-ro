@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Robul tău sunt eu; fă-mă să înțeleg, și voi cunoaște mărturiile tale.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "Robul tău"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "fă-mă să înțeleg"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "și voi cunoaște"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mărturiile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:43.146740852Z",
+  "model": "glm-5.3"
+}

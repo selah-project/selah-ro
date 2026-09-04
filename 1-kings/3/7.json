@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și acum, Yahve, Elohim al meu, tu l-ai pus pe slujitorul tău să domnească în locul lui David, tatăl meu, iar eu sunt un tânăr mic, nu știu ⟨את⟩ ieșirea și intrarea.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ai pus să domnească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slujitorul tău"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un tânăr"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mic"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "știu"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ieșirea"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "și intrarea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:51.569116941Z",
+  "model": "glm-5.3"
+}

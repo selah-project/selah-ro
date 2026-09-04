@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a murit Șaul și cei trei fii ai lui, și toată casa lui — împreună au murit.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "și cei trei"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fii ai lui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "au murit"
+    }
+  ],
+  "timestamp": "2026-09-04T06:09:14.278700730Z",
+  "model": "glm-5.3"
+}

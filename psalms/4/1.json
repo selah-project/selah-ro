@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Către cel ce conduce, cu instrumente cu coarde. Un mizmor al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către cel ce conduce"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "cu instrumente cu coarde"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:48.761328596Z",
+  "model": "glm-5.3"
+}

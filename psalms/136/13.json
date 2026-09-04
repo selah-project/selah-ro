@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "Celui care a tăiat marea de Șuf în două părți, căci în veac ⟨durează⟩ hesedul lui (îndurarea lui):",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Celui care a tăiat"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Șuf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "în două părți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:22.505663112Z",
+  "model": "glm-5.3"
+}

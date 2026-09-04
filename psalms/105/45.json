@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Ca să păzească ⟨את⟩ hotărârile lui și Torele lui să țină. Lăudați pe Ya!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Ca să"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "să păzească"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hotărârile lui"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "și Torele lui"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "să țină"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:25.539264067Z",
+  "model": "glm-5.3"
+}

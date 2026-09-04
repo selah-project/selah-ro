@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Nu a fost ascuns osul meu de la tine, când am fost făcut în ascuns, am fost brodat în adâncimile pământului.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "a fost ascuns"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "osul meu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de la tine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am fost făcut"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "în ascuns"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "am fost brodat"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "în adâncimile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:38.498506825Z",
+  "model": "glm-5.3"
+}

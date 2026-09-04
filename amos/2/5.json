@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și voi trimite foc în Iehuda, și va mistui cetățile lui Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Și voi trimite"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "în Iehuda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "și va mistui"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "lui Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:57.234411493Z",
+  "model": "glm-5.3"
+}

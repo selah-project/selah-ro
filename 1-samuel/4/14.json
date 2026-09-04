@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "A auzit Eli ⟨את⟩ glasul strigării și a zis: ce ⟨este⟩ glasul gloatelor acesteia? Și omul s-a grăbit, a venit și a spus lui Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul strigării"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "strigării"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "gloatelor"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "și omul"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "s-a grăbit"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "lui Eli"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:24.867898491Z",
+  "model": "glm-5.3"
+}

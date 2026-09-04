@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a fost, la venirea lui Avram spre Mițraim, că mițriții au văzut ⟨את⟩ femeia, că frumoasă ⟨era⟩ ea foarte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "la venirea"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "spre Mițraim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mițriții"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "femeia"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "frumoasă"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:06.295731603Z",
+  "model": "glm-5.3"
+}

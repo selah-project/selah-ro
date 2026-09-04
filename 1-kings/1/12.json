@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și acum, mergi, te voi sfătui, rogu-te, cu un sfat, și scapă ⟨את⟩ viața ta și ⟨את⟩ viața fiului tău Șelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "te voi sfătui"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rogu-te"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "cu un sfat"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "și scapă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața ta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "viața ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "viața fiului tău Șelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "viața"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiului tău"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:27.151310640Z",
+  "model": "glm-5.3"
+}

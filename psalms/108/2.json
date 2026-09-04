@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Gata ⟨este⟩ inima mea, Elohim; voi cânta, voi cânta cu lirea, chiar și slava mea.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "voi cânta cu lirea"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "slava mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:47.317967415Z",
+  "model": "glm-5.3"
+}

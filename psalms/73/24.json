@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Prin sfatul tău mă călăuzești, și după aceea mă iei în slavă.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Prin sfatul tău"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "mă călăuzești"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "și după aceea"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "în slavă"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "mă iei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:41.350800069Z",
+  "model": "glm-5.3"
+}

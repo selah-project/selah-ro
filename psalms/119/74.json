@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Cei care se tem de tine mă vor vedea și se vor bucura, că în cuvântul tău am nădăjduit.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "Cei care se tem de tine"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "mă vor vedea"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "și se vor bucura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "în cuvântul tău"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "am nădăjduit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:42.915588793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a ridicat ⟨את⟩ stâlpii la porticul templului; și a ridicat ⟨את⟩ stâlpul cel din dreapta și a chemat ⟨את⟩ numele lui Iachin, și a ridicat ⟨את⟩ stâlpul cel din stânga și a chemat ⟨את⟩ numele lui Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpii"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stâlpii"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "la porticul"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templului"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "și a ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpul"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "stâlpul"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "cel din dreapta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Iachin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "și a ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpul"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "stâlpul"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "cel din stânga"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-04T03:11:43.580358933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Yahve, mântuiește! Regele să ne răspundă în ziua în care chemăm.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "mântuiește"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Regele"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "să ne răspundă"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "în care chemăm"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:19.754900607Z",
+  "model": "glm-5.3"
+}

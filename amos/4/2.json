@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "S-a jurat Adonai Yahve prin sfințenia lui: iată, vin zile peste voi, și vă vor lua ⟨את⟩ pe voi în țepușe, și pe cei rămași ai voștri — cu cârlige de pește.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "S-a jurat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "prin sfințenia lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vin"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "și vă vor lua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "în țepușe — obiectul ridicat sunteți voi"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "în țepușe"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "și pe cei rămași ai voștri"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "cu cârlige"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "de pește"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:06.922843056Z",
+  "model": "glm-5.3"
+}

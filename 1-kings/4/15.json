@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Ahimaț, în Naftali; și el a luat-o de soție pe Bașemat, fiica lui Șelomo.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaț"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "în Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Bașemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "pe Bașemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de soție"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:21.103243569Z",
+  "model": "glm-5.3"
+}

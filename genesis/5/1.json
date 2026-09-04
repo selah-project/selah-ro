@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Aceasta este cartea neamurilor lui Adam. În ziua în care a creat Elohim ⟨את⟩ omul, după asemănarea lui Elohim l-a făcut ⟨את⟩ pe el.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Aceasta"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cartea"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lui Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "a creat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "după asemănarea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "l-a făcut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:38.975695046Z",
+  "model": "glm-5.3"
+}

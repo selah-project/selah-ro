@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a așezat ⟨את⟩ lemnele, a tăiat bucată cu bucată ⟨את⟩ taurul și l-a pus peste lemne.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "Și a așezat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemnele"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "lemnele"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "a tăiat bucată cu bucată"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taurul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "taurul"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și l-a pus"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "lemne"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:19.522940383Z",
+  "model": "glm-5.3"
+}

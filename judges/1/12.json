@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a zis Kalev: „Cel care va lovi ⟨את⟩ Chiriat-Sefer și o va cuceri, pe acela îl voi răsplăti ⟨את⟩ cu Ahsa, fiica mea, de soție.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel care"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "va lovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiriat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Chiriat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "și o va cuceri"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "îl voi răsplăti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pe acela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "cu Ahsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "fiica mea"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de soție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:09.069822207Z",
+  "model": "glm-5.3"
+}

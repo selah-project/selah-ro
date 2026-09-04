@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și voi întoarce ⟨את⟩ întoarcerea lui Iehuda și ⟨את⟩ întoarcerea lui Israel, și îi voi zidi ca la început.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "și voi întoarce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "întoarcerea lui Iehuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "întoarcerea"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "întoarcerea lui Israel"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "întoarcerea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "și îi voi zidi"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "ca la început"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:19.247545287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Gura mea va povesti dreptatea ta, toată ziua izbăvirea ta, căci nu am cunoscut numărătoarea lor.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Gura mea"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "va povesti"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "dreptatea ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "izbăvirea ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "am cunoscut"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "numărătoarea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:16.334981557Z",
+  "model": "glm-5.3"
+}

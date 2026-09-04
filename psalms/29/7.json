@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": " Glasul lui Yahve creește zulufi de flacără de foc.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "creează zulufi de flacără"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "de flacără"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de foc"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:04.793814207Z",
+  "model": "glm-5.3"
+}

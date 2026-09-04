@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Atunci a vorbit Șelomo: Yahve a spus că ⟨va⟩ locui în întunericul gros.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "că ⟨va⟩ locui"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "în întunericul gros"
+    }
+  ],
+  "timestamp": "2026-09-04T03:12:51.332866580Z",
+  "model": "glm-5.3"
+}

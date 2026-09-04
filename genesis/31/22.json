@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "I s-a vestit lui Lavan în a treia zi că a fugit Iaacov.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "și s-a vestit"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "lui Lavan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a treia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "a fugit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:14.462983567Z",
+  "model": "glm-5.3"
+}

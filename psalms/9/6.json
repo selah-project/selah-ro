@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Ai certat neamurile, ai pierdut pe cel rău, numele lor l-ai șters pentru veșnicie și în veci.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Ai certat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "ai pierdut"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe cel rău"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "numele lor"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "l-ai șters"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pentru veșnicie"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și în veci"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:49.734256551Z",
+  "model": "glm-5.3"
+}

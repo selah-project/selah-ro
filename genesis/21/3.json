@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a pus Avraham ⟨את⟩ numelui fiului său, celui născut lui, pe care i l-a născut Sara, Ițhac.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a pus numele"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numelui fiului său"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiului său"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "celui născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i l-a născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:09.442692198Z",
+  "model": "glm-5.3"
+}

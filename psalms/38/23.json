@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Grăbește-te spre ajutorul meu, Adonai, mântuirea mea!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Grăbește-te"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "spre ajutorul meu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "mântuirea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:36.697187395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și dacă ⟨este⟩ vreo vită necurată din care nu se aduce dar de jertfă lui Yahve, atunci să pună ⟨את⟩ vita înaintea cohenului.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vreo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vită"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "necurată"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "din care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "se aduce"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "din ea"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "dar de jertfă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "atunci să pună"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vita"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:35.880741642Z",
+  "model": "glm-5.3"
+}

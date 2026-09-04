@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Să nu dai un rob stăpânului lui, care se va salva la tine de la stăpânul lui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "să dai"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "un rob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "stăpânului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "se va salva"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "stăpânul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:45.303229469Z",
+  "model": "glm-5.3"
+}

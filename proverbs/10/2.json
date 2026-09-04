@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Nu folosesc comorile nelegiuirii, iar dreptatea scapă de moarte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "folosesc"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "comorile"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nelegiuirii"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "iar dreptatea"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "scapă"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de moarte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:58.445426184Z",
+  "model": "glm-5.3"
+}

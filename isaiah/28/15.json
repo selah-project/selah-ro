@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Căci ați zis: Am tăiat legământ ⟨את⟩ moartea și cu Șeol am făcut învoire; biciul năvalnic când trece nu ne va veni, căci am pus minciuna ca adăpost și în fălșire ne-am ascuns.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ați zis"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "am tăiat"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moartea"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șeol"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "învoire"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "bici"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "năvalnic"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "trece"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "ne va veni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "am pus"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "minciuna"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "adăpostul"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "și în fălșire"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "ne-am ascuns"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:42.941091318Z",
+  "model": "glm-5.3"
+}

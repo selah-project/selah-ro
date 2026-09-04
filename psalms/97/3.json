@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Foc înaintea lui merge și aprinde de jur împrejur pe vrăjmașii lui.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "merge"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "și aprinde"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "pe vrăjmașii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:04.696519742Z",
+  "model": "glm-5.3"
+}

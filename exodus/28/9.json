@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și să iei ⟨את⟩ două pietre de șoham și să sapi pe ele numele fiilor lui Israel:",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Și să iei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "două pietre de șoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "două"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pietre de"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "șoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "și să sapi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pe ele"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "numele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:45.624080369Z",
+  "model": "glm-5.3"
+}

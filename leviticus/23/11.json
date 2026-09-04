@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "și va flutura ⟨את⟩ omerul înaintea lui Yahve, ca să fie primit în locul vostru; în ziua de după Șabat îl va flutura cohenul.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "și va flutura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerul"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ca să fie primit în locul vostru"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "în ziua de după"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Șabat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "îl va flutura"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:47.984557397Z",
+  "model": "glm-5.3"
+}

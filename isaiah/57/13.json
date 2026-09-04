@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "La strigătul tău te va izbăvi adunătura ta; și pe toți îi va lua vântul, îi va ridica deșertăciunea; iar cel ce își pune adăpostul în mine va moșteni pământul și va stăpâni muntele sfințeniei mele.",
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "La strigătul tău"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "te va izbăvi"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "adunătura ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vântul"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va ridica"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșertăciunea"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "iar cel ce își pune adăpostul"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "va moșteni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "și va stăpâni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sfințeniei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T03:54:45.292364547Z",
+  "model": "glm-5.3"
+}

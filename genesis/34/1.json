@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a ieșit Dina, fata lui Lea, pe care i-o născuse lui Iaacov, ca să vadă fiicele țării.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fata"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "lui Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i-o născuse"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ca să vadă"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "fiicele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    }
+  ],
+  "timestamp": "2026-09-04T01:06:16.769290309Z",
+  "model": "glm-5.3"
+}

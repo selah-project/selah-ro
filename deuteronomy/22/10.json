@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Să nu ari cu bou și cu măgar împreună.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "cu bou"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "și cu măgar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T02:08:14.743526963Z",
+  "model": "glm-5.3"
+}

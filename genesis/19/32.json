@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Vino, să facem să bea ⟨את⟩ tatăl nostru vin, și să ne culcăm cu el, și să facem să trăiască sămânță de la tatăl nostru.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Vino"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "să facem să bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl nostru"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "tatăl nostru"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "și să ne culcăm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "și să facem să trăiască"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "de la tatăl nostru"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânță"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:34.443837004Z",
+  "model": "glm-5.3"
+}

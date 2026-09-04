@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și s-a rugat Hana și a zis: a exultat inima mea în Yahve, s-a înălțat cornul meu în Yahve, s-a lărgit gura mea peste vrăjmașii mei, căci m-am bucurat de mântuirea ta.",
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "și s-a rugat"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "a exultat"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "s-a înălțat"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "cornul meu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "s-a lărgit"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura mea"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "m-am bucurat"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "de mântuirea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:39:11.799544558Z",
+  "model": "glm-5.3"
+}

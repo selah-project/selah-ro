@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și Mă voi întoarce către voi și vă voi face roditori ⟨את⟩ pe voi și vă voi înmulți ⟨את⟩ pe voi și voi ridica legământul Meu ⟨את⟩ cu voi.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Și Mă voi întoarce"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "către voi"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "și vă voi face roditori"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "și vă voi înmulți"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "și voi ridica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul Meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul Meu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ cu voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:51.359231941Z",
+  "model": "glm-5.3"
+}

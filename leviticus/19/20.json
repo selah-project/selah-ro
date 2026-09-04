@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și un om, dacă se culcă ⟨את⟩ cu o femeie, culcare de sămânță, și ea este o slujnică logodită unui bărbat și n-a fost răscumpărată sau iubire n-a fost dată ei, cercetare va fi; să nu fie omorâți, pentru că nu era liberă.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "se culcă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ cu",
+      "marks": "cu o femeie"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "o femeie"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "culcare"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "de sămânță"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și ea"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "o slujnică"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "logodită"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "unui bărbat"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "și răscumpărată"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu (a fost)"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "răscumpărată"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "iubire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu (a fost)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dată"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "cercetare"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "fie omorâți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "era liberă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:11.137610173Z",
+  "model": "glm-5.3"
+}

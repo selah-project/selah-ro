@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 128,
+  "translation": "Nevasta ta ca o viță roditoare în laturile casei tale; fiii tăi ca vlăstare de măslini împrejurul mesei tale.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Nevasta ta"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "ca o viță"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "roditoare"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "în laturile"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "casei tale"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiii tăi"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "ca vlăstare"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "de măslini"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "împrejur"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "mesei tale"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:09.384282621Z",
+  "model": "glm-5.3"
+}

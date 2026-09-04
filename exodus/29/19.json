@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "și vei lua ⟨את⟩ berbeacul al doilea, și va sprijini Aharon și fiii lui ⟨את⟩ mâinile lor peste capul berbeacului.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "și vei lua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berbeacul al doilea"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbeacul"
+    },
+    {
+      "surface": "השני",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "și va sprijini"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "și fiii lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lor"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinile lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbeacului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:55.632266356Z",
+  "model": "glm-5.3"
+}

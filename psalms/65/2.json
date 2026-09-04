@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Ție ⟨este⟩ tăcerea ⟨ca⟩ laudă, Elohim, în Țion, și ție va fi plinită făgăduința.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "tăcerea"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "laudă"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "în Țion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "și ție"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va fi plinită"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "făgăduința"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:15.340063346Z",
+  "model": "glm-5.3"
+}

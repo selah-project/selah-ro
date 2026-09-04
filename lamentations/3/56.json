@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Glasul meu ai auzit; nu-ți ascunde urechea la răsuflarea mea, la strigătul meu.",
+  "tokens": [
+    {
+      "surface": "קוֹלִי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "שָׁמַעְתָּ",
+      "gloss": "ai auzit"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תַּעְלֵם",
+      "gloss": "ascunde"
+    },
+    {
+      "surface": "אָזְנְךָ",
+      "gloss": "urechea ta"
+    },
+    {
+      "surface": "לְרַוְחָתִי",
+      "gloss": "la răsuflarea mea"
+    },
+    {
+      "surface": "לְשַׁוְעָתִי",
+      "gloss": "la strigătul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:40.318364418Z",
+  "model": "glm-5.3"
+}

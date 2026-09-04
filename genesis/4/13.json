@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a zis Kayin către Yahve: mare ⟨este⟩ vina mea de a o purta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "vina mea"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "de a o purta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:43.172980995Z",
+  "model": "glm-5.3"
+}

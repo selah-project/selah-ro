@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "A spus Yahve către Moșe: Am văzut ⟨את⟩ poporul acesta, și iată, un popor ⟨de⟩ ceafă tare este el.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul acesta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un popor"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tare"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ceafă"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:23.551150834Z",
+  "model": "glm-5.3"
+}

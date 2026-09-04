@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "dar din roada pomului care ⟨este⟩ în mijlocul grădinii a zis Elohim: «Să nu mâncați din el și să nu vă atingeți de el, ca nu cumva să muriți.»»",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "iar din roada"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pomului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "grădinii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "atingeți"
+    },
+    {
+      "surface": "בו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "să muriți"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:27.700714381Z",
+  "model": "glm-5.3"
+}

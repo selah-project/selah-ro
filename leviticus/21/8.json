@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și îl vei sfinți, căci ⟨את⟩ pâinea Elohim al tău el aduce-aproape; sfânt să fie pentru tine, căci sfânt sunt eu, Yahve, cel ce vă sfințește.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "Și îl vei sfinți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pâinea Elohim al tău"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "aduce-aproape"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "cel ce vă sfințește"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:32.154766459Z",
+  "model": "glm-5.3"
+}

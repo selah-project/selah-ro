@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a fost la capătul unor zile, și pârâul s-a uscat, căci nu fusese ploaie în țară.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "la capătul"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "unor zile"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "și s-a uscat"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "pârâul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fusese"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ploaie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    }
+  ],
+  "timestamp": "2026-09-04T07:18:43.328710191Z",
+  "model": "glm-5.3"
+}

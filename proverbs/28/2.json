@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Prin păcatul unei țări, mulți ⟨sunt⟩ căpeteniile ei; iar printr-un om priceput, cunoscător, ea se prelungește.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "Prin păcatul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "unei țări"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mulți"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "căpeteniile ei"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "iar printr-un om"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "priceput"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoscător"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "se prelungește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:51.796529658Z",
+  "model": "glm-5.3"
+}

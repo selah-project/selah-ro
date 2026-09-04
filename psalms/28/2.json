@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Ascultă glasul cererilor mele, când strig către tine, când îmi ridic mâinile spre locașul sfânt alăuntrului tău.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "cererilor mele"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "când strig"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "când îmi ridic"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâinile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "locașul sfânt alăuntrului"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tău"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:19.159620961Z",
+  "model": "glm-5.3"
+}

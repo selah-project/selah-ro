@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Binecuvântați-l pe Yahve, toate lucrările lui, în toate locurile stăpânirii lui! Binecuvântează, suflete al meu, ⟨את⟩ Yahve!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Binecuvântați"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "lucrările lui"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "locurile"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "stăpânirii lui"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Binecuvântează"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "suflete al meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:31.944045729Z",
+  "model": "glm-5.3"
+}

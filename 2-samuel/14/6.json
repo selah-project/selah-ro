@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și roabei tale ⟨erau⟩ doi fii, și s-au certat amândoi în câmp, și n-a fost cine să-i despartă între ei, și l-a lovit unul ⟨את⟩ celălalt, și l-a omorât.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "Și roabei tale"
+    },
+    {
+      "surface": "שני",
+      "gloss": "doi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "și s-au certat"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și n-a fost"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "cine să-i despartă"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "între ei"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și l-a lovit"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celălalt"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "celălalt"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și l-a omorât"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl"
+    }
+  ],
+  "timestamp": "2026-09-04T08:55:33.131935148Z",
+  "model": "glm-5.3"
+}

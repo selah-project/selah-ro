@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Pașii mei s-au ținut de cărările tale; picioarele mele nu s-au clătinat.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "s-au ținut"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "pașii mei"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "de cărările tale"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "s-au clătinat"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "picioarele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:55.641724153Z",
+  "model": "glm-5.3"
+}

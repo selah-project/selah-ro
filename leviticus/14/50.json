@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va junghia ⟨את⟩ pasărea cea una spre un vas de lut, peste ape vii.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "și va junghia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasărea cea una"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "cea una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "un vas"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "de lut"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:23.719827885Z",
+  "model": "glm-5.3"
+}

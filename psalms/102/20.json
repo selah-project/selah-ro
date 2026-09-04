@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Că s-a aplecat Yahve din înălțimea sfântă a Lui, din ceruri spre pământ a privit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "s-a aplecat"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "din înălțime"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfântă a Lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "din ceruri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "a privit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:11.199059289Z",
+  "model": "glm-5.3"
+}

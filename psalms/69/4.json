@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "M-am ostenit cu strigarea mea, mi-a ars gâtul, s-au stins ochii mei așteptând spre Elohim al meu.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "M-am ostenit"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "cu strigarea mea"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "mi-a ars"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "gâtul"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "s-au stins"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "așteptând"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "spre Elohim al meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:22.820704028Z",
+  "model": "glm-5.3"
+}

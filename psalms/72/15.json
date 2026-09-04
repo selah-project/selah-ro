@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Și va trăi, și i se va da lui din aurul Șevei, și se va ruga pentru el pururea; toată ziua îl va binecuvânta.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "și va trăi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și i se va da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "din aurul"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șevei"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "și se va ruga"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pururea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "îl va binecuvânta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:33.642102894Z",
+  "model": "glm-5.3"
+}

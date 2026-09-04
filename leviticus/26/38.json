@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Veți pieri printre neamuri, și va mânca ⟨את⟩ pe voi pământul vrăjmașilor voștri.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "veți pieri"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "printre neamuri"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "și va mânca"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pământul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vrăjmașilor voștri"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:39.473235191Z",
+  "model": "glm-5.3"
+}

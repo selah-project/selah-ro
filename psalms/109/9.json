@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Să fie copiii lui orfani și femeia lui văduvă.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "copiii lui"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "orfani"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "și femeia lui"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "văduvă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:41.510044724Z",
+  "model": "glm-5.3"
+}

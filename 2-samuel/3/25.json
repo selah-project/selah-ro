@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Ai cunoscut ⟨את⟩ Avner, fiul lui Ner — că ca să te înșele a venit, și ca să afle ⟨את⟩ ieșirea ta și ⟨את⟩ intrarea ta, și ca să afle ⟨את⟩ tot ce faci tu.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ai cunoscut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lui Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "să te înșele"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "și ca să afle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieșirea ta"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ieșirea ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "intrarea ta"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "intrarea ta"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "și ca să afle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce faci tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "faci"
+    }
+  ],
+  "timestamp": "2026-09-04T02:55:02.705677679Z",
+  "model": "glm-5.3"
+}

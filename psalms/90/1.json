@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Rugăciune a lui Moșe, omul lui Elohim: Adonai, adăpost ai fost tu pentru noi, din neam în neam.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Rugăciune"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "a lui Moșe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "adăpost"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ai fost"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:54.372703130Z",
+  "model": "glm-5.3"
+}

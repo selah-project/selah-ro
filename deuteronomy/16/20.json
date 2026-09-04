@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Dreptate, dreptate să urmăriți, ca să trăiești și să moștenești ⟨את⟩ pământul pe care ți-l dă Yahve, Elohimul tău.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "să urmărești"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "trăiești"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "și să moștenești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:31.487463678Z",
+  "model": "glm-5.3"
+}

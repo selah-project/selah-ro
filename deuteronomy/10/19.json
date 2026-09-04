@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Să iubiți ⟨את⟩ străinul, căci străini ați fost în țara Mițraim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "să iubiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "străinul"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "pe străin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "străini"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ați fost"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T02:02:45.902730012Z",
+  "model": "glm-5.3"
+}

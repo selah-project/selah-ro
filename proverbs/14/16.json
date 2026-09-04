@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Înțeleptul se teme și se abate de rău, dar nebunul se mânie și ⟨rămâne⟩ încrezător.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Înțeleptul"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se teme"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "și se abate"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "de rău"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "dar nebunul"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "se mânie"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "și încrezător"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:53.536532976Z",
+  "model": "glm-5.3"
+}

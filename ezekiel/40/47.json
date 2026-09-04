@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a măsurat ⟨את⟩ curtea: lungimea de o sută de coți și lățimea de o sută de coți, pătrată; iar altarul ⟨stă⟩ înaintea Casei.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Și a măsurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "curtea"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curtea"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lungimea"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "de o sută"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "de coți"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "și lățimea"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "de o sută"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "de coți"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "pătrată"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "iar altarul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Casei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:34:34.169602452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Cel ce varsă sânge de om, de om sângele lui se va varsa, căci în chipul lui Elohim a făcut ⟨את⟩ omul.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Cel ce varsă"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de om"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "de om"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "se va varsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "în chipul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:10.177796809Z",
+  "model": "glm-5.3"
+}

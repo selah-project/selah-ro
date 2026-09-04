@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a chemat David pe unul dintre tineri și a spus: Apropie-te, lovește-l! Și l-a lovit, și a murit.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "pe unul"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "dintre tineri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "גש",
+      "gloss": "apropie-te"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "lovește"
+    },
+    {
+      "surface": "בו",
+      "gloss": "l"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "Și l-a lovit"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:13:40.416163580Z",
+  "model": "glm-5.3"
+}

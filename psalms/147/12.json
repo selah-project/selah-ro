@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Laudă, Ierușalaim, ⟨את⟩ Yahve; preamărește-l pe Elohimul tău, Țion!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Laudă"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "preamărește-l"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "pe Elohimul tău"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:41.793362395Z",
+  "model": "glm-5.3"
+}

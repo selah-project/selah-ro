@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și a ieșit toată adunarea fiilor lui Israel de la fața lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de la fața"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:01.320293547Z",
+  "model": "glm-5.3"
+}

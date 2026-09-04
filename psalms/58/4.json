@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Străini s-au făcut cei răi din pântece; rătăcesc din sân, vorbitori de minciună.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Străini s-au făcut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "din pântece"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "rătăcesc"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "din sân"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vorbitori"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "de minciună"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:16.532075389Z",
+  "model": "glm-5.3"
+}

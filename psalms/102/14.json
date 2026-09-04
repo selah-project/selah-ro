@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Tu te vei ridica, te vei îndura de Țion, că a venit vremea de ⟨a-i⟩ arăta îndurare, că a sosit vremea rânduită.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "te vei ridica"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "te vei îndura"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Țion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vremea"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "de a-i arăta îndurare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a sosit"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "vremea rânduită"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:44.442970307Z",
+  "model": "glm-5.3"
+}

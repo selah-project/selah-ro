@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Bucurați-vă în Yahve și veseliți-vă, cei drepți; și strigați de bucurie, toți cei cu inima dreaptă!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Bucurați-vă"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "și veseliți-vă"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "și strigați de bucurie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "cei cu ... dreaptă"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:24.195485236Z",
+  "model": "glm-5.3"
+}

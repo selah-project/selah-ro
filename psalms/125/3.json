@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 125,
+  "translation": "Căci nu va odihni toiagul răutății peste sorțul drepților, ca să nu întindă drepții spre nelegiuire mâinile lor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "va odihni"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "toiagul"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "răutății"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "sorțul"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "drepților"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "întindă"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "drepții"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "spre nelegiuire"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:59.829418293Z",
+  "model": "glm-5.3"
+}

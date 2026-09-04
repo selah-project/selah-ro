@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a spus Yahve către Cain: „Unde ⟨este⟩ Hevel, fratele tău?” Iar el a spus: „Nu știu; păzitorul fratelui meu sunt eu oare?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Cain"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Unde"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Iar el a spus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "păzitorul"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratelui meu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt eu oare"
+    }
+  ],
+  "timestamp": "2026-09-04T06:32:59.651910368Z",
+  "model": "glm-5.3"
+}

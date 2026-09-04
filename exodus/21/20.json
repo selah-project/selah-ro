@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și dacă lovește un om ⟨את⟩ robul său sau ⟨את⟩ roaba sa cu varga, și moare sub mâna lui, răzbunare i se va răzbuna.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lovește"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robiul său"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "robii său"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roaba sa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "roaba sa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "cu varga"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "și moare"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "răzbunare"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "i se va răzbuna"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:19.661172083Z",
+  "model": "glm-5.3"
+}

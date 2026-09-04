@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Iar dacă nu răscumpără el ⟨את⟩ ogorul, sau dacă a vândut ⟨את⟩ ogorul unui om altul, nu se va mai răscumpăra.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "răscumpără"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogorul"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ogorul"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sau dacă"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "a vândut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogorul"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ogorul"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "se va mai răscumpăra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:09.303479196Z",
+  "model": "glm-5.3"
+}

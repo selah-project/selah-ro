@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și i-a trimis Moșe din pustiul Paran, după cuvântul lui Yahve; toți erau bărbați, capi ai fiilor lui Israel, aceia erau.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și i-a trimis"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "din pustiul"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bărbați"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "המה",
+      "gloss": "aceia erau"
+    }
+  ],
+  "timestamp": "2026-09-04T06:53:25.322374932Z",
+  "model": "glm-5.3"
+}

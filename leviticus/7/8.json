@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și cohenul care aduce ⟨את⟩ arderii-de-ținntregul unui om — pielea arderii-de-ținntregul pe care a adus-o, a cohenului să fie.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Și cohenul"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "care aduce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea-de-ținntregul unui om"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "arderea-de-ținntregul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "עור",
+      "gloss": "piele"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-de-ținntregul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "a adus-o"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a cohenului"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:09.532098528Z",
+  "model": "glm-5.3"
+}

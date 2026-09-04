@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Aceștia sunt cei care slujeau ⟨את⟩ regele, pe lângă cei pe care îi pusese regele în cetățile fortificate din toată Iehuda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aceștia"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "cei care slujeau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "pe lângă"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(pe) care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pusese"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "în cetățile"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "fortificate"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "din toată"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T06:22:05.742284268Z",
+  "model": "glm-5.3"
+}

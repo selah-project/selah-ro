@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Iar ⟨cei din⟩ Beit Șemeș secerau seceriș de grâu în vale; și au ridicat ⟨את⟩ ochii lor și au văzut ⟨את⟩ chivotul și s-au bucurat să vadă.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Iar ⟨cei din⟩ Beit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Șemeș"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "secerau"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "seceriș"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "de grâu"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "în vale"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "și au ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii lor"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ochii lor"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "și s-au bucurat"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vadă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:43.033608370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și tu ⟨ești⟩ sfânt, ⟨cel ce⟩ șade ⟨pe⟩ laudele lui Israel.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "șade"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "laudele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:32.526459688Z",
+  "model": "glm-5.3"
+}

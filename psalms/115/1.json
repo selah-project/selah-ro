@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Nu nouă, Yahve, nu nouă, ci numelui tău dă glorie, pentru hesedul tău, pentru adevărul tău.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "numelui tău"
+    },
+    {
+      "surface": "תן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glorie"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "adevărul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:06.762642355Z",
+  "model": "glm-5.3"
+}

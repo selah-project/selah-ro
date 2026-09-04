@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și să iasă cohenul afară, spre tabără, și să vadă cohenul, și iată, s-a vindecat rana de țaraath de pe cel atins —",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și să iasă"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tabără"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și să vadă"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "s-a vindecat"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "de țaraath"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "celul atins"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:32.129703850Z",
+  "model": "glm-5.3"
+}

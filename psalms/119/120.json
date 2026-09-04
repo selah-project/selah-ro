@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "S-a zbârlichte carnea mea de frica ta, și de judecățile tale m-am temut.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "S-a zbârlichte"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "de frica ta"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "carnea mea"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "și de judecățile tale"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "m-am temut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:49.632527296Z",
+  "model": "glm-5.3"
+}

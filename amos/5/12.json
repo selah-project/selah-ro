@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 5:12",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căci știu: numeroase sunt răzvrătirile voastre și mari păcatele voastre; asupritori ai celui drept, luători de răscumpărare, iar pe cei nevoiași în poartă îi abat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "numeroase"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "sunt răzvrătirile voastre"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "și mari"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "păcatele voastre"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "asupritori"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ai celui drept"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "luători"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "de răscumpărare"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "iar pe cei nevoiași"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "în poartă"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "îi abat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:24.707333271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Ai purtat nelegiuirea poporului tău, ai acoperit tot păcatul lor. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Ai purtat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporului tău"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "ai acoperit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "păcatul lor"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:36.212253247Z",
+  "model": "glm-5.3"
+}

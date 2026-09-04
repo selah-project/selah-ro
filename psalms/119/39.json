@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Îndepărtează ocara mea, de care mă tem, căci judecățile tale sunt bune.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Îndepărtează"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ocara mea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de care"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "mă tem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "sunt bune"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:51.557390781Z",
+  "model": "glm-5.3"
+}

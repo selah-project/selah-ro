@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a năvălit Șeva și i-a luat, și ⟨את⟩ slujitorii i-au lovit după gura sabiei; și am scăpat numai eu, singur, să-ți spun ție.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Și a năvălit"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "și i-a luat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "slujitorii"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "slujitorii"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "i-au lovit"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "după gura"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "și am scăpat"
+    },
+    {
+      "surface": "רק",
+      "gloss": "numai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "singur"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "să-ți spun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:58.828510Z",
+  "model": "glm-5.3"
+}

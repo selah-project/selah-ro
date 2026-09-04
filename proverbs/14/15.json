@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Naivul crede orice cuvânt, dar cel prevăzător înțelege pașii lui.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "naivul"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "crede"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvânt"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "dar cel prevăzător"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "înțelege"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "pașii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:53.536408019Z",
+  "model": "glm-5.3"
+}

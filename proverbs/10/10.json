@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Cine face cu ochiul dă durere, iar nătângul cu buze va cădea.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "Cine face semn"
+    },
+    {
+      "surface": "עין",
+      "gloss": "cu ochiul"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "durere"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "iar nătângul"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "cu buze"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "va cădea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:41.867682318Z",
+  "model": "glm-5.3"
+}

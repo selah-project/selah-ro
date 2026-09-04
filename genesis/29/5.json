@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și le-a zis: Îl cunoașteți ⟨את⟩ Lavan, fiul lui Nahor? Și au zis: Îl cunoaștem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și le-a zis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "cunoașteți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "lui Nahor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Îl cunoaștem"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:30.326642236Z",
+  "model": "glm-5.3"
+}

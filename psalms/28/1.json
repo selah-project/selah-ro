@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Al lui David. Către tine, Yahve, strig; stânca mea, nu tăcea față de mine, ca să nu taci față de mine și să fiu ca ⟨cei⟩ care coboară în groapă.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "strig"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tăcea"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "față de mine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "taci"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "față de mine"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "și să fiu ca"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "cei care coboară"
+    },
+    {
+      "surface": "בור",
+      "gloss": "în groapă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:19.159391514Z",
+  "model": "glm-5.3"
+}

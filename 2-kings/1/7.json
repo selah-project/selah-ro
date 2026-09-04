@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și le-a grăit: ce fel era omul acela care a venit în întâmpinarea voastră și v-a grăit ⟨את⟩ cuvintele acestea?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și le-a grăit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fel"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "era omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "în întâmpinarea voastră"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "și a grăit"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "către voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele acestea"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:23:26.491231363Z",
+  "model": "glm-5.3"
+}

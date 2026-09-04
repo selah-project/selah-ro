@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Nu este pace, a spus Yahve, pentru cei răi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nu este"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "pentru cei răi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:21.175881586Z",
+  "model": "glm-5.3"
+}

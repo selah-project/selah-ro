@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Ascultă, Yahve, glasul meu — eu chem: fă-mi har și răspunde-mi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chem"
+    },
+    {
+      "surface": "ווחנני",
+      "gloss": "și fă-mi har"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "și răspunde-mi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:47.153432045Z",
+  "model": "glm-5.3"
+}

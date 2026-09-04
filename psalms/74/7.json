@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Au trimis în foc sanctuarul tău, la pământ au pângărit locuința numelui tău.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "au trimis"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "sanctuarul tău"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "la pământ"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "au pângărit"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "locuința"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nomelui tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:23.828670945Z",
+  "model": "glm-5.3"
+}

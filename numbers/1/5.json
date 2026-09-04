@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și acestea sunt numele oamenilor care vor sta ⟨את⟩ cu voi: pentru Reuven, Elițur, fiul lui Ședeur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunt numele"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "vor sta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ cu",
+      "marks": "voi"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "pentru Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elițur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "lui Ședeur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:15.212523413Z",
+  "model": "glm-5.3"
+}

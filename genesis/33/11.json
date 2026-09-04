@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Ia, te rog, ⟨את⟩ binecuvântarea mea, care a fost adusă ție, căci m-a îndurat Elohim și căci am totul. Și a stăruit el la el, și a luat-o.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binecuvântarea mea"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "binecuvântarea mea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "a fost adusă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "m-a îndurat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "și căci"
+    },
+    {
+      "surface": "יש",
+      "gloss": "am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(pentru) mine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "și a stăruit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:15.394965979Z",
+  "model": "glm-5.3"
+}

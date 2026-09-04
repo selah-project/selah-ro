@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și numele râului celui de-al doilea ⟨este⟩ Gihon; el ⟨este⟩ cel care înconjoară ⟨את⟩ toată țara Kuș.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Și numele"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "râului"
+    },
+    {
+      "surface": "השני",
+      "gloss": "celui de-al doilea"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gihon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "cel care înconjoară"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată țara Kuș"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuș"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:00.839741463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a mântuit Yahve în ziua aceea ⟨את⟩ Israel, iar lupta a trecut dincoace de Beit-Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Și a mântuit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceaia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "iar lupta"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "a trecut dincoace de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Aven"
+    }
+  ],
+  "timestamp": "2026-09-04T07:10:38.897409528Z",
+  "model": "glm-5.3"
+}

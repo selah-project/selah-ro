@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Iar cel care le arde ⟨את⟩ pe ele își va spăla hainele și va spăla ⟨את⟩ trupul său în apă, și după aceea va intra în tabără.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Iar cel care arde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "își va spăla"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "și va spăla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupul său"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "trupul său"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în apă"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "și după"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "va intra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabără"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:11.664689743Z",
+  "model": "glm-5.3"
+}

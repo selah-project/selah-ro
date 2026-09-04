@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a smuls Elohim ⟨את⟩ vitele tatălui vostru și mi le-a dat mie.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "a smuls"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitele tatălui vostru"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "vitele"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "tatălui vostru"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:35.810614735Z",
+  "model": "glm-5.3"
+}

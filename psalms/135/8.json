@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Care a lovit pe întâii-născuți ai Mițraimului, de la om până la vită.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Care a lovit"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "pe întâii-născuți ai"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "de la om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vită"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:08.445053624Z",
+  "model": "glm-5.3"
+}

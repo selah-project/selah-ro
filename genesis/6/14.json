@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Fă-ți o arcă din lemn de gofer; cuiburi să faci ⟨את⟩ arca, și s-o tăgolești ⟨את⟩ pe dinăuntru și pe dinafară cu smoală.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "arcă"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemn de"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "cuiburi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să faci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arca"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arca"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "și s-o tăgolești"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "arca"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "pe dinăuntru"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "și pe dinafară"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "cu smoală"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:49.989302169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 14:27",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și nu a grăit Yahve să șteargă ⟨את⟩ numele lui Israel de sub ceruri, și i-a mântuit prin mâna lui Iarovam, fiul lui Ioaș.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a grăit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "să șteargă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sub"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "și i-a mântuit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "lui Iarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiului"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Ioaș"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:42.311391824Z",
+  "model": "glm-5.3"
+}

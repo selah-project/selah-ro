@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Ioktan a născut ⟨את⟩ Almodad și ⟨את⟩ Șalef și ⟨את⟩ Hațarmavet și ⟨את⟩ Ierah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ioktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șalef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Șalef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Hațarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hațarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Ierah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Ierah"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:48.463211657Z",
+  "model": "glm-5.3"
+}

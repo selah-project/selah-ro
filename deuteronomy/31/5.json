@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și îi va da Yahve înaintea voastră, și veți face lor după toată porunca pe care v-am poruncit-o ⟨את⟩ vouă.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "și îi va da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "și veți face"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după toată"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "am poruncit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vouă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:01:30.651279921Z",
+  "model": "glm-5.3"
+}

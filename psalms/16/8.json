@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "L-am pus pe Yahve pururea înaintea mea; căci de la dreapta mea, nu mă voi clinti.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "L-am pus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pururea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "de la dreapta mea"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mă voi clinti"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:26.780202238Z",
+  "model": "glm-5.3"
+}

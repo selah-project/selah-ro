@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Căci s-au înmulțit rebeliunile noastre înaintea ta, și păcatele noastre răspund împotriva noastră; căci rebeliunile noastre sunt cu ⟨את⟩ noi, și fărădelegile noastre le cunoaștem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "s-au înmulțit"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "rebeliunile noastre"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "și păcatele noastre"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "răspund"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "împotriva noastră"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "rebeliunile noastre"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "cu ⟨את⟩",
+      "marks": "noi"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "și fărădelegile noastre"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "le cunoaștem"
+    }
+  ],
+  "timestamp": "2026-09-04T03:54:48.356839775Z",
+  "model": "glm-5.3"
+}

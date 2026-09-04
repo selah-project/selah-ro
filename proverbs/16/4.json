@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Pe toate le-a lucrat Yahve pentru scopul lui, și chiar pe cel rău — pentru ziua rea.",
+  "tokens": [
+    {
+      "surface": "כֹּל",
+      "gloss": "Pe toate"
+    },
+    {
+      "surface": "פָּעַל",
+      "gloss": "le-a lucrat"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לְמַעֲנֵהוּ",
+      "gloss": "pentru scopul lui"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "pe cel rău"
+    },
+    {
+      "surface": "לְיוֹם",
+      "gloss": "pentru ziua"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "rea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:43.728857875Z",
+  "model": "glm-5.3"
+}

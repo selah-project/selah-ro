@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și i-au acoperit apele pe vrăjmașii lor — nici unul din ei nu a rămas.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Și i-au acoperit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "pe vrăjmașii lor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nici unul"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "din ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "a rămas"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:51.517356576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Yahve ⟨este⟩ partea moștenirii mele și paharul meu; tu ești cel ce susții sorul meu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "partea"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "moștenirii mele"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "și paharul meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "susții"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "sorul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:26.779480999Z",
+  "model": "glm-5.3"
+}

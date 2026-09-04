@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a făcut Ahav, fiul lui Omri, răul în ochii lui Yahve, mai mult decât toți cei care ⟨au fost⟩ înaintea lui.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "lui Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "decât toți"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:05.829654249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Pentru ce să mă tem în zilele rele, când nelegiuirea călcâielor mele mă înconjoară?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pentru ce"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "să mă tem"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rele"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "călcâielor mele"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mă înconjoară"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:14.317552355Z",
+  "model": "glm-5.3"
+}

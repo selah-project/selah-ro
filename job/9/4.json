@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "El ⟨este⟩ înțelept la inimă și puternic în tărie — cine a împietrit față de el și a rămas întreg?",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "la inimă"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "și puternic"
+    },
+    {
+      "surface": "כח",
+      "gloss": "în tărie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "a împietrit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "față de el"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "și a rămas întreg"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:29.503044220Z",
+  "model": "glm-5.3"
+}

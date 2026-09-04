@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și copilul a crescut și a fost înțărcat, și a făcut Avraham un ospăț mare în ziua înțărcării ⟨את⟩ Ițhac.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Și a crescut"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "și a fost înțărcat"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "un ospăț"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "înțărcării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ițhac"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:46.036594134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Binecuvântat ⟨este⟩ Yahve Elohim, Elohim al lui Israel, cel care face minuni, el singur!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cel care face"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "minuni"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "el singur"
+    }
+  ],
+  "timestamp": "2026-09-04T09:40:05.574313610Z",
+  "model": "glm-5.3"
+}

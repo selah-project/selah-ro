@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "În inima mea am ascuns cuvântul tău, ca să nu păcătuiesc împotriva ta.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "în inima mea"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "am ascuns"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "păcătuiesc"
+    },
+    {
+      "surface": "לך",
+      "gloss": "împotriva ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:15.407593995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Și a zis Paro: Suie-te și îngroapă-ți tatăl, cum te-a pus să juri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "suie-te"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "și îngroapă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl tău"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "te-a pus să juri"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:06.823528124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Căci a rupt Israel de la casa lui David, și l-au făcut rege ⟨את⟩ Iarovam, fiul lui Nevat; și a tras Iarovam ⟨את⟩ Israel de la urmarea lui Yahve și i-a făcut să păcătuiască un păcat mare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "a rupt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "și l-au făcut rege"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iarovam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Iarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "lui Nevat"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "și a tras"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Iarovam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "de la urmarea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "și i-a făcut să păcătuiască"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "un păcat"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:23:00.212839142Z",
+  "model": "glm-5.3"
+}

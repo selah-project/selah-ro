@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Aceștia în care de luptă, și aceștia în cai, iar noi de Numele lui Yahve, Elohim al nostru, ne vom lăuda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "în care de luptă"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "și aceștia"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "în cai"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "iar noi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "de Numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ne vom lăuda"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:47.581484163Z",
+  "model": "glm-5.3"
+}

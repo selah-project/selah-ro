@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a trimis regele și a adunat ⟨את⟩ pe toți bătrânii lui Iehuda și ai Ierușalaimului.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "și a adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți bătrânii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "și ai Ierușalaimului"
+    }
+  ],
+  "timestamp": "2026-09-04T08:24:30.268229480Z",
+  "model": "glm-5.3"
+}

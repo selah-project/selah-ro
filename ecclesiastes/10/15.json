@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Osteneala nebunilor îi obosește: nu știe să meargă la cetate.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Osteneala"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "nebunilor"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "îi obosește"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ":"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "știe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "să meargă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:56.901969038Z",
+  "model": "glm-5.3"
+}

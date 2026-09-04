@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Iar dacă poporul țării își va ascunde, da, își vor ascunde ⟨את⟩ ochii lor de la omul acela, când dă el din sămânța lui lui Moloh, ca să nu-l omoare ⟨את⟩ pe el —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "să ascundă"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "vor ascunde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii lor"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ochii lor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "când dă el"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "din sămânța lui"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lui Moloh"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "המית",
+      "gloss": "omoare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el (sufix -ו)"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:11.304311200Z",
+  "model": "glm-5.3"
+}

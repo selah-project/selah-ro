@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Rușinează-te, Țidon, căci a vorbit marea, întăritura mării, zicând: Nu m-am zvârcolit și nu am născut, și nu am crescut băieți tineri; pe fecioare le-am înălțat.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Rușinează-te"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Țidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "întăritura"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "m-am zvârcolit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "am născut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "am crescut"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "băieți tineri"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "am înălțat"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "fecioare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:26:35.700600661Z",
+  "model": "glm-5.3"
+}

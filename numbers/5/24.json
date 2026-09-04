@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și o va adăpa pe femeie ⟨את⟩ cu apa amară, cele blestemătoare, și vor intra în ea apele blestemătoare spre amărăciune.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "Și o va adăpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "femeia"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "pe femeie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apa"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "amară"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "cele blestemătoare"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "și vor intra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "blestemătoare"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "spre amărăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T06:51:45.764942447Z",
+  "model": "glm-5.3"
+}

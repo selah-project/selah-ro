@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și s-a culcat Iehu cu părinții lui și au îngropat ⟨את⟩l în Șomron, și a domnit Iehoahaz, fiul lui, în locul lui.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "și s-a culcat"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții lui"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și au îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩l",
+      "marks": "pe Iehu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "în Șomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "și a domnit"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Iehoahaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:27:58.517625588Z",
+  "model": "glm-5.3"
+}

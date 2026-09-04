@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Eu ⟨sunt⟩ Yahve, te-am chemat în dreptate și te-am apucat de mână, te-am păzit și te-am dat ca legământ pentru popor, ca lumină pentru neamuri,",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "te-am chemat"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "în dreptate"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "și te-am apucat"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "de mână"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "și te-am păzit"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "și te-am dat"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ca legământ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pentru popor"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ca lumină"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "pentru neamuri"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:53.174688141Z",
+  "model": "glm-5.3"
+}

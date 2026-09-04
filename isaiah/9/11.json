@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Aram din răsărit și filiștii dinapoi, și au mâncat ⟨את⟩ Israel cu toată gura. Cu toate acestea nu s-a întors mânia lui, și încă mâna lui este întinsă.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "din răsărit"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "și filiștii"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "dinapoi"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "și au mâncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "פה",
+      "gloss": "gura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toate acestea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mânia lui"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "și încă"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "este întinsă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:48.084956223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Dar după aceea s-au întors și au adus înapoi ⟨את⟩ robii și ⟨את⟩ roabele pe care le trimiseră libere, și i-au supus din nou ca robi și ca roabe.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "s-au întors"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "au adus înapoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robii"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "robii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "roabele"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "roabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "trimiseră"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "libere"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "i-au supus"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ca robi"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "și ca roabe"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:53.369706752Z",
+  "model": "glm-5.3"
+}

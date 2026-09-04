@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Cântare, psalm al fiilor lui Korah, pentru dirijor, pe măsura cântării Mahalat, pentru răspuns; maskil al lui Heman ha-Ezrahit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "al fiilor"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "lui Korah"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "pentru dirijor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "măsura cântării Mahalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "pentru răspuns"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "al lui Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ha-Ezrahit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:31.282524883Z",
+  "model": "glm-5.3"
+}

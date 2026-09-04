@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Călăuzește-mă în adevărul tău și învață-mă, căci tu ești Elohim al izbăvirii mele; ⟨את⟩ pe tine am așteptat toată ziua.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Călăuzește-mă"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "în adevărul tău"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "și învață-mă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "al izbăvirii mele"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ pe tine"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "am așteptat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:08.539640237Z",
+  "model": "glm-5.3"
+}

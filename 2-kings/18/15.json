@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a dat Hizchia ⟨את⟩ tot argintul găsit în Casa lui Yahve și în cămările casei regelui.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizchia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot argintul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintul"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "găsit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "și în cămările"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:54.091488539Z",
+  "model": "glm-5.3"
+}

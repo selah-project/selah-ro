@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Un vreme să cauți și un vreme să pierzi; un vreme să păzești și un vreme să arunci.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un vreme"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "să cauți"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un vreme"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "să pierzi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un vreme"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "să păzești"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un vreme"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "să arunci"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:42.382293771Z",
+  "model": "glm-5.3"
+}

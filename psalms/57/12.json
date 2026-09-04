@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Înălță-te peste ceruri, Elohim, peste tot pământul slava ta!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Înălță-te"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "slava ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:38.726420915Z",
+  "model": "glm-5.3"
+}

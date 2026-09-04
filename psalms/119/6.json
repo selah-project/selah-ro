@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Atunci nu mă voi rușina, când privesc la toate poruncile tale.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mă voi rușina"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "când privesc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:55.872986467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Ai disprețuit pe toți cei rătăciți de hotărârile tale, căci minciună ⟨este⟩ înșelăciunea lor.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Ai disprețuit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "cei rătăciți"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "de hotărârile tale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "înșelăciunea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:49.632068751Z",
+  "model": "glm-5.3"
+}

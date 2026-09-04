@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 87,
+  "translation": "De fiii lui Korah, un mizmor, o cântare. Întemeierea lui ⟨este⟩ pe munții sfințeniei.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "De fiii"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "o cântare"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "întemeierea lui"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "pe munții"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfințeniei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:34.109132769Z",
+  "model": "glm-5.3"
+}

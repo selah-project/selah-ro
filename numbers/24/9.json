@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "S-a ghemuit, s-a culcat ca un leu și ca o leoaică — cine îl va ridica? Cei care te binecuvântează sunt binecuvântați, și cei care te blesteamă sunt blestemați.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "S-a ghemuit"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "s-a culcat"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "ca un leu"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "și ca o leoaică"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "îl va ridica"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "cei care te binecuvântează"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "sunt binecuvântați"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "și cei care te blesteamă"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "sunt blestemați"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:17.953983140Z",
+  "model": "glm-5.3"
+}

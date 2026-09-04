@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Binecuvântează, sufletul meu, ⟨את⟩ Yahve! Yahve, Elohim al meu, foarte mare ești: măreție și strălucire ai îmbrăcat.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Binecuvântează"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "mare ești"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "măreție"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "și strălucire"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ai îmbrăcat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:28.249708355Z",
+  "model": "glm-5.3"
+}

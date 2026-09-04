@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Căci din fața săbiilor au fugit, din fața sabiei goale, și din fața arcului încordat, și din fața greutății războiului.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din fața"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "săbiilor"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "au fugit"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din fața"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "goale"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "și din fața"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arcului"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "încordat"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "și din fața"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "greutății"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "războiului"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:15.161613641Z",
+  "model": "glm-5.3"
+}

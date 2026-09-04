@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Câte sunt zilele robului tău? Când vei face judecată asupra celor ce mă urmăresc?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "câte"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "sunt zilele"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robului tău"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "asupra celor ce mă urmăresc"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:36.819120311Z",
+  "model": "glm-5.3"
+}

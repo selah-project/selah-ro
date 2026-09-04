@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Că din pricina ta am purtat ocara; rușinea mi-a acoperit fața.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "din pricina ta"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "am purtat"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ocara"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "a acoperit"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "rușinea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața (mea)"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:03.572618573Z",
+  "model": "glm-5.3"
+}

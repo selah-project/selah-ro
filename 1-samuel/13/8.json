@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a așteptat șapte zile, până la termenul ⟨rânduit⟩ de Șmuel, dar Șmuel nu a venit la Ghilgal, și poporul s-a împrăștiat de la el.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Și a așteptat"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "până la termenul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "de Șmuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "la Ghilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "și s-a împrăștiat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "de la el"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:03.419481721Z",
+  "model": "glm-5.3"
+}

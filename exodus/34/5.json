@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a coborât Yahve în nor și a stat acolo cu el, și a chemat în numele lui Yahve.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "și a coborât"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "în nor"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "și a stat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:35.503975365Z",
+  "model": "glm-5.3"
+}

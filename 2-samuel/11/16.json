@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a fost, când păzea Ioav cetatea, că a pus ⟨את⟩ pe Uria în locul unde știa că sunt oameni viteji.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "când păzea"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "că a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "pe Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "știa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "viteji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunt"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:07.441530394Z",
+  "model": "glm-5.3"
+}

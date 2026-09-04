@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Căci eu am dezgolit ⟨את⟩ pe Esav, am descoperit ⟨את⟩ ascunzișurile lui, și să se ascundă nu va putea; prădată este sămânța lui, și frații lui, și vecinii lui, și el nu mai este.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "am dezgolit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "am descoperit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ascunzișurile lui"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "ascunzișurile lui"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "și să se ascundă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "va putea"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "prădată"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sămânța lui"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "și frații lui"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "și vecinii lui"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "și el nu mai este"
+    }
+  ],
+  "timestamp": "2026-09-04T09:03:17.597282587Z",
+  "model": "glm-5.3"
+}

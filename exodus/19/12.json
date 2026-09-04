@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Să hotărăști o hotar ⟨את⟩ poporul de jur împrejur, zicând: Păziți-vă să nu urcați pe munte și să nu atingeți marginea lui; orice om care atinge muntele va fi omorât cu moarte.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Să hotărăști o hotar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Păziți-vă"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vă"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "să urcați"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pe munte"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "și să nu atingeți"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "marginea lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice om care"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "atinge"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "מות",
+      "gloss": "cu moarte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "va fi omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:53.906920735Z",
+  "model": "glm-5.3"
+}

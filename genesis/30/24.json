@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și i-a pus numele Iosif, zicând: să mai adauge Yahve ⟨את⟩ un alt fiu.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "să mai adauge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "un altul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:44:44.883343420Z",
+  "model": "glm-5.3"
+}

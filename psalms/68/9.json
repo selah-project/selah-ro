@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Pământul s-a cutremurat, chiar și cerurile au picurat înaintea lui Elohim — acesta ⟨este⟩ Sinai — înaintea lui Elohim, Elohimului lui Israel.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Pământul"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "s-a cutremurat"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "au picurat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimului"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:48.990284792Z",
+  "model": "glm-5.3"
+}

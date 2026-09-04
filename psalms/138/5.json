@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 138,
+  "translation": "Vor cânta în căile lui Yahve, căci mare este slava lui Yahve.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "vor cânta"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "în căile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:45.523739122Z",
+  "model": "glm-5.3"
+}

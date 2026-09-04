@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Iar acum lasă-Mă, și va arde mânia Mea asupra lor și îi voi nimici, iar pe tine ⟨את⟩ te voi face un neam mare.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Iar acum"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "lasă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mă"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "și va arde"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mânia Mea"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "asupra lor"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "și îi voi nimici"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "iar... voi face"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "un neam mare"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:23.551386497Z",
+  "model": "glm-5.3"
+}

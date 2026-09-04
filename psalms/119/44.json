@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Și voi păzi Tora ta totdeauna, în veac și pururea.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "și voi păzi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora ta"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "totdeauna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și pururea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:53.797933965Z",
+  "model": "glm-5.3"
+}

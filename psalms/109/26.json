@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Ajută-mă, Yahve Elohim al meu, mântuiește-mă după hesedul tău (îndurarea ta).",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Ajută-mă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mântuiește-mă"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "după hesedul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:36.446802550Z",
+  "model": "glm-5.3"
+}

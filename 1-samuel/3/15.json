@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a dormit Șmuel până dimineața și a deschis ⟨את⟩ ușile casei lui Yahve; și Șmuel se temea să vestească ⟨את⟩ vedenia lui Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Și a dormit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "și a deschis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ușile casei lui Yahve"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ușile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "și Șmuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se temea"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "să vestească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vedenia"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "vedenia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:21.538973141Z",
+  "model": "glm-5.3"
+}

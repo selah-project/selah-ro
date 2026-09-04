@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Și-i va îngropa casa lui Israel, ca să curețe ⟨את⟩ țara, șapte luni.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "Și-i va îngropa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "curețe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "luni"
+    }
+  ],
+  "timestamp": "2026-09-04T09:04:42.091331154Z",
+  "model": "glm-5.3"
+}

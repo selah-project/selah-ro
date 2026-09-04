@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 21:11",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Pentru că a făcut Menașe, regele Iehudei, urâciunile acestea — a făcut rău mai mult decât tot ce au făcut Emorii care au fost înaintea lui — și a făcut să păcătuiască, chiar și ⟨את⟩ Iehuda, cu idolii lui.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Pentru că"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menașe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehudei"
+    },
+    {
+      "surface": "התעבות",
+      "gloss": "urâciunile"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a făcut rău"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mai mult decât tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "și a făcut să păcătuiască"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "בגלוליו",
+      "gloss": "cu idolii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:32:55.713108208Z",
+  "model": "glm-5.3"
+}

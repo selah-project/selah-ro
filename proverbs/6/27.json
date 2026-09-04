@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Poate ascunde un om foc în sânul lui, și hainele lui să nu se ardă?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "Poate ascunde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "în sânul lui"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "și hainele lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "se vor arde"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:58.374246318Z",
+  "model": "glm-5.3"
+}

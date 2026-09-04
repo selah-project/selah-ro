@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Rugăciune a lui David. Pleacă urechea ta, Yahve, și răspunde-mi, căci sărac și nevoiaș sunt eu.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Rugăciune"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a lui David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "pleacă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "urechea ta"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "răspunde-mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărac"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și nevoiaș"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:04.073608731Z",
+  "model": "glm-5.3"
+}

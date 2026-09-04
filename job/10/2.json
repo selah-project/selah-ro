@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Voi spune către Eloa: Nu mă osândi; fă-mă să știu pentru ce te cerți cu mine.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Voi spune"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "mă osândi"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fă-mă să știu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "te cerți cu mine"
+    }
+  ],
+  "timestamp": "2026-09-04T09:10:02.819698841Z",
+  "model": "glm-5.3"
+}

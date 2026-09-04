@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 121,
+  "translation": "Yahve te va păzi de tot răul, îți va păzi ⟨את⟩ sufletul tău.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "te va păzi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tot"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "va păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletul tău"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sufletul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:53.079399412Z",
+  "model": "glm-5.3"
+}

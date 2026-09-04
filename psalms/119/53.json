@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "O ardere de mânie m-a apucat din pricina răuvoitorilor, celor ce părăsesc Tora ta.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "O ardere de mânie"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "m-a apucat"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "din pricina răuvoitorilor"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "celor ce părăsesc"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:43.661795504Z",
+  "model": "glm-5.3"
+}

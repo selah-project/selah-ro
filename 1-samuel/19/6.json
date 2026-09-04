@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a ascultat Șaul glasul lui Iehonatan, și Șaul s-a jurat: Viu ⟨este⟩ Yahve, nu va fi omorât.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "și a ascultat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Iehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "și s-a jurat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Viu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(jurământul)"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "nu va fi omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:50.633091097Z",
+  "model": "glm-5.3"
+}

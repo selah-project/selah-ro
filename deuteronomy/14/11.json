@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Orice pasăre curată să mâncați.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Orice"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "pasăre"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "curată"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:04.304903398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "M-au înconjurat, da, m-au înconjurat; în numele lui Yahve ⟨iată⟩ le voi tăia degrabă.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "m-au înconjurat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "m-au înconjurat"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "îi voi tăia"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:00.019503799Z",
+  "model": "glm-5.3"
+}

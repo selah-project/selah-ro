@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar poporul nu s-a întors către cel ce îl lovea, și pe ⟨את⟩ Yahve Țevaot nu l-au căutat.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Iar poporul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "עד",
+      "gloss": "către"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "cel ce îl lovea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și pe ⟨את⟩",
+      "marks": "Yahve Țevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "l-au căutat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:48.085159060Z",
+  "model": "glm-5.3"
+}

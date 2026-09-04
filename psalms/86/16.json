@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Întoarce-Te către mine și îndură-Te de mine; dă tăria ta slugii tale și izbăvește pe fiul slujitoarei tale.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "întoarce-Te"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "și îndură-Te de mine"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "dă"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tăria ta"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "slugii tale"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "și izbăvește"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "pe fiul"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "slujitoarei tale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:09.546111653Z",
+  "model": "glm-5.3"
+}

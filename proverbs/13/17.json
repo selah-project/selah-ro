@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Un sol al răului va cădea în rău, iar un trimis de încredere aduce vindecare.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "sol"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "al răului"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "va cădea"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "în rău"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "iar un trimis"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "de încredere"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "aduce vindecare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:24.611233150Z",
+  "model": "glm-5.3"
+}

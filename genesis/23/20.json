@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și s-a întărit câmpul și peștera care ⟨este⟩ în el, lui Avraham, ca stăpânire de mormânt, de la ⟨את⟩ fiii lui Het.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "și s-a întărit"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpul"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "și peștera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "ca stăpânire"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "de mormânt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "fiii lui Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "חת",
+      "gloss": "lui Het"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:29.251505529Z",
+  "model": "glm-5.3"
+}

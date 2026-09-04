@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Cum suspină cerbul după pâraiele de apă, așa suspină sufletul meu după tine, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Cum cerbul"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "suspina"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "pâraiele"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de apă"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "suspina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "după tine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:17.616408350Z",
+  "model": "glm-5.3"
+}

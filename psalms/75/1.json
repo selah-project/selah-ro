@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Către dirijor: „Nu distruge”. Un mizmor al lui Asaf, un cântec.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "distruge"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "al lui Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cântec"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:39.922960922Z",
+  "model": "glm-5.3"
+}

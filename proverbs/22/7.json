@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Cel bogat stăpânește peste săraci, iar cel ce împrumută ⟨este⟩ rob al omului care dă cu împrumut.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Cel bogat"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "peste săraci"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "stăpânește"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "iar... rob"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "cel ce împrumută"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "al omului"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "care dă cu împrumut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:19.568264768Z",
+  "model": "glm-5.3"
+}

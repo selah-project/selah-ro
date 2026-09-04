@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a zis Huram, regele Țorului, în scris, și a trimis către Șelomo: «Din iubirea lui Yahve ⟨את⟩ poporul său te-a dat peste ei rege».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Țorului"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "în scris"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "din iubirea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul său"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "te-a dat"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rege"
+    }
+  ],
+  "timestamp": "2026-09-04T06:18:36.795688789Z",
+  "model": "glm-5.3"
+}

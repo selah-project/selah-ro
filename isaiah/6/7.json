@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și l-a atins pe gura mea și a spus: Iată, aceasta a atins buzele tale, și s-a îndepărtat nelegiuirea ta, și păcatul tău va fi ispășit.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Și l-a atins"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura mea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "a atins"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "buzele tale"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "și s-a îndepărtat"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "nelegiuirea ta"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "și păcatul tău"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "va fi ispășit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:25:10.378558427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Către cel ce conduce, cu instrumente cu coarde. O învățătură a lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către cel ce conduce"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "cu instrumente cu coarde"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "o învățătură"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:34.450583154Z",
+  "model": "glm-5.3"
+}

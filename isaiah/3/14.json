@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Yahve intră la judecată cu bătrânii poporului Său și cu căpeteniile lui; și voi ați pustiit via, prada săracului este în casele voastre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "la judecată"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "intră"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporului Său"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "și cu căpeteniile lui"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "și voi"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "ați pustiit"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "via"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "prada"
+    },
+    {
+      "surface": "העני",
+      "gloss": "săracului"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "în casele voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:44.471223632Z",
+  "model": "glm-5.3"
+}

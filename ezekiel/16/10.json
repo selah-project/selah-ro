@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și te-am îmbrăcat cu broderie, și te-am încălțat cu piele de tahăș, și te-am încins cu in subțire, și te-am acoperit cu mătase.",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "și te-am îmbrăcat"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "cu broderie"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "și te-am încălțat"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "cu piele de tahăș"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "și te-am încins"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "cu in subțire"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "și te-am acoperit"
+    },
+    {
+      "surface": "משי",
+      "gloss": "cu mătase"
+    }
+  ],
+  "timestamp": "2026-09-04T04:23:21.087426717Z",
+  "model": "glm-5.3"
+}

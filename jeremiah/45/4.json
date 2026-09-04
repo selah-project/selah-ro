@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Așa să-i spui lui: Așa a vorbit Yahve: Iată, ce am zidit eu dărâm, și ⟨את⟩ ce am sădit eu smulg — și ⟨את⟩ toată țara, ea.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "să-i spui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "am zidit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "dărâm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ce am sădit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "am sădit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "smulg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată țara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:15:14.318206401Z",
+  "model": "glm-5.3"
+}

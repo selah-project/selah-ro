@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Și în Numele lui Yahve am chemat: O, Yahve, scapă-mi sufletul!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Și în Numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "am chemat"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "O,"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "scapă"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:52.221066298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 125,
+  "translation": "Ierușalaim — munți ⟨sunt⟩ de jur împrejurul ei, și Yahve ⟨este⟩ de jur împrejurul poporului său, de acum și până în veac.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munți"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejurul"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "și Yahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejurul"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "poporului său"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "de acum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:59.829270287Z",
+  "model": "glm-5.3"
+}

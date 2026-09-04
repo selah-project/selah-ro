@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a zidit din pietre ⟨את⟩ altarul în numele lui Yahve, și a făcut un șanț, cât pentru două măsuri de sămânță, de jur împrejurul altarului.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Și a zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "pietrele"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "un șanț"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "cât pentru"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "două măsuri"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "de sămânță"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altarului"
+    }
+  ],
+  "timestamp": "2026-09-04T08:56:48.508157089Z",
+  "model": "glm-5.3"
+}

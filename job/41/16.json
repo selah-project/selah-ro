@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Inima lui ⟨este⟩ turnată ca piatra, și turnată ca piatra de jos ⟨de moară⟩.",
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "turnată"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "piatra"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "și turnată"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "ca piatra de moară"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "de jos"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:02.104502404Z",
+  "model": "glm-5.3"
+}

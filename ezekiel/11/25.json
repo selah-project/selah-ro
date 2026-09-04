@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și am vorbit către ⟨את⟩ exilaților toate cuvintele lui Yahve, pe care mi le-a arătat ⟨el⟩.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Și am vorbit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "exilaților"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele lui Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mi le-a arătat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:21:06.865340286Z",
+  "model": "glm-5.3"
+}

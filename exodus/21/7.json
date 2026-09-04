@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Iar dacă își vinde un om ⟨את⟩ fiica ca slujitoare, ea nu va ieși cum ies robii.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "vinde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiica lui"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "fiica lui"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ca slujitoare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "va ieși"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "cum iese"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "robii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:18.218255834Z",
+  "model": "glm-5.3"
+}

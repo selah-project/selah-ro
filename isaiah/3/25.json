@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Bărbații tăi vor cădea de sabie, și puterea ta în război.",
+  "tokens": [
+    {
+      "surface": "מְתַיִךְ",
+      "gloss": "bărbații tăi"
+    },
+    {
+      "surface": "בַּחֶרֶב",
+      "gloss": "de sabie"
+    },
+    {
+      "surface": "יִפֹּלוּ",
+      "gloss": "vor cădea"
+    },
+    {
+      "surface": "וְגְבוּרָתֵךְ",
+      "gloss": "și puterea ta"
+    },
+    {
+      "surface": "בַּמִּלְחָמָה",
+      "gloss": "în război"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:30.950837552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și îl va junghia pe el pe latura altarului, spre miazănoapte, înaintea lui Yahve; și fiii lui Aharon, cohenii, vor stropi ⟨את⟩ sângele lui pe altar, de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "și îl va junghia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pe el ⟨את⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "latura"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarului"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "spre miazănoapte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "și vor stropi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele lui"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:49.118759706Z",
+  "model": "glm-5.3"
+}

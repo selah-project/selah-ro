@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și s-a mâniat Yahve asupra lui Șelomo, pentru că inima lui se abătuse de la Yahve, Elohim al lui Israel, care i se arătase de două ori.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "Și s-a mâniat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "asupra lui Șelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "se abătuse"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "care se arătase"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "de două ori"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:06.921153775Z",
+  "model": "glm-5.3"
+}

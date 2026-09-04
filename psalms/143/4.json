@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Și duhul meu s-a înnămolit peste mine, înăuntrul meu inima mea a rămas pustie.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "Și s-a înnămolit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "inăuntrul meu"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "a rămas pustie"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:34.433243189Z",
+  "model": "glm-5.3"
+}

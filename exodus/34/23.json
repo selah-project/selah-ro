@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "De trei ori pe an să se arate tot partea ta bărbătească înaintea ⟨את⟩ feței Stăpânului Yahve, Elohimul lui Israel.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "De trei"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ori"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pe an"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "să se arate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "partea ta bărbătească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feței"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Stăpânului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:49.182428354Z",
+  "model": "glm-5.3"
+}

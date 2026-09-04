@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Căci zici: „Ce folos ai Tu? Ce câștig eu de la păcatul meu?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "zici"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "folos ai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "câștig eu"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "de la păcatul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:00.428328171Z",
+  "model": "glm-5.3"
+}

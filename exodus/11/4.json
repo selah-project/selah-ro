@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a spus Moșe: așa a spus Yahve: pe la miezul nopții voi ieși Eu în mijlocul Mițraimului.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "pe la miezul"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nopții"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "voi ieși"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:37.564926048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Iar orice rob, om cumpărat cu argint, și l-ai tăiat împrejur ⟨את⟩ pe el — atunci va mânca din el.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Iar orice"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "איש",
+      "gloss": "al omului"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "cumpărat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cu argint"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "și l-ai tăiat împrejur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "va mânca"
+    },
+    {
+      "surface": "בו",
+      "gloss": "din el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:13.732878197Z",
+  "model": "glm-5.3"
+}

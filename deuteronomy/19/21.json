@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și ochiul tău să nu cruțe: viață ⟨pentru⟩ viață, ochi ⟨pentru⟩ ochi, dinte ⟨pentru⟩ dinte, mână ⟨pentru⟩ mână, picior ⟨pentru⟩ picior.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "să cruțe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ochiul tău"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "viață"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "⟨pentru⟩ viață"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochi"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "⟨pentru⟩ ochi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dinte"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "⟨pentru⟩ dinte"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mână"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨pentru⟩ mână"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "picior"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "⟨pentru⟩ picior"
+    }
+  ],
+  "timestamp": "2026-09-04T02:07:57.613555717Z",
+  "model": "glm-5.3"
+}

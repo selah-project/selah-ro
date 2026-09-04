@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și i s-au născut șapte fii și trei fiice.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "și s-au născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "și trei"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiice"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:00.862881178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 100,
+  "translation": "Intrați pe porțile lui cu mulțumire și în curțile lui cu laudă; mulțumiți-i, binecuvântați numele lui.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Intrați"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "pe porțile lui"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "cu mulțumire"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "în curțile lui"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "cu laudă"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "mulțumiți-i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(lui)"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "binecuvântați"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:59.865401604Z",
+  "model": "glm-5.3"
+}

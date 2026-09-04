@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a spus regele Țidkiahu: „Iată, el este în mâinile voastre, căci regele nu poate ⟨să vă refuze⟩ niciun cuvânt.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Țidkiahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "în mâinile voastre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "poate"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niciun cuvânt"
+    }
+  ],
+  "timestamp": "2026-09-04T07:37:34.003602848Z",
+  "model": "glm-5.3"
+}

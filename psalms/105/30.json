@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "A forfecat țara lor de broaște, în cămările regilor lor.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "a forfecat"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "țara lor"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "de broaște"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "în cămările"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "regilor lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:01.494990803Z",
+  "model": "glm-5.3"
+}

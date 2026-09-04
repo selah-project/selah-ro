@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Nu cumva ca Karkemiș ⟨este⟩ Kalno? Oare nu ca Arpad ⟨este⟩ Hamat? Oare nu ca Damașec ⟨este⟩ Șomron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nu cumva"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "ca Karkemiș"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "ca Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "ca Damașec"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Șomron"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:48.744725539Z",
+  "model": "glm-5.3"
+}

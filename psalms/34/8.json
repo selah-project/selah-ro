@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Tabără un sol ⟨al lui⟩ Yahve în jurul celor care se tem de el și îi scoate ⟨din primejdie⟩.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "Tabără"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "un sol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "al lui Yahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "în jurul"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "celor care se tem de el"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "și îi scoate"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:26.003993781Z",
+  "model": "glm-5.3"
+}

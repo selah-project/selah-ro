@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Iar Șaul dăduse ⟨את⟩ Mikal, fata lui, soția lui David, lui Palti, fiul lui Laiș, cel din Galim.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "iar Șaul"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dăduse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "fata lui"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "lui Palti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "lui Laiș"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "din Galim"
+    }
+  ],
+  "timestamp": "2026-09-04T02:51:14.601983199Z",
+  "model": "glm-5.3"
+}

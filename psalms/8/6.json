@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și l-ai lipsit cu puțin față de Elohim, și cu slavă și cu măreție îl încununezi.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Și l-ai lipsit"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "cu puțin"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "față de Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "și slavă"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "și măreție"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "îl încununezi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:52:56.645837677Z",
+  "model": "glm-5.3"
+}

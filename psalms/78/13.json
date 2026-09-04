@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "A crăpat marea și i-a trecut ⟨pe ei⟩ prin ea; și a pus apele să stea ca un maldăr.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "A crăpat"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "și i-a trecut ⟨pe ei⟩"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "și a pus să stea"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "נד",
+      "gloss": "un maldăr"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:46.028113733Z",
+  "model": "glm-5.3"
+}

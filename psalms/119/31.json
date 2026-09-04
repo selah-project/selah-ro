@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "M-am lipit de mărturiile tale; Yahve, să nu mă faci de rușine.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "m-am lipit"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "de mărturiile tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "mă faci de rușine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:11.929735148Z",
+  "model": "glm-5.3"
+}

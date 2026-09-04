@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Căci Yahve, Elohimul tău, te aduce într-un pământ bun, un pământ de pâraie de apă, de izvoare și de adâncuri care ies în vale și în munte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "te aduce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "un pământ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "un pământ"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "de pâraie"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de apă"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "de izvoare"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "și de adâncuri"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "care ies"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "în vale"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "și în munte"
+    }
+  ],
+  "timestamp": "2026-09-04T02:02:06.280818987Z",
+  "model": "glm-5.3"
+}

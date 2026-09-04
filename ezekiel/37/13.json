@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și veți ști că eu ⟨sunt⟩ Yahve, când deschid ⟨את⟩ mormintele voastre și când scot ⟨את⟩ pe voi din mormintele voastre, poporul meu.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "și veți ști"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "când deschid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mormintele voastre"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "mormintele voastre"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "și când scot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "din mormintele voastre"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:46:46.807423258Z",
+  "model": "glm-5.3"
+}

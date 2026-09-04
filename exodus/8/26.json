@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a ieșit Moșe de la Paro și s-a rugat către Yahve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "și s-a rugat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:41.386851278Z",
+  "model": "glm-5.3"
+}

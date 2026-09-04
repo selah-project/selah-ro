@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și ⟨את⟩ sfeșnicele și candelele lor, ca să le aprindă după rânduială înaintea Devirului, aur curat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sfeșnicele"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "sfeșnicele"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "și candelele lor"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "ca să le aprindă"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "după rânduială"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Devirului"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "curat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:18:13.385070371Z",
+  "model": "glm-5.3"
+}

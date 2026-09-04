@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Sfințeniile mele ai disprețuit, și ⟨את⟩ Șabaturile mele ai pângărit.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Sfințeniile mele"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "ai disprețuit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șabaturile mele"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Șabaturile mele"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ai pângărit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:43:25.313807284Z",
+  "model": "glm-5.3"
+}

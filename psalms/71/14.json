@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Iar eu voi nădăjdui neîncetat și voi adăuga ⟨asupra⟩ întregii laude a tale.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "voi nădăjdui"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "și voi adăuga"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨asupra⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregii"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "laude a tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:16.334772226Z",
+  "model": "glm-5.3"
+}

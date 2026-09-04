@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a trimis Iaacov trimiși înaintea lui, către Esav, fratele lui, în țara Seir, câmpia lui Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "trimiși"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "câmpia"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "lui Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:09.977711303Z",
+  "model": "glm-5.3"
+}

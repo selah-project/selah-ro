@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a ieșit Moșe în întâmpinarea socrului lui, s-a închinat și l-a sărutat, și au întrebat fiecare pe aproapele lui de pace, și au intrat în cort.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "în întâmpinarea"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "socrului lui"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "s-a închinat"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "și l-a sărutat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "și au întrebat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "pe aproapele lui"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "de pace"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au intrat"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "în cort"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:50.164515565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 9:10",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "și n-am ascultat de glasul lui Yahve Elohim al nostru, ca să umblăm în Tora lui, pe care a dat-o înaintea feței noastre prin mâna robilor lui, naviy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "am ascultat"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ca să umblăm"
+    },
+    {
+      "surface": "בתורתיו",
+      "gloss": "în Tora lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat-o"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "înaintea feței noastre"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "robilor lui"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "naviy"
+    }
+  ],
+  "timestamp": "2026-09-04T05:52:30.189981875Z",
+  "model": "glm-5.3"
+}

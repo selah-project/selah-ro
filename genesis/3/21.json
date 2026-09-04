@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a făcut Yahve Elohim pentru Adam și pentru soția lui haine de piele, și i-a îmbrăcat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "pentru Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "și pentru soția lui"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "haine"
+    },
+    {
+      "surface": "עור",
+      "gloss": "de piele"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "și i-a îmbrăcat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:27.172908632Z",
+  "model": "glm-5.3"
+}

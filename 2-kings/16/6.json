@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "În vremea aceea a întors Rețin, împăratul Aramului, ⟨את⟩ Eilat către Aram, și a alungat ⟨את⟩ iudeii din Eilat; și aramienii au venit la Eilat și au locuit acolo până în ziua aceasta.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "În vremea"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "a întors"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Rețin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "împăratul"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilat"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "către Aram"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "și a alungat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iudeii"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeii"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "din Eilat"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "și aramienii"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "la Eilat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "și au locuit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:19.398073153Z",
+  "model": "glm-5.3"
+}

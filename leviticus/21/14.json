@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Văduvă și divorțată și pângărită, o curvă — ⟨את⟩ acestea nu va lua, ci numai o fecioară din poporul lui va lua de soție.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Văduvă"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "și divorțată"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "și pângărită"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "o curvă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acestea"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "numai"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "o fecioară"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "din poporul lui"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "de soție"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:34.926530963Z",
+  "model": "glm-5.3"
+}

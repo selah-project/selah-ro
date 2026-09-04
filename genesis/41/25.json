@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "A spus Iosef către Paro: visul lui Paro este unul singur: ⟨את⟩ ceea ce face Elohim a vestit lui Paro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "visul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce face Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "a vestit"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "lui Paro"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:11.898663754Z",
+  "model": "glm-5.3"
+}

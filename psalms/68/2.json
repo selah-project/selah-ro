@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Să se ridice Elohim, să se împrăștie vrăjmașii lui, și să fugă de la fața lui cei ce-l urăsc.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "să se ridice"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "să se împrăștie"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "vrăjmașii lui"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "și să fugă"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "cei ce-l urăsc"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de la fața lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:31.137453382Z",
+  "model": "glm-5.3"
+}

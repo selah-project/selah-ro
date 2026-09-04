@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Întoarce-ți urechea către mine și răspunde-mi: rătăcesc în plângerea mea și gem.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Întoarce-ți urechea către"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mine"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "și răspunde-mi"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "rătăcesc"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "în plângerea mea"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "și gem"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:29.388369464Z",
+  "model": "glm-5.3"
+}

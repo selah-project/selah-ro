@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Oare nu m-ai turnat ca laptele și ca brânza m-ai închegat?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "ca laptele"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "m-ai turnat"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "și ca brânza"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "m-ai închegat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:47.035101610Z",
+  "model": "glm-5.3"
+}

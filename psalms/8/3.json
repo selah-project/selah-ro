@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Din gura pruncilor și a sugătorilor ai întemeiat tărie, din pricina vrăjmașilor tăi, ca să amuțești pe vrăjmaș și pe cel răzbunător.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Din gura"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "pruncilor"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "și a sugătorilor"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ai întemeiat"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tărie"
+    },
+    {
+      "surface": "למען",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "vrăjmașilor tăi"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "ca să amuțești"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "pe vrăjmaș"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "și pe cel răzbunător"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:01.148733065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "A luat Țipora o piatră ascuțită și a tăiat ⟨את⟩ prepuțul fiului ei și l-a atins de picioarele lui și a spus: Chiar mire de sânge ești tu mie!",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "A luat"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Țipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "o piatră ascuțită"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "și a tăiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prepuțul fiului ei"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "prepuțul"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiului ei"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "și l-a atins"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "de picioarele lui"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Chiar"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mire"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "de sânge"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:12.942741395Z",
+  "model": "glm-5.3"
+}

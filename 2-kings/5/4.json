@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a intrat și a vestit stăpânului său, zicând: Așa și așa a vorbit fata care este din țara Israelului.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a intrat"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "și a vestit"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "stăpânului său"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "și așa"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "fata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:44.650008774Z",
+  "model": "glm-5.3"
+}

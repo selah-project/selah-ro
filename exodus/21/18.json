@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și dacă se vor certa niște oameni și un om îl va lovi ⟨את⟩ pe aproapele lui cu piatra sau cu pumnul, și nu va muri, ci va cădea la pat,",
+  "tokens": [
+    {
+      "surface": "וְכִֽי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "יְרִיבֻ֣ן",
+      "gloss": "se vor certa"
+    },
+    {
+      "surface": "אֲנָשִׁ֔ים",
+      "gloss": "niște oameni"
+    },
+    {
+      "surface": "וְהִכָּ֥ה",
+      "gloss": "și îl va lovi"
+    },
+    {
+      "surface": "אִיש֙",
+      "gloss": "un om"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pe aproapele lui"
+    },
+    {
+      "surface": "רֵעֵ֔הוּ",
+      "gloss": "aproapele lui"
+    },
+    {
+      "surface": "בְּאֶ֖בֶן",
+      "gloss": "cu piatra"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "sau"
+    },
+    {
+      "surface": "בְּאֶגְרֹ֑ף",
+      "gloss": "cu pumnul"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יָמ֖וּת",
+      "gloss": "va muri"
+    },
+    {
+      "surface": "וְנָפַ֥ל",
+      "gloss": "ci va cădea"
+    },
+    {
+      "surface": "לְמִשְׁכָּֽב",
+      "gloss": "la pat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:14.537243756Z",
+  "model": "glm-5.3"
+}

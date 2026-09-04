@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Ca un râs este pentru neînțelept să facă răutate, iar înțelepciunea este pentru omul cu pricepere.",
+  "tokens": [
+    {
+      "surface": "כִּשְׂחֹק",
+      "gloss": "ca un râs"
+    },
+    {
+      "surface": "לִכְסִיל",
+      "gloss": "pentru neînțelept"
+    },
+    {
+      "surface": "עֲשׂוֹת",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "זִמָּה",
+      "gloss": " răutate"
+    },
+    {
+      "surface": "וְחָכְמָה",
+      "gloss": "iar înțelepciunea"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "pentru omul"
+    },
+    {
+      "surface": "תְּבוּנָה",
+      "gloss": "cu pricepere"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:54.817504097Z",
+  "model": "glm-5.3"
+}

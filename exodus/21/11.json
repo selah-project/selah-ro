@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Iar dacă aceste trei nu-i va face, să iasă fără plată, fără argint.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trei"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "să iasă"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "fără plată"
+    },
+    {
+      "surface": "אין",
+      "gloss": "fără"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:41.090803548Z",
+  "model": "glm-5.3"
+}

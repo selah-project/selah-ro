@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Mizmor al lui David: Yahve ⟨este⟩ păstorul meu, nu voi duce lipsă.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "păstorul meu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "voi duce lipsă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:00.465407907Z",
+  "model": "glm-5.3"
+}

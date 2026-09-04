@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 129,
+  "translation": "Cântare a urcărilor. Mult m-au încleștat din tinerețile mele — să spună acum Israel:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Mult"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "m-au încleștat"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "din tinerețile mele"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "să spună"
+    },
+    {
+      "surface": "נא",
+      "gloss": "acum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:28.369948590Z",
+  "model": "glm-5.3"
+}

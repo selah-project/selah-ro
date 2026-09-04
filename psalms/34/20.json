@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Multe ⟨sunt⟩ relele dreptului, dar din toate ele îl izbăvește Yahve.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Multe"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "rele"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ale dreptului"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "dar din toate ele"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "îl izbăvește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:42.998680561Z",
+  "model": "glm-5.3"
+}

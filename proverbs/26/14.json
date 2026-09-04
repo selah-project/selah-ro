@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Ușa se învârte pe balamaua ei, și leneșul — pe patul lui.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "ușa"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "se învârte"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "balamaua ei"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "și leneșul"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "patul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:34.604056647Z",
+  "model": "glm-5.3"
+}

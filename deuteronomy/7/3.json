@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și să nu te încuscrești cu ele: pe fiica ta să nu i-o dai fiului lui și pe fiica lui să nu i-o iei fiului tău;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și să nu"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "te încuscrești"
+    },
+    {
+      "surface": "בם",
+      "gloss": "cu ele"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "fiica ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "i-o dai"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "fiului lui"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "și fiica lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "i-o iei"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "fiului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:38.757794165Z",
+  "model": "glm-5.3"
+}

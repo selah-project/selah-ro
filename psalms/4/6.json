@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Jertfiți jertfe de dreptate și încredeți-vă în Yahve.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Jertfiți"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "jertfe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "de dreptate"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "și încredeți-vă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:23.135258345Z",
+  "model": "glm-5.3"
+}

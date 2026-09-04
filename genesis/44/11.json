@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Și s-au grăbit și au coborât fiecare ⟨את⟩ sacul său la pământ, și a deschis fiecare sacul său.",
+  "tokens": [
+    {
+      "surface": "וַיְמַהֲר֗וּ",
+      "gloss": "și s-au grăbit"
+    },
+    {
+      "surface": "וַיּוֹרִ֛דוּ",
+      "gloss": "și au coborât"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sacul său"
+    },
+    {
+      "surface": "אַמְתַּחְתּ֖וֹ",
+      "gloss": "sacul său"
+    },
+    {
+      "surface": "אָ֑רְצָה",
+      "gloss": "la pământ"
+    },
+    {
+      "surface": "וַיִּפְתְּח֖וּ",
+      "gloss": "și au deschis"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "אַמְתַּחְתּֽוֹ",
+      "gloss": "sacul său"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:27.191055757Z",
+  "model": "glm-5.3"
+}

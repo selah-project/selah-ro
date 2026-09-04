@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "și ⟨את⟩ robii voștri și ⟨את⟩ roabele voastre și ⟨את⟩ tinerii voștri cei buni și ⟨את⟩ măgarii voștri îi va lua și-i va pune la treaba lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "robii voștri"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "robii voștri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "roabele voastre"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "roabele voastre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tinerii voștri cei buni"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "tinerii voștri"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "cei buni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "măgarii voștri"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "măgarii voștri"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "îi va lua"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și-i va pune"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "la treaba lui"
+    }
+  ],
+  "timestamp": "2026-09-04T10:11:30.671676336Z",
+  "model": "glm-5.3"
+}

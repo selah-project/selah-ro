@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a zis: O cerere una, mică, cer eu de la ⟨את⟩ tine; nu întoarce ⟨את⟩ fața mea. Și i-a zis regele: Cere, mama mea, căci nu voi întoarce ⟨את⟩ fața ta.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "o cerere"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "mică"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "cer"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "de la ⟨את⟩ tine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "întoarce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața mea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Cere"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "voi întoarce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața ta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:09:35.568080418Z",
+  "model": "glm-5.3"
+}

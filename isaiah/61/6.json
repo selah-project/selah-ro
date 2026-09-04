@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 61:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 61,
+  "translation": "Iar voi, cohanii lui Yahve veți fi chemați, «slujitori ai Elohim nostru» se va spune vouă; avuția neamurilor o veți mânca și în slava lor vă veți mândri.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Iar voi"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "cohanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "veți fi chemați"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "slujitori"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ai Elohim nostru"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se va spune"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "avuția"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "veți mânca"
+    },
+    {
+      "surface": "ובכבודם",
+      "gloss": "și în slava lor"
+    },
+    {
+      "surface": "תתימרו",
+      "gloss": "vă veți mândri"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:56.092676041Z",
+  "model": "glm-5.3"
+}

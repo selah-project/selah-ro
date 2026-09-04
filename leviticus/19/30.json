@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "⟨את⟩ Șabaturile Mele să le păziți și sfântul Meu locaș să-l cinstiți cu evlavie; Eu sunt Yahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șabaturile Mele"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Șabaturile Mele"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "să păziți"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "și sfântul Meu locaș"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "să cinstiți cu evlavie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:51.208336619Z",
+  "model": "glm-5.3"
+}

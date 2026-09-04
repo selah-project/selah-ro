@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Cuvintele nelegiuirilor m-au covârșit; căderile noastre — tu le vei acoperi.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "nelegiuirilor"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "m-au covârșit"
+    },
+    {
+      "surface": "מני",
+      "gloss": "pe mine"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "căderile noastre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "le vei acoperi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:15.340403431Z",
+  "model": "glm-5.3"
+}

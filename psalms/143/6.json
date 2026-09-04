@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Mi-am întins mâinile către tine, sufletul meu ⟨este⟩ ca un pământ istovit — Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "mi-am întins"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâinile"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "ca un pământ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "istovit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:26.679758427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "După Yahve vor merge, ca un leu va răcni — căci El va răcni, și vor tremura fiii din apus.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "După"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vor merge"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ca un leu"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "va răcni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "va răcni"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "și vor tremura"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "מים",
+      "gloss": "din apus"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:41.670710345Z",
+  "model": "glm-5.3"
+}

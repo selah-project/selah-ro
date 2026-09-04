@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Slava împărăției tale o vor vesti, și puterea ta o vor grăi.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Slava"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "împărăției tale"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vor vesti"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "și puterea ta"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vor grăi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:56.726492525Z",
+  "model": "glm-5.3"
+}

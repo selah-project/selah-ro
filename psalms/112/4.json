@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "A răsărit în întuneric lumină pentru cei drepți: îndurător și milostiv și drept.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "A răsărit"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "în întuneric"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumină"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "pentru cei drepți"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "îndurător"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "și milostiv"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "și drept"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:50.135377110Z",
+  "model": "glm-5.3"
+}

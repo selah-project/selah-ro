@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Yahve, Adonai al nostru, cât de măreț ⟨este⟩ numele tău în tot pământul, cel ce ți-ai pus strălucirea peste ceruri!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai al nostru"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cât"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "de măreț"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel ce"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ți-ai pus"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "strălucirea ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    }
+  ],
+  "timestamp": "2026-09-04T09:06:05.289438386Z",
+  "model": "glm-5.3"
+}

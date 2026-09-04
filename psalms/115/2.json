@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Pentru ce să zică neamurile: «Unde ⟨este⟩, rogu-te, Elohimul lor?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pentru ce"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "să zică"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Unde"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rogu-te"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:06.763213983Z",
+  "model": "glm-5.3"
+}

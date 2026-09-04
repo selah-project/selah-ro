@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "L-am aflat pe David, slujitorul meu; cu untdelemnul sfințeniei mele l-am uns.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "L-am aflat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "pe David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slujitorul meu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "cu untdelemnul"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sfințeniei mele"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "l-am uns"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:04.416285476Z",
+  "model": "glm-5.3"
+}

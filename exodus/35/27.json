@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și căpeteniile au adus ⟨את⟩ pietrele de șoham și ⟨את⟩ pietrele pentru monturi, pentru efod și pentru hoșen.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "Și căpeteniile"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "au adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pietrele de șoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pietrele"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "de șoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pietrele pentru monturi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pietrele"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pentru monturi"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "pentru efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "și pentru hoșen"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:46.261718601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a sădit Yahve Elohim o grădină în Eden, spre răsărit, și a pus acolo ⟨את⟩ omul pe care îl plămuise.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "și a sădit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "o grădină"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "în Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "spre răsărit"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "plămuise"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:56.029257413Z",
+  "model": "glm-5.3"
+}

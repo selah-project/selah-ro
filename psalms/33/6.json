@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Prin cuvântul lui Yahve au fost făcute cerurile și prin duhul gurii lui toată oștirea lor.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Prin cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "au fost făcute"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "și prin duhul"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "gurii lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "oștirea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:25.721550963Z",
+  "model": "glm-5.3"
+}

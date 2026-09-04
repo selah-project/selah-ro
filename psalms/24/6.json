@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Acesta este neamul celor ce-l caută pe ⟨el⟩, celor ce caută fața ta, Iaacov. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "דור",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "celor ce-l caută"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "cei ce caută"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:35.414582818Z",
+  "model": "glm-5.3"
+}

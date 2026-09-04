@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Iar dacă va naște o fată, va fi necurată două săptămâni, ca la menstruația ei, și șaizeci de zile și șase zile va sta pe sângele curățirii ei.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "o fată"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "va naște"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "va fi necurată"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "două săptămâni"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "ca la menstruația ei"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "și șaizeci"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de zile"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "și șase"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "va sta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "curățirii ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:34:36.746272162Z",
+  "model": "glm-5.3"
+}

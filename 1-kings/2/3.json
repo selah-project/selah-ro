@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 2:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și să păzești ⟨את⟩ paza lui Yahve, Elohim al tău, ca să mergi pe căile lui, să păzești legile lui, poruncile lui, judecățile lui și mărturiile lui, cum este scris în Tora lui Moșe, ca să izbutești în ⟨את⟩ tot ce vei face și oriunde ⟨את⟩ te vei întoarce acolo.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "și să păzești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paza lui Yahve"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "paza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ca să mergi"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "pe căile lui"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păzești"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "legile lui"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "poruncile lui"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "și judecățile lui"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "și mărturiile lui"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "cum este scris"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "în Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "izbutești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce vei face"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot ce te vei întoarce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "te vei întoarce"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T07:17:26.084782227Z",
+  "model": "glm-5.3"
+}

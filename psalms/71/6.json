@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Pe tine m-am sprijinit din pântece, din măruntaiele mamei mele tu m-ai scos; în tine ⟨este⟩ lauda mea neîncetat.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Pe tine"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "m-am sprijinit"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "din pântece"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "din măruntaiele"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamei mele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "m-ai scos"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lauda mea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:20.099376493Z",
+  "model": "glm-5.3"
+}

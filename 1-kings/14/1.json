@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "În vremea aceasta s-a îmbolnăvit Avia, fiul lui Iarovam.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "În vremea"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "s-a îmbolnăvit"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Iarovam"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:50.826138737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și cei care tabără lângă el: seminția lui Yișașhar; și căpetenia fiilor lui Yișașhar: Netanel, fiul lui Țuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "și cei care tabără"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lângă el"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "seminția"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yișașhar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "și căpetenia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yișașhar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Țuar"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:50.033059771Z",
+  "model": "glm-5.3"
+}

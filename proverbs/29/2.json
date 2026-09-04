@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Când se înmulțesc drepții, se bucură poporul; și când domnește un răufăcător, oftează poporul.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "când se înmulțesc"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "drepții"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se bucură"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "și când domnește"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "un răufăcător"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "oftează"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:17.506370898Z",
+  "model": "glm-5.3"
+}

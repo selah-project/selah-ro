@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "La gura ta — un șofar! Ca un vultur peste casa lui Yahve, fiindcă au trecut peste legământul meu și împotriva Torei mele s-au răzvrătit.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "La"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "gura ta"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "un șofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "ca un vultur"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut peste"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și împotriva"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torei mele"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "s-au răzvrătit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:59.731876717Z",
+  "model": "glm-5.3"
+}

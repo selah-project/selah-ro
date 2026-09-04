@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Iar ⟨את⟩ ochii lui Țidkiyahu i-a orbit, și l-a legat cu lanțuri de aramă, ca să-l ducă ⟨את⟩ în Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "ochii lui Țidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "lui Țidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "a orbit"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "și l-a legat"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "cu lanțuri de aramă"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ca să-l ducă"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el (sufixul -l din «să-l ducă»)"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "în Bavel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:13:26.406624188Z",
+  "model": "glm-5.3"
+}

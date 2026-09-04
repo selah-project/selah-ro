@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Nu uita glasul vrăjmașilor tăi, vuietul celor ce se ridică împotriva ta, se urcă neîncetat.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "uita"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "vrăjmașilor tăi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "vuietul"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "celor ce se ridică împotriva ta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "se urcă"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:18.466988897Z",
+  "model": "glm-5.3"
+}

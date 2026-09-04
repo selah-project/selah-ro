@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și regele a întins către Ester ⟨את⟩ sceptrul de aur, iar Ester s-a ridicat și a stat înaintea regelui.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "Și a întins"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "către Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sceptrul"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "sceptrul"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "iar s-a ridicat"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "și a stat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:13:55.854622707Z",
+  "model": "glm-5.3"
+}

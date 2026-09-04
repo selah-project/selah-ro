@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 67,
+  "translation": "Căruia se dă în grija cântării, cu instrumente cu coarde. Un mizmor, un cântec.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Căruia se dă în grija cântării"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "cu instrumente cu coarde"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un cântec"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:14.659701548Z",
+  "model": "glm-5.3"
+}

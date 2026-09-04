@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 10:16",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Iar ⟨את⟩ țapul jertfei de păcat l-a căutat cu căutare Moșe, și iată ⟨era⟩ ars; și s-a mâniat asupra lui Elazar și asupra lui Itamar, fiții lui Aharon, cei rămași, zicând:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iar ⟨את⟩",
+      "marks": "țapul jertfei de păcat"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "țapul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfei de păcat"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "a căutat"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "cu căutare"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "era ars"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "și s-a mâniat"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "lui Elazar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "lui Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiții"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "הנותרם",
+      "gloss": "celor rămași"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:00.568798152Z",
+  "model": "glm-5.3"
+}

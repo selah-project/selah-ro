@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și să facă fiii lui Israel ⟨את⟩ Pesahul la vremea lui.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Și să facă"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesahul"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesahul"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "la vremea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:46:43.521962313Z",
+  "model": "glm-5.3"
+}

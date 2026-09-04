@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a mers Iehuda împotriva Chenaanului care locuia în Hevron — iar numele lui Hevron era înainte Chiriat-Arba — și i-au lovit ⟨את⟩ pe Șeșai și ⟨את⟩ pe Ahiman și ⟨את⟩ pe Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Chenaanului"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "care locuia"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "în Hevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "— și numele"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "lui Hevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "era înainte"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Chiriat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și i-au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șeșai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "pe Șeșai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Ahiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "pe Ahiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "pe Talmai"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:09.069511598Z",
+  "model": "glm-5.3"
+}

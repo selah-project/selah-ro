@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Munții s-au topit ca ceara de dinaintea lui Yahve, de dinaintea stăpânului întregului pământ.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Munții"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ca ceara"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "s-au topit"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de dinaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de dinaintea"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "stăpânului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:19.276556720Z",
+  "model": "glm-5.3"
+}

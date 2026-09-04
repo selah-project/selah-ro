@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Înțelept este leneșul în ochii lui, mai mult decât șapte care răspund cu judecată.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leneșul"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "decât șapte"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "care răspund"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "cu judecată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:34.604492702Z",
+  "model": "glm-5.3"
+}

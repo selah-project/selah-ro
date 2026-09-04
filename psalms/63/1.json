@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Mizmor al lui David, când era el în pustiul lui Iehuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "când era el"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiul"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:31.038579789Z",
+  "model": "glm-5.3"
+}

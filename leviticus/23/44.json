@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a vorbit Moșe ⟨את⟩ sărbătorile lui Yahve către fiii lui Israel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sărbătorile lui Yahve"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "sărbătorile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:39.838983224Z",
+  "model": "glm-5.3"
+}

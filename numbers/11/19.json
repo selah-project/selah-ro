@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Nu o zi veți mânca, nici două zile, nici cinci zile, nici zece zile, nici douăzeci de zili — nici douăzeci de zile",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "o zi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "veți mânca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nici"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "două zile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nici"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nici"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zece"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nici"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci de"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T06:53:26.421259683Z",
+  "model": "glm-5.3"
+}

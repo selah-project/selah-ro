@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Glas de zarvă din cetate, glas din heihal (templu), glasul lui Yahve, care răsplătește răsplată vrăjmașilor lui.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Glas"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "de zarvă"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "din cetate"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "din heihal (templu)"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "care răsplătește"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "răsplată"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "vrăjmașilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:56:38.227911207Z",
+  "model": "glm-5.3"
+}

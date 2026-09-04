@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Păcatul poporului meu îl mănâncă, și spre nelegiuirea lor își ridică sufletul lui.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Păcatul"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "îl mănâncă"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și spre"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "nelegiuirea lor"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "își ridică"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:01.916631427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Încrede-te în Yahve cu toată inima ta, și spre priceperea ta nu te sprijini.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Încrede-te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "inima ta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și spre"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "priceperea ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "te sprijini"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:26.998794Z",
+  "model": "glm-5.3"
+}

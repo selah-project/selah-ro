@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Gheval și Amon și Amalek, Peleșet împreună cu locuitorii Țor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gheval"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "și Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "și Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleșet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Țor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:48.979725995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a spus Yahve către Moșe: „Omul acesta trebuie să moară moartea: să-l răstoarne cu pietre toată adunarea, afară din tabără.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "să moară"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "să-l răstoarne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-l",
+      "marks": "să-l răstoarne cu pietre"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "cu pietre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "din tabără"
+    }
+  ],
+  "timestamp": "2026-09-04T06:53:53.300984591Z",
+  "model": "glm-5.3"
+}

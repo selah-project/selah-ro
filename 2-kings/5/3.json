@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a zis către stăpâna ei: «De-ar fi domnul meu înaintea naviului care este în Șomron, atunci ar ridica ⟨את⟩ pe el de lepra lui!»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "stăpâna ei"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "De-ar fi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "domnul meu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "în Șomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ar ridica"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el — pe Naaman, domnul ei"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "de lepra lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:44.649844074Z",
+  "model": "glm-5.3"
+}

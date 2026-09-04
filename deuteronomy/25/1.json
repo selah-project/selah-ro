@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Dacă va fi ceartă între oameni și se vor înfățișa la judecată și îi vor judeca, să dea drept ⟨את⟩ cel drept și să dea vinovat ⟨את⟩ cel rău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ceartă"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "și se vor înfățișa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "judecată"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "și îi vor judeca"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "să dea drept"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cel drept"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "să dea vinovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cel rău"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "cel rău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:53.180082355Z",
+  "model": "glm-5.3"
+}

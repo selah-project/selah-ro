@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Ascultă sfat și primește învățământ, ca să ⟨fii⟩ înțelept în sfârșitul tău.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sfat"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "și primește"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "învățământ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "în sfârșitul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:57.094657680Z",
+  "model": "glm-5.3"
+}

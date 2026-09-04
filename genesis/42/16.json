@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Trimiteți dintre voi unul, și să ia ⟨את⟩ fratele voastre; iar voi să fiți legați, și să fie cercetate cuvintele voastre: dacă adevărul ⟨este⟩ cu ⟨את⟩ voi; și dacă nu, viu ⟨este⟩ Paro, că spioni sunteți.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Trimiteți"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dintre voi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și să ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fratele voastre"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "fratele voastre"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "iar voi"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "să fiți legați"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "și să fie cercetate"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "cuvintele voastre"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "adevărul"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "cu ⟨את⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sunteți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:12.669179634Z",
+  "model": "glm-5.3"
+}

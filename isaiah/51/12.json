@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Eu, eu sunt ⟨cela⟩ care vă mângâi: cine ești tu, de te-ai temut de un om muritor, și de un fiu al omului, dat ca iarba?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sunt ⟨cela⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "care vă mângâi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "את",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "de te-ai temut"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "de un om"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "muritor"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "și de un fiu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "al omului"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "dat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:52:48.374417340Z",
+  "model": "glm-5.3"
+}

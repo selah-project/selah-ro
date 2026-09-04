@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și a spus Iehuda către frații lui: Ce câștig ⟨este⟩ dacă îl omorâm ⟨את⟩ fratele nostru și acoperim ⟨את⟩ sângele lui?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "câștig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "îl omorâm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fratele nostru"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "fratele nostru"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "și acoperim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele lui"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:25.635548201Z",
+  "model": "glm-5.3"
+}

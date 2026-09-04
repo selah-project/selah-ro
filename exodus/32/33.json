@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a spus Yahve către Moșe: cine a greșit față de mine, pe acela îl voi șterge din cartea mea.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a greșit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "față de mine"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "pe acela îl voi șterge"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "din cartea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:37.251373256Z",
+  "model": "glm-5.3"
+}

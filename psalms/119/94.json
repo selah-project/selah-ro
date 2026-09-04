@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Al tău sunt — mântuiește-mă, căci poruncile tale am căutat.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Al tău"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mântuiește-mă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "am căutat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:32.735912774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și Arpaḥșad a trăit cinci și treizeci de ani, și a născut ⟨את⟩ Șelah.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Și Arpaḥșad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a trăit"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "și treizeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Șelah"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:40.468945943Z",
+  "model": "glm-5.3"
+}

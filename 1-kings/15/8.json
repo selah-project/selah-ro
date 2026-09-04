@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și s-a culcat Aviam cu părinții săi, și au îngropat ⟨את⟩ pe el în cetatea lui David; și a domnit Asa, fiul său, în locul lui.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Și s-a culcat"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții săi"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și au îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "Aviam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetatea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "și a domnit"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul său"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:22.644703834Z",
+  "model": "glm-5.3"
+}

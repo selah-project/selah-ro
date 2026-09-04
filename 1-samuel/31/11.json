@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Au auzit despre el locuitorii din Iaveș-Ghilad ⟨את⟩ ce au făcut filistenii lui Șaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "au auzit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "despre el"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Iaveș"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ghilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce au făcut filistenii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "lui Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:49.756539994Z",
+  "model": "glm-5.3"
+}

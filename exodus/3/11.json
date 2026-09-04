@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus Moșe către Elohim: cine sunt eu, că să merg la Paro și că să scot ⟨את⟩ fiii lui Israel din Mițraim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "să merg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "și că"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "să scot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:01.102735234Z",
+  "model": "glm-5.3"
+}

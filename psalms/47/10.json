@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Nobilii popoarelor s-au adunat, poporul lui Elohim al lui Avraham, căci lui Elohim ⟨sunt⟩ scuturile pământului; foarte s-a înălțat.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Nobilii"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarelor"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "s-au adunat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "al lui Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "scuturile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "s-a înălțat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:00.620766122Z",
+  "model": "glm-5.3"
+}

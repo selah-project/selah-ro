@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a strigat poporul către Moșe, și s-a rugat Moșe către Yahve, și s-a potolit focul.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Și a strigat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "și s-a rugat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "și s-a potolit"
+    },
+    {
+      "surface": "האש",
+      "gloss": "focul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:53:02.040276861Z",
+  "model": "glm-5.3"
+}

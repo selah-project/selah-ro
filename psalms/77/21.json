@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Ai povățuit ca o turmă pe poporul tău, cu mâna lui Moșe și a lui Aharon.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Ai povățuit"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ca o turmă"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pe poporul tău"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "cu mâna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "și a lui Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:44.615470636Z",
+  "model": "glm-5.3"
+}

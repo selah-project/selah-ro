@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Elohim, El al meu, tu ⟨ești⟩; în zori te caut pe tine: a însetat de tine sufletul meu, a tânjit după tine trupul meu, într-un ținut uscat și istovit, fără apă.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El al meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ⟨ești⟩"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "în zori te caut pe tine"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "a însetat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "de tine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "a tânjit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "după tine"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "trupul meu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "într-un ținut"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "uscat"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "și istovit"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:31.038853309Z",
+  "model": "glm-5.3"
+}

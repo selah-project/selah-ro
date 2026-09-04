@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "A trimis semne și minuni în mijlocul tău, Mițraim, asupra lui Paro și asupra tuturor slujitorilor lui.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "A trimis"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "semne"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "și minuni"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "în mijlocul tău"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "asupra lui Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și asupra tuturor"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slujitorilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:58.586961444Z",
+  "model": "glm-5.3"
+}

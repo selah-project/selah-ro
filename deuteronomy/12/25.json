@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 12:25",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Să nu-l mănânci, pentru ca să-ți fie bine ție și fiilor tăi după tine, când vei face ce este drept în ochii lui Yahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "îl mănânci"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru ca"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "să fie bine"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "și fiilor tăi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "după tine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ce este drept"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:58.318086570Z",
+  "model": "glm-5.3"
+}

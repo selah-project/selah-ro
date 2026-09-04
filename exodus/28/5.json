@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și ei să ia ⟨את⟩ aurul și ⟨את⟩ albastrul și ⟨את⟩ purpura și ⟨את⟩ viermele-de-șni și ⟨את⟩ inul.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Și ei"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "să ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aurul"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "aurul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "albastrul"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "albastrul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "purpura"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purpura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "viermele-de-șni"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "viermele"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de șni (carmezin)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "inul"
+    },
+    {
+      "surface": "השש",
+      "gloss": "inul (subțire)"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:28.277232195Z",
+  "model": "glm-5.3"
+}

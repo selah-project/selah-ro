@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Dreptatea ta ⟨este⟩ ca munții lui El, judecățile tale un adânc mare; pe om și pe vită îi scapi, Yahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "dreptatea ta"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "ca munții"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "judecățile tale"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "adâncul"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "și vita"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "scapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:01.693399504Z",
+  "model": "glm-5.3"
+}

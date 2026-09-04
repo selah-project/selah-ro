@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "S-a jurat Yahve întru mărirea lui Iaacov: Nu voi uita niciodată niciunul din faptele lor!",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "S-a jurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "întru mărirea"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "voi uita"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "niciodată"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niciunul"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "din faptele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:47.426316723Z",
+  "model": "glm-5.3"
+}

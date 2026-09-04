@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "să pună mâna pe el tatăl lui și mama lui, și să-l scoată ⟨את⟩ pe el la bătrânii cetății lui și la poarta locului lui.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "să pună mâna pe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "el"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl lui"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "și mama lui"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "să-l scoată"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el (fiul)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "cetății lui"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și la"
+    },
+    {
+      "surface": "שער",
+      "gloss": "poarta"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "locului lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:35.978607177Z",
+  "model": "glm-5.3"
+}

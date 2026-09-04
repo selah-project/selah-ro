@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Nu pângări ⟨את⟩ fiica ta, s-o dai la curvie, și țara să nu se desfrâneze, și țara să nu se umple de nelegiuire.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "pângări"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiica ta"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "fiica ta"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "s-o dai la curvie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "se desfrâneze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "și să se umple"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "de nelegiuire"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:51.208082375Z",
+  "model": "glm-5.3"
+}

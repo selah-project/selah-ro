@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "În zilele lui s-a răsculat Edom de sub mâna lui Iehuda și au pus să domnească peste ei un rege.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "În zilele lui"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "s-a răsculat"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sub"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "și au pus să domnească"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un rege"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:42.662849704Z",
+  "model": "glm-5.3"
+}

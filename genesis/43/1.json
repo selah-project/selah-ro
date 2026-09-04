@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Iar foametea era greu ⟨în⟩ țară.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Iar foametea"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "era greu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨în⟩ țară"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:34.831444007Z",
+  "model": "glm-5.3"
+}

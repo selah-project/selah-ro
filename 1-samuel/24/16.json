@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și să fie Yahve judecător, și să judece între mine și între tine, și să vadă, și să pledeze ⟨את⟩ pledoaria mea, și să-mi facă dreptate din mâna ta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și să fie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "judecător"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "și să judece"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "și între tine"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și să vadă"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "și să pledeze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pledoaria mea"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "pledoaria mea"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "și să-mi facă dreptate"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "din mâna ta"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:04.423616614Z",
+  "model": "glm-5.3"
+}

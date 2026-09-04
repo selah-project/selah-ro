@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Nu te mânia, Yahve, peste măsură, și nu până în veac pomeni nelegiuirea; iată, privește, te rugăm: noi toți ⟨suntem⟩ poporul tău.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "te mânia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "măsură"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "până în veac"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "pomeni"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "הן",
+      "gloss": "iată"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "privește"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rugăm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "noi toți"
+    }
+  ],
+  "timestamp": "2026-09-04T07:31:13.890505193Z",
+  "model": "glm-5.3"
+}

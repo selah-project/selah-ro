@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Ascultă de tatăl tău, cel care te-a născut, și nu disprețui pe mama ta când a îmbătrânit.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "de tatăl tău"
+    },
+    {
+      "surface": "זה",
+      "gloss": "cel care"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "te-a născut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "disprețui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "a îmbătrânit"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "pe mama ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:57.782400355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Iar cei blânzi vor moșteni țara și se vor desfăta în belșugul păcii.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "Iar cei blânzi"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "vor moșteni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "și se vor desfăta"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "רב",
+      "gloss": "belșugul"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "păcii"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:00.710344881Z",
+  "model": "glm-5.3"
+}

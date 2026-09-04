@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Către dirijor, pe Mahalat. Un mașkil al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un mașkil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:52.671623595Z",
+  "model": "glm-5.3"
+}

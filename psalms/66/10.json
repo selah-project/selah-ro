@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Căci ne-ai cercetat, Elohim, ne-ai lăfuit ca lăfuirea argintului.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "ne-ai cercetat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "ne-ai lăfuit"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "ca lăfuirea"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argintului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:40.805736155Z",
+  "model": "glm-5.3"
+}

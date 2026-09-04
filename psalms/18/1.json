@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Către dirijor; al robului lui Yahve, al lui David, care a grăit către Yahve ⟨את⟩ cuvintele cântării acesteia, în ziua când a scăpat Yahve ⟨את⟩ pe el din palma tuturor vrăjmașilor lui și din mâna lui Șaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "al robului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a grăit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele cântării acesteia"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "cântării"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "când a scăpat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ pe el"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "din palma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vrăjmașilor lui"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "și din mâna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:54.146077621Z",
+  "model": "glm-5.3"
+}

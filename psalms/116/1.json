@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Am iubit, fiindcă aude Yahve ⟨את⟩ glasul meu, rugăciunea mea.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Am iubit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "aude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul meu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "rugăciunea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:52.220453880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Întoarceți-vă la mustrarea mea: iată, voi revăsa vouă duhul meu, voi face cunoscut cuvintele mele ⟨את⟩ pe voi.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Întoarceți-vă"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "la mustrarea mea"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "voi revăsa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "voi face cunoscut"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele mele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "cuvintele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:39.200604234Z",
+  "model": "glm-5.3"
+}

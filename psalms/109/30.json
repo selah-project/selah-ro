@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Voi mulțumi lui Yahve foarte cu gura mea și în mijlocul celor mulți îl voi lăuda.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "voi mulțumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "cu gura mea"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "și în mijlocul"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "celor mulți"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "îl voi lăuda"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:54.693252439Z",
+  "model": "glm-5.3"
+}

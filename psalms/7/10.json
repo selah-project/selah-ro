@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Să se sfârșească, ⟨te rog⟩, răul celor răi, și să fie întărit cel drept; și cercetător al inimilor și al rinichilor ⟨este⟩ Elohim, cel drept.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "să se sfârșească"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "și să fie întărit"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "și cercetător"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "al inimilor"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "și al rinichilor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:53.947928668Z",
+  "model": "glm-5.3"
+}

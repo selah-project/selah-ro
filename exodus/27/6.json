@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și vei face prăjini pentru altar, prăjini de lemn de șitim, și le vei îmbrăca ⟨את⟩ cu aramă.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "și vei face"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "prăjini"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pentru altar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "prăjini de"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemn de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "șitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "și le vei îmbrăca"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le (prăjinile)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cu aramă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:02.444679380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Pisarea mea și fiul ariei mele, ce am auzit de la ⟨את⟩ Yahve Țevaot, Elohim al lui Israel, v-am vestit vouă.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Pisarea mea"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "și fiul"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "ariei mele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "Yahve Țevaot, Elohim al lui Israel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "v-am vestit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:26:19.077265355Z",
+  "model": "glm-5.3"
+}

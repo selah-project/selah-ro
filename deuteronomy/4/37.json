@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și pentru că a iubit ⟨את⟩ părinții tăi și a ales în sămânța lor ⟨pe urmașii lor⟩, te-a scos în fața lui, cu puterea lui cea mare, din Mițraim.",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "Și pentru că"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a iubit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "părinții tăi"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "părinții tăi"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "și a ales"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "în sămânța lor"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după ei"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "te-a scos"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "în fața lui"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "cu puterea lui"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:47.449523236Z",
+  "model": "glm-5.3"
+}

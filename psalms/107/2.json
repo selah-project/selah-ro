@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Să zică răscumpărații lui Yahve, pe care i-a răscumpărat din mâna vrăjmașului,",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Să zică"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "răscumpărații"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "i-a răscumpărat"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vrăjmașului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:14.363424914Z",
+  "model": "glm-5.3"
+}

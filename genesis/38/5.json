@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a mai adăugat ⟨încă⟩ și a născut un fiu și a chemat ⟨את⟩ numele lui Șela; și era la Cheziv când ea l-a născut.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Și a mai adăugat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨încă⟩"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Șela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și era"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "la Cheziv"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "la nașterea ei"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:07:27.837621448Z",
+  "model": "glm-5.3"
+}

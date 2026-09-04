@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 7:1",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Întoarce-te, întoarce-te, Hașulamita! Întoarce-te, întoarce-te, ca să te privim! Ce să privești ⟨ei⟩ în Hașulamita? ⟨Este⟩ ca dansul de la Mahanaim.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Întoarce-te"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "întoarce-te"
+    },
+    {
+      "surface": "השולמית",
+      "gloss": "Hașulamita"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "întoarce-te"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "întoarce-te"
+    },
+    {
+      "surface": "ונחזה",
+      "gloss": "ca să privim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "să privească"
+    },
+    {
+      "surface": "בשולמית",
+      "gloss": "în Hașulamita"
+    },
+    {
+      "surface": "כמחלת",
+      "gloss": "ca dansul"
+    },
+    {
+      "surface": "המחנים",
+      "gloss": "de la Mahanaim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:11.635614009Z",
+  "model": "glm-5.3"
+}

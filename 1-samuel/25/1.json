@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a murit Șmuel, și s-a adunat tot Israelul, și au plâns ⟨pe⟩ el, și l-au îngropat în casa lui, în Rama. Și s-a sculat David și a coborât în pustiul Paran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Și a murit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "și s-a adunat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "și au plâns"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "și l-au îngropat"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "în casa lui"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "în Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Și s-a sculat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "și a coborât"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustiul"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:35.324076960Z",
+  "model": "glm-5.3"
+}

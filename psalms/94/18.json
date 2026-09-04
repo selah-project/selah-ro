@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Când am zis: alunecă piciorul meu, hesed-ul tău, Yahve, m-a sprijinit.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Când"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "alunecă"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "piciorul meu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-ul tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "m-a sprijinit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:37.398914287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "S-a apropiat Avraham și a zis: Oare vei pierde cel drept împreună cu cel rău?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "S-a apropiat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "האף",
+      "gloss": "Oare"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "vei pierde"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.567696269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a trimis ⟨את⟩ prin mâna lui Natan naviul, și a numit ⟨את⟩ numele lui Iedidia, din partea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lui Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviul"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a numit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Iedidia"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "din partea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:49.976078056Z",
+  "model": "glm-5.3"
+}

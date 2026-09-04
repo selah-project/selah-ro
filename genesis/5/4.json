@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și au fost zilele lui Adam după ce l-a născut ⟨את⟩ pe Șet opt sute de ani, și a născut fii și fiice.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Și au fost"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lui Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "l-a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Șet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Șet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "opt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sute"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "și fiice"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:38.976848717Z",
+  "model": "glm-5.3"
+}

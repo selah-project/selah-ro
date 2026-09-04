@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Căci tu, Yahve, ⟨ești⟩ adăpostul meu; pe Elion l-ai pus locuința ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "adăpostul meu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elion"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ai pus"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "locuința ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:38.102922500Z",
+  "model": "glm-5.3"
+}

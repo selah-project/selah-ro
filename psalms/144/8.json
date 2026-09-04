@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "a căror gură a vorbit deșărtăciune și a căror dreaptă este o dreaptă a minciunii.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a căror"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "gură"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "deșărtăciune"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "și a căror dreaptă"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dreaptă"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciunii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:56.807060940Z",
+  "model": "glm-5.3"
+}

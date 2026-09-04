@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Către mai-marele cântăreților, pe Iedutun; un psalm al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către mai-marele cântăreților"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Iedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:10.880397327Z",
+  "model": "glm-5.3"
+}

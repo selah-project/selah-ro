@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și acum scoală-te devreme dimineața, tu și slugile domnului tău care au venit ⟨את⟩ cu tine, și vă veți scula devreme dimineața, și de îndată ce va fi lumină pentru voi, plecați.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "scoală-te devreme"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "și slugile"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "domnului tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cu tine",
+      "marks": "cu tine"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "și vă veți scula devreme"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "și va fi lumină"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "și plecați"
+    }
+  ],
+  "timestamp": "2026-09-04T02:51:24.795514445Z",
+  "model": "glm-5.3"
+}

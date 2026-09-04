@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a vestit Eviatăr lui David că a ucis Șaul ⟨את⟩ preoții lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și a vestit"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviatăr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a ucis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "preoții"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "preoții"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:49:09.492475529Z",
+  "model": "glm-5.3"
+}

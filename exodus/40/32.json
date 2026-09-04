@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Când intrau în Cortul Întâlnirii și când se apropiau de altar, se spălau, cum a poruncit Yahve ⟨את⟩ Moșe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "când intrau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "și când se apropiau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "se spălau"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:55.592138041Z",
+  "model": "glm-5.3"
+}

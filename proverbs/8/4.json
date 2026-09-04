@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Către voi, bărbaților, strig, și glasul meu ⟨este⟩ către fiii omului.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "Către voi"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "bărbaților"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "strig"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "și glasul meu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:37.595188183Z",
+  "model": "glm-5.3"
+}

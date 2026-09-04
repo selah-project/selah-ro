@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Tu vei grăi ⟨את⟩ tot ce te voi porunci, iar Aharon, fratele tău, va grăi către Paro, și va trimite ⟨את⟩ fiii lui Israel din țara lui.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "vei grăi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "te voi porunci"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iar Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "va grăi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "și va trimite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "din țara lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:50.410477960Z",
+  "model": "glm-5.3"
+}

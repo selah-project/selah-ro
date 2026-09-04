@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 149,
+  "translation": "Să lege pe regii lor cu lanțuri și pe cei aleși ai lor cu cătușe de fier.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Să lege"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "pe regii lor"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "cu lanțuri"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "și pe cei aleși ai lor"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "cu cătușe"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "de fier"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:41.545044646Z",
+  "model": "glm-5.3"
+}

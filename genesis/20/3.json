@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 20:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a venit Elohim la Avimelec în vis noaptea și i-a spus: „Iată, ești un om mort din pricina femeii pe care ai luat-o, și ea ⟨este⟩ căsătorită cu un bărbat.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelec"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "în vis"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "Iată, ești"
+    },
+    {
+      "surface": "מת",
+      "gloss": "un om mort"
+    },
+    {
+      "surface": "על",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ai luat-o"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și ea"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "⟨este⟩ căsătorită"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "cu un bărbat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:25.626510277Z",
+  "model": "glm-5.3"
+}

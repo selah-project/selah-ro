@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a batjocorit el ⟨את⟩ Israelul, și l-a lovit Iehonatan, fiul lui Șimea, fratele lui David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Și a batjocorit el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "și l-a lovit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Iehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "lui Șimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratele"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T06:12:58.460717551Z",
+  "model": "glm-5.3"
+}

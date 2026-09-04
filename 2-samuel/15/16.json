@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a ieșit regele și toată casa lui la picioarele lui, și a lăsat regele ⟨את⟩ zece femei pilegeș să păzească casa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "la picioarele lui"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "și a lăsat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zece femei pilegeș"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zece"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "femei"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "pilegeș"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păzească"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:45.669954682Z",
+  "model": "glm-5.3"
+}

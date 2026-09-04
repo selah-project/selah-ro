@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Căci rebeliunea este păcat de divinație, și încăpățânarea ca nelegiuirea și terafimii. Pentru că ai lepădat ⟨את⟩ cuvântul lui Yahve, și El te-a lepădat de la a fi rege.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "păcat"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "de divinație"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "rebeliunea"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "și nelegiuirea"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "și terafimii"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "încăpățânarea"
+    },
+    {
+      "surface": "יען",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "ai lepădat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "și te-a lepădat"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "de la a fi rege"
+    }
+  ],
+  "timestamp": "2026-09-04T02:45:51.323388343Z",
+  "model": "glm-5.3"
+}

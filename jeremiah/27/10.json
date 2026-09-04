@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Căci minciună vă prorocesc ei vouă, ca să vă îndepărteze ⟨את⟩ pe voi de pe pământul vostru, și vă voi alunga ⟨את⟩ pe voi, și veți pieri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "vă prorocesc"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "vă îndepărteze"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "de pe pământul vostru"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "pământul vostru"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "și vă voi alunga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "și veți pieri"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "și veți pieri"
+    }
+  ],
+  "timestamp": "2026-09-04T07:35:56.345801424Z",
+  "model": "glm-5.3"
+}

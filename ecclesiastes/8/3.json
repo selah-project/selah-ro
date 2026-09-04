@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Nu te grăbi din fața lui să pleci, nu sta într-un lucru rău, căci tot ce voiește face.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "te grăbi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "din fața lui"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "să pleci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "sta"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "într-un lucru"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "voiește"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "face"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:17.274408702Z",
+  "model": "glm-5.3"
+}

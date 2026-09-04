@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Deși răutatea i se face dulce în gura lui, o ascunde sub limba lui.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "deși"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "i se face dulce"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "în gura lui"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răutatea"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "o ascunde"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "limba lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:31:33.431294253Z",
+  "model": "glm-5.3"
+}

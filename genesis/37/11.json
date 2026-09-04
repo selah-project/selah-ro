@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și l-au pizmuit pe el frații săi, iar tatăl său a păzit ⟨את⟩ cuvântul.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "și l-au pizmuit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "iar tatăl său"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "a păzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:52.462066275Z",
+  "model": "glm-5.3"
+}

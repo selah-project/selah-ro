@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Cu săgeți și cu arc se va veni acolo, căci mărăcini și spini va fi toată țara.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Cu săgeți"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "și cu arc"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "se va veni"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "mărăcini"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "și spini"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:03.081348617Z",
+  "model": "glm-5.3"
+}

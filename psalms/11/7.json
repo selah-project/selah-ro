@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Căci drept este Yahve; dreptate iubește; cei drepți îi vor vedea fața.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "drept"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iubește"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "vor vedea"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "fața lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:26.579384544Z",
+  "model": "glm-5.3"
+}

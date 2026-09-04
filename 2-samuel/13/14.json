@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Dar n-a vrut să asculte glasul ei; s-a făcut mai puternic decât ea, a silit-o și s-a culcat cu ⟨את⟩ ea.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a vrut"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "să asculte"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "glasul ei"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "s-a făcut mai puternic"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "decât ea"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "a silit-o"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "s-a culcat cu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ea (Tamar)"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:27.869456360Z",
+  "model": "glm-5.3"
+}

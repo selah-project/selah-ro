@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Avigayil a născut ⟨את⟩ Amasa; și tatăl lui Amasa ⟨era⟩ Ieter ismaelitul.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Și Avigayil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "și tatăl"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "lui Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Ieter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ismaelitul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:26.641417452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Am văzut robi călărind pe cai, iar dregători mergând pe jos ca niște robi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Am văzut"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robi"
+    },
+    {
+      "surface": "על",
+      "gloss": "călărind pe"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "iar dregători"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "mergând"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "ca niște robi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jos"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:56.731525769Z",
+  "model": "glm-5.3"
+}

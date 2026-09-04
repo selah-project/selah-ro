@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a suit candelele înaintea lui Yahve, cum poruncise Yahve ⟨את⟩ Moșe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a suit"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "candelele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:33.305723703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "și să pui ⟨את⟩ altarul arderea-de-jertfă înaintea intrării cortului, Cortul Întâlnirii.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul arderea-de-jertfă"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea-de-jertfă"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "intrării"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:56.223834828Z",
+  "model": "glm-5.3"
+}

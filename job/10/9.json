@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Adu-ți aminte, te rog, că lut m-ai făcut, și la praf mă vei întoarce.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Adu-ți aminte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "lut"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "m-ai făcut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și la"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praf"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "mă vei întoarce"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:47.033464326Z",
+  "model": "glm-5.3"
+}

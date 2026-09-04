@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "și nu m-ai predat în mâna dușmanului; ai pus într-un loc larg picioarele mele.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "m-ai predat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dușmanului"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ai pus"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "într-un loc larg"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "picioarele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:34.803974189Z",
+  "model": "glm-5.3"
+}

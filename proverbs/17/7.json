@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Nu se potrivește nebunului o vorbă aleasă; cu atât mai puțin unui nobil o buză de minciună.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "se potrivește"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "nebunului"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "o vorbă"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "aleasă"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cu atât"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mai puțin"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "unui nobil"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "o buză"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de minciună"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:06.325123888Z",
+  "model": "glm-5.3"
+}

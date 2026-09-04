@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "A zidit Șelomo ⟨את⟩ Ghezer și ⟨את⟩ Beit-Horon cel de jos,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a zidit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ghezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Ghezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Beit-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "cel de jos"
+    }
+  ],
+  "timestamp": "2026-09-04T03:13:46.938595021Z",
+  "model": "glm-5.3"
+}

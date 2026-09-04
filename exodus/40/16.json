@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a făcut Moșe după tot ce a poruncit Yahve ⟨את⟩ îl — așa a făcut.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl",
+      "marks": "pe Moșe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:10.002346454Z",
+  "model": "glm-5.3"
+}

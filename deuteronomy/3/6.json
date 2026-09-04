@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și le-am dat nimicirii ⟨את⟩ pe ei, cum am făcut lui Sihon, regele Heșbonului: nimicind în fiecare cetate pe oameni, pe femei și pe copiii mici.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "Și am dat nimicirii"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "lui Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heșbonului"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "nimicind"
+    },
+    {
+      "surface": "כל",
+      "gloss": "în fiecare"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetate"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "pe oameni"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "pe femei"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "și pe copiii mici"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:59.164245626Z",
+  "model": "glm-5.3"
+}

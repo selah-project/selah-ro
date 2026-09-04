@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 70,
+  "translation": "Să fie dați rușinii și să fie acoperiți de ocară cei ce-mi caută nefeușul; să se tragă înapoi și să fie făcuți de rușine cei ce-și doresc rãutatea mea.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "să fie dați rușinii"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "și să fie acoperiți de ocară"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "cei ce-mi caută"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeșul meu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "să se tragă"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "înapoi"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "și să fie făcuți de rușine"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "cei ce-și doresc"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "răutatea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:38.552824813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Iar dacă va fi vătămare, să dai viață pentru viață —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "vătămare"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "să dai"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "viață"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "viață"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:42.539243461Z",
+  "model": "glm-5.3"
+}

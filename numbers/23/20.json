@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Iată, am primit ⟨poruncă⟩ să binecuvântez; și El a binecuvântat — și eu nu o pot întoarce.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "să binecuvântez"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "am primit"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "și El a binecuvântat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "o pot întoarce"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:44.393987386Z",
+  "model": "glm-5.3"
+}

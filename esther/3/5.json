@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a văzut Haman că Mordehai nu îngenunchează și nu se prosternează înaintea lui, și s-a umplut Haman de furie.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "îngenunchează"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "și se prosternează"
+    },
+    {
+      "surface": "לו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "și s-a umplut"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "de furie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:47:18.707693535Z",
+  "model": "glm-5.3"
+}

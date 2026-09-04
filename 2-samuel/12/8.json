@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "și ți-am dat ⟨את⟩ casa domnului tău și ⟨את⟩ nevestele domnului tău în sânul tău; și ți-am dat ⟨את⟩ casa lui Israel și a lui Iuda, și dacă ⟨era⟩ puțin, aș fi adăugat ție atât și atât.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "și ți-am dat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa domnului tău"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "domnului tău"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "nevestele domnului tău"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "nevestele"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "domnului tău"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "în sânul tău"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "și ți-am dat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Israel și a lui Iuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "și a lui Iuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "și aș fi adăugat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "atât"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "și atât"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:28.820546667Z",
+  "model": "glm-5.3"
+}

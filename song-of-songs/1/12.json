@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cât timp regele ⟨era⟩ la ospățul lui, nardul meu și-a dat mireasma.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "cât timp"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "la ospățul lui"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nardul meu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "mireasma lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:21.033646603Z",
+  "model": "glm-5.3"
+}

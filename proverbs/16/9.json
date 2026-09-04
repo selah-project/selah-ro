@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Inima omului își urzește calea, dar Yahve îi întărește pașii.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "își urzește"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "calea"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dar Yahve"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "întărește"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "pașii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:21.151308340Z",
+  "model": "glm-5.3"
+}

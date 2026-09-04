@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 111,
+  "translation": "Pomenire a făcut minunilor lui; îndurător și milostiv ⟨este⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Pomenire"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "minunilor lui"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "îndurător"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "și milostiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:04.585851139Z",
+  "model": "glm-5.3"
+}

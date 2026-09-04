@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "Căci în veac nu se va clătina; spre pomenire de veac va fi cel drept.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "se va clătina"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "spre pomenire"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "de veac"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:02.579455188Z",
+  "model": "glm-5.3"
+}

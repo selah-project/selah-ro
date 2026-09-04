@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "În ziua aceea se va mări jalea în Ierușalaim, ca jalea Hadad-Rimon în valea Meghidon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "se va mări"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "jalea"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "în Ierușalaim"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "ca jalea"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "în valea"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "Meghidon"
+    }
+  ],
+  "timestamp": "2026-09-04T04:50:38.232878228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "și vei lovi ⟨את⟩ casa lui Ahav, domnul tău, și voi răzbuna sângele servitorilor mei, profeții, și sângele tuturor servitorilor lui Yahve, din mâna lui Izabel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "și vei lovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Ahav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "domnul tău"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "și voi răzbuna"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servitorilor"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeții"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "și sângele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servitorilor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabel"
+    }
+  ],
+  "timestamp": "2026-09-04T07:21:17.050584500Z",
+  "model": "glm-5.3"
+}

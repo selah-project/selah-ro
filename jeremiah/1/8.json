@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Nu te teme de fața lor, căci cu ⟨את⟩ tine sunt eu, ca să te scap — oracolul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "de fața lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu ⟨את⟩ tine",
+      "marks": "eu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "ca să te scap"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:57:31.687946339Z",
+  "model": "glm-5.3"
+}

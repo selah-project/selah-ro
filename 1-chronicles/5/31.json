@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Avișua a născut ⟨את⟩ Buki, Buki a născut ⟨את⟩ Uzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Avișua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Buki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Buki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "Buki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:20.521159640Z",
+  "model": "glm-5.3"
+}

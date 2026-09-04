@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și mi-ați răspuns ⟨את⟩ și ați zis: bun ⟨este⟩ lucrul pe care l-ai grăit să se facă.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Și mi-ați răspuns"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "și ați zis"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "l-ai grăit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să se facă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:09.501981076Z",
+  "model": "glm-5.3"
+}

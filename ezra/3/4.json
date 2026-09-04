@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au făcut ⟨את⟩ sărbătoarea Sucot cum este scris, și arderea-de-tot de zi pe zi, în număr, după rânduiala poruncii fiecărei zile în ziua ei.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sărbătoarea"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sărbătoarea"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sucot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "cum este scris"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "și arderea-de-tot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de zi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pe zi"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "în număr"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "după rânduiala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "poruncii"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de zi"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "în ziua ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:56:18.671610801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și a spus Lavan: bine ⟨este⟩ să-i dau ⟨את⟩ pe ea ție, mai mult decât să dau ⟨את⟩ pe ea unui alt om; șezi cu mine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "să dau"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "decât să dau"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "alt"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "șezi"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:03.729742046Z",
+  "model": "glm-5.3"
+}

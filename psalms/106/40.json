@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și s-a aprins mânia lui Yahve împotriva poporului său și și-a scârbit ⟨את⟩ moștenirea sa.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Și s-a aprins"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "împotriva poporului său"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "și și-a scârbit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moștenirea sa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "moștenirea sa"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:34.795161422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Am auzit ⟨את⟩ vestea lui — s-au slăbit mâinile noastre; strâmtorarea ne-a apucat, durere ca a unei femei la naștere.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vestea lui"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "vestea lui"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "s-au slăbit"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mâinile noastre"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "strâmtorarea"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "ne-a apucat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "durere"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "ca a unei femei la naștere"
+    }
+  ],
+  "timestamp": "2026-09-04T03:58:40.347351554Z",
+  "model": "glm-5.3"
+}

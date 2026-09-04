@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și a chemat Iaacov ⟨את⟩ numele locului unde vorbise cu ⟨את⟩ el acolo Elohim: Beit-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T01:06:24.900118085Z",
+  "model": "glm-5.3"
+}

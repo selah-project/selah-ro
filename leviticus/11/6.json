@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ arnebeta, pentru că aduce rumegatul ea, dar copita nu a despicat-o — necurată este ea pentru voi;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "arnebeta"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "arnebeta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "aduce"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumegatul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "și copita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "a despicat-o"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "necurată"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:22.836694211Z",
+  "model": "glm-5.3"
+}

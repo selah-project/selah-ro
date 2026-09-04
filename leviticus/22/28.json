@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și un bou sau o oaie — ⟨את⟩ pe el și pe puiul lui să nu-l înjunghiați în ziua una.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Și un bou"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "שה",
+      "gloss": "o oaie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe puiul lui"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "puiul lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "înjunghiați"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:06.019594878Z",
+  "model": "glm-5.3"
+}

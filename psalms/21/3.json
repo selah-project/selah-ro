@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Dorul inimii lui ai dat lui, și cererea buzelor lui deloc nu ai oprit-o. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Dorul"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inimii lui"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ai dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "și cererea"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "buzelor lui"
+    },
+    {
+      "surface": "בל",
+      "gloss": "deloc"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "nu ai oprit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:00.766649962Z",
+  "model": "glm-5.3"
+}

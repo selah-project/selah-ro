@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a ridicat un altar lui Baal în casa lui Baal, pe care a construit-o ⟨el⟩ în Șomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și a ridicat"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altar"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "lui Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "lui Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a construit"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "în Șomron"
+    }
+  ],
+  "timestamp": "2026-09-04T08:56:28.363543758Z",
+  "model": "glm-5.3"
+}

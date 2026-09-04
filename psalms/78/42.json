@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Nu și-au amintit ⟨את⟩ mâna lui, ziua când i-a răscumpărat de la vrăjmaș.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "și-au amintit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna lui"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "i-a răscumpărat"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de la"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vrăjmaș"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:03.390924057Z",
+  "model": "glm-5.3"
+}

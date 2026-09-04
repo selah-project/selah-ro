@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Păzește-te pentru tine, ca să nu înalți arderile tale de tot în tot locul pe care îl vei vedea.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Păzește-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "să înalți"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "arderile tale de tot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "îl vei vedea"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:01.424490160Z",
+  "model": "glm-5.3"
+}

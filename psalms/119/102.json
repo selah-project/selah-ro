@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "De la hotarele tale nu m-am abătut, căci tu m-ai învățat.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "de la hotarele tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "m-am abătut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "m-ai învățat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:15.853845458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Cântați cu strune lui Yahve, credincioșii lui, și mulțumiți amintirii sfințeniei lui.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Cântați cu strune"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "credincioșii lui"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "și mulțumiți"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "amintirii"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfințeniei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:57.560582199Z",
+  "model": "glm-5.3"
+}

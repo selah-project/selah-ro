@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și eu, iată, ridic ⟨את⟩ legământul meu cu ⟨את⟩ voi și cu ⟨את⟩ sămânța voastră după voi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Și eu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ridic"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "cu ⟨את⟩ voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "sămânța voastră"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "după voi"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:57.275225658Z",
+  "model": "glm-5.3"
+}

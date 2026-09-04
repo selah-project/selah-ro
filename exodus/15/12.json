@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Ai întins dreapta ta — i-a înghițit pământul.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "ai întins"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "i-a înghițit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:55.377660209Z",
+  "model": "glm-5.3"
+}

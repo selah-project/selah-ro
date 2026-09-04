@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "În casa lui Israel am văzut un lucru înspăimântător: acolo ⟨este⟩ curvia lui Efraim — pângărit ⟨este⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "În casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "un lucru înspăimântător"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "curvia"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "lui Efraim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "pângărit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:09.648077156Z",
+  "model": "glm-5.3"
+}

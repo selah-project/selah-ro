@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a spus David să adune ⟨את⟩ străinii care ⟨sunt⟩ în țara Israelului, și a pus cioplitori să cioplească pietre cioplite pentru a clădi casa lui Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "să adune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "străinii"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "străinii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "cioplitori"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "să cioplească"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "cioplite"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "pentru a clădi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:46.661646154Z",
+  "model": "glm-5.3"
+}

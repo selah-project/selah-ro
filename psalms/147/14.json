@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Cel ce așază pace hotarului tău, cu grăsimea grâului te saturează.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Cel ce așază"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "hotarul tău"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "cu grăsimea"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "grâului"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "te saturează"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:14.538906164Z",
+  "model": "glm-5.3"
+}

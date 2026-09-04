@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a spus Yahve către Moșe: scrie-ți ⟨את⟩ cuvintele acestea, căci după gura cuvintelor acestora am tăiat ⟨את⟩ legământ cu tine și ⟨את⟩ cu Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "scrie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintelor"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestora"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "am tăiat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu tine ⟨את⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cu Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:45.475943150Z",
+  "model": "glm-5.3"
+}

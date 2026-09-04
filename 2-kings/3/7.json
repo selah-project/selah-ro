@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 3:7",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și s-a dus și a trimis la Iehoșafat, regele lui Iehuda, să spună: Regele lui Moab s-a răsculat împotriva mea; vei merge tu cu mine ⟨את⟩ la Moab, la război? Și a zis: Voi sui; cum sunt eu, așa ești tu; cum este poporul meu, așa este poporul tău; cum sunt caii mei, așa sunt caii tăi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și s-a dus"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Iehoșafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "să spună"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "lui Moab"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "s-a răsculat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "vei merge"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu mine ⟨את⟩",
+      "marks": "la Moab, la război"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "la război"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Voi sui"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "cum sunt eu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "așa ești tu"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "cum este poporul meu"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "așa este poporul tău"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "cum sunt caii mei"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "așa sunt caii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:23:37.375260707Z",
+  "model": "glm-5.3"
+}

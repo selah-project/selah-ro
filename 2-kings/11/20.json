@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și s-a bucurat tot poporul țării, și cetatea a rămas liniștită, iar ⟨את⟩ Atalia au ucis-o cu sabia ⟨în⟩ casa regelui.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Și s-a bucurat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "și cetatea"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "a rămas liniștită"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "Atalia"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "au ucis-o"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "cu sabia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨în⟩ casa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:46.656259563Z",
+  "model": "glm-5.3"
+}

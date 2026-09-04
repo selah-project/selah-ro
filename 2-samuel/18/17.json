@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 18:17",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și au luat ⟨את⟩ Avșalom și l-au aruncat în pădure, la groapa cea mare, și au ridicat peste el o movilă de pietre foarte mare; și tot Israelul a fugit, fiecare la cortul lui.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Și au luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avșalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "și l-au aruncat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "în pădure"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "în pădure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "groapa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "ויצבו",
+      "gloss": "și au așezat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "גל",
+      "gloss": "o movilă"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "de pietre"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "",
+      "note": "placeholder"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "a fugit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "la cortul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:04:10.113507104Z",
+  "model": "glm-5.3"
+}

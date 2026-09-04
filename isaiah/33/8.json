@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "S-au pustiit drumurile, a încetat cel ce trece pe cale; a călcat legământul, a disprețuit cetățile, nu a ținut ⟨seama⟩ de om.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "s-au pustiit"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "drumurile"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "a încetat"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "cel ce trece"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "pe cale"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a călcat"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "a disprețuit"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "a ținut ⟨seama⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "de om"
+    }
+  ],
+  "timestamp": "2026-09-04T03:44:42.254240972Z",
+  "model": "glm-5.3"
+}

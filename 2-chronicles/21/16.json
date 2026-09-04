@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a deșteptat Yahve împotriva lui Iehoram ⟨את⟩ duhul filistenilor și al arabilor care ⟨stau⟩ lângă kușiți.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "Și a deșteptat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Iehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duhul filistenilor și al arabilor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duhul"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "filistenilor"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "și al arabilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "kușiți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:25:41.088468799Z",
+  "model": "glm-5.3"
+}

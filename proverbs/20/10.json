@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Piatră și piatră, efa și efa — amândouă deopotrivă sunt o urâciune pentru Yahve.",
+  "tokens": [
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "Piatră"
+    },
+    {
+      "surface": "וָ֭אֶבֶן",
+      "gloss": "și piatră"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "și efa"
+    },
+    {
+      "surface": "תּוֹעֲבַ֥ת",
+      "gloss": "urâciune"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "deopotrivă"
+    },
+    {
+      "surface": "שְׁנֵיהֶֽם",
+      "gloss": "amândouă"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:59.077128709Z",
+  "model": "glm-5.3"
+}

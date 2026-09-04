@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 70,
+  "translation": "Iar eu sunt sărac și nevoiaș; Elohim, grăbește spre mine; ajutorul meu și izbăvitorul meu ești ⟨tu⟩, Yahve; nu zăbovi!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sunt sărac"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și nevoiaș"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "grăbește"
+    },
+    {
+      "surface": "לי",
+      "gloss": "spre mine"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ajutorul meu"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "și izbăvitorul meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "zăbovi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:36.980495906Z",
+  "model": "glm-5.3"
+}

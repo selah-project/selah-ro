@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Și a zis: „Eu sunt El, Elohim al tatălui tău; nu te teme să cobori în Mițraim, căci acolo te voi face un neam mare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "sunt El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "al tatălui tău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "să cobori în"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "te voi face"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:44.621159922Z",
+  "model": "glm-5.3"
+}

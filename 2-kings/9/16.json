@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a încălecat Iehu și a mers spre Izreel, căci Ioram zăcea acolo, iar Ahazia, împăratul lui Iuda, coborâse să vadă ⟨את⟩ ⟨pe⟩ Ioram.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Și a încălecat"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "spre Izreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Ioram"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "zăcea"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "iar Ahazia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "împăratul"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iuda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "coborâse"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "pe Ioram"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:43.861966697Z",
+  "model": "glm-5.3"
+}

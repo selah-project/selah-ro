@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Înainte de a fi fost smerit, eu rătăceam; iar acum cuvântul tău l-am păzit.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "Înainte de"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "a fi fost smerit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "rătăceam"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "iar acum"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "l-am păzit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:43.841333767Z",
+  "model": "glm-5.3"
+}

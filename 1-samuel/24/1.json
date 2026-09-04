@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și s-a suit David de acolo și s-a așezat în fortărețele En-Ghedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Și s-a suit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și s-a așezat"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "în fortărețele"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Ghedi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:21.783998176Z",
+  "model": "glm-5.3"
+}

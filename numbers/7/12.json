@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a fost cel ce a adus ⟨את⟩ darul lui în ziua întâi: Nahșon, fiul lui Aminadav, din seminția lui Iehuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "cel ce a adus"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "întâi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul lui"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "darul lui"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahșon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "lui Aminadav"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "din seminția"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T01:44:17.416567307Z",
+  "model": "glm-5.3"
+}

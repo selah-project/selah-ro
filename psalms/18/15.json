@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a trimis săgețile lui și i-a risipit, și fulgere a înmulțit și i-a tulburat.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "săgețile lui"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "și i-a risipit"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "și fulgere"
+    },
+    {
+      "surface": "רב",
+      "gloss": "a înmulțit"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "și i-a tulburat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:16.288795720Z",
+  "model": "glm-5.3"
+}

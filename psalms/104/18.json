@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Munții înalți ⟨sunt⟩ pentru țapi sălbatici; stâncile ⟨sunt⟩ adăpost pentru șafani.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Munții"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "înalții"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "pentru țapi sălbatici"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "stâncile"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "adăpost"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "pentru șafani"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:23.376636698Z",
+  "model": "glm-5.3"
+}

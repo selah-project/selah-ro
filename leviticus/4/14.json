@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "și se va cunoaște păcatul pe care l-au săvârșit ⟨prin ea⟩, și va aduce comunitatea un vițel, fiu de vită, pentru păcat, și îl vor aduce ⟨את⟩ el înaintea cortului întâlnirii.",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "și se va cunoaște"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "păcatul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "l-au săvârșit"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨prin ea⟩"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "și va aduce"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "comunitatea"
+    },
+    {
+      "surface": "פר",
+      "gloss": "un vițel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de vită"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pentru păcat"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "și îl vor aduce"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (vițelul)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:38.292452313Z",
+  "model": "glm-5.3"
+}

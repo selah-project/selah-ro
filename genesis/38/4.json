@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a rămas însărcinată încă o dată, și a născut un fiu, și a numit ⟨את⟩ numele lui Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "și a rămas însărcinată"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă o dată"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "și a numit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:29.920604282Z",
+  "model": "glm-5.3"
+}

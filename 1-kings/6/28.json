@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a poleit ⟨את⟩ cherubimii cu aur.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Și a poleit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cherubimii"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "cherubimii"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cu aur"
+    }
+  ],
+  "timestamp": "2026-09-04T03:11:08.550223444Z",
+  "model": "glm-5.3"
+}

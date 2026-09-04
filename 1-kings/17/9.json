@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Ridică-te, du-te la Țarfat, care ⟨este⟩ al Țidonului, și vei locui acolo; iată, am poruncit acolo o femeie văduvă să te hrănească.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ridică-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du-te"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "la Țarfat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "al Țidonului"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "și vei locui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "am poruncit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "o femeie"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "văduvă"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "să te hrănească"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:10.622422878Z",
+  "model": "glm-5.3"
+}

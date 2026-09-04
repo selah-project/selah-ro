@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "Cu mână tare și cu braț întins, căci în veac ⟨este⟩ hesedul lui.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Cu mână"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "tare"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "și cu braț"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "întins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:32.895187921Z",
+  "model": "glm-5.3"
+}

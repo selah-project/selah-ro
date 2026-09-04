@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 126,
+  "translation": "Întoarce ⟨את⟩ robia noastră, Yahve, ca pâraiele în Neghev!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "întoarce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robia noastră"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "robia noastră"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "ca pâraiele"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "în Neghev"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:20.744235760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar ⟨את⟩ carnea și ⟨את⟩ pielea le-a ars în foc, afară din tabără.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "carnea"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pielea"
+    },
+    {
+      "surface": "העור",
+      "gloss": "pielea"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "a ars"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "din tabără"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:45.291233898Z",
+  "model": "glm-5.3"
+}

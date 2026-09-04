@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cum șade singură cetatea ⟨care era⟩ bogată în popor! A ajuns ca o văduvă, cea bogată între neamuri, cârmuitoare între țări, a ajuns la bir!",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "șade"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "singură"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "bogată"
+    },
+    {
+      "surface": "עם",
+      "gloss": "în popor"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "a ajuns"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "ca o văduvă"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "bogată"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "între neamuri"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "cârmuitoare"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "între țări"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "a ajuns"
+    },
+    {
+      "surface": "למס",
+      "gloss": "la bir"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:21.241685674Z",
+  "model": "glm-5.3"
+}

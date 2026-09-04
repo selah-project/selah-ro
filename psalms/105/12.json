@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "când erau ei oameni la număr, puțini la vremea aceea și străini în el.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "când erau ei"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "la număr"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "puțini"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "și străini"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:35.036209251Z",
+  "model": "glm-5.3"
+}

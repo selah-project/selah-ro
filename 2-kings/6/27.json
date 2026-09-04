@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 6:27",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "A zis: Nu te scape Yahve! De unde să te scap eu? Din arie sau din teasc?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יושעך",
+      "gloss": "să te scape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "de unde"
+    },
+    {
+      "surface": "אושיעך",
+      "gloss": "să te scap"
+    },
+    {
+      "surface": "המן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "arie"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "teasc"
+    }
+  ],
+  "timestamp": "2026-09-04T07:22:07.317801927Z",
+  "model": "glm-5.3"
+}

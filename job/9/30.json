@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Dacă m-am spălat cu zăpadă și mi-am curățat cu sodă palmele mele,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "m-am spălat"
+    },
+    {
+      "surface": "במו",
+      "gloss": "cu"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "zăpadă"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "și mi-am curățat"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "cu sodă"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palmele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:54.322956846Z",
+  "model": "glm-5.3"
+}

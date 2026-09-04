@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Să întindă laț creditorul peste tot ce are, și străinii să-i prade munca lui.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "să întindă laț"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "creditorul"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "peste tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "are"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "și să prade"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "străinii"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "munca lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:41.511097458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Fie-mi îndurător Yahve, vezi suferința mea din pricina celor ce mă urăsc, Tu care mă ridici din porțile morții.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Fie-mi îndurător"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vezi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "suferința mea"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "din pricina celor ce mă urăsc"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "care mă ridici"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "din porțile"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:51.605737847Z",
+  "model": "glm-5.3"
+}

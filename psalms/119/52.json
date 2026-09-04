@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Mi-am amintit judecățile tale din veac, Yahve, și m-am mângâiat",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "mi-am amintit"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "din veac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "și m-am mângâiat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:07.533561120Z",
+  "model": "glm-5.3"
+}

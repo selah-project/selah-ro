@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și să păziți ⟨את⟩ cuvântul acesta ca hotărâre pentru tine și pentru fiii tăi, până în veac.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Și să păziți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ca hotărâre"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "și pentru fiii tău"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:06.785547505Z",
+  "model": "glm-5.3"
+}

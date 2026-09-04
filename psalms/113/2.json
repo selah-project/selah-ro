@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 113,
+  "translation": "Fie numele lui Yahve binecuvântat, de acum și până în veac!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Fie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "binecuvântat"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "de acum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:33.022804649Z",
+  "model": "glm-5.3"
+}

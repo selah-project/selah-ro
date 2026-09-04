@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 114,
+  "translation": "De dinaintea Adonai, cutremură-te, pământule, de dinaintea Eloa lui Iaacov!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "De dinaintea"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "cutremură-te"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământule"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de dinaintea"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:54.890079746Z",
+  "model": "glm-5.3"
+}

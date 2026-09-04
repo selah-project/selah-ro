@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "și ⟨את⟩ iebusitul și ⟨את⟩ emoritul și ⟨את⟩ girgașitul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "iebusitul"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "iebusitul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "emoritul"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoritul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "girgașitul"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgașitul"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:34.446692989Z",
+  "model": "glm-5.3"
+}

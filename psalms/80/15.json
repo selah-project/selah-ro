@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Elohim Țevaot, întoarce-Te, te rugăm; privește din ceruri și vezi, și cercetează viața aceasta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "întoarce-Te"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rugăm"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "privește"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "din ceruri"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și vezi"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "și cercetează"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "via"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:34.825345489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Și Adonai Yahve mă ajută; de aceea nu am fost rușinat; de aceea am pus fața mea ca o cremene, și știu că nu voi fi rușinat.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Și Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ajută"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mă"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "am fost rușinat"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "am pus"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "ca o cremene"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "și știu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "voi fi rușinat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:41.051705326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și dacă este dintre vitele necurate, va răscumpăra la evaluarea ta și va adăuga a cincea parte a ei peste; și dacă nu va fi răscumpărat, va fi vândut la evaluarea ta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "(este) dintre vite"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "cele necurate"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "și va răscumpăra"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "la evaluarea ta"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "și va adăuga"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "a cincea parte a lui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "va fi răscumpărat"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "și va fi vândut"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "la evaluarea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:17.075635743Z",
+  "model": "glm-5.3"
+}

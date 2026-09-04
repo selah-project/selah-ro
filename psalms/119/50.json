@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Aceasta este mângâierea mea în suferința mea, că cuvântul tău m-a făcut să trăiesc",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "mângâierea mea"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "în suferința mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "m-a făcut să trăiesc"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:07.533223199Z",
+  "model": "glm-5.3"
+}

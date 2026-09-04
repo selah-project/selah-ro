@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Elohim al meu, în tine am încredere; să nu fiu rușinat, să nu exulte vrăjmașii mei asupra mea.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "am încredere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "fiu rușinat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "exulte"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "asupra mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:21.678367571Z",
+  "model": "glm-5.3"
+}

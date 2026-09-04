@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și s-au ridicat asupra mea stăpânii lui Givea și au înconjurat asupra mea ⟨את⟩ casa, noaptea; pe mine au voit să mă omoare, iar ⟨את⟩ pilegeșul meu l-au necinstit, și a murit.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "și s-au ridicat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "stăpânii"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "lui Givea"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "și au înconjurat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ pe mine",
+      "marks": "pe mine, obiectul lui דמו"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "au voit"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "să omoare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pilegeșul meu"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "pilegeșul meu"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "au necinstit"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "și a murit"
+    }
+  ],
+  "timestamp": "2026-09-04T02:37:59.871065810Z",
+  "model": "glm-5.3"
+}

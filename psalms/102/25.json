@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Am zis: El al meu, nu mă lua în jumătatea zilelor mele; în neam de neamuri sunt anii tăi!",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Am zis"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El al meu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "mă lua"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "în jumătatea"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilelor mele"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "în neam de"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "neamuri"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "sunt anii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:11.619345389Z",
+  "model": "glm-5.3"
+}

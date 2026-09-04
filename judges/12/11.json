@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și după el a judecat ⟨את⟩ Israel Eilon, Zvulunitul; și a judecat ⟨את⟩ Israel zece ani.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Și a judecat"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eilon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Zvulunitul"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "și a judecat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zece"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-09-04T02:33:39.954721756Z",
+  "model": "glm-5.3"
+}

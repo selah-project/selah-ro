@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Al lui David. Judecă-mă, Yahve, căci eu întru nevinovăția mea am umblat, și întru Yahve am nădăjduit, nu voi șovăi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Judecă-mă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "întru nevinovăția mea"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "am umblat"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "și întru Yahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "am nădăjduit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "voi șovăi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:52.161410023Z",
+  "model": "glm-5.3"
+}

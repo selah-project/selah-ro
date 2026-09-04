@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Pustiit ⟨este⟩ câmpul, jelește pământul, căci pustiit ⟨este⟩ grâul, s-a uscat mustul, se ofilește untdelemnul.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "pustiit"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "câmpul"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "jelește"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "pustiit"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "grâul"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "s-a uscat"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mustul"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "se ofilește"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "untdelemnul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:48:37.097520120Z",
+  "model": "glm-5.3"
+}

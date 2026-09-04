@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a trecut David la numărătoare ⟨את⟩ poporul care ⟨era⟩ ⟨את⟩ cu el și a pus peste ei căpetenii de mii și căpetenii de sute.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a trecut la numărătoare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpetenii de"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "și căpetenii de"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    }
+  ],
+  "timestamp": "2026-09-04T03:02:54.506280525Z",
+  "model": "glm-5.3"
+}

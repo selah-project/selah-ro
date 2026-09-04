@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Dar ei și părinții noștri s-au îngâmfat și și-au înțepenit ⟨את⟩ ceafa și n-au ascultat de poruncile tale.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Dar ei"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "și părinții noștri"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "s-au îngâmfat"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "și au înțepenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceafa"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ceafa (lor)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "au ascultat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T06:02:08.547720270Z",
+  "model": "glm-5.3"
+}

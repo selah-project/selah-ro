@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "care ai păzit pentru robul tău David, tatăl meu, ⟨את⟩ ceea ce i-ai vorbit; cu gura ta ai vorbit și cu mâna ta ai împluit ⟨aceasta⟩ ca în ziua aceasta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ai păzit"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "pentru robul tău"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce i-ai vorbit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "i-ai vorbit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ai vorbit"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "cu gura ta"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "și cu mâna ta"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ai împluit"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ca în ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:14:03.081056848Z",
+  "model": "glm-5.3"
+}

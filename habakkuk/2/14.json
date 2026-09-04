@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci pământul se va umple de cunoașterea ⟨את⟩ slavei lui Yahve, cum apele acoperă peste mare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "se va umple"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "de cunoașterea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slavei lui Yahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slavei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "cum apele"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "acoperă"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:58.707373341Z",
+  "model": "glm-5.3"
+}

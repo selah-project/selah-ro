@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și s-au întors și au suit spre munte și au venit până la valea Eșcol, și au iscodit-o ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Și s-au întors"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "și au suit"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "spre munte"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "valea"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eșcol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "și au iscodit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "-o ⟨את⟩",
+      "marks": "ea (pământul, la fem. în ebraică)"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:17.154027024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și au făcut toți fiii lui Israel cum poruncise Yahve ⟨את⟩ Moșe și ⟨את⟩ Aharon — așa au făcut.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Și au făcut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:42.589849490Z",
+  "model": "glm-5.3"
+}

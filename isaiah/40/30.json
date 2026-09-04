@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și vor obosi tinerii și vor osteni, și bărbații tineri de-a binelea vor poticni.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "Și vor obosi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "tinerii"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "și vor osteni"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "și bărbații tineri"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "de-a binelea"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "vor poticni"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:43.425641194Z",
+  "model": "glm-5.3"
+}

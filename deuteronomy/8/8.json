@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Un pământ de grâu și de orz, de viță și de smochin și de rodie; un pământ de măslin cu untdelemn și de miere.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Un pământ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "de grâu"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "și de orz"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "de viță"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "și de smochin"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "și de rodie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "un pământ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "de măslin"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "cu untdelemn"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "și de miere"
+    }
+  ],
+  "timestamp": "2026-09-04T02:02:06.280994791Z",
+  "model": "glm-5.3"
+}

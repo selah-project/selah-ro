@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și a văzut Iosif cu ⟨את⟩ pe ei, și ⟨את⟩ pe Biniamin, și a zis celui ce era peste casa lui: „Adu ⟨את⟩ oamenii în casă și junghie o junghiere și pregătește, căci împreună cu ⟨את⟩ cu mine vor mânca oamenii la amiază”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "cu ⟨את⟩",
+      "marks": "ei — frații"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Biniamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Biniamin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "celuia ce"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "adu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "acasă"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "și junghie"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "o junghiere"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "și pregătește"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu ⟨את⟩",
+      "marks": "mine"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "la amiază"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:08.274452649Z",
+  "model": "glm-5.3"
+}

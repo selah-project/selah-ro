@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 1:13",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Adu-ți aminte ⟨את⟩ cuvântul pe care v-a poruncit ⟨את⟩ vouă Moșe, slujitorul lui Yahve, zicând: Yahve, Elohim al vostru, vă dă odihnă și vă va da ⟨את⟩ pământul acesta.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Adu-ți aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vouă"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slujitorul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "vă dă odihnă"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "și vă va da"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:17:04.005865950Z",
+  "model": "glm-5.3"
+}

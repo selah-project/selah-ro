@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "căci celor care făceau lucrarea li se dădea, și au întărit cu el ⟨את⟩ casa lui Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "celor care făceau"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "li se dădea"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "și au întărit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Yahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:34.872565717Z",
+  "model": "glm-5.3"
+}

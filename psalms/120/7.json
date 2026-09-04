@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 120,
+  "translation": "Eu ⟨sunt pentru⟩ pace, iar când vorbesc, ei ⟨sunt pentru⟩ război.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "iar când"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "vorbesc"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pentru război"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:06.861447537Z",
+  "model": "glm-5.3"
+}

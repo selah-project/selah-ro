@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Și am zis: «Boala mea ⟨este⟩ aceasta: ⟨s-au⟩ schimbat anii mâinii drepte a Celui Preaînalt».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "și am zis"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "boala mea"
+    },
+    {
+      "surface": "היא",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "anii"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mâinii drepte"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "a Celui Preaînalt"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:15.261342175Z",
+  "model": "glm-5.3"
+}

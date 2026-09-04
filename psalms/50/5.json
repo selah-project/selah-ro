@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Adunați-vă spre mine, credincioșii mei, cei ce au tăiat legământul meu peste jertfă.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Adunați-vă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "spre mine"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "credincioșii mei"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "cei ce au tăiat"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:32.308812904Z",
+  "model": "glm-5.3"
+}

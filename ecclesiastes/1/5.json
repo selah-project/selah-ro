@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și răsare soarele, și apune soarele, și către locul lui gâfâind răsare el acolo.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "Și răsare"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "și apune"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și către"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "locul lui"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "gâfâind"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "răsare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:16.186400073Z",
+  "model": "glm-5.3"
+}

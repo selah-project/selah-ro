@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Astăzi ieșiți, în luna Aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Astăzi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ieșiți"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "în luna"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-09-04T08:46:42.741331369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și am zis: să facem, rog, pentru noi să clădim ⟨את⟩ altarul — nu pentru ardere-de-jertfă și nu pentru jertfă.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "să facem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rog"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "să clădim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "pentru ardere-de-jertfă"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pentru jertfă"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:51.248246271Z",
+  "model": "glm-5.3"
+}

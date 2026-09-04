@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 70,
+  "translation": "Să se întoarcă înapoi ⟨din pricina⟩ rușinii lor, cei ce spun: „Heah! Heah!”",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "să se întoarcă"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨din pricina⟩"
+    },
+    {
+      "surface": "עקב",
+      "gloss": ""
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "rușinii lor"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "cei ce spun"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:38.552982528Z",
+  "model": "glm-5.3"
+}

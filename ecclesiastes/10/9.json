@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Cel ce mută pietre va fi rănit de ele, și cel ce despică lemne va fi pus în primejdie de ele.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "Cel ce mută"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "va fi rănit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "de ele"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "cel ce despică"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lemne"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "va fi pus în primejdie"
+    },
+    {
+      "surface": "בם",
+      "gloss": "de ele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:47.863921340Z",
+  "model": "glm-5.3"
+}

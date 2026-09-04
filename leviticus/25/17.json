@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Să nu asupriți om pe ⟨את⟩ semenul său, și să te temi de Elohimul tău, căci Eu sunt Yahve Elohimul vostru.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "asupriți"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semenul său"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "semenul său"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "și să te temi"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "de Elohimul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:18.627189571Z",
+  "model": "glm-5.3"
+}

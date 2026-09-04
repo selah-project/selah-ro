@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Cum a poruncit Yahve lui Moșe ⟨את⟩, așa au făcut fiii lui Israel și au împărțit ⟨את⟩ pământul.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "și au împărțit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:22:06.853316655Z",
+  "model": "glm-5.3"
+}

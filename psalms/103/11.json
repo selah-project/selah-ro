@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Căci pe cât de înalte sunt cerurile peste pământ, atât de tare a biruit hesedul lui peste cei ce se tem de el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "pe cât de înalte"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "a biruit"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "cei ce se tem de el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:40.311406408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a spus Șeem lui Hamor, tatăl său: Ia-mi ⟨את⟩ copila aceasta de soție.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Șeem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copila aceasta"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "copila"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de soție"
+    }
+  ],
+  "timestamp": "2026-09-04T01:06:16.769808296Z",
+  "model": "glm-5.3"
+}

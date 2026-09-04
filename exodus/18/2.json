@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a luat Itro, socru lui Moșe, ⟨את⟩ Țipora, soția lui Moșe, după trimiterea ei înapoi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Itro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "socru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Țipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Țipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "după"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "trimiterea ei înapoi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:14.871163448Z",
+  "model": "glm-5.3"
+}

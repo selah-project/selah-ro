@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Și am fost lovit toată ziua, și mustrarea mea ⟨vine⟩ în fiecare dimineață.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "și am fost"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "lovit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "și mustrarea mea"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "în fiecare dimineață"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:02.698732968Z",
+  "model": "glm-5.3"
+}

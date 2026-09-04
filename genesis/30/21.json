@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și după aceea a născut o fiică și a numit ⟨את⟩ numele ei Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Și după aceea"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "בת",
+      "gloss": "o fiică"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "și a numit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele ei"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "numele ei"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:19.783420215Z",
+  "model": "glm-5.3"
+}

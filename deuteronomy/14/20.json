@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "orice pasăre curată s-o mâncați",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pasăre"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curată"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:15.051698793Z",
+  "model": "glm-5.3"
+}

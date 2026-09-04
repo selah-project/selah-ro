@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Îndepărtează de la mine ocară și dispreț, căci mărturiile tale le-am păzit.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Îndepărtează"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ocară"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "și dispreț"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mărturiile tale"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "le-am păzit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:24.601285059Z",
+  "model": "glm-5.3"
+}

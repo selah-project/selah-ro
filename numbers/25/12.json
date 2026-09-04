@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "De aceea, spune: Iată, eu îi dau ⟨את⟩ legământul meu — păcei.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "De aceea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spune"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "eu dau"
+    },
+    {
+      "surface": "לו",
+      "gloss": "îi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "al păcei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:11.710600261Z",
+  "model": "glm-5.3"
+}

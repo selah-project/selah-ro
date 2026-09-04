@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Iar de voiești să nu lași ⟨să plece⟩, iată, Eu voi lovi ⟨את⟩ toată hotarul tău cu broaște.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar de"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "voiești să nu lași"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "să plece"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "voi lovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot hotarul tău"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "hotarul tău"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "cu broaște"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:23.260787399Z",
+  "model": "glm-5.3"
+}

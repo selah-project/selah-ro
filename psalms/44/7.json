@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Căci nu în arcul meu îmi pun încrederea, și sabia mea nu mă izbăvește.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "în arcul meu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "îmi pun încrederea"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "și sabia mea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "mă izbăvește"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:35.741692172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căci nu un El care își găsește plăcerea în răutate ești tu; răul nu va sălășlui lângă tine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "un El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "care își găsește plăcerea"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "în răutate"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "va sălășlui lângă tine"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:17.335165871Z",
+  "model": "glm-5.3"
+}

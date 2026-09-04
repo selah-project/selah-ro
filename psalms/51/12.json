@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "O inimă curată creează în mine, Elohim, și un duh statornic înnoiește în lăuntrul meu.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curată"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "creează"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "și un duh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "statornic"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "înnoiește"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "în lăuntrul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:22.366268151Z",
+  "model": "glm-5.3"
+}

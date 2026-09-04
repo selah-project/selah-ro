@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 7:20",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "atunci îi voi smulge de pe pământul meu pe care li l-am dat, iar ⟨את⟩ casa aceasta, pe care am sfințit-o pentru numele meu, o voi arunca de la fața mea și o voi da drept pildă și batjocură printre toate popoarele.",
+  "tokens": [
+    {
+      "surface": "ונתשתים",
+      "gloss": "îi voi smulge"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "אדמתי",
+      "gloss": "pământul meu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "li l-am dat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa",
+      "marks": "casa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "am sfințit-o"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "pentru numele meu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "o voi arunca"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de la"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    },
+    {
+      "surface": "ואתננו",
+      "gloss": "și o voi da"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "pildă"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "și batjocură"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "printre toate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    }
+  ],
+  "timestamp": "2026-09-04T06:20:39.352079656Z",
+  "model": "glm-5.3"
+}

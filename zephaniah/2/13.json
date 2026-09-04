@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și își va întinde mâna sa asupra țării de la miazănoapte și va nimici ⟨את⟩ Așșur, și o va face pe ⟨את⟩ Ninive o pustietate, un loc uscat, ca pustiul.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "și va întinde"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "miazănoapte"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "și va nimici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Așșur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așșur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și o va face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "o pustietate"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "un loc uscat"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ca pustiul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:47:16.158465215Z",
+  "model": "glm-5.3"
+}

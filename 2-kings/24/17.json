@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a pus să domnească regele Babilonului ⟨את⟩ Matania, unchiul lui, în locul lui, și a schimbat ⟨את⟩ numele lui în Țidkiahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Și a pus să domnească"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matania"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matania"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "unchiul lui"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "și a schimbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Țidkiahu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:34:37.525977285Z",
+  "model": "glm-5.3"
+}

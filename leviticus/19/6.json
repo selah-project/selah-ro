@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "În ziua jertfei voastre se va mânca, și a doua zi; iar ce rămâne până în ziua a treia, în foc se va arde.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "jertfei voastre"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se va mânca"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "și a doua zi"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "iar ce rămâne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "יום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a treia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "se va arde"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:17.721485514Z",
+  "model": "glm-5.3"
+}

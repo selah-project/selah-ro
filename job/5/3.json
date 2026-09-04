@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Eu am văzut un nebun înrădăcinându-se, și am blestemat deodată locuința lui.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "un nebun"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "înrădăcinându-se"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "și am blestemat"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "locuința lui"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "deodată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:32.793728045Z",
+  "model": "glm-5.3"
+}

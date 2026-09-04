@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a vorbit Elohim ⟨את⟩ toate cuvintele acestea, zicând:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:42.616993860Z",
+  "model": "glm-5.3"
+}

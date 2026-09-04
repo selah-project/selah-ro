@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a luat Moșe ⟨את⟩ untdelemnul ungerii și a uns ⟨את⟩ Cortul și ⟨את⟩ tot ce era în el, și le-a sfințit ⟨את⟩ pe ele.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "untdelemnul ungerii"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ungerii"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "și a uns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cortul"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Cortul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot ce era în el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "și le-a sfințit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ele"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:50.161438780Z",
+  "model": "glm-5.3"
+}

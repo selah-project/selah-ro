@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "M-am grăbit și nu am zăbovit să păzesc poruncile tale.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "m-am grăbit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "am zăbovit"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păzesc"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:16.466239937Z",
+  "model": "glm-5.3"
+}

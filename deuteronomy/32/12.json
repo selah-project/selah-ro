@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Yahve singur l-a călăuzit și nu era cu el dumnezeu străin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "singur"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "l-a călăuzit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu era"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dumnezeu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străin"
+    }
+  ],
+  "timestamp": "2026-09-04T02:14:04.499764928Z",
+  "model": "glm-5.3"
+}

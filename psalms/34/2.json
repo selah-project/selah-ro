@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Voi binecuvânta ⟨את⟩ Yahve în toată vremea, pururea lauda lui în gura mea.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Voi binecuvânta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vremea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pururea"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lauda lui"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "în gura mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:47.813747466Z",
+  "model": "glm-5.3"
+}

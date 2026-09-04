@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Căci toate judecățile lui ⟨sunt⟩ înaintea mea, și hotarele lui nu le îndepărtez de la mine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "judecățile lui"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "și hotarele lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "îndepărtez"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:53.724240984Z",
+  "model": "glm-5.3"
+}

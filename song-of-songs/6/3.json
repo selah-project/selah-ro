@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Eu sunt a iubitului meu, și iubitul meu este al meu, cel ce paște printre crini.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "sunt a iubitului meu"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "și iubitul meu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "este al meu"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "cel ce paște"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "printre crini"
+    }
+  ],
+  "timestamp": "2026-09-04T08:09:33.330629202Z",
+  "model": "glm-5.3"
+}

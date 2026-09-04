@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Dar ⟨את⟩ mine nu m-ai chemat, Iaacov, căci te-ai săturat de mine, Israel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dar nu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mine"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "m-ai chemat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "te-ai săturat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:38.475844873Z",
+  "model": "glm-5.3"
+}

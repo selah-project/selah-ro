@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Zavad l-a născut ⟨את⟩ Eflal, și Eflal l-a născut ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Și Zavad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "l-a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "și Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "l-a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:56.395177063Z",
+  "model": "glm-5.3"
+}

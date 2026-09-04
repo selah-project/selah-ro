@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Încununezi anul bunătății tale, și cărările tale picură însutire.",
+  "tokens": [
+    {
+      "surface": "עִ֭טַּרְתָּ",
+      "gloss": "încununezi"
+    },
+    {
+      "surface": "שְׁנַ֣ת",
+      "gloss": "anul"
+    },
+    {
+      "surface": "טוֹבָתֶ֑ךָ",
+      "gloss": "bunătății tale"
+    },
+    {
+      "surface": "וּ֝מַעְגָּלֶ֗יךָ",
+      "gloss": "și cărările tale"
+    },
+    {
+      "surface": "יִרְעֲפ֥וּן",
+      "gloss": "picură"
+    },
+    {
+      "surface": "דָּֽשֶׁן",
+      "gloss": "însutire"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:06.756935959Z",
+  "model": "glm-5.3"
+}

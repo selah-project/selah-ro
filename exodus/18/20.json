@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "și vei învăța ⟨את⟩ ei ⟨את⟩ hotărârile și ⟨את⟩ învățăturile, și le vei face cunoscut ⟨את⟩ calea pe care să meargă în ea și ⟨את⟩ lucrarea pe care s-o facă.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "și vei învăța"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ei (poporul)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hotârârile"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hotărârile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "învățăturile"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "învățăturile"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "și vei face cunoscut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calea"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "să meargă"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lucrarea"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "s-o facă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:51.986318397Z",
+  "model": "glm-5.3"
+}

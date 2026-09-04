@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a fost Șaul cu ⟨un ochi rău⟩ ⟨את⟩ David, din ziua aceea și înainte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "cu ⟨un ochi rău⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "din ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "și înainte"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:29.241678166Z",
+  "model": "glm-5.3"
+}

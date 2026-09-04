@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "Să zică, rogu-vă, cei ce se tem de Yahve: căci în veac ⟨durează⟩ hesedul lui.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Să zică"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rogu-vă"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "cei ce se tem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:38.304052381Z",
+  "model": "glm-5.3"
+}

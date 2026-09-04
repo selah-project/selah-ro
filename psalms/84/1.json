@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 84,
+  "translation": "Către cel ce dirijează, pe Gatit; al fiilor lui Korah, un psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către cel ce dirijează"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gatit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "al fiilor lui"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:17.119340169Z",
+  "model": "glm-5.3"
+}

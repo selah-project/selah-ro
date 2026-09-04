@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Căruia se cucește corul. Un mizmor al lui David. Yahve, m-ai cercetat ⟨și⟩ m-ai cunoscut.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Căruia se cucește corul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "m-ai cercetat"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "și m-ai cunoscut"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:51.784913941Z",
+  "model": "glm-5.3"
+}

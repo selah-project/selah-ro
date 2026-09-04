@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 15:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a spus Șaul: De la Amalekiți i-au adus, pentru că poporul a cruțat ce ⟨era⟩ mai bun din oi și din vite, ca să jertfească lui Yahve, Elohim al tău; iar ⟨את⟩ restul l-am dat nimicirii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "מעמלקי",
+      "gloss": "De la Amalekiți"
+    },
+    {
+      "surface": "הביאום",
+      "gloss": "i-au adus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "a cruțat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ce era mai bun"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "oilor"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "și vitelor"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfească"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "restul"
+    },
+    {
+      "surface": "היותר",
+      "gloss": "restul"
+    },
+    {
+      "surface": "החרמנו",
+      "gloss": "l-am dat nimicirii"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:29.703658769Z",
+  "model": "glm-5.3"
+}

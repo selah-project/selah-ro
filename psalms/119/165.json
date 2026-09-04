@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Șalom mare ⟨au⟩ iubitorii Torei tale, și nu ⟨este⟩ pentru ei piatră de poticnire.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Șalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "iubitorii"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torei tale"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pentru ei"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "piatră de poticnire"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:31.829859663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 67,
+  "translation": "Te vor lăuda popoarele, Elohim, te vor lăuda popoarele, toate toate.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "te vor lăuda"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "te vor lăuda"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toate toate"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:54.844611501Z",
+  "model": "glm-5.3"
+}

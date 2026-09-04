@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și s-au sculat bătrânii casei lui peste el, ca să-l ridice de pe pământ, dar nu a voit și nu a mâncat cu ⟨את⟩ ei pâine.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "și s-au sculat"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casei lui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ca să-l ridice"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a voit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "a mâncat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "cu ⟨את⟩ ei",
+      "marks": "ei — bătrânii casei"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:59.698802338Z",
+  "model": "glm-5.3"
+}

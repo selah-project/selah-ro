@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 1:17",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iar tu îți încinge șoldurile și ridică-te și vorbește-le ⟨את⟩ tot ce îți poruncesc eu; nu te sfii de fețele lor, ca să nu te fac să te sfiesti înaintea lor.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "תאזר",
+      "gloss": "îți încinge"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "șoldurile"
+    },
+    {
+      "surface": "וקמת",
+      "gloss": "și ridică-te"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "și vorbește"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "îți poruncesc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "te sfii"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "de fețele lor"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "אחתך",
+      "gloss": "te fac să te sfiesti"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "înaintea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T09:00:52.149107073Z",
+  "model": "glm-5.3"
+}

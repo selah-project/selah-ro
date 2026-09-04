@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Cine dintre toți dumnezeii țărilor acestora a scăpat ⟨את⟩ țara lui din mâna mea, ca să scape Yahve ⟨את⟩ Ierușalaimul din mâna mea?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dintre toți"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "țărilor"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "a scăpat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara lui"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "țara lui"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "din mâna mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "scape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaimul"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimul"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "din mâna mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:28:30.457054660Z",
+  "model": "glm-5.3"
+}

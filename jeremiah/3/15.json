@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și vă voi da păstori după inima mea, și vă vor păște ⟨את⟩ pe voi cu cunoștință și pricepere.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Și vă voi da"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "păstori"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "după inima mea"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "și vă vor păște"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "cunoștință"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "și pricepere"
+    }
+  ],
+  "timestamp": "2026-09-04T03:59:37.563472767Z",
+  "model": "glm-5.3"
+}

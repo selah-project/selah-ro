@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Și-au pus în ceruri gura ⟨lor⟩, iar limba lor umblă pe pământ.",
+  "tokens": [
+    {
+      "surface": "שַׁתּ֣וּ",
+      "gloss": "Și-au pus"
+    },
+    {
+      "surface": "בַשָּׁמַ֣יִם",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "פִּיהֶ֑ם",
+      "gloss": "gura ⟨lor⟩"
+    },
+    {
+      "surface": "וּ֝לְשׁוֹנָ֗ם",
+      "gloss": "iar limba lor"
+    },
+    {
+      "surface": "תִּֽהֲלַ֥ךְ",
+      "gloss": "umblă"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:01.371062756Z",
+  "model": "glm-5.3"
+}

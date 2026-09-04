@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Urechi au ei, dar nu aud; ba nu este nicio suflare în gura lor.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Urechi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "au ei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "aud"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "יש",
+      "gloss": "nicio"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "suflare"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "în gura lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:59.084903479Z",
+  "model": "glm-5.3"
+}

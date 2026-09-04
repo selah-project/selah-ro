@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a mers un om din casa lui Levi și a luat ⟨את⟩ o fiică a lui Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "lui Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o fiică a lui Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "o fiică"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "lui Levi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:40.346230838Z",
+  "model": "glm-5.3"
+}

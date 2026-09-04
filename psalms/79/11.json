@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Să vină înaintea feței tale strigătul celui întemnițat; după mărimea brațului tău, eliberează-i pe fiii morții.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Să vină"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea feței tale"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "strigătul"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "celui întemnițat"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "după mărimea"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "brațului tău"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "eliberează-i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pe fiii"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "morții"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:40.825164438Z",
+  "model": "glm-5.3"
+}

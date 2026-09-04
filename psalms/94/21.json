@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Se vor uni împotriva nefeșului celui drept și vor osândi ⟨la moarte⟩ sânge nevinovat.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "Se vor uni"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeșului"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "celui drept"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "și sânge"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "vor osândi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:34.993735923Z",
+  "model": "glm-5.3"
+}

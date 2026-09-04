@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Așa a spus Yahve: «Pentru trei răzvrătiri ale lui Damașec și pentru patru nu îl voi întoarce, pentru că au treierat ⟨את⟩ Gilead cu sănii de fier».",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "Pentru"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "răzvrătiri ale"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "lui Damașec"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pentru"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "patru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "îl voi întoarce"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "au treierat"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "cu sănii de"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "fier"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:01.075308549Z",
+  "model": "glm-5.3"
+}

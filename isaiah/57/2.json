@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Vine pacea, se odihnesc pe paturile lor, cel care merge drept înainte.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pacea"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "se odihnesc"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "paturile lor"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "cel care merge"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "drept înainte"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:48.595819999Z",
+  "model": "glm-5.3"
+}

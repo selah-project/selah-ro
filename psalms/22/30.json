@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Au mâncat și s-au închinat toți grăsunii pământului; înaintea lui vor îngenunchea toți cei ce coboară în praf, și sufletul lui nu l-a ținut în viață.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Au mâncat"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "și s-au închinat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "grăsunii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "vor îngenunchea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "cei ce coboară în"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praf"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "și sufletul lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "l-a ținut în viață"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:01.255490352Z",
+  "model": "glm-5.3"
+}

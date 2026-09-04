@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și s-a ridicat un rege nou peste Mițraim, care nu l-a cunoscut pe Iosif.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și s-a ridicat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un rege"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nou"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a cunoscut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iosif"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:17.367771968Z",
+  "model": "glm-5.3"
+}

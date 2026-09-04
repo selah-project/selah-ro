@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 117,
+  "translation": "Lăudați ⟨את⟩ pe Yahve, toate neamurile; preamăriți-l, toate popoarele!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "preamăriți-l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "popoarele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:27.682850458Z",
+  "model": "glm-5.3"
+}

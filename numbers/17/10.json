@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Ridicați-vă din mijlocul acestei adunări, și îi voi mistui ⟨את⟩ într-o clipă. Și au căzut pe fețele lor.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Ridicați-vă"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "din mijlocul"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "adunării"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "și îi voi mistui"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei (adunarea)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "într-o clipă"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "Și au căzut"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "fețele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:49:57.266182516Z",
+  "model": "glm-5.3"
+}

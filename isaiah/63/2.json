@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "De ce ⟨e⟩ roșie haina ta, și hainele tale ca ⟨ale celui⟩ care calcă în teasc?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "roșie"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "hainei tale"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "și hainele tale"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "ca al unuia care calcă"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "în teasc"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:02.344324840Z",
+  "model": "glm-5.3"
+}

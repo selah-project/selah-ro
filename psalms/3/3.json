@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Mulți sunt cei care spun sufletului meu: «Nu este izbăvire pentru el în Elohim.» Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Mulți"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sunt cei care spun"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sufletului meu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Nu este"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "izbăvire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "în Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:18.592464321Z",
+  "model": "glm-5.3"
+}

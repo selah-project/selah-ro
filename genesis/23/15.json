@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Domnul meu, ascultă-mă: pământul — patru sute de sicli de argint — între mine și între tine ce este? Și ⟨את⟩ mortul tău îngroapă.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Domnul meu"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ascultă-mă"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patru"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sute"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "de sicli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de argint"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "și între tine"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mortul tău"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "mortul tău"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "îngroapă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:00.378181057Z",
+  "model": "glm-5.3"
+}

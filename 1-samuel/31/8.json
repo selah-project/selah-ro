@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a fost a doua zi, și au venit filiștii să jefuiască ⟨את⟩ cei căzuți, și au găsit ⟨את⟩ Șaul și ⟨את⟩ pe cei trei fii ai săi căzuți pe muntele Ghilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "a doua zi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștii"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "să jefuiască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cei căzuți"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "cei căzuți"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "și au găsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "pe cei trei"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fii ai săi"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "căzuți"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pe muntele"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Ghilboa"
+    }
+  ],
+  "timestamp": "2026-09-04T02:54:17.557204397Z",
+  "model": "glm-5.3"
+}

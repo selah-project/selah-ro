@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Eu sunt o floare a Șaronului, un crin al văilor.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "floare"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "a Șaronului"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "un crin"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "al văilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:52.648658008Z",
+  "model": "glm-5.3"
+}

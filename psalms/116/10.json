@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Am crezut, căci eu vorbesc; eu am fost chinuit foarte.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Am crezut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "(eu) vorbesc"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "am fost chinuit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:35.314734742Z",
+  "model": "glm-5.3"
+}

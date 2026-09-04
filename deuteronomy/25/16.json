@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "căci urâciune ⟨este⟩ înaintea lui Yahve, Elohim al tău, oricine face acestea, oricine făptuiește strâmbătate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "urâciune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oricine"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făptuiește"
+    },
+    {
+      "surface": "עול",
+      "gloss": "strâmbătate"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:04.193674537Z",
+  "model": "glm-5.3"
+}

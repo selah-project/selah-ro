@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Yahve, înălțată ⟨este⟩ mâna ta — nu vor vedea; vor vedea și se vor rușina ⟨de⟩ râvna poporului; chiar, focul pe vrăjmașii tăi îi va mistui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "înălțată"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "vor vedea"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "vor vedea"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "și se vor rușina"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "râvna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "focul"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "vrăjmașii tăi"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "îi va mistui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:26.190620376Z",
+  "model": "glm-5.3"
+}

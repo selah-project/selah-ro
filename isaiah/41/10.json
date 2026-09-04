@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Nu te teme, căci Eu sunt cu tine; nu privi împrejur, căci Eu sunt Elohim, ⟨al tău⟩; te-am întărit, chiar te-am ajutat, chiar te-am sprijinit cu dreapta dreptății mele.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "privi împrejur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim (al tău)"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "te-am întărit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "te-am ajutat"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "te-am sprijinit"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "cu dreapta"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "dreptății mele"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:12.916835245Z",
+  "model": "glm-5.3"
+}

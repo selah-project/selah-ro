@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a spus: „Iată, am îmbătrânit; nu cunosc ziua morții mele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doar"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "am îmbătrânit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "cunosc"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "morții mele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:22.442882014Z",
+  "model": "glm-5.3"
+}

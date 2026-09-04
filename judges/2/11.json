@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și au făcut fiii lui Israel ⟨את⟩ răul în ochii lui Yahve, și au slujit ⟨את⟩ baalii.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Și au făcut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "răul"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "și au slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baalii"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalii"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:41.861051208Z",
+  "model": "glm-5.3"
+}

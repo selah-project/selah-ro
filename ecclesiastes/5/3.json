@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Când făgăduiești o făgăduială lui Elohim, nu amâna s-o împlinești, căci nu este plăcere în nesăbuiți; ⟨את⟩ ce ai făgăduit, împlinește.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "făgăduiești"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "o făgăduială"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "amâna"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "s-o împlinești"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "plăcere"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "în nesăbuiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce ai făgăduit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ai făgăduit"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "împlinește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:40.686999305Z",
+  "model": "glm-5.3"
+}

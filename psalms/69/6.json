@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Elohim, tu cunoști nebunia mea, și vinovățiile mele de la tine nu sunt ascunse.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "cunoști"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "nebunia mea"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "și vinovățiile mele"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de la tine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "sunt ascunse"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:03.572282260Z",
+  "model": "glm-5.3"
+}

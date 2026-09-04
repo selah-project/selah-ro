@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a fost după aceea: a lovit David ⟨את⟩ filistenii și i-a supus, și a luat ⟨את⟩ Gatul și satele lui din mâna filistenilor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistenii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "și i-a supus"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gatul"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatul"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "și satele lui"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenilor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:06.145896147Z",
+  "model": "glm-5.3"
+}

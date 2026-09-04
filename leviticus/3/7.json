@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Dacă un miel aduce el ⟨את⟩ darul lui, atunci îl ⟨את⟩ va aduce înaintea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "un miel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "aduce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul lui"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "darul lui"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "va aduce"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "îl ⟨את⟩",
+      "marks": "mielul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:50.163533801Z",
+  "model": "glm-5.3"
+}

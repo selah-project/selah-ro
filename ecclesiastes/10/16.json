@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Vai ție, pământule, când regele tău ⟨este⟩ un copil, și căpeteniile tale mănâncă dimineața!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământule"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "când regele tău"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un copil"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "și căpeteniile tale"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mănâncă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:56.902115926Z",
+  "model": "glm-5.3"
+}

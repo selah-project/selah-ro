@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "În cetate năvălesc, pe zid aleargă, în case se suie, pe la ferestre intră, ca un hoț.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "În cetate"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "năvălesc"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "pe zid"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "aleargă"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "în case"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "se suie"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pe la"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "ferestre"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "intră"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "ca un hoț"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:00.177527864Z",
+  "model": "glm-5.3"
+}

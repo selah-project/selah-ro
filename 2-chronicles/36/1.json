@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și a luat poporul țării ⟨את⟩ pe Yehoahaz, fiul lui Yoshiyahu, și l-au făcut împărat în locul tatălui său, la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yehoahaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "lui Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "și l-au făcut împărat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "la Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:32:00.931830884Z",
+  "model": "glm-5.3"
+}

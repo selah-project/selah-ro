@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Uzi a născut ⟨את⟩ Zerahia, Zerahia a născut ⟨את⟩ Meraiot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerahia"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerahia"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Zerahia"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meraiot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Meraiot"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:20.521298635Z",
+  "model": "glm-5.3"
+}

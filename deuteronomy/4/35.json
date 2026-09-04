@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Tu ai fost arătat ca să știi că Yahve, el ⟨este⟩ Elohim; nu ⟨este⟩ nimic în afară de el.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ai fost arătat"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ca să știi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nimic"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "în afară de el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:02.873536662Z",
+  "model": "glm-5.3"
+}

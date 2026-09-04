@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Dacă se umplu norii de ploaie, pe pământ o vor vărsa; și dacă cade un copac la miazăzi sau la miazănoapte — locul unde cade copacul, acolo ⟨va fi⟩ el.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "se umplu"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "norii"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "de ploaie"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "o vor vărsa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cade"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "un copac"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "la miazăzi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sau dacă"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "la miazănoapte"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "unde cade"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "copacul"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨va fi⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:46.543670644Z",
+  "model": "glm-5.3"
+}

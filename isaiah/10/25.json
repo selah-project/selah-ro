@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Căci încă puțin, foarte puțin, și se va sfârși mânia, și urgia mea asupra nimicirii lor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "foarte puțin"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "și se va sfârși"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "și urgia mea"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "nimicirii lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:58:32.202119007Z",
+  "model": "glm-5.3"
+}

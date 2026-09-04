@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și s-a căit Yahve că a făcut ⟨את⟩ omul pe pământ, și s-a întristat până în inima lui.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Și s-a căit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "și s-a întristat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "până în"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:08.221091140Z",
+  "model": "glm-5.3"
+}

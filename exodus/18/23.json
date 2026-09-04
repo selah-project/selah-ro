@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Dacă ⟨את⟩ lucrul acesta îl vei face și te va rândui Elohim, vei putea sta, și de asemenea tot poporul acesta la locul lui va veni în pace.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrul acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "și te va rândui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "și vei putea"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și de asemenea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "locul lui"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "va veni"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "în pace"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:36.160139428Z",
+  "model": "glm-5.3"
+}

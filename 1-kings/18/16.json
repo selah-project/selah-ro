@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "S-a dus Ovadyahu în întâmpinarea lui Ahav și i-a vestit; și s-a dus Ahav în întâmpinarea lui Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "s-a dus"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "în întâmpinarea"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "lui Ahav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a vestit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "s-a dus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "în întâmpinarea"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "lui Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:15.086878334Z",
+  "model": "glm-5.3"
+}

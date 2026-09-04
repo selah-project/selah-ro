@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Îmbrac cerurile cu negreală, și un sac pun acoperământul lor.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Îmbrac"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "cu negreală"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "și un sac"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "pun"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "acoperământul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:16.166371187Z",
+  "model": "glm-5.3"
+}

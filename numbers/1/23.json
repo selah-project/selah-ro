@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cei numărați ai lor, pentru seminția lui Șimon: nouă și cincizeci de mii și trei sute.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Cei numărați ai lor"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pentru seminția"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "lui Șimon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "și cincizeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "și trei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:28.045604234Z",
+  "model": "glm-5.3"
+}

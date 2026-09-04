@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Puii de leu au rămas fără nimic și flămânzesc, dar cei care îl caută pe Yahve nu vor duce lipsă de niciun bine.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "puii de leu"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "au rămas fără nimic"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "și flămânzesc"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "dar cei care îl caută pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "vor duce lipsă"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de niciun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:32.594328222Z",
+  "model": "glm-5.3"
+}

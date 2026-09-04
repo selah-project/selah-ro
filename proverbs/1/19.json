@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Așa sunt căile oricărui lacom de câștig: ⟨את⟩ viața stăpânilor săi o ia.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "căile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oricărui"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lacom"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "de câștig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "viața"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "stăpânilor săi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o ia"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.384870438Z",
+  "model": "glm-5.3"
+}

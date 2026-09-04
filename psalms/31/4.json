@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Căci stânca mea și fortăreața mea ești ⟨tu⟩; și pentru numele tău călăuzește-mă și povățuiește-mă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "și fortăreața mea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "și pentru"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "călăuzește-mă"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "și povățuiește-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:08.282433767Z",
+  "model": "glm-5.3"
+}

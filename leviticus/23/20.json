@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și va legăna cohenul ⟨את⟩ ele împreună cu pâinea celor dintâi roade, legănare înaintea lui Yahve, împreună cu cei doi mieluși: sfinți vor fi pentru Yahve, pentru cohen.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "și va legăna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ele (jertfele)"
+    },
+    {
+      "surface": "על",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "celor dintâi roade"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "legănare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cei doi"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "mieluși"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfinți"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pentru cohen"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:46.327500675Z",
+  "model": "glm-5.3"
+}

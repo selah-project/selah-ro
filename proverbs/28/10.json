@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Cel ce-i rătăcește pe cei drepți într-un drum rău, în groapa lui însuși va cădea, iar cei fără prihană vor moșteni binele.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "Cel ce-i rătăcește"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "pe cei drepți"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "într-un drum"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "în groapa lui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "însuși"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "va căda"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "iar cei fără prihană"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "vor moșteni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:04.659044311Z",
+  "model": "glm-5.3"
+}

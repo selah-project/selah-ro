@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Să fie slava lui Yahve în veac; să se bucure Yahve de lucrările lui.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Să fie"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "să se bucure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "de lucrările lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:18.166255445Z",
+  "model": "glm-5.3"
+}

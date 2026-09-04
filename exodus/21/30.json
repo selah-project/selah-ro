@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 21:30",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Dacă i se pune o răscumpărare, să dea prețul răscumpărării vieții lui, după tot ce i se va pune peste.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "o răscumpărare"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "se pune"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "să dea"
+    },
+    {
+      "surface": "פדין",
+      "gloss": "prețul răscumpărării"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "vieții lui"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "i se va pune"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:37.153523331Z",
+  "model": "glm-5.3"
+}

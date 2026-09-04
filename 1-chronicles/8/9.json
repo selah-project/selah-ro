@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "A născut ⟨את⟩ din Hodeș, soția lui: ⟨את⟩ Iovav, și ⟨את⟩ Țivia, și ⟨את⟩ Meșa și ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodeș"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Iovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Țivia"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Țivia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Meșa"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meșa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:17.752061493Z",
+  "model": "glm-5.3"
+}

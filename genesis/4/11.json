@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și acum, blestemat ești tu de pe pământul care și-a deschis ⟨את⟩ gura ca să primească ⟨את⟩ sângele fratelui tău din mâna ta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "blestemat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "și-a deschis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gura"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ca să primească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele fratelui tău"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratelui tău"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "din mâna ta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:05.611821576Z",
+  "model": "glm-5.3"
+}

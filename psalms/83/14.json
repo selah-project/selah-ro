@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Elohim al meu, pune-i ca o rostogolire, ca pleava înaintea vântului.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "pune-i"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "ca o rostogolire"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ca pleava"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vântului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:41.384174992Z",
+  "model": "glm-5.3"
+}

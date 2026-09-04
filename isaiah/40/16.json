@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și Libanul nu ⟨este⟩ destul pentru ardere, și vietățile lui nu ⟨sunt⟩ destule pentru arderea-de-tot.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "și Libanul"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "די",
+      "gloss": "destul"
+    },
+    {
+      "surface": "בער",
+      "gloss": "pentru ardere"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "și vietățile lui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "די",
+      "gloss": "destul"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "pentru arderea-de-tot"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:22.520771540Z",
+  "model": "glm-5.3"
+}

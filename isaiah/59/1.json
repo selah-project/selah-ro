@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Iată, nu s-a scurtat mâna lui Yahve ca să nu poată mântui, și nu s-a îngreunat urechea lui de la a auzi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "s-a scurtat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "de la a mântui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "s-a îngreunat"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "urechea lui"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "de la a auzi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:42.221530008Z",
+  "model": "glm-5.3"
+}

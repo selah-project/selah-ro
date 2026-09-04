@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Te-am chemat: mântuiește-mă, și voi păzi mărturiile tale.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "te-am chemat"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mântuiește-mă"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "și voi păzi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mărturiile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:31.391816265Z",
+  "model": "glm-5.3"
+}

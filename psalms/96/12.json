@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 96,
+  "translation": "Să exulte câmpia și tot ce ⟨este⟩ în ea; atunci să chiuie de bucurie toți copacii pădurii.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Să exulte"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "câmpia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "să chiuie de bucurie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "copacii"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pădurii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:39.171586409Z",
+  "model": "glm-5.3"
+}

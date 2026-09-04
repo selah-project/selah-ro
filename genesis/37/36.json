@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Iar Madianiții au vândut ⟨את⟩ pe el în Mițraim, lui Potifar, eunuc al lui Paro, căpetenia călăilor.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "iar Madianiții"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "au vândut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el — pe Iosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "lui Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunuc"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "al lui Paro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "călăilor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:07:37.610676501Z",
+  "model": "glm-5.3"
+}

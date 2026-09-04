@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și nu se vor mai pironi ochii celor ce văd, și urechile celor ce aud vor fi cu luare-aminte.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "se vor mai pironi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "celor ce văd"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "și urechile"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "celor ce aud"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "vor fi cu luare-aminte"
+    }
+  ],
+  "timestamp": "2026-09-04T07:27:12.254077258Z",
+  "model": "glm-5.3"
+}

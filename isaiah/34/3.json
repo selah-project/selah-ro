@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și cei uciși ai lor vor fi aruncați, și din trupurile lor se va sui duhoarea, și munții se vor topi de sângele lor.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "și cei uciși ai lor"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "vor fi aruncați"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "și trupurile lor"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "se va sui"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "duhoarea"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "și se vor topi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "de sângele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:46:28.840163859Z",
+  "model": "glm-5.3"
+}

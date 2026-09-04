@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "În pășuni de iarbă tânără mă culcă; lângă ape de odihnă mă povățuiește.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "În pășuni"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "de iarbă tânără"
+    },
+    {
+      "surface": "יירביצני",
+      "gloss": "mă culcă"
+    },
+    {
+      "surface": "על",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ape"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "de odihnă"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "mă povățuiește"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:00.465680939Z",
+  "model": "glm-5.3"
+}

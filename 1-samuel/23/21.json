@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a zis Șaul: Binecuvântați sunteți voi de Yahve, căci v-ați îndurat de mine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "Binecuvântați"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "v-ați îndurat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:14.702585900Z",
+  "model": "glm-5.3"
+}

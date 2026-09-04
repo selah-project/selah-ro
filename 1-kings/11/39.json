@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și voi smeri ⟨את⟩ sămânța lui David din pricina aceasta, dar nu în toate zilele.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Și voi smeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sămânța lui David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânța"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zilele"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:32.102265437Z",
+  "model": "glm-5.3"
+}

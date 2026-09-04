@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Se satură copacii lui Yahve, cedrii Libanului, pe care i-a plantat.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Se satură"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "copacii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedrii"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "a plantat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:46.013824918Z",
+  "model": "glm-5.3"
+}

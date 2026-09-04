@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Mergi, adună ⟨את⟩ pe toți iudeii care se află în Șușan și postiți pentru mine; să nu mâncați și să nu beți trei zile, noapte și zi; și eu și slujitoarele mele vom posti la fel. Și astfel voi intra la rege, ceea ce nu este după lege; și cum am pierit, am pierit.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Mergi"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "adună"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți iudeii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeii"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "care se află"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "în Șușan"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "și postiți"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "să beți"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noapte"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "și zi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "și slujitoarele mele"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "voi posti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "la fel"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "Și astfel"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "voi intra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "este după lege"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "și cum"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "am pierit"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "am pierit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:43.589222336Z",
+  "model": "glm-5.3"
+}

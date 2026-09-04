@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a fost, la venirea lor, și l-a văzut ⟨את⟩ Eliav, și a spus: desigur, înaintea lui Yahve ⟨este⟩ Mașiah — unsul lui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "la venirea lor"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și l-a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אך",
+      "gloss": "desigur"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mașiah — unsul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:02.683463019Z",
+  "model": "glm-5.3"
+}

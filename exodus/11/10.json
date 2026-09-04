@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și Moșe și Aharon au făcut ⟨את⟩ toate minunile acestea înaintea lui Paro, și a întărit Yahve ⟨את⟩ inima lui Paro și nu a trimis ⟨את⟩ fiii lui Israel din țara lui.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Și Moșe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "și Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate minunile acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "minunile"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "și a întărit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima lui Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "din țara lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:19.802649380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Dacă binevoiește Yahve în noi, ne va aduce ⟨את⟩ pe noi în pământul acesta și ni-l va da nouă — un pământ care curge cu lapte și miere.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "binevoiește"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "în noi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "și ne va aduce"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ pe noi",
+      "marks": "pe noi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "și îl va da"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "un pământ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "curge"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "cu lapte"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "și miere"
+    }
+  ],
+  "timestamp": "2026-09-04T01:47:54.740901916Z",
+  "model": "glm-5.3"
+}

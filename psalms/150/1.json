@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 150,
+  "translation": "Lăudați-l pe Ya, lăudați-l pe El în locul său cel sfânt, lăudați-l în întinderea puterii lui.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe El"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "în locul său cel sfânt"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "în întinderea"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "puterii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:34.277053279Z",
+  "model": "glm-5.3"
+}

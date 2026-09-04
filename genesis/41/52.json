@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Iar ⟨את⟩ numele celui de-al doilea l-a chemat Efraim, căci m-a făcut roditor Elohim în țarea suferinței mele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iar ⟨את⟩",
+      "marks": "numele celui de-al doilea"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "השני",
+      "gloss": "celui de-al doilea"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "l-a chemat"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "m-a făcut roditor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "suferinței mele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:48.714311899Z",
+  "model": "glm-5.3"
+}

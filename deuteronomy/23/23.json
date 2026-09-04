@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Iar dacă te abții să faci un vot, nu va fi în tine păcat.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "te abții"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "să faci un vot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "păcat"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:17.215241110Z",
+  "model": "glm-5.3"
+}

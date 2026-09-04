@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Tată am fost eu pentru cei nevoiași, și pricina pe care nu am cunoscut-o am cercetat-o.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "Tată"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "am fost eu"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "pentru cei nevoiași"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "și pricina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "am cunoscut(-o)"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "am cercetat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T08:07:51.230443815Z",
+  "model": "glm-5.3"
+}

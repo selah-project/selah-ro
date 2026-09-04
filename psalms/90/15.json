@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Veseleşte-ne cât zilele în care ne-ai smerit, anii în care am văzut răul.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Veseleşte-ne"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "cât zilele"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "în care ne-ai smerit"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "anii"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:16.967662959Z",
+  "model": "glm-5.3"
+}

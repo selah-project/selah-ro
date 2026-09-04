@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "O soră ⟨avem⟩ noi, mică, și sânii nu ⟨sunt⟩ ei; ce vom face pentru sora noastră în ziua când se va vorbi despre ea?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "o soră"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "mică"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "și sânii"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨sunt⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vom face"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "pentru sora noastră"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "când se va vorbi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "despre ea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:25.460501019Z",
+  "model": "glm-5.3"
+}

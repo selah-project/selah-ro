@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Voi intra în puterile Adonai Yahve, îți voi pomeni dreptatea, pe a ta singur.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Voi intra"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "în puterile"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "îți voi pomeni"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "pe a ta singur"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:16.335117340Z",
+  "model": "glm-5.3"
+}

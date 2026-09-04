@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și a văzut strâmtorarea lor când a auzit ⟨את⟩ strigătul lor.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "strâmtorarea"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "când a auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "strigătul lor"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "strigătul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:01.761664262Z",
+  "model": "glm-5.3"
+}

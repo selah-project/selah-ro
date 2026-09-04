@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și s-au sfințit cohenii și leviții ca să ridice ⟨את⟩ chivotul lui Yahve, Elohim al lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "Și s-au sfințit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenii"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "și leviții"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ca să ridice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul lui Yahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:11:08.110209262Z",
+  "model": "glm-5.3"
+}

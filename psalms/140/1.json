@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Căruia se dă în seamă strunirea. Un mizmor al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Căruia se dă în seamă strunirea"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:44.830043174Z",
+  "model": "glm-5.3"
+}

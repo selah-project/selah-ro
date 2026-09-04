@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "și ⟨את⟩ untdelemnul ungerii și ⟨את⟩ tămâia mirodeniilor pentru locul sfânt — după tot ce ți-am poruncit, ei să facă.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "untdelemnul ungerii"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemnul"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ungerii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tămâia mirodeniilor"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tămâia"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mirodeniilor"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "pentru locul sfânt"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ți-am poruncit"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ei să facă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:26.610901765Z",
+  "model": "glm-5.3"
+}

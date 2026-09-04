@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci așa a vorbit Yahve Țevaot: încă o dată, puțin ⟨este⟩, și Eu clatin ⟨את⟩ cerurile și ⟨את⟩ pământul și ⟨את⟩ marea și ⟨את⟩ uscatul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "o dată"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "și Eu"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "clatin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cerurile"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "uscatul"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "uscatul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:47:47.526552511Z",
+  "model": "glm-5.3"
+}

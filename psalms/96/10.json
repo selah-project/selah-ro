@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 96,
+  "translation": "Spuneți între neamuri: Yahve împărățește! Da, lumea ⟨este⟩ întemeiată, nu se va clătina; va judeca popoarele cu dreptate.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Spuneți"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": " între neamuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "împărățește"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Da"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨este⟩ întemeiată"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "se va clătina"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "va judeca"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "cu dreptate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:39.171236685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și au găsit un om, un mițrian, în câmp, și l-au luat la David și i-au dat pâine, și a mâncat, și l-au adăpat cu apă.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "Și au găsit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "un mițrian"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "și l-au luat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "el (pe mițrian)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "și i-au dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "și a mâncat"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "și l-au adăpat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cu apă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:51:36.587947574Z",
+  "model": "glm-5.3"
+}

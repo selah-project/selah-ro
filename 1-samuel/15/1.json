@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "A zis Șemuel lui Șaul: Pe mine a trimis Yahve să te ungă ca rege peste poporul lui, peste Israel; și acum ascultă glasul cuvintelor lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A zis"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pe mine"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a trimis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "să te ungă"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ca rege"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascultă"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintelor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:41.007048573Z",
+  "model": "glm-5.3"
+}

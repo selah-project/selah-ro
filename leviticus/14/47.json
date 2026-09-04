@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și cel ce doarme în casă să-și spele hainele, și cel ce mănâncă în casă să-și spele hainele.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "Și cel ce doarme"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casă"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "să spele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele lui"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "și cel ce mănâncă"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casă"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "să spele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:48:34.764181965Z",
+  "model": "glm-5.3"
+}

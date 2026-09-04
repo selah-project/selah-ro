@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Căci veți fi ca un stejar care își ofilește frunza, și ca o grădină care nu are apă în ea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "veți fi"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "ca un stejar"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ofilindu-și"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "frunza"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "și ca o grădină"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu are"
+    },
+    {
+      "surface": "לה",
+      "gloss": "în ea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:35:42.414673552Z",
+  "model": "glm-5.3"
+}

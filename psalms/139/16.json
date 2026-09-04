@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Golmul meu l-au văzut ochii tăi, și în cartea ta toți vor fi scriși — zilele au fost plăsmuite și nici unul nu ⟨era⟩ printre ei.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "Golmul meu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "l-au văzut"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ochii tăi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și în"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "cartea ta"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "vor fi scriși"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "au fost plăsmuite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nici unul"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "printre ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:38.498708683Z",
+  "model": "glm-5.3"
+}

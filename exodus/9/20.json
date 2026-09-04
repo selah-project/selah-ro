@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Cel care s-a temut de ⟨את⟩ cuvântul lui Yahve, dintre robii lui Paro, a pus să fugă ⟨את⟩ robii lui și ⟨את⟩ vitele lui spre case.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Cel care s-a temut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul lui Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "dintre robii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "a pus să fugă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robii lui"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "robii lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vitele lui"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "vitele lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "case"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:30.506688323Z",
+  "model": "glm-5.3"
+}

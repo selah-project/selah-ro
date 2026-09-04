@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a poruncit regele ⟨את⟩ tot poporul, zicând: Faceți Pesah lui Yahve, Elohim vostru, cum este scris pe cartea legământului acestuia.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Și a poruncit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot poporul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Faceți"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "cum este scris"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cartea"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "legământului"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestuia"
+    }
+  ],
+  "timestamp": "2026-09-04T03:33:32.460385002Z",
+  "model": "glm-5.3"
+}

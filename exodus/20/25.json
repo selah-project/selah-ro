@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și dacă un altar de pietre vei face mie, să nu le zidești ⟨את⟩ cioplite, căci sabia ta ai fluturat-o peste ea și le-ai pângărit.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "de pietre"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "vei zidi"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ le",
+      "marks": "cioplite"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "cioplite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sabia ta"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "ai fluturat-o"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "peste ea"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "și le-ai pângărit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:34.722312948Z",
+  "model": "glm-5.3"
+}

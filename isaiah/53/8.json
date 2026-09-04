@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Din strâmtorare și de judecată a fost luat, și ⟨את⟩ neamul lui — cine îl va mai povesti? Căci a fost tăiat din pământul celor vii; din fărădelegea poporului meu — lovitura, pentru ei.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "din strâmtorare"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "și de judecată"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a fost luat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "neamul lui"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "neamul lui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "va povesti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "a fost tăiat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "celor vii"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "din fărădelegea"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "lovitura"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pentru ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:40.173228155Z",
+  "model": "glm-5.3"
+}

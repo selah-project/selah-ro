@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a răspuns Satan ⟨את⟩ Yahve și a spus: Piele pentru piele — și tot ce are un om va da pentru viața lui.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Piele"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "עור",
+      "gloss": "piele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce are"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viața lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:18.119873455Z",
+  "model": "glm-5.3"
+}

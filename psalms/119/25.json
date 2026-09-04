@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "S-a lipit de praf sufletul meu; dă-mi viață, după cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "s-a lipit"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "de praf"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "dă-mi viață"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "după cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:07.053417020Z",
+  "model": "glm-5.3"
+}

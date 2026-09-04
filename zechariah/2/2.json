@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și am zis către îngerul care grăia în mine: ce sunt acestea? Și a zis către mine: acestea ⟨sunt⟩ coarnele care au împrăștiat ⟨את⟩ lui Iehuda, ⟨את⟩ lui Israel și Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "îngerul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "care grăia"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sunt acestea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "coarnele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "au împrăștiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Iehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "și Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T04:49:27.360285170Z",
+  "model": "glm-5.3"
+}

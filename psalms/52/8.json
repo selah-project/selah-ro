@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Cei drepți vor vedea și se vor teme, și de el vor râde.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "vor vedea"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "Cei drepți"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "și se vor teme"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "vor râde"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:56.848762945Z",
+  "model": "glm-5.3"
+}

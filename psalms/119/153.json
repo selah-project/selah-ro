@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Vezi suferința mea și scapă-mă, căci Tora ta nu am uitat-o.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "suferința mea"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "și scapă-mă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "am uitat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:32.843240558Z",
+  "model": "glm-5.3"
+}

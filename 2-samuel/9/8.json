@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "S-a închinat și a spus: Cine este servul tău, că te-ai uitat spre câinele mort, ca mine?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "s-a închinat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cine"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "servul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "te-ai uitat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "câinele"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ca mine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:57:47.164941445Z",
+  "model": "glm-5.3"
+}

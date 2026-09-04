@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Cel care iartă toate fărădelegile tale, cel care vindecă toate bolile tale,",
+  "tokens": [
+    {
+      "surface": "הסולח",
+      "gloss": "Cel care iartă"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pe toate"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "fărădelegile tale"
+    },
+    {
+      "surface": "הרופא",
+      "gloss": "cel care vindecă"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pe toate"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "bolile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:46.519080748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și să păzești ⟨את⟩ porunca și ⟨את⟩ hotarele și ⟨את⟩ judecățile pe care ți le poruncesc eu azi, ca să le faci.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Și să păzești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porunca"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hotarele"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hotarele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "judecățile"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "judecățile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ți le poruncesc"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ca să le faci"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:38.371006427Z",
+  "model": "glm-5.3"
+}

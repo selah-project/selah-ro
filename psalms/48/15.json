@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Căci acesta este Elohim, Elohim al nostru, în veac și în veci; el ne va călăuzi peste moarte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și în veci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ne va călăuzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:17.199070268Z",
+  "model": "glm-5.3"
+}

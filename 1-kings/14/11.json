@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Pe cel mort al lui Iarovam în cetate îl vor mânca câinii, iar pe cel mort pe câmp îl va mânca pasărea cerurilor, căci Yahve a vorbit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "pe cel mort"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "al lui Iarovam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "îl vor mânca"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "câinii"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "iar pe cel mort"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "pe câmp"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "îl va mânca"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:41.012139559Z",
+  "model": "glm-5.3"
+}

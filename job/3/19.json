@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Cel mic și cel mare acolo ⟨sunt⟩, și robul ⟨este⟩ slobod de stăpânul lui.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "Cel mic"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "și cel mare"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "și robul"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "slobod"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "de stăpânul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:36.285259740Z",
+  "model": "glm-5.3"
+}

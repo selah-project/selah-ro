@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 7:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Căci după încă șapte zile Eu voi face să plouă peste pământ patruzeci de zile și patruzeci de nopți, și voi șterge ⟨את⟩ toată făptura pe care am făcut-o de pe fața solului.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "după... zile"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "voi face să plouă"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci de"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zile"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "și patruzeci de"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nopți"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "și voi șterge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată făptura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "făptura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut-o"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "solului"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:22.092718670Z",
+  "model": "glm-5.3"
+}

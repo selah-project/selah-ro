@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "La mirosul unguientelor tale — ⟨sunt⟩ bune; ulei turnat — numele tău; de aceea fecioarele te iubesc.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "La mirosul"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "unguientelor tale"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bune"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulei"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "turnat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "fecioarele"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "te iubesc"
+    }
+  ],
+  "timestamp": "2026-09-04T08:09:39.878647718Z",
+  "model": "glm-5.3"
+}

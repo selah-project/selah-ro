@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Vocea lui Yahve sfarmă cedrii, și a sfărâmat Yahve ⟨את⟩ cedrii Libanului.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vocea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sfarmă"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrii"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "și a sfărâmat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedrii Libanului"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedrii"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:23:55.384463718Z",
+  "model": "glm-5.3"
+}

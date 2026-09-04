@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Mulți spun: Cine ne va arăta binele? Ridică peste noi lumina feței tale, Yahve!",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Mulți"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "spun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ne va arăta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Ridică"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumina"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "feței tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:23.135439598Z",
+  "model": "glm-5.3"
+}

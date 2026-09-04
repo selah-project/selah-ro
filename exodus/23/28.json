@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și voi trimite ⟨את⟩ viespea înaintea ta, și ea va alunga ⟨את⟩ hivitul, ⟨את⟩ chenaanitul și ⟨את⟩ hititul de la fața ta.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "și voi trimite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viespea"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "viespea"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "și ea va alunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hivitul"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivitul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chenaanitul"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "chenaanitul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hititul"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititul"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "de la fața ta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:23.703556847Z",
+  "model": "glm-5.3"
+}

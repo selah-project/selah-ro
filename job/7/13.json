@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Când am zis: «Patul meu mă va mângâia, va purta vorbitul meu culcușul meu» —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "mă va mângâia"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "patul meu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va purta"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "vorbitul meu"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "culcușul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:52.212599433Z",
+  "model": "glm-5.3"
+}

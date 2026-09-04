@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "atunci să iei ⟨את⟩ sfredulul și să-l pui în urechea lui și în ușă, și va fi ție rob în veci; și la roaba ta să faci la fel.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "să iei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfredulul"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "sfredulul"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "în urechea lui"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "și în ușă"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "la roaba ta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să faci"
+    },
+    {
+      "surface": "כן",
+      "gloss": "la fel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:33.798610237Z",
+  "model": "glm-5.3"
+}

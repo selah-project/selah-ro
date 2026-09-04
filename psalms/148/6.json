@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Le-a așezat pentru totdeauna, în veac; a dat un hotar, și nu va trece.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "le-a așezat"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חק",
+      "gloss": "un hotar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "va trece"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:07.955881554Z",
+  "model": "glm-5.3"
+}

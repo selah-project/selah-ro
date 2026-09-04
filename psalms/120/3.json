@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 120,
+  "translation": "Ce îți va da și ce îți va mai adăuga, limbă înșelătoare?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "și ce"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "va mai adăuga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "limbă"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "înșelătoare"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:04.591231185Z",
+  "model": "glm-5.3"
+}

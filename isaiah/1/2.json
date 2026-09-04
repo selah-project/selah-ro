@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Ascultați, ceruri, și ia aminte, pământule, căci a vorbit Yahve: fii am crescut și i-am înălțat, dar ei s-au răzvrătit împotriva mea.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ascultați"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "și ia aminte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământule"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "am crescut"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "și i-am înălțat"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dar ei"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "s-au răzvrătit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:07.971664381Z",
+  "model": "glm-5.3"
+}

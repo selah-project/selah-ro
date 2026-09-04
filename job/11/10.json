@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Dacă trece mai departe și închide, și convoacă ⟨judecata⟩, cine îl va întoarce?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "trece mai departe"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "și închide"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "și convoacă"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "îl va întoarce"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:23.553004783Z",
+  "model": "glm-5.3"
+}

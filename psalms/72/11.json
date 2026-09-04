@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Și lui i se vor prosterna toți regii, toate neamurile îl vor sluji.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "și se vor prosterna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "regii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "îl vor sluji"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:14.293091869Z",
+  "model": "glm-5.3"
+}

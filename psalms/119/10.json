@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Cu toată inima mea te-am căutat; nu mă lăsa să rătăcesc de la poruncile tale.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "te-am căutat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "mă lăsa să rătăcesc"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "de la poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:15.407474627Z",
+  "model": "glm-5.3"
+}

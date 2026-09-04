@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Se usucă iarba, se veștejește floarea, căci suflarea lui Yahve a suflat peste ea; da, iarbă ⟨este⟩ poporul.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "Se usucă"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "iarba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "se veștejește"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "floarea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "suflarea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "a suflat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "peste ea"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "da"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "iarbă"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:49.770838755Z",
+  "model": "glm-5.3"
+}

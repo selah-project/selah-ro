@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și Șelomo i-a spus ⟨את⟩ toate cuvintele ei; nu a fost lucru ascuns de la rege pe care să nu i-l fi spus.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "cuvintele ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lucru"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ascuns"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "i-l fi spus"
+    },
+    {
+      "surface": "לה",
+      "gloss": "(ei)"
+    }
+  ],
+  "timestamp": "2026-09-04T03:14:03.103926916Z",
+  "model": "glm-5.3"
+}

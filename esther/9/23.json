@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și au primit iudeii ⟨את⟩ ce începuseră să facă și ⟨את⟩ ce le scrisese Mordehai.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "Și au primit"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "începuseră"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "scrisese"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:13:42.911484751Z",
+  "model": "glm-5.3"
+}

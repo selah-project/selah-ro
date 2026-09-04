@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Au făcut un vițel la Horev și s-au închinat unui chip turnat.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "Au făcut"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "un vițel"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "la Horev"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "și s-au închinat"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "unui chip turnat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:49.005307156Z",
+  "model": "glm-5.3"
+}

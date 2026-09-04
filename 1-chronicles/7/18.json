@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și sora lui, Hamolechet, l-a născut ⟨את⟩ Ișhod, și ⟨את⟩ Aviezer, și ⟨את⟩ Mahla.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Și sora lui"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamolechet"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "l-a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ișhod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ișhod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Mahla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahla"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:15.307831386Z",
+  "model": "glm-5.3"
+}

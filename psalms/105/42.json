@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Căci Și-a adus aminte de ⟨את⟩ cuvântul sfințeniei sale, de ⟨את⟩ Avraham, slujitorul lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Și-a adus aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul sfințeniei sale"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfințeniei sale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slujitorul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:32.462395058Z",
+  "model": "glm-5.3"
+}

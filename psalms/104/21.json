@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Puii de lei răcnesc după pradă și caută de la El hrana lor.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "Puii de lei"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "răcnesc"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "după pradă"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "și caută"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "de la El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hrana lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:42.986275791Z",
+  "model": "glm-5.3"
+}

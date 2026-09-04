@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Dar n-ați vrut să sui și v-ați răzvrătit ⟨את⟩ gura lui Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dar nu"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ați vrut"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "să sui"
+    },
+    {
+      "surface": "ויתמרו",
+      "gloss": "și v-ați răzvrătit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura lui Yahve"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:45.179473428Z",
+  "model": "glm-5.3"
+}

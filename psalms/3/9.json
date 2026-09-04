@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "A lui Yahve ⟨este⟩ izbăvirea; peste poporul tău, binecuvântarea ta! Șela.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "A lui Yahve"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "izbăvirea"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "binecuvântarea ta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Șela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:31.873649322Z",
+  "model": "glm-5.3"
+}

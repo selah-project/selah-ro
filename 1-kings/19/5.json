@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și s-a culcat și a dormit sub un retem, și iată, un înger l-a atins și i-a spus: Scoală-te, mănâncă.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Și s-a culcat"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "și a dormit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "un retem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "înger"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "l-a atins"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Scoală-te"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "mănâncă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:18.304796195Z",
+  "model": "glm-5.3"
+}

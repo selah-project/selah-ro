@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a zis: aceasta ⟨este⟩ răutatea. Și a aruncat-o ⟨את⟩ în mijlocul.efei și a aruncat ⟨את⟩ piatra de plumb peste gura ei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "răutatea"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "și a aruncat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ o",
+      "marks": "răutatea (femeia)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mijlocul"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": ".efei"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "și a aruncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piatra de plumb"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "piatra"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "de plumb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peste"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gura ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:49:32.747409431Z",
+  "model": "glm-5.3"
+}

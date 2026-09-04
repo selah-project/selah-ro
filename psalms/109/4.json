@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "În locul iubirii mele m-au pârât, iar eu — rugăciune.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "În locul"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "iubirii mele"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "m-au pârât"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "rugăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:18.059935015Z",
+  "model": "glm-5.3"
+}

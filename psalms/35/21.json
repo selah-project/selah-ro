@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și și-au căscat gura asupra mea, au zis: Heah, heah, ochiul nostru a văzut!",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "și și-au căscat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "gura"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "au zis"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah,"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heah,"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ochiul nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T09:39:38.616119521Z",
+  "model": "glm-5.3"
+}

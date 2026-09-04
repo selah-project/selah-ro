@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "A ieșit Moșe de la Paro, ⟨את⟩ orașul, și și-a întins palmele către Yahve, și au încetat tunetele și grindina, și ploaia nu s-a vărsat pe pământ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a ieșit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orașul"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "orașul"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "și a întins"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "palmele lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "și au încetat"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "tunetele"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "și grindina"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "și ploaia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "s-a vărsat"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:25.344734608Z",
+  "model": "glm-5.3"
+}

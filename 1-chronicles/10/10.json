@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și au pus ⟨את⟩ armura lui în casa dumnezeilor lor, iar ⟨את⟩ cranul lui l-au înfipt în casa lui Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Și au pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armura lui"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "armura lui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dumnezeilor lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "cranul lui"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "l-au înfipt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "lui Dagon"
+    }
+  ],
+  "timestamp": "2026-09-04T06:08:50.871785286Z",
+  "model": "glm-5.3"
+}

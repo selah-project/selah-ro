@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a trimis Ahab ⟨printre⟩ toți fiii lui Israel și a adunat ⟨את⟩ navii la muntele Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨printre⟩ tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "și a adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navii"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:41.632025019Z",
+  "model": "glm-5.3"
+}

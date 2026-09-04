@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Când voi lua vremea hotărâtă, eu voi judeca cu dreptate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "voi lua"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "vremea hotărâtă"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "cu dreptate"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "voi judeca"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:39.923253651Z",
+  "model": "glm-5.3"
+}

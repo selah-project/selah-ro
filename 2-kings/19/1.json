@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a fost, când a auzit Hizchiahu regele, că a rupt ⟨את⟩ hainele lui și s-a acoperit cu sac și a intrat în casa lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "când a auzit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizchiahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "că a rupt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele lui"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele lui"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "și s-a acoperit"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "cu sac"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a intrat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:22:24.433954393Z",
+  "model": "glm-5.3"
+}

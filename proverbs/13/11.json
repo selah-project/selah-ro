@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Avuția din deșertăciune se împuținează, iar cel ce adună, cu mâna, va înmulți.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Avuția"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "din deșertăciune"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "se împuținează"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "iar cel ce adună"
+    },
+    {
+      "surface": "על",
+      "gloss": "cu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "va înmulți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:05.892979053Z",
+  "model": "glm-5.3"
+}

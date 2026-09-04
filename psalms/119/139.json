@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "M-a mistuit râvna mea, căci au uitat cuvintele tăi vrăjmașii mei.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "m-a mistuit"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "râvna mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "au uitat"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "cuvintele tăi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "vrăjmașii mei"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:48.674653713Z",
+  "model": "glm-5.3"
+}

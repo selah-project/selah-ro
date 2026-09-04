@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a spus: Cheamă-i numele Lo-Ammi (nu poporul meu), căci voi nu sunteți poporul meu, și eu nu voi fi ⟨al vostru⟩.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "קְרָא",
+      "gloss": "cheamă"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אַתֶּם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "וְאָנֹכִי",
+      "gloss": "și eu"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אֶהְיֶה",
+      "gloss": "voi fi"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T07:46:55.864348233Z",
+  "model": "glm-5.3"
+}

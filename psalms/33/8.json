@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Să se teamă de Yahve toată pământul; de el să tremure toți locuitorii tevelului.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Să se teamă"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "să tremure"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevelului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:25.721823506Z",
+  "model": "glm-5.3"
+}

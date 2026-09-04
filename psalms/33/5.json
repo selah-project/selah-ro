@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Iubește dreptatea și judecata; de hesedul lui Yahve ⟨este⟩ plină pământul.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Iubește"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și judecata"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plină"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:25.721290923Z",
+  "model": "glm-5.3"
+}

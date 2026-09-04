@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și acum, iată, țipătul fiilor lui Israel a ajuns la mine, și chiar am văzut ⟨את⟩ apăsarea cu care apasă Mițraim ⟨את⟩ pe ei.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "țipătul"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "באה",
+      "gloss": "a ajuns"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apăsarea"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "apăsarea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "apasă"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:01.102053875Z",
+  "model": "glm-5.3"
+}

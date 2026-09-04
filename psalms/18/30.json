@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Căci cu tine voi năvăli asupra unei cete ⟨de oșteni⟩, și cu Elohim al meu voi sări peste un zid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "voi năvăli"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "asupra unei cete ⟨de oșteni⟩"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "și cu Elohim al meu"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "voi sări"
+    },
+    {
+      "surface": "שור",
+      "gloss": "peste un zid"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:22.976224757Z",
+  "model": "glm-5.3"
+}

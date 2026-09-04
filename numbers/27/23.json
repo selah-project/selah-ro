@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a pus ⟨את⟩ mâinile lui peste el și l-a rânduit în slujbă, cum a grăit Yahve prin mâna lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lui"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinile lui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "și l-a rânduit în slujbă"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a grăit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T06:55:13.998919127Z",
+  "model": "glm-5.3"
+}

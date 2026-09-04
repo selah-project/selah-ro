@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Se va descoperi golătatea ta, chiar se va vedea rușinea ta; răzbunare voi lua și nu voi cruta pe niciun om.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "se va descoperi"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "golătatea ta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "se va vedea"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "rușinea ta"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "răzbunare"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "voi lua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "voi cruta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "pe niciun om"
+    }
+  ],
+  "timestamp": "2026-09-04T10:11:06.350255939Z",
+  "model": "glm-5.3"
+}

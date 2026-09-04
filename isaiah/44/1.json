@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Și acum, ascultă, Iaacov, sluga mea, și Israel, pe care l-am ales pe el.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascultă"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluga mea"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "și Israel"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "l-am ales"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:12.327287734Z",
+  "model": "glm-5.3"
+}

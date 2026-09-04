@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Să fie rușinați toți cei ce slujesc idolului cioplit, cei ce se laudă în elilimi; închinați-vă lui, toți dumnezei!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Să fie rușinați"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "cei ce slujesc"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "idolului cioplit"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "cei ce se laudă"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "în elilimi"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "închinați-vă"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:19.277201477Z",
+  "model": "glm-5.3"
+}

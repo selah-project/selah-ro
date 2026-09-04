@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "A deschis Yahve ⟨את⟩ depozitul său și a scos ⟨את⟩ armele mâniei lui, căci o lucrare ⟨este⟩ pentru Adonai Yahve Țevaot în țara Kasdimilor.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "a deschis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "depozitul său"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "depozitul său"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "și a scos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armele"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "armele"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "mâniei lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "o lucrare"
+    },
+    {
+      "surface": "היא",
+      "gloss": "este"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "pentru Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdimilor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:17:19.008092857Z",
+  "model": "glm-5.3"
+}

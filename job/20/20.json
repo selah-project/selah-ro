@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Căci n-a cunoscut liniște în pântecele lui; de lucrul poftit nu se va scăpa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a cunoscut"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "liniște"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "în pântecele lui"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "de lucrul poftit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "se va scăpa"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:05.083134271Z",
+  "model": "glm-5.3"
+}

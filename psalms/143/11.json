@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "De dragul numelui tău, Yahve, dă-mi viața; în dreptatea ta scoate din strâmtorare sufletul meu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "de dragul"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numelui tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "dă-mi viața"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "în dreptatea ta"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "scoate"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "din strâmtorare"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:38.843199278Z",
+  "model": "glm-5.3"
+}

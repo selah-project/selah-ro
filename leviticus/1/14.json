@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iar dacă din păsări ⟨este⟩ arderea-de tot a darului său pentru Yahve, va aduce din turturele sau din puii porumbelului darul său.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "păsări"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "arderea-de tot"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "a darului său"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "va aduce"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "turturele"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "בני",
+      "gloss": "puii"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "porumbelului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul său"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "darul său"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:16.565045381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Căci mă va ascunde în coliba lui, în ziua de rău; mă va adăposti în ascunzișul cortului lui; pe o stâncă mă va înălța.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "mă va ascunde"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "în coliba lui"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua de"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rău"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "mă va adăposti"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "în ascunzișul"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "cortului lui"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "pe o stâncă"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "mă va înălța"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:44.263535505Z",
+  "model": "glm-5.3"
+}

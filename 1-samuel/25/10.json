@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a răspuns Naval ⟨את⟩ slugile lui David și a spus: Cine este David și cine este fiul lui Ișai? Astăzi s-au înmulțit slugile care fug, fiecare de la stăpânul său.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slugile lui David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "este David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "lui Ișai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Astăzi"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "s-au înmulțit"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slugile"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "care fug"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de la"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "stăpânul său"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:06.711201484Z",
+  "model": "glm-5.3"
+}

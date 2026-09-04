@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și s-a sculat la mijlocul nopții și a luat ⟨את⟩ fiul meu de lângă mine — iar roaba ta dormea — și l-a culcat la sânul ei, iar ⟨את⟩ fiul ei cel mort l-a culcat la sânul meu.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Și s-a sculat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "la mijlocul"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nopții"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul meu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "de lângă mine"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "iar roaba ta"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "dormea"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "și l-a culcat"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "la sânul ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiul ei cel mort"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul ei"
+    },
+    {
+      "surface": "המת",
+      "gloss": "cel mort"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "l-a culcat"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "la sânul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:16:55.473340459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Căci acum vor zice: Nu avem rege, căci nu L-am temut ⟨את⟩ pe Yahve; dar regele — ce ne va face nouă?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vor zice"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu avem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "am temut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "și regele"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:40:03.649399492Z",
+  "model": "glm-5.3"
+}

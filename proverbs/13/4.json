@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Dorește și nu are sufletul leneșului; iar sufletul harnicilor se îngrașă.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "dorește"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu are"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leneșului"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "iar sufletul"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "harnicilor"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "se îngrașă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:01.597798056Z",
+  "model": "glm-5.3"
+}

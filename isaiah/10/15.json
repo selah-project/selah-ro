@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Se va făli toporul peste cel care taie cu el? Se va mări ferăstrăul peste cel care îl flutură? Ca și cum toiagul ar flutura ⟨את⟩ pe cei care-l ridică, ca și cum bățul ar ridica — nu ⟨este⟩ lemn!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "se va făli"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "toporul"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "cel care taie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oare"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "se va mări"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "ferăstrăul"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "cel care îl flutură"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "ca să fluture"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "toiagul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe cei care-l ridică"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "cei care-l ridică"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "ca ridicarea"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "bățul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lemn"
+    }
+  ],
+  "timestamp": "2026-09-04T08:58:44.689909589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "și te voi scăpa, pe tine și ⟨את⟩ cetatea aceasta, din mâna regelui Așur, și voi ocroti cetatea aceasta.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "și din mâna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "te voi scăpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cetatea aceasta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "și voi ocroti"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:23.953631989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și urechile tale vor auzi un cuvânt din urmă-ți, zicând: Acesta este drumul, mergeți pe el, când veți merge la dreapta și când veți merge la stânga.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "Și urechile tale"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "vor auzi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "din urmă-ți"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Acesta"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "drumul"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mergeți"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "veți merge la dreapta"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "și când"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "veți merge la stânga"
+    }
+  ],
+  "timestamp": "2026-09-04T03:45:24.046824591Z",
+  "model": "glm-5.3"
+}

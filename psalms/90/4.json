@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Căci o mie de ani în ochii tăi ⟨sunt⟩ ca ziua de ieri când a trecut, și ca o veghe din noapte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "o mie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ca ziua"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "de ieri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "a trecut"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "și ca o veghe"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "din noapte"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:52.181222990Z",
+  "model": "glm-5.3"
+}

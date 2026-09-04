@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și i-a spus regele: Unde este el? Și a spus Țiva către rege: Iată, el ⟨este⟩ în casa lui Machir, fiul lui Amiel, în Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "unde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Țiva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "în"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Devar"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:18.670628703Z",
+  "model": "glm-5.3"
+}

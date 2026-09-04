@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a chemat Șaul ⟨את⟩ poporul și i-a numărat la Telaim: două sute de mii de pedestrași și zece mii ⟨את⟩ oamenii lui Iehuda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "și i-a numărat"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "la Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "două sute"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pedestrași"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "și zece"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii lui Iehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:41.007679083Z",
+  "model": "glm-5.3"
+}

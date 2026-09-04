@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Tu ești adăpost pentru mine; de strâmtorare mă vei păzi; cu strigăte de izbăvire mă vei înconjura. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "adăpost"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "de strâmtorare"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "mă vei păzi"
+    },
+    {
+      "surface": "רני",
+      "gloss": "cu strigăte"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "de izbăvire"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "mă vei înconjura"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:26.967578158Z",
+  "model": "glm-5.3"
+}

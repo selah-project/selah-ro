@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a dat Avraham ⟨את⟩ tot ce avea lui Ițhac.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "avea"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "lui Ițhac"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:57.937036657Z",
+  "model": "glm-5.3"
+}

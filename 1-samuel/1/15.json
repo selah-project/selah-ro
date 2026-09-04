@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a răspuns Hana și a zis: Nu, domnul meu — femeie cu sufletul împietrit sunt eu; și vin și băutură tare nu am băut, ci mi-am vărsat ⟨את⟩ sufletul meu înaintea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "domnul meu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "femeie"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "cu sufletul împietrit"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "și vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "și băutură tare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "am băut"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "ci mi-am vărsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletul meu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:44.791442348Z",
+  "model": "glm-5.3"
+}

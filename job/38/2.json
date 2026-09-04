@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Cine este acesta care întunecă sfatul prin cuvinte fără cunoștință?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "întunecă"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sfatul"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "prin cuvinte"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "cunoștință"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:36.570956181Z",
+  "model": "glm-5.3"
+}

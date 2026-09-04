@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Tot patul pe care doarme cel cu cursul devine necurat, și tot vasul pe care stă ⟨el⟩ devine necurat.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "patul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "doarme"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "cel cu cursul"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "devine necurat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "vasul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "stă"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "devine necurat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:48:22.304099565Z",
+  "model": "glm-5.3"
+}

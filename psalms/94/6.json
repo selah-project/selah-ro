@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Văduvă și străin ⟨ei⟩ omoară, și pe orfani ⟨ei⟩ ucid.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "văduvă"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "și străin"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "omoară"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "și pe orfani"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ucid"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:39.866087405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Să nu aprindeți foc în niciunul dintre așezările voastre în ziua de Șabat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "aprindeți"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în niciunul dintre"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "așezările voastre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de Șabat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:41.050039591Z",
+  "model": "glm-5.3"
+}

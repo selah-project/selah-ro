@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Și să domnească de la mare până la mare, și de la Râu până la capetele pământului.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "și să domnească"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de la mare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "și de la Râu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "capetele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:43.754045612Z",
+  "model": "glm-5.3"
+}

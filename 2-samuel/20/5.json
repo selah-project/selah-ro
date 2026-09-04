@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și s-a dus Amasa să cheme ⟨את⟩ Iehuda, dar a întârziat mai mult decât termenul pe care i-l fixase.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și s-a dus"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "să cheme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "dar a întârziat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "decât"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "termenul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "i-l fixase"
+    }
+  ],
+  "timestamp": "2026-09-04T07:15:54.009163176Z",
+  "model": "glm-5.3"
+}

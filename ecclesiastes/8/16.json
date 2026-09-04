@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Când mi-am dat eu ⟨את⟩ inima mea să cunoască înțelepciunea și să vadă ⟨את⟩ treburile care se fac pe pământ — căci și ziua și noaptea somn în ochii lui nu se vede —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Când"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima mea"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "să cunoască"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "și să vadă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "treburile"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "treburile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "se fac"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "și noaptea"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "somn"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se vede"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:09.009230006Z",
+  "model": "glm-5.3"
+}

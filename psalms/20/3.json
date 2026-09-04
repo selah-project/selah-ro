@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Să trimită ajutorul tău din locul sfânt, și din Țion să te sprijinească!",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "să trimită"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ajutorul tău"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "din locul sfânt"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "și din Țion"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "să te sprijinească"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:39.127531092Z",
+  "model": "glm-5.3"
+}

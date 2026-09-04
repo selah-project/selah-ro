@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Am văzut pe cei trădători și m-am cutremurat, ⟨את⟩ cei care cuvântul tău nu l-au păzit.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Am văzut"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "pe cei trădători"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "și m-am cutremurat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "l-au păzit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:02.436703214Z",
+  "model": "glm-5.3"
+}

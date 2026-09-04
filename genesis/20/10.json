@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a spus Avimeleh lui Avraham: Ce ai văzut, de aceea ai făcut ⟨את⟩ lucrul acesta?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ai văzut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de aceea"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:43.019529565Z",
+  "model": "glm-5.3"
+}

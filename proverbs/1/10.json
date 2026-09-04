@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Fiule, dacă păcătoșii te amăgesc, tu să nu vrei.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiule"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "te amăgesc"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "păcătoșii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "să vrei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.565258509Z",
+  "model": "glm-5.3"
+}

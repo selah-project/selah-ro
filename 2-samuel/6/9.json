@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și s-a temut David de ⟨את⟩ Yahve în ziua aceea și a zis: cum va veni la mine chivotul lui Yahve?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și s-a temut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "איך",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "va veni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:57:10.338345259Z",
+  "model": "glm-5.3"
+}

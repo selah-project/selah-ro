@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Șezi, împotriva fratelui tău vorbești, pe fiul mamei tale îl acoperi de clevetire.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "șezi"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "împotriva fratelui tău"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "vorbești"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "pe fiul"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamei tale"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dai"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "clevetire"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:53.666774284Z",
+  "model": "glm-5.3"
+}

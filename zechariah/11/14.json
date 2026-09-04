@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și am tăiat ⟨את⟩ toiagul meu al doilea, ⟨את⟩ Legăturile, ca să desființez ⟨את⟩ frăția între Iehuda și între Israel.",
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "Și am tăiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toiagul meu"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "toiagul meu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Legăturile"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "Legăturile"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "ca să desființez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frăția"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "frăția"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:50:47.830261385Z",
+  "model": "glm-5.3"
+}

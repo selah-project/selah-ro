@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Aproape m-au nimicit pe pământ, dar eu nu am părăsit poruncile tale.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "aproape"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "m-au nimicit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dar eu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "am părăsit"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:56.735774397Z",
+  "model": "glm-5.3"
+}

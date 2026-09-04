@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și le-a spus regele: Un vis am visat, și duhul meu s-a tulburat, ca să cunoască ⟨את⟩ visul.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și le-a spus"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "un vis"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "am visat"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "și s-a tulburat"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ca să cunoască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visul"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "visul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:49:01.694153738Z",
+  "model": "glm-5.3"
+}

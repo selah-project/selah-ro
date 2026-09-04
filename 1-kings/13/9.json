@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "căci așa a poruncit ⟨את⟩ mie cuvântul lui Yahve, zicând: nu vei mânca pâine și nu vei bea apă și nu te vei întoarce pe drumul pe care ai venit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mie"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "vei mânca"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "vei bea"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "te vei întoarce"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ai venit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:27.623062912Z",
+  "model": "glm-5.3"
+}

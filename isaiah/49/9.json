@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "ca să spună celor legați: Ieșiți! și celor în întuneric: Arătați-vă! Pe drumuri vor paște, și pe orice dealuri golașe pășunea lor.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ca să spună"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "celor legați"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Ieșiți!"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "celor în"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "întuneric"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Arătați-vă!"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "drumuri"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "vor paște"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și pe orice"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "dealuri golașe"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "pășunea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:51:17.091225568Z",
+  "model": "glm-5.3"
+}

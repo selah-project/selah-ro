@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Însă cum se mănâncă ⟨את⟩ gazelela și ⟨את⟩ cerbul, așa să o mănânci: cel necurat și cel curat să o mănânce deopotrivă.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Însă"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se mănâncă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazelela"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gazelela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cerbul"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "cerbul"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "să o mănânci"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "cel necurat"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "și cel curat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "deopotrivă"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "să o mănânce"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:50.797448392Z",
+  "model": "glm-5.3"
+}

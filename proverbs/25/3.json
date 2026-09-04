@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Cerurile pentru înălțime și pământul pentru adâncime, și inima regilor nu are margini de cercetat.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "pentru înălțime"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "și pământul"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "pentru adâncime"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "și inima"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "regilor"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu are"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "margini de cercetat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:39.284032380Z",
+  "model": "glm-5.3"
+}

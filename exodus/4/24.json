@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a fost pe drum, la poprie, și l-a întâlnit Yahve, și a căutat să-l omoare.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "la poprie"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "și l-a întâlnit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "și a căutat"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "să-l omoare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:51.915771798Z",
+  "model": "glm-5.3"
+}

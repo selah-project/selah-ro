@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Al lui David, un mizmor. A lui Yahve ⟨este⟩ pământul și plinirea lui, lumea și cei ce locuiesc în ea.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "A lui Yahve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "și plinirea lui"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "și cei ce locuiesc"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:39.023575446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "și ⟨את⟩ marea cea una, și ⟨את⟩ cei doisprezece boi sub mare",
+  "tokens": [
+    {
+      "surface": "ו את",
+      "gloss": "și ⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "cea una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "boii"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "boii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "doi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T03:10:10.392443602Z",
+  "model": "glm-5.3"
+}

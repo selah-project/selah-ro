@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Către mai-marele cântăreților, lui Iedutun, un mizmor al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către mai-marele cântăreților"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "lui Iedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:18.561282483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Să nu vezi ⟨את⟩ măgarul fratelui tău sau boul lui căzuți pe drum și să te ascunzi de ele: ridicând să-i ridici împreună cu el.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vei vedea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măgarul"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "măgarul"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "al fratelui tău"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "boul lui"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "căzuți"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "și să te ascunzi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de ele"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "ridicând"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "să-i ridici"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "împreună cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:23.565243863Z",
+  "model": "glm-5.3"
+}

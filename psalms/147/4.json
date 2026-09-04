@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Numără numărul stelelor; tuturor le cheamă numele.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Numără"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numărul"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "stelelor"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nume"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "le cheamă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.398741372Z",
+  "model": "glm-5.3"
+}

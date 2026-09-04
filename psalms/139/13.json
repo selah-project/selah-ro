@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Căci tu m-ai zidit ⟨את⟩ rinichii mei, m-ai țesut în pântecele mamei mele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "m-ai zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rinichii mei"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "rinichii mei"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "m-ai țesut"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "în pântecele"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:38.497905022Z",
+  "model": "glm-5.3"
+}

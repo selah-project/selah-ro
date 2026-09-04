@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Cerurile — cerurile sunt ale lui Yahve, iar pământul l-a dat fiilor lui Adam.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Cerurile"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ale lui Yahve"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "iar pământul"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "l-a dat"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lui Adam"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:32.189718450Z",
+  "model": "glm-5.3"
+}

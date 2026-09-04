@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și i-a zis Elișa: Mergi, spune: Nu, vii vei trăi; dar mi-a arătat Yahve că murind vei muri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și i-a zis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "câtre el"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elișa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mergi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spune"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "vii"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "vei trăi"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "dar mi-a arătat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מות",
+      "gloss": "murind"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "vei muri"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:41.116704516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și o vei face tămâie, amestec de parfum, lucrare de parfumar, sărată, curată, sfântă.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Și vei face"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tămâie"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tămâie"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "amestec de parfum"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrare"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "de parfumar"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "sărată"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curată"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfântă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:45:05.625117763Z",
+  "model": "glm-5.3"
+}

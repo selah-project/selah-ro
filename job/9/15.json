@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci chiar dacă aș fi drept, tot nu ⟨aș⟩ răspunde; judecătorului meu îi ⟨aș⟩ cere îndurare.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chiar dacă"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "aș fi drept"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "răspund"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "judecătorului meu"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "cer îndurare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:32.293721098Z",
+  "model": "glm-5.3"
+}

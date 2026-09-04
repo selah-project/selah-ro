@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "O plasă au întins pentru pașii mei, s-a încovoiat nefeșul meu; au săpat înaintea mea o groapă — au căzut ⟨ei înșiși⟩ în mijlocul ei. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "o plasă"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "au întins"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "pentru pașii mei"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "s-a încovoiat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefșul meu"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "au săpat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "o groapă"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "au căzut"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "în mijlocul ei"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:09.061483633Z",
+  "model": "glm-5.3"
+}

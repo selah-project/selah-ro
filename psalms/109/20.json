@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Aceasta este răsplata pârâșilor mei de la ⟨את⟩ Yahve, și a celor ce vorbesc rău împotriva sufletului meu.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "răsplata"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "pârâșilor mei"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "și a celor ce vorbesc"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:06.915950053Z",
+  "model": "glm-5.3"
+}

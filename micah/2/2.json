@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și pofesc câmpuri și le răpesc, și case și le iau; asupresc pe un om și casa lui, pe un om și moștenirea lui.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "Și pofesc"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "câmpuri"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "și le răpesc"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "și case"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "și le iau"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "asupresc"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "pe un om"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "și casa lui"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "pe un om"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "și moștenirea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:45:10.633070965Z",
+  "model": "glm-5.3"
+}

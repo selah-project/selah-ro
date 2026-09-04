@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Judecă-mă după dreptatea ta, Yahve Elohim al meu, și să nu se bucure ei de mine!",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Judecă-mă"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "după dreptatea ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se bucure ei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:07.591577242Z",
+  "model": "glm-5.3"
+}

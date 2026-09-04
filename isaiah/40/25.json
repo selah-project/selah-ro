@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "„Și cu cine Mă asemănați voi, și cu cine ⟨sunt⟩ Eu deopotrivă?” spune Cel Sfânt.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Și cu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "Mă asemănați voi"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "și ⟨sunt⟩ deopotrivă"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "spune"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Cel Sfânt"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:01.051856891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Căci tatăl meu și mama mea m-au părăsit, iar Yahve mă va aduna ⟨la sine⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata meu"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "și mama mea"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "m-au părăsit"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "iar Yahve"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "mă va aduna"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:24.778314763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Către mai-marele cântăreților. Un mizmor al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "către mai-marele cântăreților"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:43.642128159Z",
+  "model": "glm-5.3"
+}

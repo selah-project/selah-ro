@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 13:31",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a fost, după ce l-a îngropat ⟨את⟩, că a spus către fiii lui, zicând: La moartea mea, îngropați-mă ⟨את⟩ în mormântul în care omul lui Elohim este îngropat; lângă oasele lui, puneți ⟨את⟩ oasele mele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "l-a îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (omul lui Elohim)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "că a spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "La moartea mea"
+    },
+    {
+      "surface": "וקברתם",
+      "gloss": "îngropați-mă"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "în mormântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "קבור",
+      "gloss": "este îngropat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "oasele lui"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "puneți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oasele mele"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "oasele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:36.632214575Z",
+  "model": "glm-5.3"
+}

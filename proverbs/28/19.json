@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Cine își lucrează pământul se va sătura de pâine, iar cine urmărește lucruri goale se va sătura de sărăcie.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "Cine lucrează"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se va sătura"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pâine"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "iar cine urmărește"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "lucruri goale"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se va sătura"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "de sărăcie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:38.868865542Z",
+  "model": "glm-5.3"
+}

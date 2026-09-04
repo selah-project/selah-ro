@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și Azaria a născut ⟨את⟩ Seraiia, și Seraiia a născut ⟨את⟩ Iehoțadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "și Azaria"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraiia"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraiia"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "și Seraiia"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehoțadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Iehoțadak"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:47.580458308Z",
+  "model": "glm-5.3"
+}

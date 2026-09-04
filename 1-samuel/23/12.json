@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a spus David: Vor preda stăpânii din Cheila ⟨את⟩ pe mine și ⟨את⟩ pe oamenii mei în mâna lui Șaul? Și a spus Yahve: Vor preda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Vor preda"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "stăpânii"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "din Cheila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe oamenii mei"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii mei"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Vor preda"
+    }
+  ],
+  "timestamp": "2026-09-04T07:11:30.070557632Z",
+  "model": "glm-5.3"
+}

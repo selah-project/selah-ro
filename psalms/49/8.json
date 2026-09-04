@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Frate nu poate răscumpăra deplin pe un om, ca să dea lui Elohim prețul de răscumpărare pentru el.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Frate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "poate răscumpăra"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "răscumpăra deplin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pe un om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu (ca să)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dea"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "prețul de răscumpărare pentru el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:14.317851160Z",
+  "model": "glm-5.3"
+}

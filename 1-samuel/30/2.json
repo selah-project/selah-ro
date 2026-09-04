@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și au luat prizoniere ⟨את⟩ femeile care erau în ea, de la mic până la mare; nu au omorât ⟨niciun⟩ om, și le-au mânat și au plecat la drumul lor.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Și au luat prizoniere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "femeile"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "femeile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "de la mic"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "au omorât"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "și le-au mânat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au plecat"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "la drumul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:24.908033179Z",
+  "model": "glm-5.3"
+}

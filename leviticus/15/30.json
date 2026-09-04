@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Va face cohenul ⟨את⟩ unul jertfă de păcat și ⟨את⟩ celălalt ardere-de-tot, și va face cohenul ispășire pentru ea înaintea lui Yahve, pentru curgerea necurăției ei.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Va face"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unul"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jertfă de păcat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "celălalt"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ardere-de-tot"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "și va ispăși"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pentru ea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "pentru curgerea"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "necurăției ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:18.165108974Z",
+  "model": "glm-5.3"
+}

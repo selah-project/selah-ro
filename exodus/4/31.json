@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a crezut poporul, și au auzit că cercetase Yahve ⟨את⟩ fiii lui Israel și că văzuse ⟨את⟩ suferința lor; și s-au plecat și s-au închinat.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "și a crezut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "și au auzit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "cercetase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "și că"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "văzuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suferința lor"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "suferința lor"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "și s-au plecat"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "și s-au închinat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:08.481082739Z",
+  "model": "glm-5.3"
+}

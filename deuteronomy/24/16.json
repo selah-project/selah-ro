@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Să nu fie omorâți tații pentru copii, și copii să nu fie omorâți pentru tați; fiecare om pentru păcatul lui să fie omorât.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "fie omorâți"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "tații"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "copii"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "și copii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "fie omorâți"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "tați"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare om"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "pentru păcatul lui"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "să fie omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:39.040018974Z",
+  "model": "glm-5.3"
+}

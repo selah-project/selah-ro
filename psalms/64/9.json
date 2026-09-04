@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "L-au făcut să se poticnească; împotriva lor ⟨este⟩ limba lor; toți cei ce-i văd vor clătina ⟨din cap⟩.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "l-au făcut să se poticnească"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "împotriva lor"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "limba lor"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "vor clătina ⟨din cap⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "cei ce văd"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pe ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:36.619155396Z",
+  "model": "glm-5.3"
+}

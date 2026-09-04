@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Semeția omului îl coboară, dar cel smerit în duh va fi sprijinit de cinste.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "Semeția"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "îl coboară"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "dar smerit"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "în duh"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "va fi sprijinit"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de cinste"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:12.742929989Z",
+  "model": "glm-5.3"
+}

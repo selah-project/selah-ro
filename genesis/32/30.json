@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a întrebat Iaacov și a spus: spune, te rog, numele tău. Și a spus: de ce întrebi aceasta de numele meu? Și l-a binecuvântat ⟨את⟩ acolo.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Și a întrebat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "spune"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "întrebi"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "de numele meu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și l-a binecuvântat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (pe Iaacov)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:46.193550836Z",
+  "model": "glm-5.3"
+}

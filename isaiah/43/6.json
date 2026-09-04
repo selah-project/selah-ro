@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Voi spune nordului: «Dă!» și sudului: «Nu opri!» Adu pe fiii mei de departe și pe fiicele mele de la capătul pământului.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "voi spune"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "nordului"
+    },
+    {
+      "surface": "תני",
+      "gloss": "dă"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "și sudului"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "opri"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "adu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pe fiii mei"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "de departe"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "și pe fiicele mele"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "de la capătul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:04.155465761Z",
+  "model": "glm-5.3"
+}

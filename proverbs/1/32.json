@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Căci răzvrătirea celor naivi îi va ucide, și liniștea îndestulată a celor nebuni îi va pierde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "răzvrătirea"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "celor naivi"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "îi va ucide"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "și liniștea îndestulată"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "celor nebuni"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "îi va pierde"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:46.547696448Z",
+  "model": "glm-5.3"
+}

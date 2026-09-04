@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și mi s-a aprins mânia foarte când am auzit ⟨את⟩ strigătul lor și ⟨את⟩ cuvintele acestea.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Și mi s-a aprins mânia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "strigătul lor"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "strigătul lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cuvintele acestea"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    }
+  ],
+  "timestamp": "2026-09-04T06:00:23.867980690Z",
+  "model": "glm-5.3"
+}

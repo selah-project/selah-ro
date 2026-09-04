@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Vor spune: Pentru că au părăsit ⟨את⟩ legământul lui Yahve, Elohim al lor, și s-au închinat altor dumnezei și i-au slujit.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "vor spune"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "au părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim al lor"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "și s-au închinat"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "altor dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "dumnezei străini"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "și i-au slujit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:05:40.840314301Z",
+  "model": "glm-5.3"
+}

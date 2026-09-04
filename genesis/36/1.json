@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și acestea sunt neamurile lui Esav — el ⟨este⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "sunt neamurile"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:34.820440079Z",
+  "model": "glm-5.3"
+}

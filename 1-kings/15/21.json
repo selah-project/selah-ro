@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a fost, la auzul lui Bașa, că a încetat să mai construiască ⟨את⟩ Rama, și s-a așezat în Tirța.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "la auzul"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "lui Bașa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "a încetat"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "să mai construiască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și s-a așezat"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "în Tirța"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:17.048272473Z",
+  "model": "glm-5.3"
+}

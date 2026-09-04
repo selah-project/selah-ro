@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Căci s-a sfârșit în durere viața mea și anii mei în suspin; s-a clătinat de nelegiuirea mea puterea mea, și oasele mele au slăbit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "s-a sfârșit"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "în durere"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "viața mea"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "și anii mei"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "în suspin"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "s-a clătinat"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "de nelegiuirea mea"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "și oasele mele"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "au slăbit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:34.804464934Z",
+  "model": "glm-5.3"
+}

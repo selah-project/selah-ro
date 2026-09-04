@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Ridică ⟨את⟩ capul fiilor lui Gerșon, și ei, după casa părinților lor, după familiile lor:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Ridică"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capul fiilor lui Gerșon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerșon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "după casa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "după familiile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:43.909991768Z",
+  "model": "glm-5.3"
+}

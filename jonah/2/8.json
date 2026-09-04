@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Când s-a momeit peste mine sufletul meu, pe ⟨את⟩ Yahve mi-am amintit, și a intrat la tine rugăciunea mea, spre templul sfânteniei tale.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Când s-a momeit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "mi-am amintit"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "și a intrat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templul"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sfânteniei tale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:49:46.480009130Z",
+  "model": "glm-5.3"
+}

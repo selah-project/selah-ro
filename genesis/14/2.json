@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "au făcut război ⟨את⟩ Bera, regele Sodom, și ⟨את⟩ Birșa, regele Amora, Șinab, regele Adma, și Șemeber, regele Țeboim, și regele Bela — aceasta ⟨este⟩ Țoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "război"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera, regele Sodom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Birșa, regele Amora"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birșa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Șinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "și Șemeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Țeboim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "și regele"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Țoar"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:44.324663002Z",
+  "model": "glm-5.3"
+}

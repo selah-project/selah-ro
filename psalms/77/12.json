@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Voi pomeni faptele lui Ya, căci voi pomeni din vechime minunile tale.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "voi pomeni"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lui Ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "voi pomeni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "din vechime"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "minunile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:15.261447224Z",
+  "model": "glm-5.3"
+}

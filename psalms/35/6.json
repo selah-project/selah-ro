@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Să fie calea lor întuneric și alunecare, și solul lui Yahve să-i urmărească.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "calea lor"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întuneric"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "și alunecare"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "și solul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "să-i urmărească"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:27.831063924Z",
+  "model": "glm-5.3"
+}

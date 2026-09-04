@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Un ceas de a naște și un ceas de a muri; un ceas de a sădi și un ceas de a smulge ce ⟨este⟩ sădit.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Un ceas"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "de a naște"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un ceas"
+    },
+    {
+      "surface": "למות",
+      "gloss": "de a muri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un ceas"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "de a sădi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un ceas"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "de a smulge"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ce ⟨este⟩ sădit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:06.692087642Z",
+  "model": "glm-5.3"
+}

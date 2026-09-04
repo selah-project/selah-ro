@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și regele Șelomo a iubit femei străine multe, și ⟨את⟩ pe fiica lui Paro: moabite, ammonite, edomite, țidonițe, hitite.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Și regele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a iubit"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "femei"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "străine"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "multe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe fiica lui Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "moabite"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ammonite"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "edomite"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "țidonițe"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hitite"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:49.941832669Z",
+  "model": "glm-5.3"
+}

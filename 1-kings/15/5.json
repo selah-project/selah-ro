@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Pentru că a făcut David ⟨את⟩ ceea ce este drept în ochii lui Yahve și nu s-a abătut de la nimic din ceea ce i-a poruncit ⟨el⟩, toate zilele vieții lui — numai în privința lui Uriya hititul.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Pentru că"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce este drept"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ceea ce este drept"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "סר",
+      "gloss": "s-a abătut"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de la nimic din"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i-a poruncit ⟨el⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "vieții lui"
+    },
+    {
+      "surface": "רק",
+      "gloss": "numai"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "în privința"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "lui Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:56:37.186037409Z",
+  "model": "glm-5.3"
+}

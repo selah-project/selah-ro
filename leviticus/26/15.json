@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "și dacă veți disprețui rânduielile mele, și dacă ⟨את⟩ judecățile mele va scârbi sufletul vostru, ca să nu faceți ⟨את⟩ toate poruncile mele, ca să sfărâmați ⟨את⟩ legământul meu,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "rânduielile mele"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "veți disprețui"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "judecățile mele"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecățile mele"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "va scârbi"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "sufletul vostru"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "faceți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate poruncile mele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "poruncile mele"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "ca să sfărâmați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:52.342479038Z",
+  "model": "glm-5.3"
+}

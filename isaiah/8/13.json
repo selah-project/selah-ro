@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Pe ⟨את⟩ Yahve Țevaot pe El ⟨את⟩ să-L sfințiți, și El ⟨să fie⟩ frica voastră și El spaima voastră.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pe El ⟨את⟩",
+      "marks": "pe El"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "să-L sfințiți"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și El"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "frica voastră"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și El"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "spaima voastră"
+    }
+  ],
+  "timestamp": "2026-09-04T07:24:57.502031741Z",
+  "model": "glm-5.3"
+}

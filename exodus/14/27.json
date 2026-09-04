@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 14:27",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a întins Moșe ⟨את⟩ mâna lui peste mare, și marea s-a întors spre zarea dimineții la puterea ei, iar Mițraim fugea în întâmpinarea ei, și a scuturat Yahve ⟨את⟩ Mițraim în mijlocul mării.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Și a întins"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna lui"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "spre"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineții"
+    },
+    {
+      "surface": "לאיתנו",
+      "gloss": "la puterea ei"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "iar Mițraim"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "fugea"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "în întâmpinarea ei"
+    },
+    {
+      "surface": "וינער",
+      "gloss": "și a scuturat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mițraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mării"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:47.085646140Z",
+  "model": "glm-5.3"
+}

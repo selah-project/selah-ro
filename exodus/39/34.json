@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "și ⟨את⟩ învelitoarea de piei de berbeci roșiiți și ⟨את⟩ învelitoarea de piei de tahăș și ⟨את⟩ perdeaua vălului.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "învelitoarea"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "învelitoarea"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "de piei"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "de berbeci"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "roșiiți"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "învelitoarea"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "învelitoarea"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "de piei"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "de tahăș"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "perdeaua"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perdeaua"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "vălului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:36.798723521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Aceștia ⟨sunt⟩ dintre fiii lui Gad, căpetenii ale oștirii: unul ⟨era⟩ la o sută cel mai mic, iar cel mai mare ⟨era⟩ la o mie.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aceștia"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dintre fiii lui"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "căpetenii"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ale oștirii"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "la o sută"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "cel mai mic"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "iar cel mai mare"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "la o mie"
+    }
+  ],
+  "timestamp": "2026-09-04T06:10:48.234692476Z",
+  "model": "glm-5.3"
+}

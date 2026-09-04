@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și acum stați-vă ⟨în picioare⟩, ca să vă judec ⟨את⟩ voi înaintea lui Yahve, după ⟨את⟩ toate dreptățile lui Yahve pe care le-a făcut cu ⟨את⟩ voi și cu ⟨את⟩ părinții voștri.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "stați-vă"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ca să vă judec"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate dreptățile lui Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "dreptățile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "le-a făcut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "cu ⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și cu ⟨את⟩",
+      "marks": "părinții voștri"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "părinții voștri"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:25.850163603Z",
+  "model": "glm-5.3"
+}

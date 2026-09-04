@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Fă bine slujitorului tău, ca să trăiesc și să păzesc cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Fă bine"
+    },
+    {
+      "surface": "על",
+      "gloss": "slujitorului tău (poartă cazul)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorului tău"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ca să trăiesc"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "și să păzesc"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:04.468601504Z",
+  "model": "glm-5.3"
+}

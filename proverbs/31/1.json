@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Cuvintele lui Lemuel, regele — povara cu care l-a învățat mama lui.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Cuvintele"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "lui Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "משא",
+      "gloss": "povara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "l-a învățat"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:19.460762344Z",
+  "model": "glm-5.3"
+}

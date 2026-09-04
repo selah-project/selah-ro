@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Un glas strigă: în pustie pregătiți calea lui Yahve, neteziți în stepă un drum pentru Elohim al nostru.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Un glas"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "strigă"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustie"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "pregătiți"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "neteziți"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "în stepă"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "un drum"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "pentru Elohim al nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:58.342827796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 111,
+  "translation": "Lăudați-l pe Ya! Voi mulțumi lui Yahve cu tot inima, în sfatul celor drepți și în adunare.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "voi mulțumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu tot"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "în sfatul"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "celor drepți"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "și în adunare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:04.584699712Z",
+  "model": "glm-5.3"
+}

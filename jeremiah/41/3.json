@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 41:3",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "și ⟨את⟩ toți iudeii care erau cu Guedalia la Mițpa, și ⟨את⟩ kasdimii care au fost găsiți acolo — ⟨את⟩ oamenii războiului i-a lovit Yișmael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toți iudeii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Guedalia"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Guedalia"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "la Mițpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "kasdimii"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdimii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "au fost găsiți"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii războiului"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "războiului"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yișmael"
+    }
+  ],
+  "timestamp": "2026-09-04T07:38:49.628621082Z",
+  "model": "glm-5.3"
+}

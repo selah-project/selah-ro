@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Acestea sunt numele oamenilor care vă vor moșteni ⟨את⟩ pământul: Elazar cohenul și Iehoșua fiul lui Nun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Acestea"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "numele"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "vor moșteni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "și Iehoșua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נון",
+      "gloss": "lui Nun"
+    }
+  ],
+  "timestamp": "2026-09-04T01:57:11.046354292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a văzut Șaul ⟨את⟩ tabăra filistenilor, și s-a temut, și i-a tremurat inima foarte tare.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabăra filistenilor"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabăra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenilor"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și s-a temut"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "și i-a tremurat"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte tare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:12:59.142416881Z",
+  "model": "glm-5.3"
+}

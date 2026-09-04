@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a spus Șemuël către popor: Yahve, cel care a făcut ⟨את⟩ Moșe și ⟨את⟩ Aharon și cel care a suit ⟨את⟩ părinții voștri din pământul Mițraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și care"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "a suit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "părinții voștri"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "părinții voștri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:25.849909360Z",
+  "model": "glm-5.3"
+}

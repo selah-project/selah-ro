@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ Adoraim, și ⟨את⟩ Lakiș, și ⟨את⟩ Azeka",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Adoraim"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adoraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Lakiș"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakiș"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Azeka"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    }
+  ],
+  "timestamp": "2026-09-04T08:21:36.694369732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "Cât de mari sunt lucrările tale, Yahve, foarte adânci sunt cugetările tale!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cât"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "de mari sunt"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "lucrările tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "adânci sunt"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "cugetările tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:06.057718320Z",
+  "model": "glm-5.3"
+}

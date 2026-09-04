@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Frații mei au trădat ca un pârâu de primăvară, ca albia pâraielor care trec.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Frații mei"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "au trădat"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "un pârâu de primăvară"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "ca albia"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "pâraielor"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "care trec"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:10.390604279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "când a arătat ⟨את⟩ bogăția slavei domniei lui și ⟨את⟩ prețuirea podoabei măreției lui, multe zile — optzeci și o sută de zile.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "când a arătat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogăția"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogăția"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slavei"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "domniei lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "prețuirea"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "prețuirea"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "podoabei"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "măreției lui"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "optzeci"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "și o sută"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de zile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:56.325680589Z",
+  "model": "glm-5.3"
+}

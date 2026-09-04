@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 130,
+  "translation": "Căci la tine ⟨este⟩ iertarea, pentru ca ⟨să⟩ fii temut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "iertarea"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru ca"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "fii temut"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:18.484315275Z",
+  "model": "glm-5.3"
+}

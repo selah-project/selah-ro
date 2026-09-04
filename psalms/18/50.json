@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "De aceea te voi lăuda printre neamuri, Yahve, și numelui tău îi voi cânta.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "De"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "te voi lăuda"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "printre neamuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וולשמך",
+      "gloss": "și numelui tău"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "îi voi cânta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:30.065528099Z",
+  "model": "glm-5.3"
+}

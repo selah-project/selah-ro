@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "chiar și eu voi râde în nenorocirea voastră, mă voi bate joc când vine spaima voastră",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "în nenorocirea voastră"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "voi râde"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "mă voi bate joc"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "când vine"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "spaima voastră"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:44.078491725Z",
+  "model": "glm-5.3"
+}

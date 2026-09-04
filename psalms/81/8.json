@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "În strâmtorare m-ai chemat și te-am scăpat; te-am răspuns în ascunzișul tunetului, te-am încercat la apele Meriva. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "În strâmtorare"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "m-ai chemat"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "și te-am scăpat"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "te-am răspuns"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "în ascunzișul"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "tunetului"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "te-am încercat"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apele"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:51.470223216Z",
+  "model": "glm-5.3"
+}

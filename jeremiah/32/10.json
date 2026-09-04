@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și am scris în carte, și am pecetluit, și am pus martori, și am cântărit argintul în cântar.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "și am scris"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "în carte"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "și am pecetluit"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "și am pus (ca martori)"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "martori"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "și am cântărit"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintul"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "în cântar"
+    }
+  ],
+  "timestamp": "2026-09-04T04:10:56.699467557Z",
+  "model": "glm-5.3"
+}

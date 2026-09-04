@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Prin binecuvântarea celor drepți se ridică cetatea, iar prin gura celor răi este surpată.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "Prin binecuvântarea"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "celor drepți"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "se ridică"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "iar prin gura"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "este surpată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:06.683419576Z",
+  "model": "glm-5.3"
+}

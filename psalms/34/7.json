@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Acest sărac a strigat, și Yahve a auzit, și din toate strâmtorările lui l-a mântuit.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Acest"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărac"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a strigat"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "și Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "și din toate"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "strâmtorările lui"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "l-a mântuit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:26.003838860Z",
+  "model": "glm-5.3"
+}

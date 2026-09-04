@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Căci a săturat sufletul care tânjește, și sufletul flămând l-a umplut ⟨de⟩ bine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "a săturat"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "care tânjește"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "și sufletul"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "flămând"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a umplut"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:51.777512809Z",
+  "model": "glm-5.3"
+}

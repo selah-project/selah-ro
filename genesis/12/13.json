@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Spune, te rog, tu ești sora mea, ca să-mi fie mie bine din pricina ta și să trăiască viața mea de dragul tău.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Spune"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sora mea"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "să fie bine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "din pricina ta"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "și să trăiască"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "viața mea"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "de dragul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:06.295430631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și cohenul cel uns va lua din sângele taurului și îl va aduce ⟨את⟩ la cortul întâlnirii.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "și va lua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "cel uns"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "din sângele"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "taurului"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "și îl va aduce"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "sângele taurului"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:18.667125157Z",
+  "model": "glm-5.3"
+}

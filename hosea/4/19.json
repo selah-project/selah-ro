@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "A ferecat-o vântul în aripile ei, și se vor rușina din pricina jertfelor lor.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "a ferecat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vântul"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "pe ea ⟨את⟩",
+      "marks": "pe ea (Efraim, fem.)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "în aripile ei"
+    },
+    {
+      "surface": "ומיבשו",
+      "gloss": "și se vor rușina"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "jertfele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:08.897790664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a pus ⟨את⟩ sfeșnicul în Cortul-întâlnirii, față în față cu masa, pe coasta de miază-zi a Cortului.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfeșnicul"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sfeșnicul"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "în Cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "față în față cu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "coasta"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Cortului"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "spre miază-zi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:34.944863741Z",
+  "model": "glm-5.3"
+}

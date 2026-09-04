@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Iar ⟨את⟩ carnea taurului, și ⟨את⟩ pielea lui, și ⟨את⟩ bălegarul lui să le arzi în foc afară din tabără: ⟨este⟩ jertfă pentru păcat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "carnea"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "taurului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pielea lui"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "pielea lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bălegarul lui"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "bălegarul lui"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "să le arzi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "din tabără"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jertfă pentru păcat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:02.491365232Z",
+  "model": "glm-5.3"
+}

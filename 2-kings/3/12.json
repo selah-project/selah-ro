@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus Iehoșafat: Este ⟨את⟩ cuvântul lui Yahve la el. Și au coborât la el regele Israelului, și Iehoșafat, și regele Edomului.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Iehoșafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Este"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ la el",
+      "marks": "cuvântul lui Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvânt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "Și au coborât"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "și Iehoșafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "și regele"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:23:30.071349231Z",
+  "model": "glm-5.3"
+}

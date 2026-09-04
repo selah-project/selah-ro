@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Iar noi vom binecuvânta pe Ya, de acum și până în veac. Lăudați pe Ya!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Iar noi"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "vom binecuvânta"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "de acum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:27.724839999Z",
+  "model": "glm-5.3"
+}

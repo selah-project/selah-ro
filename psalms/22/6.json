@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Către tine au strigat și au scăpat; în tine au încredințat și nu s-au rușinat.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "au strigat"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "și au scăpat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "au încredințat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "s-au rușinat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:05:49.786465295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Sfârșitul cuvântului, totul a fost auzit: pe ⟨את⟩ Elohim să te temi și ⟨את⟩ poruncile lui să le păzești, căci aceasta ⟨este⟩ tot omul.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Sfârșitul"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântului"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "a fost auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "pe ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "să te temi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "poruncile lui"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "să le păzești"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:24.428555545Z",
+  "model": "glm-5.3"
+}

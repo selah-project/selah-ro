@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Dar tu, Yahve, vei râde de ei; îți vei bate joc de toate neamurile.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dar tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "vei râde"
+    },
+    {
+      "surface": "למו",
+      "gloss": "de ei"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "îți vei bate joc"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de toate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:30.299947187Z",
+  "model": "glm-5.3"
+}

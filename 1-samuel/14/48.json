@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a făcut vitejie, și a lovit ⟨את⟩ Amalek, și a scos ⟨את⟩ Israel din mâna prădătorilor lui.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitejie"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "și a scos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "prădătorilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:01.683505Z",
+  "model": "glm-5.3"
+}

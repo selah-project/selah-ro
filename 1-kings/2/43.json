@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și de ce n-ai păzit ⟨את⟩ jurământul lui Yahve și ⟨את⟩ porunca pe care ți-am poruncit-o?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Și de ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ai păzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jurământul"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jurământul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "porunca"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ți-am poruncit-o"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "asupra ta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:09:08.464206178Z",
+  "model": "glm-5.3"
+}

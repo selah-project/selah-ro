@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 2:7",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Am dobândit robi și roabe, și fii de casă mi-au fost; de asemenea, vite de boi și oi mult mi-a fost al minei, mai mult decât tot ce a fost înaintea mea în Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "קניתי",
+      "gloss": "am dobândit"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robi"
+    },
+    {
+      "surface": "ושפחות",
+      "gloss": "și roabe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "și fii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de casă"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "de asemenea"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "vite"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de boi"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "și oi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mult"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mai mult decât tot"
+    },
+    {
+      "surface": "שהיו",
+      "gloss": "ce a fost"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "în Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T09:13:21.281591434Z",
+  "model": "glm-5.3"
+}

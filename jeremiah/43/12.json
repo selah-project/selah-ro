@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 43:12",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Voi aprinde foc în casele dumnezeilor Mițraimului, și le va arde și îi va duce captivi; și se va înfășura ⟨את⟩ țara Mițraimului, cum își înfășoară păstorul ⟨את⟩ haina lui, și va ieși de acolo în pace.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "Voi aprinde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "בבתי",
+      "gloss": "în casele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeilor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "ושרפם",
+      "gloss": "și le va arde"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "și îi va duce captivi"
+    },
+    {
+      "surface": "ועטה",
+      "gloss": "și se va înfășura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara Mițraimului"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "își înfășoară"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "păstorul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haina lui"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "haina lui"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și va ieși"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "în pace"
+    }
+  ],
+  "timestamp": "2026-09-04T07:38:55.581245147Z",
+  "model": "glm-5.3"
+}

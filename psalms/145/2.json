@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "În fiecare zi te voi binecuvânta și voi lăuda numele tău în veac și în veci.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "În fiecare"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "te voi binecuvânta"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "și voi lăuda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și în veci"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:12.178319997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și fiii lui Șimi: Iahat, Zina, și Ieuș, și Beria; aceștia sunt fiii lui Șimi, patru.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Și fiii"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "lui Șimi"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Iahat"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Zina"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "și Ieuș"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "și Beria"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "lui Șimi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "patru"
+    }
+  ],
+  "timestamp": "2026-09-04T08:20:41.842538257Z",
+  "model": "glm-5.3"
+}

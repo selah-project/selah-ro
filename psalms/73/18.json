@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Doar în locuri alunecoase îi pui, i-ai prăbușit în pustiiri.",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "Doar"
+    },
+    {
+      "surface": "בַּחֲלָקוֹת",
+      "gloss": "în locuri alunecoase"
+    },
+    {
+      "surface": "תָּשִׁית",
+      "gloss": "îi pui"
+    },
+    {
+      "surface": "לָמוֹ",
+      "gloss": "pe ei"
+    },
+    {
+      "surface": "הִפַּלְתָּם",
+      "gloss": "i-ai prăbușit"
+    },
+    {
+      "surface": "לְמַשּׁוּאוֹת",
+      "gloss": "în pustiiri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:08.717688276Z",
+  "model": "glm-5.3"
+}

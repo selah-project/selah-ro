@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Cel drept judecă cu înțelepciune casa răului: pe cei răi îi răstoarnă în rău.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "judecă cu înțelepciune"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Cel drept"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răului"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "răstoarnă"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pe cei răi"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "în rău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:33.262899600Z",
+  "model": "glm-5.3"
+}

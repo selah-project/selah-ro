@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Și iată, ochii voștri văd, și ochii fratelui meu Biniamin, că gura mea ⟨este cea⟩ care vorbește cu voi.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Și iată"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ochii voștri"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "văd"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "și ochii"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratelui meu"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Biniamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura mea"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "care vorbește"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "cu voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:41.082264627Z",
+  "model": "glm-5.3"
+}

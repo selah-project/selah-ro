@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Blestemat este cel ce își micșorează tatăl și mama; și va zice tot poporul: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Blestemat"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "cel ce își micșorează"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "și mama"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "și va zice"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-04T02:11:14.529577415Z",
+  "model": "glm-5.3"
+}

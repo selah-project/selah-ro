@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Ai arătat poporului tău un lucru greu; ne-ai adăpat cu vin de amețeală.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Ai arătat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporului tău"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "un lucru greu"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "ne-ai adăpat"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "de amețeală"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:58.275706548Z",
+  "model": "glm-5.3"
+}

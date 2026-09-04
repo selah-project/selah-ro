@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și au strâns-o ⟨את⟩ dimineața de dimineață, fiecare după gura mâncării lui; și s-a încălzit soarele și s-a topit.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "Și au strâns"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(pe el — mana)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "de dimineață"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "după gura"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mâncării lui"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "și s-a încălzit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "și s-a topit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:05.279109729Z",
+  "model": "glm-5.3"
+}

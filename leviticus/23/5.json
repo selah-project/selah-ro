@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "În luna cea dintâi, în a paisprezecea zi a lunii, între cele două seri, ⟨este⟩ Pesahul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "În luna"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "cea dintâi"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "în a paisprezecea"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(\u0014prezece)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a lunii"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "cele două seri"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:54.805451826Z",
+  "model": "glm-5.3"
+}

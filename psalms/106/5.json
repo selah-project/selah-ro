@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "să văd binele celor aleși de tine, să mă bucur de bucuria poporului tău, să mă laud împreună cu moștenirea ta.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "să văd"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "binele"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "celor aleși de tine"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "să mă bucur"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "de bucuria"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "poporului tău"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "să mă laud"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "moștenirea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:04.332110186Z",
+  "model": "glm-5.3"
+}

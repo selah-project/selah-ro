@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și vă veți tăia împrejur ⟨את⟩ carnea prepuțului vostru, și va fi drept semn al legământului între mine și între voi.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "și vă veți tăia împrejur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carnea prepuțului vostru"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "prepuțului vostru"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "drept semn"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "al legământului"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "și între voi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:49.979310990Z",
+  "model": "glm-5.3"
+}

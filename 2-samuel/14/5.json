@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și i-a spus ei regele: Ce ai? Și ea a spus: Ah, femeie văduvă sunt eu, și a murit bărbatul meu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și ea a spus"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "femeie"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "văduvă"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "bărbatul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:55:33.131613851Z",
+  "model": "glm-5.3"
+}

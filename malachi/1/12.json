@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iar voi pângăriți ⟨את⟩ el, când spuneți: „Masa lui Adonai — pângărită ⟨este⟩, și roada ei — disprețuită ⟨este⟩ mâncarea ei.”",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Iar voi"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "pângăriți"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "el — adică numele lui Yahve din versetul 11"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "când spuneți"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "lui Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "pângărită"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "și roada ei"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "disprețuită"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mâncarea ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:40.219081718Z",
+  "model": "glm-5.3"
+}

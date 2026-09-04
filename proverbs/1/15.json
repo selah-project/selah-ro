@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Fiule, nu merge pe drumul împreună ⟨את⟩ cu ei; oprește-ți piciorul de pe cărarea lor",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "merge"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ cu ei",
+      "marks": "pe drumul împreună cu ei"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "oprește-ți"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "piciorul"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "de pe cărarea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:28.159392715Z",
+  "model": "glm-5.3"
+}

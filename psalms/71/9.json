@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Nu mă arunca la vremea bătrâneții; când se sfârșește puterea mea, nu mă părăsi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "mă aruncă"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "la vremea"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "bătrâneții"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "când se sfârșește"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "mă părăsi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:02.267297852Z",
+  "model": "glm-5.3"
+}

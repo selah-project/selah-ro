@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "După lucrurile acestea, la potolirea mâniei împăratului Ahșveroș, și-a adus aminte ⟨את⟩ Vaști și ⟨את⟩ ceea ce făcuse și ⟨את⟩ ceea ce se hotărâse împotriva ei.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "După"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lucrurile"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "la potolirea"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mâniei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "împăratului"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahșveroș"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "și-a adus aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaști"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaști"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ceea ce făcuse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "făcuse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ceea ce se hotărâse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "se hotărâse"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "împotriva ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:22.832198844Z",
+  "model": "glm-5.3"
+}

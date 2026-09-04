@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Iar fiilor lui Aharon, cohenul, au dat ⟨את⟩ cetatea de scăpare a ucigașului, ⟨את⟩ Hevron cu ⟨את⟩ pășunile ei, și ⟨את⟩ Livna cu ⟨את⟩ pășunile ei.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Iar fiilor"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "au dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea de scăpare a ucigașului"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "de scăpare"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "a ucigașului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cu ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pășunile ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cu ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pășunile ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:25:23.760489112Z",
+  "model": "glm-5.3"
+}

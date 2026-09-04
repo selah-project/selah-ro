@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a venit Iosif la ei dimineața și i-a văzut ⟨את⟩, și iată-i abătuți.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "la ei"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și i-a văzut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "și iată-i"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "abătuți"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:21.134071031Z",
+  "model": "glm-5.3"
+}

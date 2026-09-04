@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ gaia și ⟨את⟩ șoimul, după felul ei;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "gaia"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "gaia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "șoimul"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "șoimul"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "după felul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:54.965712916Z",
+  "model": "glm-5.3"
+}

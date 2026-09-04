@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 130,
+  "translation": "Cântare a urcărilor. Din adâncuri te-am chemat, Yahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Din adâncuri"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "te-am chemat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:32.405675901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Căci au amărât ⟨את⟩ duhul lui, și a vorbit cu nebunie cu buzele lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "au amărât"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duhul lui"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "duhul lui"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "și a vorbit cu nebunie"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "cu buzele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:47.593259646Z",
+  "model": "glm-5.3"
+}

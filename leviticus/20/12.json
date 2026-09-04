@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și un om care se culcă ⟨את⟩ cu nora sa, moarte să fie omorâți amândoi: amestecare au făcut; sângele lor ⟨este⟩ asupra lor.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "se culcă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu nora sa"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "cu nora sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "să fie omorâți"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amestecare"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "sângele lor"
+    },
+    {
+      "surface": "בם",
+      "gloss": "asupra lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:20.960315547Z",
+  "model": "glm-5.3"
+}

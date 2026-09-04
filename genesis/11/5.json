@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și s-a coborât Yahve să vadă ⟨את⟩ cetatea și ⟨את⟩ turnul pe care îl zidiseră fiii omului.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Și s-a coborât"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "turnul"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "turnul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zidiseră"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:05.695147012Z",
+  "model": "glm-5.3"
+}

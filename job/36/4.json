@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Căci în adevăr nu minciună ⟨sunt⟩ cuvintele mele — cel desăvârșit în cunoștință ⟨este⟩ cu tine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "în adevăr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "cuvintele mele"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "cel desăvârșit"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "în cunoștință"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:42.565300155Z",
+  "model": "glm-5.3"
+}

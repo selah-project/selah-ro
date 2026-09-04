@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "și te-a trimis Yahve pe cale și a spus: Mergi și nimicește prin hirem ⟨את⟩ pe cei păcătoși, ⟨את⟩ pe Amalec, și luptă-te cu el până îi sfârșești ⟨את⟩ pe ei.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "și te-a trimis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe cale"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "și să nimicești prin hirem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cei păcătoși"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "pe cei păcătoși"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Amalec"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalec"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "și să te bați"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "îi sfârșești"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:17.246823045Z",
+  "model": "glm-5.3"
+}

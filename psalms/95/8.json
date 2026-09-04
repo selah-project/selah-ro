@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 95,
+  "translation": "Nu vă împietriți inima, ca la Meriva, ca în ziua de la Masa, în pustiu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "vă împietriți"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inima"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "ca la Meriva"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ca în ziua"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "de la Masa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:22.040773969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și s-a certat poporul cu Moșe, și au zis: Dați-ne apă, ca să bem. Și a zis Moșe către ei: Ce vă certați cu mine? Ce îl ispitiți ⟨את⟩ Yahve?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "Și s-a certat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Dați"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ca să bem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "vă certați"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "îl ispitiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:50.622803624Z",
+  "model": "glm-5.3"
+}

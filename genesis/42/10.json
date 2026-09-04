@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și i-au zis: nu, domnule, ci robii tăi au venit să cumpere hrană.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și i-au zis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "domnule"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ci robii tăi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "să cumpere"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrană"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:53.793879940Z",
+  "model": "glm-5.3"
+}

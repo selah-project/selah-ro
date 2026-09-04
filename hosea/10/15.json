@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Așa va face ⟨cu⟩ voi Beit-El, din pricina răutății răutății voastre; în zori, nimicit va fi nimicit regele lui Israel.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "răutății"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "răutății voastre"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "în zori"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "nimicit"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "va fi nimicit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:52.502023617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a fost, când s-a întărit împărăția în mâna lui, că a lovit ⟨את⟩ pe slujitorii lui, pe cei care îl loviseră ⟨את⟩ pe regele tatăl său.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "s-a întărit"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe slujitorii lui"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "pe slujitorii lui"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "pe cei care îl loviseră"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "pe regele"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:39.778781293Z",
+  "model": "glm-5.3"
+}

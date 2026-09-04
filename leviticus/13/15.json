@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și va vedea cohenul ⟨את⟩ carnea cea vie și îl va declara necurat: carnea cea vie ⟨este⟩ necurată, aceasta; țaraat ⟨este⟩ aceasta.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "și va vedea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carnea cea vie"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "החי",
+      "gloss": "cea vie"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "și îl va declara necurat"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "החי",
+      "gloss": "cea vie"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurată"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "țaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:48:19.953258014Z",
+  "model": "glm-5.3"
+}

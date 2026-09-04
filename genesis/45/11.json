@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Și te voi hrăni ⟨את⟩ acolo, căci încă cinci ani ⟨mai sunt⟩ foamete — ca să nu sărăcești tu și casa ta și tot ce ⟨este⟩ al tău.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "Și te voi hrăni"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "foamete"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "sărăcești"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "și casa ta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:41.082114875Z",
+  "model": "glm-5.3"
+}

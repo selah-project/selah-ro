@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 149,
+  "translation": "Ca să facă răzbunare printre neamuri, mustrări printre popoare.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Ca să facă"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "răzbunare"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "printre neamuri"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "mustrări"
+    },
+    {
+      "surface": "בל",
+      "gloss": "printre"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "popoare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:41.544856827Z",
+  "model": "glm-5.3"
+}

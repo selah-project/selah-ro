@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și Arpahșad a născut ⟨את⟩ Șelah, și Șelah a născut ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Și Arpahșad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Șelah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "și Șelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:02.373684031Z",
+  "model": "glm-5.3"
+}

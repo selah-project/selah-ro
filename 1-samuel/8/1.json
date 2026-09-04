@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a fost, când a îmbătrânit Șemuel, că a pus ⟨את⟩ fiii săi judecători pentru Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a îmbătrânit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "că a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii săi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii săi"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "judecători"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pentru Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:52.367101455Z",
+  "model": "glm-5.3"
+}

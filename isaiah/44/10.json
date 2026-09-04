@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Cine a plăsmuit un el și a turnat un idol, ⟨un lucru⟩ care nu folosește la nimic?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "a plăsmuit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "un el (un dumnezeu)"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "și un idol"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "turnat"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "folosească la nimic"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:31.252938312Z",
+  "model": "glm-5.3"
+}

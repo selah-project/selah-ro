@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Cine este acesta care ascunde un sfat fără cunoștință? De aceea am vorbit și n-am înțeles; lucruri prea minunate pentru mine, și nu le voi ști.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ascunde"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "un sfat"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "cunoștință"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "De aceea"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "am vorbit"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "înțeleg"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "lucruri minunate"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "voi ști"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:28.304099204Z",
+  "model": "glm-5.3"
+}

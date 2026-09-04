@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "în zilele acelea, când ședea regele Ahașveroș pe tronul domniei lui, care ⟨este⟩ în Șușan, cetatea",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "acelea"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "când ședea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahașveroș"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronul"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "domniei lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "în Șușan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "cetatea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:56.325332052Z",
+  "model": "glm-5.3"
+}

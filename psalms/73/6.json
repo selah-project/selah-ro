@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "De aceea mândria i-a încolățat ca un lanț la gât, violența îi îmbracă ca o haină.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "De aceea"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "i-a încolățat ca un lanț la gât"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "mândria"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "îmbracă"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ca o haină"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violența"
+    },
+    {
+      "surface": "למו",
+      "gloss": "îi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:47.801637392Z",
+  "model": "glm-5.3"
+}

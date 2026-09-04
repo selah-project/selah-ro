@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a făcut David așa, cum îi poruncise Yahve, și a lovit ⟨את⟩ filistenii din Gheva până la venirea ta la Ghezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistenii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "din Gheva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "באך",
+      "gloss": "venirea ta"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Ghezer"
+    }
+  ],
+  "timestamp": "2026-09-04T02:56:28.571095722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a suit Moșe spre munte, și norul a acoperit ⟨את⟩ muntele.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "și a suit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "și a acoperit"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "norul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muntele"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:08.164284083Z",
+  "model": "glm-5.3"
+}

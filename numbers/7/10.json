@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și au adus căpeteniile ⟨את⟩ sfințirea altarului, în ziua ungerii ⟨את⟩ lui; și au adus căpeteniile ⟨את⟩ darul lor înaintea altarului.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "Și au adus"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfințirea altarului"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "sfințirea"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarului"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "ungerii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "și au adus"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul lor"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "darul lor"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:44:17.416188317Z",
+  "model": "glm-5.3"
+}

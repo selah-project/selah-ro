@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și Boaz a născut ⟨את⟩ Oved, și Oved a născut ⟨את⟩ Ișai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "și Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "și Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ișai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ișai"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:50.486353092Z",
+  "model": "glm-5.3"
+}

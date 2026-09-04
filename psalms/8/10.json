@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Yahve, Adonai al nostru, ce măreț ⟨este⟩ Numele tău în toată ⟨את⟩ pământul!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai al nostru"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "măreț"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Numele tău"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:28.584841344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și șederea ta, și ieșirea ta, și venirea ta le cunosc, și ⟨את⟩ furia ta împotriva mea.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Și șederea ta"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "și ieșirea ta"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "și venirea ta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "le cunosc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "furia ta"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "furia ta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:32:44.207574834Z",
+  "model": "glm-5.3"
+}

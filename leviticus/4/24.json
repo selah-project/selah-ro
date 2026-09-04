@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și-și va așeza mâna lui pe capul țapului și-l va junghia ⟨את⟩ în locul unde se junghie ⟨את⟩ arderea de tot, înaintea lui Yahve; jertfă de păcat ⟨este⟩ el.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Și-și va așeza"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "țapului"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "și-l va junghia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "pe țap"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "se junghie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea de tot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea de tot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jertfă de păcat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:07.090785138Z",
+  "model": "glm-5.3"
+}

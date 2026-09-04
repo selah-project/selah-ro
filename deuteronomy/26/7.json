@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și am strigat către Yahve, Elohimul părinților noștri, și a auzit Yahve ⟨את⟩ glasul nostru, și a văzut ⟨את⟩ mizeria noastră și ⟨את⟩ truda noastră și ⟨את⟩ strâmtorarea noastră.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "Și am strigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "părinților noștri"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "și a auzit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul nostru"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "glasul nostru"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizeria noastră"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "mizeria noastră"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "truda noastră"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "truda noastră"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "strâmtorarea noastră"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "strâmtorarea noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:57.226716356Z",
+  "model": "glm-5.3"
+}

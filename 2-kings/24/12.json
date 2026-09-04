@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 24:12",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a ieșit Iehoiachin, regele lui Iehuda, către regele lui Bavel — el și mama lui, și slugile lui, și căpeteniile lui, și eunucii lui; și l-a luat regele lui Bavel în anul al optulea al domniei lui.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Iehoiachin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "către"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "lui Bavel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "și mama lui"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "și slugile lui"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "și căpeteniile lui"
+    },
+    {
+      "surface": "וסריסיו",
+      "gloss": "și eunucii lui"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și l-a luat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "Iehoiachin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "lui Bavel"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "în anul"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "al optulea"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "al domniei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:24:07.911425004Z",
+  "model": "glm-5.3"
+}

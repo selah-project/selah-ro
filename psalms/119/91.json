@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "După judecățile tale stau ⟨ei⟩ până azi, căci toate sunt slugile tale.",
+  "tokens": [
+    {
+      "surface": "לְמִשְׁפָּטֶיךָ",
+      "gloss": "după judecățile tale"
+    },
+    {
+      "surface": "עָמְד֣וּ",
+      "gloss": "stau"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "până azi"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הַכֹּל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "עֲבָדֶֽיךָ",
+      "gloss": "slugile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:06.085225358Z",
+  "model": "glm-5.3"
+}

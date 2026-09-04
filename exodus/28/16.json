@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": " Pătrat să fie, îndoit; un cot de mână lungimea lui și un cot de mână lățimea lui.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Pătrat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "îndoit"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "un cot de mână"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lungimea lui"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "și un cot de mână"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lățimea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:23:13.867282219Z",
+  "model": "glm-5.3"
+}

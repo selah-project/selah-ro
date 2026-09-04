@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 8:16",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și m-a adus ⟨את⟩ mine în curtea dinăuntru a casei lui Yahve, și iată, la intrarea templului lui Yahve, între pridvor și altar, erau ca douăzeci și cinci de bărbați, cu spatele către templul lui Yahve și cu fețele către răsărit; și ei se închinau către răsărit soarelui.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și m-a adus"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mine",
+      "marks": "mine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "curtea"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "dinauntru"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la intrarea"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "pridvor"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "כעשרים",
+      "gloss": "ca douăzeci"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "și cinci"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de bărbați"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "cu spatele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "și cu fețele"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "către răsărit"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "și ei"
+    },
+    {
+      "surface": "משתחויתם",
+      "gloss": "se închinau"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "către răsărit"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "soarelui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:22:01.838306209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și i-a spus ea: Dă-mi o binecuvântare, căci pământul Neghevului mi-ai dat; dă-mi și izvoare de apă. Și i-a dat Caleb ⟨את⟩ izvoarele de sus și ⟨את⟩ izvoarele de jos.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și i-a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "o binecuvântare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "al Neghevului"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "mi-ai dat"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "și să dai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "izvoare"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de apă"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Caleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvoarele de sus"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "izvoarele"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "de sus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "izvoarele de jos"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "izvoarele"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "de jos"
+    }
+  ],
+  "timestamp": "2026-09-04T02:28:13.353348626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Drept este Yahve în toate căile lui și evlavios în toate lucrările lui.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Drept"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "căile lui"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "și evlavios"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "lucrările lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:05.750846420Z",
+  "model": "glm-5.3"
+}

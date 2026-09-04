@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Dacă nu ar fi fost Yahve ⟨ca⟩ ajutor ⟨pentru⟩ mine, aproape ar fi locuit în tăcere sufletul meu.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Dacă nu ar fi fost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ajutor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pentru⟩ mine"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "aproape"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ar fi locuit"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "în tăcere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:37.398359073Z",
+  "model": "glm-5.3"
+}

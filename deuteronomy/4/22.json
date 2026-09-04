@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Căci eu mor în pământul acesta, nu trec eu ⟨את⟩ Iordanul, iar voi veți trece și veți stăpâni ⟨את⟩ pământul cel bun acesta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământul"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "trec eu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordanul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanul"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "iar voi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "veți trece"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "și veți stăpâni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul cel bun acesta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "cel bun"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:45.019635829Z",
+  "model": "glm-5.3"
+}

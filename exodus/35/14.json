@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "și ⟨את⟩ sfeșnicul luminii și ⟨את⟩ uneltele ei și ⟨את⟩ candelele ei și ⟨את⟩ untdelemnul luminii;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sfeșnicul luminii"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "sfeșnicul"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "luminii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "uneltele ei"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "uneltele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "candelele ei"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "candelele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "untdelemnul luminii"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemnul"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "luminii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:24.125998349Z",
+  "model": "glm-5.3"
+}

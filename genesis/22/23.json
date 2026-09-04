@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și Betuel ⟨l-a născut⟩ pe Rivka; aceștia opt i-a născut Milka lui Nahor, fratele lui Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Și Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "opt"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "lui Nahor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratele"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:34.145448176Z",
+  "model": "glm-5.3"
+}

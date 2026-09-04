@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a zis David către Iehonatan: cine îmi va vesti? Sau ce, dacă tatăl tău îți răspunde aspru?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Iehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "va vesti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "îți va răspunde"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "aspru"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:33.801138253Z",
+  "model": "glm-5.3"
+}

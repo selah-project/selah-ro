@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "și au dat lor ⟨את⟩ Hevron, în țara lui Iehuda, și ⟨את⟩ pășunile ei dimprejurul ei.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "și au dat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pășunile ei"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "dimprejurul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:19:19.566039307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "și să aducem ⟨את⟩ chivotul Elohim al nostru la noi, căci nu l-am căutat în zilele lui Șaul.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "și să aducem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "la noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "l-am căutat"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:11:49.164109752Z",
+  "model": "glm-5.3"
+}

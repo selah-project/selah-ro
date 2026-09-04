@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și am zis îngerului care vorbea în mine: încotro duc ele ⟨את⟩ efa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "îngerul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "care vorbea"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "încotro"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ele"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "duc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-09-04T04:48:48.738411596Z",
+  "model": "glm-5.3"
+}

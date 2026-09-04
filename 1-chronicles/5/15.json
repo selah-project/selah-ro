@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Ahi, fiul lui Avdiel, fiul lui Guni — cap al casei părinților lor.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Avdiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Guni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "cap"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "al casei"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "părinților lor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:16.925376698Z",
+  "model": "glm-5.3"
+}

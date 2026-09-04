@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a fost frica lui Yahve peste toate împărățiile țărilor care erau împrejurul lui Iehuda, și nu s-au luptat cu Iehoșafat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "frica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "împărățiile"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "țărilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "erau împrejurul"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "s-au luptat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Iehoșafat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:22:19.196869285Z",
+  "model": "glm-5.3"
+}

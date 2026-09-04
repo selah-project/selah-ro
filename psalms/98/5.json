@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 98,
+  "translation": "Cântați cu chitara lui Yahve, cu chitara și cu glas de cântare.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Cântați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "cu chitara"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "cu chitara"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "și glas de"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "cântare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:38.408418025Z",
+  "model": "glm-5.3"
+}

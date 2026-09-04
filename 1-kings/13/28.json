@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și s-a dus și a găsit ⟨את⟩ cadavrul lui aruncat în drum, și măgarul și leul stând lângă cadavru; nu a mâncat leul ⟨את⟩ cadavrul și nu a sfâșiat ⟨את⟩ măgarul.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și s-a dus"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "și a găsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadavrul lui"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "cadavrul lui"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "aruncat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "în drum"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "și măgarul"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "și leul"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stând"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "cadavru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "a mâncat"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "leul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadavrul"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "cadavrul"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "a sfâșiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măgarul"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "măgarul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:05.026709816Z",
+  "model": "glm-5.3"
+}

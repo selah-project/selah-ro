@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "S-a uscat ca un ciob puterea mea și limba mi se lipește de fălci; și în țărâna morții mă așezi.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "s-a uscat"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ca un ciob"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "și limba mea"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "se lipește"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "de fălci"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "și în țărâna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "mă așezi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:34.842482938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Depărtați-vă de la mine, făcătorii de rău, și voi păzi poruncile lui Elohim.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "depărtați-vă"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "făcătorii de rău"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "și voi păzi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:55.618475821Z",
+  "model": "glm-5.3"
+}

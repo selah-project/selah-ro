@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "I filiștim au luat ⟨את⟩ chivotul lui Elohim și l-au adus din Even ha-Ezer la Așdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "I filiștim"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "au luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul lui Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ויביאוהו\/ויבאהו",
+      "gloss": "și l-au adus"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "din Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "la Așdod"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:18.481513098Z",
+  "model": "glm-5.3"
+}

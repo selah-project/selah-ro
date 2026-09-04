@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Și a hrănit Iosif ⟨את⟩ tatăl său și ⟨את⟩ frații săi și ⟨את⟩ toată casa tatălui său cu pâine, după gura copiilor mici.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "Și a hrănit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl său"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "frații săi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată casa tatălui său"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cu pâine"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "după gura"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "copiilor mici"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:43.626675339Z",
+  "model": "glm-5.3"
+}

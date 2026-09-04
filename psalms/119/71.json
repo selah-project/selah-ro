@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Bine ⟨a fost⟩ pentru mine că am fost smerit, ca să învăț hotărârile tale.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "am fost smerit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "să învăț"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotărârile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:36.657873669Z",
+  "model": "glm-5.3"
+}

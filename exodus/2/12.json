@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și s-a întors încoace și încolo, și a văzut că nu este nimeni, și l-a lovit ⟨את⟩ mițrieanul și l-a ascuns în nisip.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Și s-a întors"
+    },
+    {
+      "surface": "כה",
+      "gloss": "încoace"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "și încolo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și l-a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mițrieanul"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "mițrieanul"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "și l-a ascuns"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "în nisip"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:30.016701954Z",
+  "model": "glm-5.3"
+}

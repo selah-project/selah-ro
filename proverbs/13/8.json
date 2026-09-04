@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Răscumpărarea vieții unui om este bogăția lui, iar săracul nu aude mustrare.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "răscumpărarea"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "vieții"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "bogăția lui"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "iar săracul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aude"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "mustrare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:05.523373209Z",
+  "model": "glm-5.3"
+}

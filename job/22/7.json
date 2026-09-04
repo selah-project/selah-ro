@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Nu dai apă celui istovit să bea, și celui flămând îi oprești pâinea.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "celui istovit"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "dai să bea"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "și celui flămând"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "îi oprești"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:31:41.931803599Z",
+  "model": "glm-5.3"
+}

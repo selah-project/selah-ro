@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Yahve ⟨este⟩ împărat pe vecie și în veac; au pierit neamurile din țara lui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "împărat"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și în veac"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "au pierit"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "din țara lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:11.941583013Z",
+  "model": "glm-5.3"
+}

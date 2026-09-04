@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Cel care locuiește ⟨ca străin⟩ și cel plătit cu simbrie să nu mănânce din el.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "locuitorul (străin)"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "și cel plătit cu simbrie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "să mănânce"
+    },
+    {
+      "surface": "בו",
+      "gloss": "din el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:20.998622909Z",
+  "model": "glm-5.3"
+}

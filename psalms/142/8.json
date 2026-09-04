@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 142,
+  "translation": "Scoate din închisoare sufletul meu, ca să laude ⟨את⟩ Numele tău; din pricina mea se vor înconjura drepții, căci asupra mea vei răsplăti.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Scoate"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "din închisoare"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ca să laude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Numele tău"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Numele tău"
+    },
+    {
+      "surface": "בי",
+      "gloss": "din pricina mea"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "se vor înconjura"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "drepții"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "vei răsplăti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:25.089298569Z",
+  "model": "glm-5.3"
+}

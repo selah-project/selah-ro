@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Ridică Yahve ⟨pe⟩ cei smeriți, coboară ⟨pe⟩ cei răi până la pământ.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "Ridică"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "cei smeriți"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "coboară"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "până la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:12.067346240Z",
+  "model": "glm-5.3"
+}

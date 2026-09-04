@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Când îți vei bate măslinii, să nu culegi ramurile după tine: străinului, orfanului și văduvei să fie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "îți vei bate"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "măslinii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "culegi ramurile"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "după tine"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "străinului"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "orfanului"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "și văduvei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    }
+  ],
+  "timestamp": "2026-09-04T02:11:10.804156513Z",
+  "model": "glm-5.3"
+}

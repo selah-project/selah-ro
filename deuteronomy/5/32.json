@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și să păziți să faceți întocmai cum a poruncit Yahve, Elohimul vostru, ⟨את⟩ voi: să nu vă abateți nici la dreapta, nici la stânga.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Și să păziți"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să faceți"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "întocmai cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "vă abateți"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la dreapta"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "nici la stânga"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:02.989590580Z",
+  "model": "glm-5.3"
+}

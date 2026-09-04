@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și au împărțit între ei ⟨את⟩ țara, s-o străbată; Ahav a mers pe un drum, singur, și Ovadiahu a mers pe un drum, singur.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "Și au împărțit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "între ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "s-o străbată"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a mers"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe un drum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "singur"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "și Ovadiahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a mers"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe un drum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "singur"
+    }
+  ],
+  "timestamp": "2026-09-04T08:56:27.583296929Z",
+  "model": "glm-5.3"
+}

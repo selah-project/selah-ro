@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Asupra lui Elohim ⟨stau⟩ izbăvirea mea și slava mea; stânca tăriei mele, adăpostul meu ⟨este⟩ în Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "izbăvirea mea"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "și slava mea"
+    },
+    {
+      "surface": "צור",
+      "gloss": "stânca"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "tăriei mele"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "adăpostul meu"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "în Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:53.763993593Z",
+  "model": "glm-5.3"
+}

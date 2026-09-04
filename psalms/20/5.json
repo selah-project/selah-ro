@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Să-ți dea după inima ta, și tot planul tău să îl împlinească.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "să dea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "după inima ta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "planul tău"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "să împlinească"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:47.580825367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și tot pământul căuta ⟨את⟩ fața lui Șelomo, ca să audă ⟨את⟩ înțelepciunea pe care a dat Elohim în inima lui.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "căuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața lui Șelomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ca să audă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "înțelepciunea lui"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "în inima lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:13:07.418213752Z",
+  "model": "glm-5.3"
+}

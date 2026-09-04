@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a vorbit regele Mițraimului cu moașele evreice, al căror nume ⟨era⟩: una Șifra, iar numele celeilalte Pua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "cu moașele"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "evreice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "al căror"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nume"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Șifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "iar numele"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "celeilalte"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:48.938568098Z",
+  "model": "glm-5.3"
+}

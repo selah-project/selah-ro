@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a lovit poporul țării ⟨את⟩ toți cei care unelțiseră împotriva regelui Amon; și a făcut poporul țării să domnească ⟨את⟩ Ioașiahu, fiul lui, în locul lui.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Și a lovit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți cei care unelțiseră"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "cei care unelțiseră"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "și a făcut să domnească"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioașiahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Ioașiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:31:06.425623678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a zis: Eu ⟨sunt⟩ Elohim al tatălui tău, Elohim al lui Avraham, Elohim al lui Ițhac și Elohim al lui Iaacov. Și și-a ascuns Moșe fața sa, căci s-a temut să privească către Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨sunt⟩ Elohim al"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al lui"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "și Elohim al lui"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "Și și-a ascuns"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața sa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "s-a temut"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "să privească"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:34.489628908Z",
+  "model": "glm-5.3"
+}

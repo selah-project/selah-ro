@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 34:16",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și v-ați întors și ați pângărit ⟨את⟩ Numele Meu, și ați adus înapoi fiecare ⟨את⟩ pe robul său și fiecare ⟨את⟩ pe roaba sa, pe care i-ați trimis liberi după voia lor, și i-ați silit ⟨את⟩ pe ei să vă fie robi și roabe.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "Și v-ați întors"
+    },
+    {
+      "surface": "ותחללו",
+      "gloss": "și ați pângărit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Numele Meu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Numele Meu"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "și ați adus înapoi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe robul său"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "robul său"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe roaba sa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "roaba sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "i-ați trimis"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "liberi"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "după voia lor"
+    },
+    {
+      "surface": "ותכבשו",
+      "gloss": "și i-ați silit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "să vă fie robi și roabe"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ai voștri"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ca robi"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "și ca roabe"
+    }
+  ],
+  "timestamp": "2026-09-04T04:12:24.401748154Z",
+  "model": "glm-5.3"
+}

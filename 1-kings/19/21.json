@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "S-a întors de după el și a luat ⟨את⟩ jugul de boi și le-a sacrificat, și cu uneltele boilor a fiert carnea, și a dat-o poporului, și au mâncat; apoi s-a ridicat, a mers după Eliyahu și l-a slujit.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "de după el"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jugul de boi"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "jugul (pereche)"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "de boi"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "și le-a sacrificat"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "și cu uneltele"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "boilor"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "a fiert"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "și au mâncat"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "și s-a ridicat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "și l-a slujit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:10.250572872Z",
+  "model": "glm-5.3"
+}

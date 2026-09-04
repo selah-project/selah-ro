@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 122,
+  "translation": "De dragul casei lui Yahve, Elohimului nostru, voi căuta binele pentru tine.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "De dragul"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimului nostru"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "voi căuta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:07.704669445Z",
+  "model": "glm-5.3"
+}

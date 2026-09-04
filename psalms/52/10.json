@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Iar eu ⟨sunt⟩ ca un măslin înverzit în casa lui Elohim; m-am încrezut în hesedul lui Elohim, pentru vecie și pururea.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "ca un măslin"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "înverzit"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m-am încrezut"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "în hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pentru vecie"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și pururea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:22.170903747Z",
+  "model": "glm-5.3"
+}

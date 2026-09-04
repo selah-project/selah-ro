@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a plecat solul, și a venit și i-a spus lui David ⟨את⟩ tot ceea ce l-a trimis ⟨să spună⟩ Ioav.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a plecat"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "solul"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "și i-a spus"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "l-a trimis"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:35.012771224Z",
+  "model": "glm-5.3"
+}

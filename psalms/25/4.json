@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Căile tale, Yahve, fă-le cunoscute mie; cărările tale învață-mă.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Căile tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fă-le cunoscute mie"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "cărările tale"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "învață-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T09:06:58.548033203Z",
+  "model": "glm-5.3"
+}

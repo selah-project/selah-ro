@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Chiar din zi, Eu sunt ⟨el⟩, și nu este cine să smulgă din mâna mea; eu lucrez și cine o va întoarce?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Chiar"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "din zi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sunt ⟨el⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "din mâna mea"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "cine să smulgă"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "eu lucrez"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "o va întoarce"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:24.663188331Z",
+  "model": "glm-5.3"
+}

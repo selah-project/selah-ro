@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și au trimis ⟨את⟩ aronul lui Elohim la Ekron. Și a fost, la venirea aronului lui Elohim la Ekron, că au strigat ekroniții, zicând: Au adus la mine ⟨את⟩ aronul lui Elohim al Israelului, ca să mă omoare pe mine și ⟨את⟩ poporul meu.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Și au trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aronul lui Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "la Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "la venirea"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronului"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "la Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "că au strigat"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "ekroniții"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "au adus"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aronul lui Elohim al Israelului"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronul"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "al lui Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "al Israelului"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "ca să mă omoare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poporul meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:08.990596985Z",
+  "model": "glm-5.3"
+}

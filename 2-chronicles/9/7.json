@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Fericiți oamenii tăi, și fericiți robii tăi aceștia, care stau neîncetat înaintea ta și aud ⟨את⟩ înțelepciunea ta.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "fericiți"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "oamenii tăi"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "și fericiți"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robii tăi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "care stau"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "și aud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "înțelepciunea ta"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "înțelepciunea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:21:38.503367709Z",
+  "model": "glm-5.3"
+}

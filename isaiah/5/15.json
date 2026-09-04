@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și este umilit omul și este smerit bărbatul, și ochii celor mândri sunt smeriți.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "și este umilit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "și este smerit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bărbatul"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "și ochii"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "celor mândri"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "sunt smeriți"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:17.982597276Z",
+  "model": "glm-5.3"
+}

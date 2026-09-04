@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a spus Yahve: „Șterg ⟨את⟩ omul pe care l-am creat de pe fața pământului, de la om până la vite, până la târâtoare și până la pasărea cerurilor, căci îmi pare rău că i-am făcut.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Șterg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "l-am creat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "de la om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vite"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "târâtoare"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "îmi pare rău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "i-am făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:08.221366967Z",
+  "model": "glm-5.3"
+}

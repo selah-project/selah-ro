@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 130,
+  "translation": "Și el va răscumpăra ⟨את⟩ Israel din toate fărădelegile lui.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "va răscumpăra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din toate"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "fărădelegile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:40.767327058Z",
+  "model": "glm-5.3"
+}

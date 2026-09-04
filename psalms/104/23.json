@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Iese omul la lucrul lui și la munca lui până seara.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "Iese"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "la lucrul lui"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "și la munca lui"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "până"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "seara"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:42.989389219Z",
+  "model": "glm-5.3"
+}

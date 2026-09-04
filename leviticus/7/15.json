@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Iar carnea jertfei de mulțumire a sălămuirilor sale, în ziua darului său, se va mânca; nu va lăsa nimic din ea până dimineața.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "iar carnea"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfei"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "de mulțumire"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "a sălămuirilor sale"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "darului său"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se va mânca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "va lăsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nimic din ea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineața"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:44.521292881Z",
+  "model": "glm-5.3"
+}

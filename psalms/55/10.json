@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Înghite, Adonai, despică limbile lor, căci văd silnicie și ceartă în cetate.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Înghite"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "despică"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "limbile lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "văd"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "silnicie"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "și ceartă"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:34.804520477Z",
+  "model": "glm-5.3"
+}

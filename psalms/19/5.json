@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "În toată pământul a ieșit firul lor, și la marginea lumii cuvintele lor; pentru soare a așezat un cort în ele.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a ieșit"
+    },
+    {
+      "surface": "קום",
+      "gloss": "firul lor"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "și la marginea"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumii"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "cuvintele lor"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "pentru soare"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a așezat"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "un cort"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:55.454315137Z",
+  "model": "glm-5.3"
+}

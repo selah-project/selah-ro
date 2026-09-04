@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "A trimis peste ei rói de muște, și i-au mâncat, și broaște, și le-a pustiit.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "A trimis"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "ערוב",
+      "gloss": "rói de muște"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "și i-au mâncat"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "și broaște"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "și le-a pustiit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:15.298736808Z",
+  "model": "glm-5.3"
+}

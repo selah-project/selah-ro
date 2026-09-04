@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Chiar dacă L-aș striga și El m-ar răspunde, tot nu aș crede că ar lua aminte la glasul meu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "chiar dacă"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "L-aș striga"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "și m-ar răspunde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "aș crede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "ar lua aminte"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la glasul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:32.295849825Z",
+  "model": "glm-5.3"
+}

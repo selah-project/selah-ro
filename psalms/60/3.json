@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Elohim, ne-ai lepădat, ne-ai sfărâmat, te-ai mâniat — întoarce-te spre noi!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ne-ai lepădat"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "ne-ai sfărâmat"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "te-ai mâniat"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "întoarce-te"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "spre noi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:47.424929983Z",
+  "model": "glm-5.3"
+}

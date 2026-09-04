@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Căci de departe vei vedea ⟨את⟩ țara, și acolo nu vei intra, în țara pe care eu o dau fiilor lui Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "de departe"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vei vedea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "și acolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vei intra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dau"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:14:24.508212408Z",
+  "model": "glm-5.3"
+}

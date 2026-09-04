@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "în stradă nu va înnopta străinul; ușa mea călătorului o deschid.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "în stradă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "va înnopta"
+    },
+    {
+      "surface": "גר",
+      "gloss": "străinul"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "ușa mea"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "călătorului"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "deschid"
+    }
+  ],
+  "timestamp": "2026-09-04T05:34:37.137821155Z",
+  "model": "glm-5.3"
+}

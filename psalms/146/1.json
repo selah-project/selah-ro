@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 146,
+  "translation": "Lăudați pe Ya! Lăudă, suflete al meu, ⟨את⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Lăudă"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "suflete al meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:52.345575286Z",
+  "model": "glm-5.3"
+}

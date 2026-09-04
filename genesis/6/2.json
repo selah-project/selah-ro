@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "au văzut fiii lui Elohim ⟨את⟩ fiicele oamenilor, că ⟨erau⟩ bune, și și-au luat femei dintre toate câte au ales.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiicele oamenilor"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiicele"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "oamenilor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "bune"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨erau⟩ ele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "și au luat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "își"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "femei"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dintre toate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "câte"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "au ales"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:16.676338894Z",
+  "model": "glm-5.3"
+}

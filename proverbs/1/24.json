@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Pentru că am strigat și ați refuzat, am întins mâna mea și ⟨nu este⟩ nimeni care ia aminte.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Pentru că"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "am strigat"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "și ați refuzat"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "am întins"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și ⟨nu este⟩"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "nimeni care ia aminte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:39.200746583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Acum, dă-mi înțelepciune și știință, ca să ies și să intru înaintea poporului acestuia, căci cine va judeca ⟨את⟩ poporul tău acesta, cel mare?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Acum"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciune"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "și știință"
+    },
+    {
+      "surface": "תן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ca să ies"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "și să intru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "va judeca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul tău acesta, cel mare"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "cel mare"
+    }
+  ],
+  "timestamp": "2026-09-04T06:17:24.817593195Z",
+  "model": "glm-5.3"
+}

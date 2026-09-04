@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Toate neamurile pe care le-ai făcut vor veni și se vor închina înaintea ta, Adonai, și vor cinsti Numele tău.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "le-ai făcut"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "vor veni"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "și se vor închina"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "și vor cinsti"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Numele tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:19.495060269Z",
+  "model": "glm-5.3"
+}

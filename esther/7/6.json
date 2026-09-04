@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a zis Ester: Un om vrăjmaș și dușman — Haman cel rău acesta. Iar Haman s-a îngrozit dinaintea regelui și a reginei.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vrăjmaș"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "și dușman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Iar Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "s-a îngrozit"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dinaintea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "și a reginei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:56.391370375Z",
+  "model": "glm-5.3"
+}

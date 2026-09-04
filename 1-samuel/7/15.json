@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a judecat Șemuël ⟨את⟩ Israel toate zilele vieții lui.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Și a judecat"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "vieții lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:38.604104054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și Șupim și Hupim, fiii lui Ir; Hușim, fiii lui Aher.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Și Șupim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "și Hupim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lui Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Hușim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lui Aher"
+    }
+  ],
+  "timestamp": "2026-09-04T08:19:00.879433229Z",
+  "model": "glm-5.3"
+}

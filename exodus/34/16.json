@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și să iei dintre fiicele lui pentru fiii tăi, și fiicele lui să se curvească după dumnezeii lor, și să facă pe fiii tăi să curmească ⟨את⟩ fiii tăi după dumnezeii lor.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Și să iei"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "dintre fiicele lui"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "pentru fiii tăi"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "și să se curvească"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "fiicele lui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "dumnezeii lor"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "și să facă să curmească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii tăi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiii tăi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "dumnezeii lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:29.744633568Z",
+  "model": "glm-5.3"
+}

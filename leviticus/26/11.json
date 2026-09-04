@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și voi așeza locașul Meu în mijlocul vostru și nu se va scârbi sufletul Meu de ⟨את⟩ voi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Și voi așeza"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "locașul Meu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "în mijlocul vostru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "se va scârbi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul Meu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "de ⟨את⟩ voi",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:51.359658986Z",
+  "model": "glm-5.3"
+}

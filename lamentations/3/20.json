@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Amintindu-mi, îmi amintesc întruna, și se prăbușește în mine sufletul meu.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "amintindu-mi"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "îmi amintesc întruna"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "și se prăbușește"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:55.871413533Z",
+  "model": "glm-5.3"
+}

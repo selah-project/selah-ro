@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 137,
+  "translation": "Căci acolo cei ce ne-au dus în robie ne-au cerut cuvinte de cântec, și cei ce ne pustiau, veselie: «Cântați-ne dintr-un cântec al Ționului!»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "ne-au cerut"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "cei ce ne-au dus în robie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "de cântec"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "și cei ce ne pustiau"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselie"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Cântați"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-ne"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "dintr-un cântec"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "al Ționului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:57.993838808Z",
+  "model": "glm-5.3"
+}

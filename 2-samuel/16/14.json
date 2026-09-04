@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a ajuns regele și tot poporul care era ⟨את⟩ el, sleiți de puteri, și s-a răsuflat acolo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a ajuns"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ era cu el",
+      "marks": "el"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "sleiți de puteri"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "și s-a răsuflat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:08.544716536Z",
+  "model": "glm-5.3"
+}

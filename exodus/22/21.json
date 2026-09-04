@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Orice văduvă și orfan să nu apăsați.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Orice"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "văduvă"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "și orfan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "apăsați"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:12.953206234Z",
+  "model": "glm-5.3"
+}

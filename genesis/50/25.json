@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Și i-a pus Iosef pe fiii lui Israel ⟨את⟩ să jure, zicând: va cerceta cu adevărat Elohim ⟨את⟩ voi, și veți ridica ⟨את⟩ oasele mele de aici.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "și a pus să jure"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "va cerceta"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "cu adevărat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "și veți ridica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oasele mele"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "oasele mele"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "de aici"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:28.050133852Z",
+  "model": "glm-5.3"
+}

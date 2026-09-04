@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 95,
+  "translation": "Patruzeci de ani am fost scârbit de neamul acesta și am zis: ⟨Este⟩ un popor care rătăcește în inimă, și ei nu au cunoscut căile mele.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "am fost scârbit"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "de neamul acesta"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "și am zis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un popor"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "care rătăcește"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "în inimă"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei ⟨sunt⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "și ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "au cunoscut"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "căile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:50.816338791Z",
+  "model": "glm-5.3"
+}

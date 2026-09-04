@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a murit regele și a fost adus la Șomron, și au îngropat ⟨את⟩ regele la Șomron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Și a murit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "și a fost adus"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "la Șomron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și au îngropat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "la Șomron"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:03.829741223Z",
+  "model": "glm-5.3"
+}

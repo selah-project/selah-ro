@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a plâns David bocitul acesta ⟨את⟩ peste Șaul și peste Iehonatan, fiul lui:",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "Și a plâns"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocitul"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "bocitul"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Iehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:53:57.568505501Z",
+  "model": "glm-5.3"
+}

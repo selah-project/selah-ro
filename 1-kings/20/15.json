@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a numărat ⟨את⟩ tinerii căpeteniilor ținuturilor, și au fost două sute treizeci și doi; și după ei a numărat ⟨את⟩ tot poporul, toți fiii lui Israel — șapte mii.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Și a numărat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinerii căpeteniilor ținuturilor"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "tinerii"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniilor"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ținuturilor"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "două sute"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "doi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "și treizeci"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "și după ei"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "a numărat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot poporul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    }
+  ],
+  "timestamp": "2026-09-04T03:20:04.259841893Z",
+  "model": "glm-5.3"
+}

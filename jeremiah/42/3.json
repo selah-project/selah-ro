@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "și să ne spună Yahve, Elohim al tău, ⟨את⟩ calea în care să mergem și ⟨את⟩ lucrul pe care să-l facem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "și să ne spună"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calea"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "să mergem"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pe ea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lucrul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "să-l facem"
+    }
+  ],
+  "timestamp": "2026-09-04T04:14:33.520710434Z",
+  "model": "glm-5.3"
+}

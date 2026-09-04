@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a strigat către Yahve și a zis: Yahve, Elohim al meu, chiar și peste văduva aceasta la care găzduiesc ai făcut rău, de a omorî ⟨את⟩ fiul ei?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a strigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "văduva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la care"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "găzduiesc"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "cu ea"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ai făcut rău"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "de a omorî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul ei"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:30.058985244Z",
+  "model": "glm-5.3"
+}

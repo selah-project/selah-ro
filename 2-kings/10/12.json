@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și s-a sculat, și a venit, și a mers la Șomron; el ⟨era⟩ la Beit-Eked al păstorilor, pe drum.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și s-a sculat"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "la Șomron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "al păstorilor"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:59.912298442Z",
+  "model": "glm-5.3"
+}

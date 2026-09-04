@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Să judece poporul tău cu dreptate, și pe săracii tăi cu judecată!",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "să judece"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cu dreptate"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "și pe săracii tăi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "cu judecată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:37.384624894Z",
+  "model": "glm-5.3"
+}

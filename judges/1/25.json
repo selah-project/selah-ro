@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și le-a arătat ⟨את⟩ intrarea cetății, și au lovit ⟨את⟩ cetatea după tăișul sabiei, iar ⟨את⟩ omul și ⟨את⟩ toată familia lui i-a lăsat să plece.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "și le-a arătat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intrarea cetății"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "intrarea"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "după tăișul"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată familia lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "familia lui"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "a lăsat să plece"
+    }
+  ],
+  "timestamp": "2026-09-04T02:28:24.228419016Z",
+  "model": "glm-5.3"
+}

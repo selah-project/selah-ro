@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Până când, Elohim, va batjocori vrăjmașul? Va disprețui dușmanul numele tău pe veci?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "va batjocori"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vrăjmașul"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "va disprețui"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dușmanul"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pe veci"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:24.236682872Z",
+  "model": "glm-5.3"
+}

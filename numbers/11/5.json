@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Ne-am amintit ⟨את⟩ peștele care îl mâncam în Mițraim fără plată, ⟨את⟩ castraveții și ⟨את⟩ pepenii și ⟨את⟩ prazul și ⟨את⟩ cepele și ⟨את⟩ usturoiul.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Ne-am amintit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peștele"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "peștele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "îl mâncam"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "fără plată"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "castraveții"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "castraveții"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pepenii"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "pepenii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "prazul"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "prazul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cepele"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "cepele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "usturoiul"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "usturoiul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:52:48.419644599Z",
+  "model": "glm-5.3"
+}

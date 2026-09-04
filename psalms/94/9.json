@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Cel ce a sădit urechea — nu va auzi el? Ori Cel ce a plăsmuit ochiul — nu va privi el?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Cel ce a sădit"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "urechea"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nu va... oare"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "auzi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ori"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "a plăsmuit"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochiul"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nu va... oare"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "privi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:41.795113739Z",
+  "model": "glm-5.3"
+}

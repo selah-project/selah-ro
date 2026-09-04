@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 150,
+  "translation": "Lăudați-l pentru faptele lui puternice, lăudați-l după măreția lui cea mare.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "pentru faptele lui puternice"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "după mulțimea"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "măreției lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:34.277368080Z",
+  "model": "glm-5.3"
+}

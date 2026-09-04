@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Dar hesed-ul meu nu-l voi rupe de la el și nu voi minți în credincioșia mea.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "dar hesed-ul meu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "îl voi rupe"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "de la el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "voi minți"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "în credincioșia mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:29.655153049Z",
+  "model": "glm-5.3"
+}

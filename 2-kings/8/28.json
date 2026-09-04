@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a mers cu ⟨את⟩ Ioram, fiul lui Ahab, la război împotriva lui Hazael, regele Aramului, la Ramot-Ghilad; și i-au lovit arameii ⟨את⟩ pe Ioram.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "Ioram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Ioram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "lui Ahab"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "la război"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "lui Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "la Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ghilad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și i-au lovit"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "arameii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Ioram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "pe Ioram"
+    }
+  ],
+  "timestamp": "2026-09-04T03:27:25.697514083Z",
+  "model": "glm-5.3"
+}

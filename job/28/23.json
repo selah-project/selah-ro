@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Elohim a înțeles calea ei, și ⟨el⟩ cunoaște ⟨את⟩ locul ei.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "a înțeles"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "calea ei"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și ⟨el⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locul ei"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "locul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:50.176548714Z",
+  "model": "glm-5.3"
+}

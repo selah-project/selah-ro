@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Grăsimea lor ⟨s-a⟩ închis, gura lor a vorbit cu trufie.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "grăsimea lor"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "au închis"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "gura lor"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "au vorbit"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "cu trufie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:45.034472424Z",
+  "model": "glm-5.3"
+}

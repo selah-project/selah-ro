@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și i s-a întâmplat așa: și l-au călcat în picioare ⟨את⟩ poporul la poartă, și a murit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "și au călcat în picioare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el (șalistul)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "la poartă"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:24.642051360Z",
+  "model": "glm-5.3"
+}

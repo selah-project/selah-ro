@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și l-a găsit un om, și iată ⟨el⟩ rătăcea în câmp; și l-a întrebat omul, zicând: Ce cauți?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "Și l-a găsit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "rătăcea"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "și l-a întrebat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "cauți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:21.764422762Z",
+  "model": "glm-5.3"
+}

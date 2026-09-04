@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și nu se va mai numi numele tău Avram, ci numele tău va fi Avraham, căci tată al unei mulțimi de neamuri te-am făcut.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "se va numi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele tău"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ci va fi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tată"
+    },
+    {
+      "surface": "המון",
+      "gloss": "al unei mulțimi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de neamuri"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "te-am făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:44.202022945Z",
+  "model": "glm-5.3"
+}

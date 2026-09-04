@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a spus Yahve: „Iată un loc lângă ⟨את⟩ mine, și te vei afla pe stâncă.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un loc"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "lângă ⟨את⟩ mine",
+      "marks": "un loc"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "și te vei afla"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "stâncă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:27.813392479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Și am zis către domnul meu: Nu poate tânărul să-și lase ⟨את⟩ tatăl său — iar dacă va lăsa ⟨את⟩ tatăl său, va muri.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "domnul meu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "poate"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tânărul"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "să-și lase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl său"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "iar dacă va lăsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl său"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va muri"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:19.855266624Z",
+  "model": "glm-5.3"
+}

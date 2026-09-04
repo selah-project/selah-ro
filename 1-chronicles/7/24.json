@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și fiica lui ⟨era⟩ Șeera; ea a zidit ⟨את⟩ Bet-Horonul de jos și ⟨את⟩ cel de sus, și ⟨את⟩ Uzen-Șeera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "și fiica lui"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Șeera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ea a zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horonul de jos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "de jos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cel de sus"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "cel de sus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Uzen-Șeera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Șeera"
+    }
+  ],
+  "timestamp": "2026-09-04T08:18:58.239307314Z",
+  "model": "glm-5.3"
+}

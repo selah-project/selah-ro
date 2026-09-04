@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Scoate afară poporul cel orb, care are ochi, și pe surzii, care au urechi.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "scoate afară"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "עור",
+      "gloss": "orb"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "și ochi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "are"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "și surzi"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "și urechi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "au"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:04.155754929Z",
+  "model": "glm-5.3"
+}

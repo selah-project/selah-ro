@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și voi pune la mărturie pentru mine martori credincioși: ⟨את⟩ Uria cohenul și ⟨את⟩ Zecariahu, fiul lui Ivarechiahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Și voi pune la mărturie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "martori"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "credincioși"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Zecariahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zecariahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Ivarechiahu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:11.321698704Z",
+  "model": "glm-5.3"
+}

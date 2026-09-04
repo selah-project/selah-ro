@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Te voi lăuda printre popoare, Adonai, îți voi cânta printre neamuri.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Te voi lăuda"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "printre popoare"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "îți voi cânta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "printre"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "neamuri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:38.726152284Z",
+  "model": "glm-5.3"
+}

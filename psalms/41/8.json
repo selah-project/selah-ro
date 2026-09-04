@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Împreună împotriva mea șoptesc toți cei ce mă urăsc; împotriva mea plănuiesc rău pentru mine.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Împreună"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "יתלחשu",
+      "gloss": "șoptesc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "cei ce mă urăsc"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "plănuiesc"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rău"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:03.099597524Z",
+  "model": "glm-5.3"
+}

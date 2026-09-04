@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Să nu pui botniță boului la treieratul lui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "pui botniță"
+    },
+    {
+      "surface": "שור",
+      "gloss": "boul"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "la treieratul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:53.180656846Z",
+  "model": "glm-5.3"
+}

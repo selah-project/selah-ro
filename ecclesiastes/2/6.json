@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Mi-am făcut iazuri de apă, ca să ud din ele pădurea care răsare ⟨în⟩ pomi.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "mi-am făcut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "iazuri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de apă"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ca să ud"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "din ele"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pădurea"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "care răsare"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "în pomi"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:57.909581683Z",
+  "model": "glm-5.3"
+}

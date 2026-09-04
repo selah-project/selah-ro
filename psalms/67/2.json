@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 67,
+  "translation": "Elohim să ne îndure și să ne binecuvânteze, să facă să lumineze fața sa ⟨את⟩ peste noi. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "să ne îndure"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "și să ne binecuvânteze"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "să facă să lumineze"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața sa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ noi",
+      "marks": "peste noi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:14.659987292Z",
+  "model": "glm-5.3"
+}

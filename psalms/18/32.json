@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Căci cine este Eloa afară de Yahve? Și cine este o stâncă afară de Elohim al nostru?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "afară de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Și cine"
+    },
+    {
+      "surface": "צור",
+      "gloss": "o stâncă"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "afară de"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:22.976556739Z",
+  "model": "glm-5.3"
+}

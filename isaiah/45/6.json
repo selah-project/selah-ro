@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Ca să știe de la răsăritul soarelui și de la apusul ⟨ei⟩ că nu este nimic afară de mine; eu sunt Yahve și nu mai există ⟨altul⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ca să"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "știe"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "de la răsăritul"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarelui"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "și de la apusul ⟨ei⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "nu este nimic"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "afară de mine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu există"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai ⟨altul⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T03:51:50.284343038Z",
+  "model": "glm-5.3"
+}

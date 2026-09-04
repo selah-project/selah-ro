@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și i-a povestit Mordecai ⟨את⟩ tot ce i se întâmplase și ⟨את⟩ suma argintului pe care a spus Haman s-o cântărească asupra vistieriilor regelui pentru iudei, ca să-i piardă.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și i-a povestit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "i se întâmplase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "suma argintului"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "suma"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "să cântărească"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "vistieriilor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "pentru iudei"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ca să-i piardă"
+    }
+  ],
+  "timestamp": "2026-09-04T09:13:35.174705262Z",
+  "model": "glm-5.3"
+}

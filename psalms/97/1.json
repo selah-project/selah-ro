@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Yahve a început să domnească — să se bucure pământul, să se veselească insulele cele multe!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a început să domnească"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "să se bucure"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "să se veselească"
+    },
+    {
+      "surface": "איים",
+      "gloss": "insulele"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "cele multe"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:04.695950490Z",
+  "model": "glm-5.3"
+}

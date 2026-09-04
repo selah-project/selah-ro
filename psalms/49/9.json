@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Și prea scump este răscumpărarea sufletului lor, și încetează pe vecie.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Și prea scump"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "răscumpărarea"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sufletului lor"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "și încetează"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:44.660730136Z",
+  "model": "glm-5.3"
+}

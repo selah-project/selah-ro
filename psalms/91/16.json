@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Cu îndelungarea zilelor îl voi sătura și îi voi arăta mântuirea mea.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "îndelungarea"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zilelor"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "îl voi sătura"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "și îi voi arăta"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "mântuirea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:00.488852961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Ci a ales seminția lui Iehuda, ⟨את⟩ muntele Țion, pe care l-a iubit.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Ci a ales"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seminția lui Iehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "seminția"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muntele Țion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "l-a iubit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:44.842585996Z",
+  "model": "glm-5.3"
+}

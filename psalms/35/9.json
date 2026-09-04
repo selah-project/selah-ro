@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și sufletul meu se va bucura în Yahve, va exulta în mântuirea lui.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Și sufletul meu"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "se va bucura"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "va exulta"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "în mântuirea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:47.259303389Z",
+  "model": "glm-5.3"
+}

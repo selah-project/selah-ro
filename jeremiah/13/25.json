@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Acesta este sorțul tău, partea măsurilor tale, de la ⟨את⟩ mine — oracolul lui Yahve — pentru că ⟨את⟩ m-ai uitat pe mine și te-ai încrezut în minciună.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Acesta"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "sorțul tău"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "partea"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "măsurilor tale"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "de la ⟨את⟩ mine",
+      "marks": "mine"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "ai uitat"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ pe mine",
+      "marks": "pe mine (obiectul verbului ai uitat)"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "și te-ai încrezut"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "în minciună"
+    }
+  ],
+  "timestamp": "2026-09-04T04:03:02.284932656Z",
+  "model": "glm-5.3"
+}

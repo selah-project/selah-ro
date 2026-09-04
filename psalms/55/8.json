@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Iată, departe m-aș duce fugind, m-aș odihni în pustiu. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "departe m-aș duce"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "fugind"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "m-aș odihni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:33.625181591Z",
+  "model": "glm-5.3"
+}

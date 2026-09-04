@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și au spus: Nu ne-ai asuprit și nu ne-ai strivit și nu ai luat nimic din mâna niciunui om.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au spus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "ne-ai asuprit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ne-ai strivit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ai luat"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "niciunui om"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nimic"
+    }
+  ],
+  "timestamp": "2026-09-04T02:44:02.329536056Z",
+  "model": "glm-5.3"
+}

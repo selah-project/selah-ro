@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Până când vei grăi acestea? ⟨Și⟩ cuvintele gurii tale ⟨sunt⟩ ca un vânt puternic.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "אן",
+      "gloss": "când"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "vei grăi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "și un vânt"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "puternic"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gurii tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:22.357063833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a trăit Mahalalel cinci ani și șaizeci de ani, și a născut ⟨את⟩ Iared.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Și a trăit"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "și șaizeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iared"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Iared"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:16.332440327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Fie, te rog, hesed-ul tău spre mângâierea mea, după cuvântul tău către slujitorul tău.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Fie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-ul tău"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "spre mângâierea mea"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "după cuvântul tău"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "către slujitorul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:02.921583266Z",
+  "model": "glm-5.3"
+}

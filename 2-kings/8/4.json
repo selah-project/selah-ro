@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și regele vorbea cu Ghehazi, slujitorul omului lui Elohim, zicând: istorisește, te rog, ⟨את⟩ toate lucrurile mari pe care le-a făcut Elișa.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Și regele"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "vorbea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cu"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Ghehazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "slujitorul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "istorisește"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate lucrurile mari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "lucrurile mari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "le-a făcut"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elișa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:59.911544931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Cine va grăi ⟨despre⟩ puterile lui Yahve? Cine va face auzită toată lauda lui?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "va grăi"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "puterile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "va face auzită"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lauda lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:45.424947085Z",
+  "model": "glm-5.3"
+}

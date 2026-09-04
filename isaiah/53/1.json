@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Cine a crezut ceea ce am auzit noi? Și brațul lui Yahve, cui i s-a descoperit?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "a crezut"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "ceea ce am auzit noi"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "Și brațul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "către"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cui"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "s-a descoperit"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.581967445Z",
+  "model": "glm-5.3"
+}

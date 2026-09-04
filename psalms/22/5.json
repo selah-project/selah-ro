@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "În tine au nădăjduit părinții noștri; au nădăjduit și tu i-ai scăpat.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "au nădăjduit"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "părinții noștri"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "au nădăjduit"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "și i-ai scăpat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:05:47.931678004Z",
+  "model": "glm-5.3"
+}

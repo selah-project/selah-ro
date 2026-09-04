@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Cel ce aude rugăciunea — până la you vor veni toți cei de carne.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Cel ce aude"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "rugăciunea"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "până la tine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vor veni"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:15.340260244Z",
+  "model": "glm-5.3"
+}

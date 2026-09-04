@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Iată, am făcut ⟨את⟩ fața ta tare ca fața lor, și ⟨את⟩ fruntea ta tare ca fruntea lor.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața ta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "tare"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ca"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "fața lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fruntea ta"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "fruntea ta"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tare"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ca"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "fruntea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:20:31.762380382Z",
+  "model": "glm-5.3"
+}

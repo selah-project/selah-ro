@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Mă vei face să cunosc cărarea vieții; săturare de bucurii ⟨este⟩ înaintea feței tale, dulcețiuri la dreapta ta, pentru totdeauna.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Mă vei face să cunosc"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "cărarea"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vieții"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "săturare"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "de bucurii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feței tale"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "înaintea feței tale"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "dulcețiuri"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "la dreapta ta"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "pentru totdeauna"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:37.349305917Z",
+  "model": "glm-5.3"
+}

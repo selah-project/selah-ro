@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 95,
+  "translation": "Să intrăm înaintea feței lui cu mulțumire, cu cântări să-i răsunăm strigăte.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Să intrăm înaintea"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "feței lui"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "cu mulțumire"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "cu cântări"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "să răsunăm strigăte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(-i)"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:18.432324748Z",
+  "model": "glm-5.3"
+}

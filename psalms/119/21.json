@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Ai mustrat ⟨pe⟩ cei îngâmfați, blestemați, care rătăcesc de la poruncile tale.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Ai mustrat"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "cei îngâmfați"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "blestemați"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "care rătăcesc"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "de la poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:24.601022224Z",
+  "model": "glm-5.3"
+}

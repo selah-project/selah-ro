@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "De dragul numelui tău, Yahve, și-mi vei ierta nelegiuirea, căci mare este ea.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "de dragul"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numelui tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "și vei ierta"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "nelegiuirea mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este ea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:01.450245420Z",
+  "model": "glm-5.3"
+}

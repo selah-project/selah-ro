@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a fost Yahve ⟨את⟩ Iehoșua, și vestea lui ⟨a fost⟩ în toată țara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehoșua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "vestea lui"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:47.287036205Z",
+  "model": "glm-5.3"
+}

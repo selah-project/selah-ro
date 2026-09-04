@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 61,
+  "translation": "Căci ai fost un adăpost pentru mine, un turn de tărie în fața vrăjmașului.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ai fost"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "un adăpost"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "un turn"
+    },
+    {
+      "surface": "עז",
+      "gloss": "de tărie"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vrăjmașului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:00.313760861Z",
+  "model": "glm-5.3"
+}

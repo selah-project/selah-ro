@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 9:12",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci și omul nu își cunoaște ⟨את⟩ vremea sa: ca peștii prinși în plasă rea și ca păsările prinse în laț, așa sunt prinși fiii omului la vreme rea, când cade deodată peste ei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "își cunoaște"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vremea sa"
+    },
+    {
+      "surface": "עתו",
+      "gloss": "vremea sa"
+    },
+    {
+      "surface": "כדגים",
+      "gloss": "ca peștii"
+    },
+    {
+      "surface": "שנאחזים",
+      "gloss": "prinși"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "în plasă"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rea"
+    },
+    {
+      "surface": "וכצפרים",
+      "gloss": "și ca păsările"
+    },
+    {
+      "surface": "האחזות",
+      "gloss": "prinse"
+    },
+    {
+      "surface": "בפח",
+      "gloss": "în laț"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "sunt prinși"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "la vreme"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rea"
+    },
+    {
+      "surface": "כשתפול",
+      "gloss": "când cade"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "deodată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:18.106048786Z",
+  "model": "glm-5.3"
+}

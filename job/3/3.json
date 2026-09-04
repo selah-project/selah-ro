@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Să piară ziua în care m-am născut și noaptea care a zis: ⟨s-a⟩ zămislit un om.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Să piară"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "m-am născut"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în care"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "și noaptea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "care a zis"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "⟨s-a⟩ zămislit"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "un om"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:45.180695847Z",
+  "model": "glm-5.3"
+}

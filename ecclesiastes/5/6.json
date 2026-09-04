@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Că în mulțimea visurilor și a deșertăciunilor și a cuvintelor multe — ci pe ⟨את⟩ Elohim teme-te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "în mulțimea"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "visurilor"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "și a deșertăciunilor"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "și a cuvintelor"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "multe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "teme-te"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:10.325767957Z",
+  "model": "glm-5.3"
+}

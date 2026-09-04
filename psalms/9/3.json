@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Mă voi bucura și mă voi veseli în tine, voi cânta numele tău, El Elion (El cel Preaînalt).",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Mă voi bucura"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "și mă voi veseli"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elion"
+    }
+  ],
+  "timestamp": "2026-09-04T09:23:58.877877790Z",
+  "model": "glm-5.3"
+}

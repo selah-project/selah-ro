@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a căzut focul lui Yahve și a mistuit ⟨את⟩ arderea de tot și ⟨את⟩ lemnele și ⟨את⟩ pietrele și ⟨את⟩ țărâna, și ⟨את⟩ apa care ⟨era⟩ în șanț a lins-o.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Și a căzut"
+    },
+    {
+      "surface": "אש",
+      "gloss": "focul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "și a mistuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea de tot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea de tot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lemnele"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "lemnele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pietrele"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "pietrele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "țărâna"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "țărâna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "în șanț"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "a lins-o"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:31.336090117Z",
+  "model": "glm-5.3"
+}

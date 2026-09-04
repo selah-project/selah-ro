@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "A văzut Iaacov că este grâu în Mițraim, și a zis Iaacov către fiii săi: De ce vă uitați ⟨unul la altul⟩?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "grâu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "către fiii săi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "vă uitați"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:31.903064572Z",
+  "model": "glm-5.3"
+}

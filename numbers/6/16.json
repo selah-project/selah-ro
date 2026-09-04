@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și va apropia cohenul ⟨את⟩ ele înaintea lui Yahve și va face ⟨את⟩ jertfa lui de hatat și ⟨את⟩ arderii lui de-o day.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "și va apropia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și va face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa lui de hatat"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jertfa lui de hatat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "arderea lui de-o day"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "arderea lui de-o day"
+    }
+  ],
+  "timestamp": "2026-09-04T06:52:19.152178010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Ai iubit dreptatea și ai urât răul; de aceea te-a uns Elohim, Elohim al tău, cu untdelemn de bucurie mai presus de tovarășii tăi.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ai iubit"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "și ai urât"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "על",
+      "gloss": "de (asupra-pricină)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "te-a uns"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "cu untdelemn"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "de bucurie"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "mai presus de tovarășii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:07.131046523Z",
+  "model": "glm-5.3"
+}

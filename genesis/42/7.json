@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și a văzut Iosif ⟨את⟩ frații săi și i-a recunoscut, dar s-a făcut străin față de ei și a vorbit cu ⟨את⟩ ei aspru; și le-a zis: De unde veniți? Iar ei au zis: Din țara Chenaan, să cumpere hrană.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frații săi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "și i-a recunoscut"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "dar s-a făcut străin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "față de ei"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "și a vorbit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "cu ⟨את⟩ ei"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "aspru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și le-a zis"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "de unde"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "veniți"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "iar ei au zis"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "să cumpere"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrană"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:20.999270828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Am tăiat ⟨את⟩ legământul cu alesul meu, m-am jurat lui David, slujitorul meu.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Am tăiat"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "cu alesul meu"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "m-am jurat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slujitorul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:05.594402271Z",
+  "model": "glm-5.3"
+}

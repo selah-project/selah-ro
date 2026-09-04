@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a auzit David în pustiu că tunde Naval ⟨את⟩ turma lui.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "tunde"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turma lui"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "turma lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:35.324645095Z",
+  "model": "glm-5.3"
+}

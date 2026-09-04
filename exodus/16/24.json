@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și l-au lăsat ⟨את⟩ până dimineața, cum a poruncit Moșe, și nu a mirosit urât, și vierme nu era în el.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "Și l-au lăsat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(mana păstrată)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "a mirosit urât"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "și vierme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "era"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:05.279956831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Voi chema pe Elohim El Elion (El Cel Preaînalt), către El cel ce împlinește peste mine.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "voi chema"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elion"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "către El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "cel ce împlinește"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:13.031285385Z",
+  "model": "glm-5.3"
+}

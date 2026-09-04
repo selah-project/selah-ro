@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "De la vârsta de douăzeci de ani în sus, pe tot cel care iese la oaste în Israel, îi veți număra ⟨את⟩ pe ei după oștirile lor, tu și Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "De la vârsta de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "în sus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "cel care iese"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "la oaste"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "îi veți număra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei (cei care ies la oaste)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "după oștirile lor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "și Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:38.066594562Z",
+  "model": "glm-5.3"
+}

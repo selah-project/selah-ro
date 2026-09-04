@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "„Ia ⟨את⟩ pe Aharon și ⟨את⟩ pe fiii lui, ⟨את⟩ împreună cu el, și ⟨את⟩ veșmintele, și ⟨את⟩ untdelemnul ungerii, și ⟨את⟩ vițelul păcatului, și ⟨את⟩ pe cei doi berbeci, și ⟨את⟩ coșul azimelor —",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ împreună cu el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "veșmintele"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "veșmintele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "untdelemnul"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemnul"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ungerii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vițelul"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vițelul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "păcatului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cei doi berbeci"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cei doi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "berbeci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "coșul"
+    },
+    {
+      "surface": "סל",
+      "gloss": "coșul"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "azimelor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:28.794724104Z",
+  "model": "glm-5.3"
+}

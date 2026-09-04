@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "când vor auzi ⟨את⟩ numele tău cel mare și ⟨את⟩ mâna ta cea puternică și brațul tău cel întins, și va veni și se va ruga către casa aceasta,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "vor auzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele tău cel mare"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "cel mare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mâna ta cea puternică"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "cea puternică"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "și brațul tău"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "cel întins"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "și va veni"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "și se va ruga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:14:29.087950631Z",
+  "model": "glm-5.3"
+}

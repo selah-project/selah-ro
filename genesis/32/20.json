@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a poruncit și ⟨את⟩ al doilea, și ⟨את⟩ al treilea, și ⟨את⟩ toți cei ce mergeau după turme, zicând: după cuvântul acesta veți vorbi către Esav, când ⟨את⟩ îl veți găsi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "și a poruncit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al doilea"
+    },
+    {
+      "surface": "השני",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al treilea"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "al treilea"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "cei ce mergeau"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "turme"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "veți vorbi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "când veți găsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl",
+      "marks": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:11.789350560Z",
+  "model": "glm-5.3"
+}

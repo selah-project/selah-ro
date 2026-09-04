@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Toți frații săracului îl urăsc; cu atât mai mult prietenii lui se îndepărtează de el; urmărește cuvinte — ele nu ⟨sunt⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frații"
+    },
+    {
+      "surface": "רש",
+      "gloss": "săracului"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "îl urăsc"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cu atât mai mult"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨conjunție⟩"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "prietenii lui"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "se îndepărtează"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "urmărește"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:06.842174925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Iată, un neam pe care nu-l cunoști îl vei chema, și un neam care nu te cunoaște pe tine va alerga la tine, de dragul lui Yahve, Elohimului tău, și al Sfântului lui Israel, căci te-a împodobit.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "cunoști"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "îl vei chema"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "și un neam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "te cunoaște"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "va alerga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "de dragul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimului tău"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "și al Sfântului"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "te-a împodobit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:07.047235482Z",
+  "model": "glm-5.3"
+}

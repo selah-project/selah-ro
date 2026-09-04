@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 25:14",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a fost, după ce a venit Amatiahu de la bătaia ⟨את⟩ edomiților, că a adus ⟨את⟩ dumnezeii fiilor lui Seir și i-a așezat lui ca dumnezei, și înaintea lor s-a închinat și le-a adus tămâie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ce a venit"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatiahu"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "de la bătaia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "edomiților"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "edomiților"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "că a adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dumnezeii fiilor lui Seir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "lui Seir"
+    },
+    {
+      "surface": "ויעמידם",
+      "gloss": "și i-a așezat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ca dumnezei"
+    },
+    {
+      "surface": "ולפניהם",
+      "gloss": "și înaintea lor"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "s-a închinat"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "și le"
+    },
+    {
+      "surface": "יקטר",
+      "gloss": "a adus tămâie"
+    }
+  ],
+  "timestamp": "2026-09-04T06:28:23.505082243Z",
+  "model": "glm-5.3"
+}

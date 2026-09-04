@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "își pregătește în vară hrana ei, adună la seceriș hrana ei.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "își pregătește"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "în vară"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "pâinea ei"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "adună"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "la seceriș"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "hrana ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:55.423208068Z",
+  "model": "glm-5.3"
+}

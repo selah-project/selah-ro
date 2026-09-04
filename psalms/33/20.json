@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Sufletul nostru a așteptat ⟨spre⟩ Yahve: ajutorul nostru și scutul nostru ⟨este⟩ el.",
+  "tokens": [
+    {
+      "surface": "נַ֭פְשֵׁנוּ",
+      "gloss": "Sufletul nostru"
+    },
+    {
+      "surface": "חִכְּתָ֣ה",
+      "gloss": "a așteptat"
+    },
+    {
+      "surface": "לַֽיהוָ֑ה",
+      "gloss": "spre Yahve"
+    },
+    {
+      "surface": "עֶזְרֵ֖נוּ",
+      "gloss": "ajutorul nostru"
+    },
+    {
+      "surface": "וּמָגִנֵּ֣נוּ",
+      "gloss": "și scutul nostru"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:31.926753537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și s-au adunat Filiștim și au venit și au tabărățit la Șunem; și a adunat Șaul ⟨את⟩ tot Israelul, și au tabărățit la Ghilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Și s-au adunat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filiștim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "și au tabărățit"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "la Șunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "și a adunat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot Israelul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "și au tabărățit"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "la Ghilboa"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:36.580022558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Căci pe tine — pe care tu l-ai lovit — îl prigonesc, și de durerea răniților tăi vorbesc.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "pe tine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ai lovit"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "îl prigonesc"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și de"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "durerea"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "răniților tăi"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "vorbit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:18.582804006Z",
+  "model": "glm-5.3"
+}

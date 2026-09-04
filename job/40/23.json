@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 40:23",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Iată, dacă un râu se revarsă, nu se sperie; rămâne încrezător, chiar dacă Iardenul țâșnește până la gura lui.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "iată"
+    },
+    {
+      "surface": "יעשק",
+      "gloss": "se revarsă"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "un râu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחפוז",
+      "gloss": "se sperie"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "rămâne încrezător"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiar dacă"
+    },
+    {
+      "surface": "יגיח",
+      "gloss": "țâșnește"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Iardenul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "până la"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "gura lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:57.031573094Z",
+  "model": "glm-5.3"
+}

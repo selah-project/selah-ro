@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Va ploua peste cei răi împletituri ⟨de⟩ foc și sulf, și un vânt de pârjol — partea paharului lor.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "va ploua"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "împletituri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de foc"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "și sulf"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "și un vânt"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "de pârjol"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "partea"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "paharului lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:21.831895613Z",
+  "model": "glm-5.3"
+}

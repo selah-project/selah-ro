@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Numai temeți-vă de ⟨את⟩ Yahve și slujiți-I ⟨את⟩ pe El în adevăr, cu toată inima voastră, căci ați văzut ⟨את⟩ ce lucruri mari a făcut cu voi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "temeți-vă de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "și slujiți-I"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe El"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "în adevăr"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu tot"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inima voastră"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ați văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce lucruri mari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "lucruri mari a făcut"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cu voi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:56.180234204Z",
+  "model": "glm-5.3"
+}

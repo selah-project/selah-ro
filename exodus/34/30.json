@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a văzut Aharon și toți fiii lui Israel ⟨את⟩ Moșe, și iată, radia pielea feței lui, și s-au temut să se apropie de el.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "radia"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pielea"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "feței lui"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "și s-au temut"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "să se apropie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:42.452273023Z",
+  "model": "glm-5.3"
+}

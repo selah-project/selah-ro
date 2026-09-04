@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "A însetat sufletul meu de Elohim, de El cel viu: când voi veni și mă voi arăta înaintea feței lui Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "a însetat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "de El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "voi veni"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "și mă voi arăta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:11.943687253Z",
+  "model": "glm-5.3"
+}

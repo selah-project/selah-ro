@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și va îndepărta Yahve ⟨את⟩ omul, și pustiirea va fi mare în mijlocul pământului.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "Și va îndepărta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "și mare va fi"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "pustiirea"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:24.150999152Z",
+  "model": "glm-5.3"
+}

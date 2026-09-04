@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Am amuțit, în tăcere; am tăcut chiar și de bine, și durerea mea s-a tulburat.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Am amuțit"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "în tăcere"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "am tăcut"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "chiar și de bine"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "și durerea mea"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "s-a tulburat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:18.561645827Z",
+  "model": "glm-5.3"
+}

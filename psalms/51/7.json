@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Iată, în fărădelege am fost plămădit, și în păcat m-a zămislit mama mea.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "în fărădelege"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "am fost plămădit"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "și în păcat"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "m-a zămislit"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:28.833540400Z",
+  "model": "glm-5.3"
+}

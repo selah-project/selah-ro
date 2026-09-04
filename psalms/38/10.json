@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Adonai, înaintea ta ⟨este⟩ toată dorința mea, și suspinul meu de la tine nu ⟨este⟩ ascuns.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "dorința mea"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "și suspinul meu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de la tine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "⟨este⟩ ascuns"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:08.964982921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a spus omul lui Elohim către rege: dacă mi-ai da ⟨את⟩ jumătate din casa ta, nu aș veni cu tine, și nu aș mânca pâine, și nu aș bea apă în locul acesta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ai da"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumătate"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "jumătate"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "din casa ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "aș veni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aș mânca"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "aș bea"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:25.421354671Z",
+  "model": "glm-5.3"
+}

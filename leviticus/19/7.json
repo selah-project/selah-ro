@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și dacă va fi mâncat în ziua a treia, spurcăciune este; nu va fi primit.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "de mâncat"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "va fi mâncat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a treia"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "spurcăciune"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "va fi primit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:17.721652029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și un om, dacă mănâncă din sfințenie din greșeală, să adauge a cincea parte ⟨את⟩ ei peste ea și să dea cohenului ⟨את⟩ sfințenia.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mănâncă"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfințenie"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "din greșeală"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "să adauge"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "a cincea parte ei"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste ea"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "și să dea"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cohenului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfințenia"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfințenia"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.579375276Z",
+  "model": "glm-5.3"
+}

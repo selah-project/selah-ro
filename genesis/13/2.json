@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Iar Avram era foarte bogat în vite, în argint și în aur.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Iar Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "era greu (bogat)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "în vite"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "în argint"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "și în aur"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:30.805504527Z",
+  "model": "glm-5.3"
+}

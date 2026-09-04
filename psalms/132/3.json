@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "Deacă voi intra în cortul casei mele, deacă mă voi urca pe patul așternutului meu —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Deacă"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "voi intra"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "în cortul"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "casei mele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "deacă"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mă voi urca"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "patul"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "așternutului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:42.688456489Z",
+  "model": "glm-5.3"
+}

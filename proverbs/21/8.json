@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Răsturnată și străină este calea omului vinovat, iar lucrul celui curat este drept.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "Răsturnată"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "și străină"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "iar celui curat"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "drept"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "lucrul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:43.065639263Z",
+  "model": "glm-5.3"
+}

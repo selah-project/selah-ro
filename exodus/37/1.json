@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "A făcut Bețalel ⟨את⟩ chivotul din lemn de salcâm: doi coți și jumătate lungimea lui, un cot și jumătate lățimea lui și un cot și jumătate înălțimea lui.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A făcut"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Bețalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemn"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "salcâm"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "doi coți"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "și jumătate"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lungimea lui"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "un cot"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "și jumătate"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lățimea lui"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "un cot"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "și jumătate"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "înălțimea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:53.513241527Z",
+  "model": "glm-5.3"
+}

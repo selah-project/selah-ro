@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Nu ⟨ești⟩ tu Elohim al nostru? Tu ai dezmoștenit ⟨את⟩ locuitorii pământului acestuia de la fața poporului tău Israel, și l-ai dat seminției lui Avraham, care te iubește, pentru totdeauna.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "ai dezmoștenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locuitorii pământului acestuia"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de la fața"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporului tău"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "și l-ai dat"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "seminției"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "care te iubește"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pentru totdeauna"
+    }
+  ],
+  "timestamp": "2026-09-04T06:25:17.615769122Z",
+  "model": "glm-5.3"
+}

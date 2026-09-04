@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "După cum s-au înmulțit, așa au păcătuit împotriva mea; slava lor în rușine o voi schimba.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "După cum s-au înmulțit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "au păcătuit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "slava lor"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "în rușine"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "o voi schimba"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:01.916518206Z",
+  "model": "glm-5.3"
+}

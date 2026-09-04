@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Toți aceștia ⟨erau⟩ fiii lui David, în afară de fiii concubinelor, și Tamar sora lor.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "în afară de"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "concubinelor"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "și Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "sora lor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:45.843381697Z",
+  "model": "glm-5.3"
+}

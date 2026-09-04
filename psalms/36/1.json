@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Către dirijor. Al slugii lui Yahve, al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "Al slugii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "alui David"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:56.853218563Z",
+  "model": "glm-5.3"
+}

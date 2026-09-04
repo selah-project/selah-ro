@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Mizmor al lui David, pentru a aduce-aminte.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "pentru a aduce-aminte"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:58.686466033Z",
+  "model": "glm-5.3"
+}

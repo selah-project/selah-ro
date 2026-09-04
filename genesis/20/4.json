@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Iar Avimelec nu se apropiase de ea și a spus: „Adonai, chiar și un neam drept vei omorî?”",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Iar Avimelec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "se apropiase"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "de ea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "chiar și un neam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "drept"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "vei omorî"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:25.626686362Z",
+  "model": "glm-5.3"
+}

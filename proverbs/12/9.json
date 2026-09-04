@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Mai bun ⟨este⟩ cel disprețuit, cu un slujitor al lui, decât cel ce se cinstește pe sine și duce lipsă de pâine.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mai bun"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "cel disprețuit"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "și un slujitor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "al lui"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "decât cel ce se cinstește pe sine"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "și duce lipsă"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:11.897360956Z",
+  "model": "glm-5.3"
+}

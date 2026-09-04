@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Stau ⟨cu încăpățânare⟩ regii pământului și căpeteniile se sfătuiesc împreună, împotriva lui Yahve și împotriva Mașiahului lui.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Stau ⟨cu încăpățânare⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "și căpeteniile"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "se sfătuiesc"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și împotriva"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mașiahului lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:46.795615419Z",
+  "model": "glm-5.3"
+}

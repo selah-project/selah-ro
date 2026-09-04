@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "În Elohim vom face vitejie, și el va călca ⟨את⟩ vrăjmașii noștri.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "În Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vom face"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitejie"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "va călca"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "vrăjmașii noștri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:29.808072609Z",
+  "model": "glm-5.3"
+}

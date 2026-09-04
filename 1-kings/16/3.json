@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Iată-mă arzându-l pe Bașa și pe casa lui, și voi da casa ta ca ⟨את⟩ casa lui Iarovam, fiul lui Nevat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Iată-mă"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "arzând"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bașa"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "și voi da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa ta"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "casa ta"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ca casa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "lui Iarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "lui Nevat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:06.070470512Z",
+  "model": "glm-5.3"
+}

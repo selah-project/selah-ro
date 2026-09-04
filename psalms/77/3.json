@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "În ziua strâmtorării mele pe Adonai l-am căutat; mâna mea noaptea s-a întins și nu slăbea; a refuzat să fie mângâiat sufletul meu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "strâmtorării mele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "l-am căutat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "s-a întins"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "slăbea"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "a refuzat"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "să fie mângâiat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:47.521663746Z",
+  "model": "glm-5.3"
+}

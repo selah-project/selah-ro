@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a fost tot pământul buză una și cuvinte unele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "buză"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "și cuvinte"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "unele"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:21.298396562Z",
+  "model": "glm-5.3"
+}

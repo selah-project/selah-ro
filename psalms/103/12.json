@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Pe cât de departe este răsăritul de apus, atât de departe a depărtat de la noi ⟨את⟩ călcările noastre de lege.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "Pe cât de departe"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "răsăritul"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "de apus"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "a depărtat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de la noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "călcările noastre de lege"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "călcările noastre de lege"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:40.312630476Z",
+  "model": "glm-5.3"
+}

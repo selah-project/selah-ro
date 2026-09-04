@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Din pricina iernii leneșul nu ară, cere la seceriș — și nimic.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "din pricina iernii"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leneșul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ară"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "cere"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "la seceriș"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nimic"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:01.244483695Z",
+  "model": "glm-5.3"
+}

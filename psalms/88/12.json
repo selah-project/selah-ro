@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Se va povesti în mormânt hesedul tău, credincioșia ta în Abaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Se va povesti"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "în mormânt"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "credincioșia ta"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "în Abaddon"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:19.010780152Z",
+  "model": "glm-5.3"
+}

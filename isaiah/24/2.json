@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și va fi: ca poporul, așa cohenul; ca robul, așa domnul lui; ca slujitoarea, așa stăpâna ei; ca cumpărătorul, așa vânzătorul; ca cel care dă cu împrumut, așa cel care ia cu împrumut; ca cel care dă cu dobândă, așa cel care ia cu dobândă de la el.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "ca poporul"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "așa cohenul"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "ca robul"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "așa domnul lui"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "ca slujitoarea"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "așa stăpâna ei"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "ca cumpărătorul"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "așa vânzătorul"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "ca cel care dă cu împrumut"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "așa cel care ia cu împrumut"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "ca cel care dă cu dobândă"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "așa cum"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ia cu dobândă"
+    },
+    {
+      "surface": "בו",
+      "gloss": "de la el"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:32.646553653Z",
+  "model": "glm-5.3"
+}

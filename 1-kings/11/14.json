@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a ridicat Yahve un potrivnic lui Șelomo: ⟨את⟩ Hadad edomitul, din sămânța regelui — el ⟨era⟩ în Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și a ridicat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "un potrivnic"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "lui Șelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad edomitul"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomitul"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "din sămânța"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "în Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:04.002234854Z",
+  "model": "glm-5.3"
+}

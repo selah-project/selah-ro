@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și s-a spus lui David ⟨את⟩ ceea ce a făcut Rițpa, fiica lui Aia, țiitoarea lui Șaul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "și s-a spus"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce a făcut Rițpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Rițpa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "איה",
+      "gloss": "lui Aia"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "țiitoarea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:04:37.683131081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a spus lui Avraham: „Alungă roaba aceasta și ⟨את⟩ fiul ei, căci nu va moșteni fiul roabei acesteia împreună cu fiul meu, cu Ițhac.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Alungă"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "roaba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiul ei"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "va moșteni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "roabei"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:32.266413384Z",
+  "model": "glm-5.3"
+}

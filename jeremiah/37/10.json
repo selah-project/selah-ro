@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 37:10",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Căci chiar dacă ați lovit toată oștirea Kașdim, cei care se luptă ⟨את⟩ cu voi, și ar rămâne în ei oameni străpunși, fiecare în cortul lui se va ridica și vor arde ⟨את⟩ cetatea aceasta cu foc.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chiar dacă"
+    },
+    {
+      "surface": "הכיתם",
+      "gloss": "ați lovit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "oștirea"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kașdim"
+    },
+    {
+      "surface": "הנלחמים",
+      "gloss": "cei care se luptă"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "cu ⟨את⟩ voi"
+    },
+    {
+      "surface": "ונשארו",
+      "gloss": "și ar rămâne"
+    },
+    {
+      "surface": "בם",
+      "gloss": "în ei"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "străpunși"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "în cortul lui"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "se va ridica"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "și vor arde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "cu foc"
+    }
+  ],
+  "timestamp": "2026-09-04T04:12:41.593012856Z",
+  "model": "glm-5.3"
+}

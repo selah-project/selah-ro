@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Așezi întuneric și se face noapte; în el se târăște toată fiara pădurii.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Așezi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întuneric"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și se face"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noapte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "se târăște"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pădurii"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:29.502250314Z",
+  "model": "glm-5.3"
+}

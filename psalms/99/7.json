@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 99,
+  "translation": "În stâlpul de nor le vorbea el; păzeau mărturiile lui și hoca pe care le-a dat lor.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "În stâlpul de"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "nor"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "le vorbea"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "păzeau"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "mărturiile lui"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "și hocul"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "למו",
+      "gloss": "lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:18.428153004Z",
+  "model": "glm-5.3"
+}

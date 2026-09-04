@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Va îndrepta El ⟨strâmb⟩ judecata? Sau Șadai va strâmba dreptatea?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Va ⟨El⟩"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "îndrepta strâmb"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Sau"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Șadai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "va strâmba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:22.357297052Z",
+  "model": "glm-5.3"
+}

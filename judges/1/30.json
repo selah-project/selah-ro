@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Zevulun nu a alungat ⟨את⟩ locuitorii din Kitron și ⟨את⟩ locuitorii din Nahalol, și a locuit chenaanitul în mijlocul lui, și au ajuns birnici.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a alungat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locuitorii din Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "din Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "locuitorii din Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "din Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a locuit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "chenaanitul"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "în mijlocul lui"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au ajuns"
+    },
+    {
+      "surface": "למס",
+      "gloss": "birnici"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:30.848429922Z",
+  "model": "glm-5.3"
+}

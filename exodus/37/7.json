@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și a făcut doi keruvim din aur; de lucru bătut i-a făcut ⟨את⟩, din două capete ale kaporetului.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֛עַשׂ",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "שְׁנֵ֥י",
+      "gloss": "doi"
+    },
+    {
+      "surface": "כְּרֻבִ֖ים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זָהָ֑ב",
+      "gloss": "din aur"
+    },
+    {
+      "surface": "מִקְשָׁה֙",
+      "gloss": "de lucru bătut"
+    },
+    {
+      "surface": "עָשָׂ֣ה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei — pe cei doi keruvim"
+    },
+    {
+      "surface": "מִשְּׁנֵ֖י",
+      "gloss": "din două"
+    },
+    {
+      "surface": "קְצ֥וֹת",
+      "gloss": "capete"
+    },
+    {
+      "surface": "הַכַּפֹּֽרֶת",
+      "gloss": "ale kaporetului"
+    }
+  ],
+  "timestamp": "2026-09-04T10:09:43.586866187Z",
+  "model": "glm-5.3"
+}

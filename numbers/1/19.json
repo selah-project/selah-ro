@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cum a poruncit Yahve ⟨את⟩ Moșe, așa i-a numărat în pustiul Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "așa i-a numărat"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiul"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:48.368717603Z",
+  "model": "glm-5.3"
+}

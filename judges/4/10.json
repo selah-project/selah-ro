@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a strigat Barak ⟨את⟩ Zevulun și ⟨את⟩ Naftali la Kedeș, și a urcat la picioarele lui zece mii de oameni, și a urcat cu el Devora.",
+  "tokens": [
+    {
+      "surface": "ונזעק",
+      "gloss": "Și a strigat"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "la Kedeș"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și a urcat"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "la picioarele lui"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zece"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mii de"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "și a urcat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-09-04T07:04:47.175850580Z",
+  "model": "glm-5.3"
+}

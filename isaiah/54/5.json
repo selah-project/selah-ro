@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Căci bărbatul tău ⟨este⟩ făcătorul tău — Yahve Țevaot ⟨este⟩ numele lui — și răscumpărătorul tău ⟨este⟩ Sfântul lui Israel; Elohim al întregului pământ va fi chemat ⟨el⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "bărbatul tău"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "făcătorul tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "și răscumpărătorul tău"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sfântul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "va fi chemat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:30:15.584339924Z",
+  "model": "glm-5.3"
+}

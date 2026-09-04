@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și a spus David: viu ⟨este⟩ Yahve — căci de nu Yahve îl va lovi, sau ziua lui va veni și va muri, sau în război va coborî și va pieri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "de nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "îl va lovi"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ziua lui"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "va veni"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "și va muri"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "în război"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "va coborî"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "și va pieri"
+    }
+  ],
+  "timestamp": "2026-09-04T02:53:01.178072873Z",
+  "model": "glm-5.3"
+}

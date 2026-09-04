@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Al lui David. Apără, Yahve, ⟨את⟩ cei ce mă dau în judecată; luptă ⟨את⟩ cei ce se luptă cu mine.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "apără"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cei ce mă dau în judecată"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "cei ce mă dau în judecată"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "luptă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cei ce se luptă cu mine"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "cei ce se luptă cu mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:17.766973825Z",
+  "model": "glm-5.3"
+}

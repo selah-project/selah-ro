@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Ai văzut tu un om înțelept în ochii lui? Mai multă nădejde este pentru un nesăbuit decât pentru el.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Ai văzut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "nădejde"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "pentru un nesăbuit"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "decât pentru el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:18.278314500Z",
+  "model": "glm-5.3"
+}

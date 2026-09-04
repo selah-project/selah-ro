@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Mărturisiți lui Yahve, căci este bun, căci în veac ⟨este⟩ hesedul lui.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Mărturisiți"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "este bun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:14.363160264Z",
+  "model": "glm-5.3"
+}

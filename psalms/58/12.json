@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Și omul va zice: doar este rod pentru cel drept; doar este Elohim — judecători în pământ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și va zice"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "rod"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pentru cel drept"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "judecători"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:50.503555766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Întoarce-te, sufletul meu, la odihna ta, căci Yahve ți-a răsplătit cu bine.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Întoarce-te"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "la odihna ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "a răsplătit cu bine"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "asupra ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:51.598866529Z",
+  "model": "glm-5.3"
+}

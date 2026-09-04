@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 22:6",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și acum vino, te rog, blestemă-mi ⟨את⟩ poporul acesta, căci este mai puternic decât mine; poate voi putea să-l lovesc și să-l alung din pământ, căci știu: ⟨את⟩ ceea ce binecuvântezi este binecuvântat, și ceea ce blestemi este blestemat.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "vino"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "blestemă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul acesta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "puternic"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "decât mine"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "poate"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "voi putea"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "să lovesc"
+    },
+    {
+      "surface": "בו",
+      "gloss": "îl"
+    },
+    {
+      "surface": "ואגרשנו",
+      "gloss": "și să-l alung"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "binecuvântezi"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "binecuvântat"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și ceea ce"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "blestemi"
+    },
+    {
+      "surface": "יואר",
+      "gloss": "blestemat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:51:53.506769245Z",
+  "model": "glm-5.3"
+}

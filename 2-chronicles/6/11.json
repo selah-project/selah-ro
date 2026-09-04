@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și am pus acolo ⟨את⟩ chivotul, în care ⟨este⟩ legământul lui Yahve, pe care l-a încheiat cu fiii lui Israel.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "și am pus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "l-a încheiat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T08:22:11.879978038Z",
+  "model": "glm-5.3"
+}

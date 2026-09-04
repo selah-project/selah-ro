@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 26:33",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Iar lui Țelofhad, fiul lui Hefr, nu i-au fost fii, ci fiice; și numele fiicelor lui Țelofhad ⟨sunt⟩ Mahla și Noa, Hogla, Milca și Tirța.",
+  "tokens": [
+    {
+      "surface": "וּצְלָפְחָ֣ד",
+      "gloss": "Iar lui Țelofhad"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "חֵ֗פֶר",
+      "gloss": "lui Hefr"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הָ֥יוּ",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אִ֑ם",
+      "gloss": "ci"
+    },
+    {
+      "surface": "בָּנ֑וֹת",
+      "gloss": "fiice"
+    },
+    {
+      "surface": "וְשֵׁ֥ם",
+      "gloss": "și numele"
+    },
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "fiicelor"
+    },
+    {
+      "surface": "צְלָפְחָ֔ד",
+      "gloss": "lui Țelofhad"
+    },
+    {
+      "surface": "מַחְלָ֣ה",
+      "gloss": "Mahla"
+    },
+    {
+      "surface": "וְנֹעָ֔ה",
+      "gloss": "și Noa"
+    },
+    {
+      "surface": "חָגְלָ֥ה",
+      "gloss": "Hogla"
+    },
+    {
+      "surface": "מִלְכָּ֖ה",
+      "gloss": "Milca"
+    },
+    {
+      "surface": "וְתִרְצָֽה",
+      "gloss": "și Tirța"
+    }
+  ],
+  "timestamp": "2026-09-04T10:10:20.033234657Z",
+  "model": "glm-5.3"
+}

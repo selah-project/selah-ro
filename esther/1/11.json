@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "să aducă ⟨את⟩ pe Vaști, regina, înaintea împăratului, cu coroana împărăției, ca să arate popoarelor și căpeteniilor ⟨את⟩ frumusețea ei, căci era frumoasă la înfățișare.",
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "să aducă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaști, regina"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaști"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "regina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "împăratului"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "cu coroana"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "împărăției"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ca să arate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarelor"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "și căpeteniilor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frumusețea ei"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "frumusețea ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "frumoasă"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "la înfățișare"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:53.186972935Z",
+  "model": "glm-5.3"
+}

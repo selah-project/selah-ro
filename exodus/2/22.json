@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a născut un fiu, și a chemat ⟨את⟩ numele lui Gherșom, căci a spus: străin am fost într-o țară străină.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Și a născut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gherșom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "גר",
+      "gloss": "străin"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "într-o țară"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "străină"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:26.116734959Z",
+  "model": "glm-5.3"
+}

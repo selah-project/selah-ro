@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Căci Yahve aude ⟨את⟩ pe cei nevoiași și pe ⟨את⟩ captivii lui nu îi disprețuiește.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aude"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "pe cei nevoiași"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "captivii lui"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "captivii lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "disprețuiește"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:14.617658074Z",
+  "model": "glm-5.3"
+}

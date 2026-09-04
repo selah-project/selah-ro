@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci a întors înapoi Yahve ⟨את⟩ măreția lui Iaacov, ca ⟨את⟩ măreția lui Israel; căci i-au golit cei ce golesc, și mlădițele lor le-au pustiit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a întors înapoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măreția lui Iaacov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "măreția"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "ca măreția"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "i-au golit"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "cei ce golesc"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "și mlădițele lor"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "le-au pustiit"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.564345769Z",
+  "model": "glm-5.3"
+}

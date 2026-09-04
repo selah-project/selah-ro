@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Cel ce întărește munții cu puterea lui, ⟨cel⟩ încins cu tărie.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "întărește"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "cu puterea lui"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "încins"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "cu tărie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:08.213879244Z",
+  "model": "glm-5.3"
+}

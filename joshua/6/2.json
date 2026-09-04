@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a spus Yahve către Iehoșua: Vezi, am dat în mâna ta ⟨את⟩ Ieriho și ⟨את⟩ regele ei — vitejii puterii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ieriho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Ieriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "regele ei"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "regele ei"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "vitejii"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "puterii"
+    }
+  ],
+  "timestamp": "2026-09-04T02:18:19.641100811Z",
+  "model": "glm-5.3"
+}

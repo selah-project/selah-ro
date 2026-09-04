@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a poruncit Moșe ⟨את⟩ leviții, purtătorii chivotului legământului lui Yahve, zicând:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Și a poruncit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviții"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviții"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "purtătorii"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotului"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T02:15:21.425626101Z",
+  "model": "glm-5.3"
+}

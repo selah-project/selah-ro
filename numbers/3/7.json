@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "și să păzească ⟨את⟩ paza lui și ⟨את⟩ paza întregii adunări, înaintea Cortului Întâlnirii, ca să facă ⟨את⟩ slujba Locașului.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "și să păzească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paza lui"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "paza lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "paza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregii"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "adunări"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ca să facă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slujba Locașului"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "slujba"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Locașului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:23.606299303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uț, întâiul născut al lui, și ⟨את⟩ Buz, fratele lui, și ⟨את⟩ Chemuel, tatăl lui Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uț"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uț"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "întâiul născut al lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Chemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Chemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl lui"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:25.429700380Z",
+  "model": "glm-5.3"
+}

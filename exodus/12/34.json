@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a luat poporul ⟨את⟩ aluatul său înainte să dospească; albiile lor de frământat, legate în veșmintele lor, pe umerii lor.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aluatul său"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "aluatul său"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "înainte să"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "dospească"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "albiile lor de frământat"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "legate"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "în veșmintele lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "umerii lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:30.086392546Z",
+  "model": "glm-5.3"
+}

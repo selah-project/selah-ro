@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și au tăiat Iehonatan și David un legământ, fiindcă îl iubea ca pe sufletul său ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Și au tăiat"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Iehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "și David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "un legământ"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "fiindcă îl iubea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ca pe sufletul său"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "ca pe sufletul său"
+    }
+  ],
+  "timestamp": "2026-09-04T02:48:13.787612990Z",
+  "model": "glm-5.3"
+}

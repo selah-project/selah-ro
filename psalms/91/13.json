@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Peste șahal și peste piten veți călca, veți strivi puiul de leu și țanin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "șahal"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "și piten"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "veți călca"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "veți strivi"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "puiul de leu"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "și țanin"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:51.957610037Z",
+  "model": "glm-5.3"
+}

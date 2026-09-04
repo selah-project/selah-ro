@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Ca să știe neamul de pe urmă, fii care se vor naște, să se ridice și să povestească fiilor lor —",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "știe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "de pe urmă"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "care se vor naște"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "să se ridice"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "și să povestească"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fiilor lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:58.535817609Z",
+  "model": "glm-5.3"
+}

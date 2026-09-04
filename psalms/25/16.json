@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Întoarce-ți fața către mine și mă miluiește, căci singur și nenorocit sunt eu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Întoarce-ți fața"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "și mă miluiește"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "singur"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "și nenorocit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:25.516856103Z",
+  "model": "glm-5.3"
+}

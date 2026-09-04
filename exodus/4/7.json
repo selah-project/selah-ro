@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a zis: „Întoarce mâna ta la sânul tău!” Și a întors mâna lui la sânul lui și a scos-o din sânul lui, și iată s-a întors ca trupul lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Întoarce"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "sânul tău"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a întors"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "sânul lui"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "și a scos-o"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "din sânul lui"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "ca trupul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:36.652078873Z",
+  "model": "glm-5.3"
+}

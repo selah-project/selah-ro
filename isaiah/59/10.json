@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Pipăim ca orbii peretele și ca ⟨cei⟩ fără de ochi pipăim; ne împiedicăm la amiază ca în amurg, în locuri pustii ca morții.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "pipăim"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "ca orbii"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "peretele"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "și ca fără de"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ochi"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "pipăim"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "ne împiedicăm"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "la amiază"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "ca în amurg"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "în locuri pustii"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "ca morții"
+    }
+  ],
+  "timestamp": "2026-09-04T03:54:48.356532797Z",
+  "model": "glm-5.3"
+}

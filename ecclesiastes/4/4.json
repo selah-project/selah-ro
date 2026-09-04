@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și am văzut eu ⟨את⟩ toată truda și ⟨את⟩ toată isprava faptei, căci ea este pizma omului față de aproapele lui; și aceasta este deșertăciune și goană după vânt.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Și am văzut"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată truda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "truda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată isprava faptei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "isprava"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "faptei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "pizma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "față de aproapele lui"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșertăciune"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "și goană"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "după vânt"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:35.219403716Z",
+  "model": "glm-5.3"
+}

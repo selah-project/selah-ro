@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și chiar, adevărat, am rătăcit — cu ⟨את⟩ mine rămâne rătăcirea mea.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Și chiar"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "adevărat"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "am rătăcit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu ⟨את⟩ mine",
+      "marks": "rătăcirea mea"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "rămâne"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "rătăcirea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:07:25.921841909Z",
+  "model": "glm-5.3"
+}

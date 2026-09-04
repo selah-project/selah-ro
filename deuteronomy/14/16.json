@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "⟨את⟩ bufnița-mică, și ⟨את⟩ bufnița-mare, și cucuveaua",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bufnița-mică"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "bufnița-mică"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bufnița-mare"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "bufnița-mare"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "și cucuveaua"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:09.573669238Z",
+  "model": "glm-5.3"
+}

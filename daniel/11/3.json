@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și se va ridica un împărat viteaz și va domni cu domnie mare și va face după voia lui.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Și se va ridica"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un împărat"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "viteaz"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "și va domni"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "domnie"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și va face"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "după voia lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:55:29.231602662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și acesta este cuvântul șmitei: să lase tot stăpânul unei datorii mâna lui, pe care a dat-o cu împrumut aproapelui său; nu va sili ⟨את⟩ aproapele său și ⟨את⟩ fratele său, căci s-a vestit șmita lui Yahve.",
+  "tokens": [
+    {
+      "surface": "וְזֶה",
+      "gloss": "Și acesta"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "este cuvântul"
+    },
+    {
+      "surface": "הַשְּׁמִטָּה",
+      "gloss": "al șmitei"
+    },
+    {
+      "surface": "שָׁמוֹט",
+      "gloss": "să lase"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בַּעַל",
+      "gloss": "stăpânul"
+    },
+    {
+      "surface": "מַשֵּׂה",
+      "gloss": "unei datorii"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יַשֶּׂה",
+      "gloss": "a dat cu împrumut"
+    },
+    {
+      "surface": "בְּרֵעֵהוּ",
+      "gloss": "aproapelui său"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יִגֹּשׂ",
+      "gloss": "va sili"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "aproapele său"
+    },
+    {
+      "surface": "רֵעֵהוּ",
+      "gloss": "aproapele său"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fratele său"
+    },
+    {
+      "surface": "אָחִיו",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קָרָא",
+      "gloss": "s-a vestit"
+    },
+    {
+      "surface": "שְׁמִטָּה",
+      "gloss": "șmita"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:57.385765696Z",
+  "model": "glm-5.3"
+}

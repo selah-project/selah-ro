@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Yahve, Elohim vostru, v-a înmulțit ⟨את⟩ pe voi, și iată-vă astăzi ca stelele cerurilor, la număr mare.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "v-a înmulțit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "și iată-vă"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "ca stelele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "la număr mare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:13.386030592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a ieșit către ei Lot la ușă, și ușa a închis în urma lui.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "la ușă"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "și ușa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "a închis"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "în urma lui"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:49.157396873Z",
+  "model": "glm-5.3"
+}

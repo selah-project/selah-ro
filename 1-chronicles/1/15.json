@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și ⟨את⟩ hivitul, și ⟨את⟩ arkitul, și ⟨את⟩ sinitul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hivitul"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivitul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "arkitul"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arkitul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sinitul"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "sinitul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:35.742345430Z",
+  "model": "glm-5.3"
+}

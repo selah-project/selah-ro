@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Răni de săgeți aducând totul, și cel care tocmește un nesăbuit, și cel care tocmește trecători.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Răni de săgeți"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "aducând"
+    },
+    {
+      "surface": "כל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "și cel care tocmește"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "un nesăbuit"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "și cel care tocmește"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "trecători"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:18.277943752Z",
+  "model": "glm-5.3"
+}

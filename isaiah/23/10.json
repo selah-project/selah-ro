@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Străbate-ți pământul ca Nilul, fiică a Tarșișului: nu mai este brâu de acum.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "străbate"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "pământul tău"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ca Nilul"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiică"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "a Tarșișului"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu mai este"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "brâu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "de acum"
+    }
+  ],
+  "timestamp": "2026-09-04T03:42:39.589303234Z",
+  "model": "glm-5.3"
+}

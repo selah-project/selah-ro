@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Ia aminte la glasul strigătului meu, regele meu și Elohim al meu, căci către tine mă rog.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ia aminte"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "la glasul"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "strigătului meu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regele meu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "și Elohim al meu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "mă rog"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:14.793689143Z",
+  "model": "glm-5.3"
+}

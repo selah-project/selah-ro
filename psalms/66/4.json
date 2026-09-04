@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Tot pământul se va închina ție și îți va cânta, va cânta numelui tău. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "se va închina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "și îți va cânta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "va cânta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numelui tău"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:00.037278283Z",
+  "model": "glm-5.3"
+}

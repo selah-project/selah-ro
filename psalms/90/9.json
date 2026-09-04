@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Căci toate zilele noastre s-au sfârșit în mânia ta; am isprăvit anii noștri ca un suspin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "zilele noastre"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "s-au sfârșit"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "în mânia ta"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "am isprăvit"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "anii noștri"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "un suspin"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:37.529573831Z",
+  "model": "glm-5.3"
+}

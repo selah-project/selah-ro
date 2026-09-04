@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 138,
+  "translation": "Mă voi închina spre templul tău cel sfânt și voi lăuda ⟨את⟩ numele tău, pentru hesedul tău și pentru adevărul tău, căci ai făcut mare peste tot numele tău cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Mă voi închina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templul"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ta cel sfânt"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "și voi lăuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele tău"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pentru"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "adevărul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ai făcut mare"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:57.211869763Z",
+  "model": "glm-5.3"
+}

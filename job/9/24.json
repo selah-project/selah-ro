@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 9:24",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Pământul este dat în mâna răului; fața judecătorilor lui o acoperă. Dacă nu ⟨el⟩ — atunci cine ⟨este⟩ el?",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Pământul"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "este dat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răului"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "judecătorilor lui"
+    },
+    {
+      "surface": "יככסה",
+      "gloss": "o acoperă"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:55.144697197Z",
+  "model": "glm-5.3"
+}

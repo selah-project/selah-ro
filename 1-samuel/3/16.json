@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și l-a strigat Eli pe ⟨את⟩ Șmuel și a zis: Șmuel, fiul meu! Și el a zis: Iată-mă!",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a strigat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Iată-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:21.539108434Z",
+  "model": "glm-5.3"
+}

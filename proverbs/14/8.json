@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Înțelepciunea celui ager ⟨este⟩ să-și înțeleagă calea, iar nesăbuința celor nesăbuiți ⟨este⟩ înșelăciune.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "Înțelepciunea"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "celui ager"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "să-și înțeleagă"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "calea"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "iar nesăbuința"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "celor nesăbuiți"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "înșelăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:53.747958397Z",
+  "model": "glm-5.3"
+}

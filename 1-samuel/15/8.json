@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și l-a prins pe Agag, regele lui Amalek, de viu, iar ⟨את⟩ tot poporul l-a nimicit cu desăvârșire prin gura sabiei.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "și l-a prins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "lui Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "de viu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot poporul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "l-a nimicit cu desăvârșire"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "prin gura"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:45:52.458917021Z",
+  "model": "glm-5.3"
+}

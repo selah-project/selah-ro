@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Până ce am venit în sanctuarele lui El — am înțeles la sfârșitul lor.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "Până ce"
+    },
+    {
+      "surface": "אָבוֹא",
+      "gloss": "am venit"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "în"
+    },
+    {
+      "surface": "מִקְדְּשֵׁי",
+      "gloss": "sanctuarele"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "אָבִינָה",
+      "gloss": "am înțeles"
+    },
+    {
+      "surface": "לְאַחֲרִיתָם",
+      "gloss": "la sfârșitul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:08.717480551Z",
+  "model": "glm-5.3"
+}

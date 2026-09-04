@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Calea credincioșiei am ales-o, judecățile tale le-am așezat înaintea mea.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "credincioșiei"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "am ales-o"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "le-am așezat înaintea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:11.929563325Z",
+  "model": "glm-5.3"
+}

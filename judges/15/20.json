@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a judecat ⟨את⟩ Israel în zilele filiștenilor douăzeci de ani.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Și a judecat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștenilor"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:00.091015153Z",
+  "model": "glm-5.3"
+}

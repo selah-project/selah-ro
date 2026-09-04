@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Nu așa ⟨este⟩ cu slujitorul meu Moșe; în toată casa mea el ⟨este⟩ credincios.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "cu slujitorul meu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "casa mea"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "credincios"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:48:09.276773486Z",
+  "model": "glm-5.3"
+}

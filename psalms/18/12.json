@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "A pus întuneric ca ascunziș al lui, împrejuru-i coliba lui — întunecime de ape, nori deși ai cerurilor.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întuneric"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "ca ascunziș al lui"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "împrejuru-i"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "coliba lui"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "întunecime de"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "nori deși"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ai cerurilor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:20.499563381Z",
+  "model": "glm-5.3"
+}

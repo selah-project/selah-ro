@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Tatăl tău a asprit ⟨את⟩ jugul nostru; și tu, acum, ușurează slujirea cea aspră a tatălui tău și jugul cel greu pe care l-a pus peste noi, și te vom sluji.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Tatăl tău"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "a asprit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jugul nostru"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "jugul nostru"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ușurează"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "slujirea"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "cea aspră"
+    },
+    {
+      "surface": "ו מעלו",
+      "gloss": "și jugul"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "cel greu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "și te vom sluji"
+    }
+  ],
+  "timestamp": "2026-09-04T07:18:27.364757796Z",
+  "model": "glm-5.3"
+}

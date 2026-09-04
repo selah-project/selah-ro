@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a fost dimineața, și a scris David o scrisoare către Ioav și a trimis-o prin mâna lui Uria.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "și a scris"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "o scrisoare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis-o"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "lui Uria"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:07.441241015Z",
+  "model": "glm-5.3"
+}

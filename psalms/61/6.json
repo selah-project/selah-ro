@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 61,
+  "translation": "Căci tu, Elohim, ai auzit făgăduielile mele; ai dat moștenirea celor ce se tem de numele tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ai auzit"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "făgăduielile mele"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "ai dat"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "moștenirea"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "celor ce se tem"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "de numele tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:20.402865584Z",
+  "model": "glm-5.3"
+}

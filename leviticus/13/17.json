@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și îl va vedea cohenul, și iată, rana s-a prefăcut în alb, și cohenul va declara curată ⟨את⟩ rana — curat este.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "Și îl va vedea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "s-a prefăcut"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "în alb"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "și va declara curată"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rana"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    }
+  ],
+  "timestamp": "2026-09-04T01:34:16.615640710Z",
+  "model": "glm-5.3"
+}

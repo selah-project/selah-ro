@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Dreptatea ta nu am ascuns-o în inima mea; fidelitatea ta și izbăvirea ta am spus; nu am tăinuit hesedul tău și adevărul tău, către adunarea mare.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "dreptatea ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "am ascuns-o"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "fidelitatea ta"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "și izbăvirea ta"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am spus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "am tăinuit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "și adevărul tău"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "către adunarea"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:07.099195317Z",
+  "model": "glm-5.3"
+}

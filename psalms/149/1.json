@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 149,
+  "translation": "Lăudați-l pe Ya, cântați lui Yahve o cântare nouă, lauda lui în adunarea celor evlavioși.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "cântați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "o cântare"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lauda lui"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "în adunarea"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "celor evlavioși"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:47.611534883Z",
+  "model": "glm-5.3"
+}

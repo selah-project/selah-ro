@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Ci din dragostea lui Yahve ⟨את⟩ voi și din păzirea jurământului ⟨את⟩ pe care l-a jurat părinților voștri a scos Yahve ⟨את⟩ voi cu mână puternică și te-a răscumpărat din casa robilor, din mâna lui Paro, regele Mițraimului.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "din dragostea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "și din păzirea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jurământul"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "jurământului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "l-a jurat"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "părinților voștri"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "a scos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "cu mână"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "puternică"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "și te-a răscumpărat"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robilor"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:53.711223651Z",
+  "model": "glm-5.3"
+}

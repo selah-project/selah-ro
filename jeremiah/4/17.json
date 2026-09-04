@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Ca păzitorii unui câmp au fost asupra ei de jur împrejur, căci ⟨את⟩ ea s-a răzvrătit împotriva mea, oracolul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "כְּשֹׁמְרֵי",
+      "gloss": "Ca păzitorii"
+    },
+    {
+      "surface": "שָׂדַי",
+      "gloss": "unui câmp"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "asupra ei"
+    },
+    {
+      "surface": "מִסָּבִיב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אֹתִי",
+      "gloss": "⟨את⟩",
+      "marks": "ea (Ierușalaimul)"
+    },
+    {
+      "surface": "מָרָתָה",
+      "gloss": "s-a răzvrătit"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T10:11:01.318710593Z",
+  "model": "glm-5.3"
+}

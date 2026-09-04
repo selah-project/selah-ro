@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci ce are omul din toată truda lui și din frământarea inimii lui, cu care se trudește sub soare?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "are"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "din toată"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "truda lui"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "și din frământarea"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inimii lui"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "se trudește"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:17.140416240Z",
+  "model": "glm-5.3"
+}

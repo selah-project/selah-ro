@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și Șaḥaraim a fost părinte în țara Moabului, după ce le-a trimis ⟨את⟩ pe Hușim și ⟨את⟩ pe Baara, soțiile lui —",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "și Șaḥaraim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a fost părinte"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabului"
+    },
+    {
+      "surface": "מן",
+      "gloss": "după"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ce le-a trimis"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe Hușim și pe Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hușim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "soțiile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:07:31.872177829Z",
+  "model": "glm-5.3"
+}

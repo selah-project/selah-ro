@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Ridică-te, căci asupra ta ⟨este⟩ cuvântul, și noi ⟨suntem⟩ cu tine: fii tare și fă!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ridică-te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "asupra ta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "și noi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "fii tare"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și fă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:58:06.790172734Z",
+  "model": "glm-5.3"
+}

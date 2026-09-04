@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a luat Moșe jumătate din sânge și a pus în vase, iar jumătate din sânge a stropit peste altar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "jumătate"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "din sânge"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "în vase"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iar jumătate"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "din sânge"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "a stropit"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:43.502862161Z",
+  "model": "glm-5.3"
+}

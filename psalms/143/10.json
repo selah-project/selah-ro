@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Învață-mă să fac voia ta, căci tu ești Eloa al meu; duhul tău cel bun mă va călăuzi în pământul cel neted.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Învață-mă"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să fac"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "voia ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloa al meu"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "duhul tău"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bun"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "mă va călăuzi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământul"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "cel neted"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:39.806413433Z",
+  "model": "glm-5.3"
+}

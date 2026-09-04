@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "și să păzească ⟨את⟩ toate uneltele Cortului Întâlnirii și ⟨את⟩ paza fiilor lui Israel, ca să facă ⟨את⟩ slujba Locașului.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "și să păzească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate uneltele Cortului Întâlnirii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "uneltele"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "paza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ca să facă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slujba Locașului"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "slujba"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Locașului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:23.606465749Z",
+  "model": "glm-5.3"
+}

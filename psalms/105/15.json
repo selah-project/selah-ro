@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Nu vă atingeți de unșii Mei și profetilor Mei nu le faceți rău!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "vă atingeți"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "de unșii Mei"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "și profetilor Mei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "faceți rău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:29.881632980Z",
+  "model": "glm-5.3"
+}

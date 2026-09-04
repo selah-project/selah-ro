@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "În a nouăa zi a lunii, s-a întărit foametea în oraș, și nu a fost pâine pentru poporul țării.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "În a nouăa (zi)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a lunii"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "s-a întărit"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "foametea"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în oraș"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pentru poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    }
+  ],
+  "timestamp": "2026-09-04T03:35:44.587773067Z",
+  "model": "glm-5.3"
+}

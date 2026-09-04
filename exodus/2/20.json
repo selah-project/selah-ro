@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a zis către fiicele lui: și unde este? De ce ați lăsat ⟨את⟩ omul acesta? Chemați-l pe el, ca să mănânce pâine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "fiicele lui"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "și unde"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "ați lăsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul acesta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "chemați-l"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "și să mănânce"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:02.207333499Z",
+  "model": "glm-5.3"
+}

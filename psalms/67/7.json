@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 67,
+  "translation": "Pământul și-a dat roada lui; ne va binecuvânta Elohim, Elohim al nostru.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Pământul"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "roada lui"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ne va binecuvânta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:47.578201709Z",
+  "model": "glm-5.3"
+}

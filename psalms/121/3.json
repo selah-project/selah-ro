@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 121,
+  "translation": "Să nu dea ⟨El⟩ să se clatine piciorul tău, să nu ațipească cel ce te păzește.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dea"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "să se clatine"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "piciorul tău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ațipească"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "cel ce te păzește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:08.904455057Z",
+  "model": "glm-5.3"
+}

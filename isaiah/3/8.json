@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Căci s-a împiedicat Ierușalaim, și Iehuda a căzut; căci limba lor și faptele lor ⟨sunt⟩ împotriva lui Yahve, ca să sfideze ochii slavei lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "s-a împiedicat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "și Iehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "a căzut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "limba lor"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "și faptele lor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ca să sfideze"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slavei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:24:57.660353422Z",
+  "model": "glm-5.3"
+}

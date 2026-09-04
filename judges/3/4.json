@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au fost ei ca să pună la încercare prin ei ⟨את⟩ Israel, ca să știe dacă vor asculta ⟨את⟩ poruncile lui Yahve, pe care le-a poruncit ⟨את⟩ părinților lor prin mâna lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Și au fost"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ca să pună la încercare"
+    },
+    {
+      "surface": "בם",
+      "gloss": "prin ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ca să știe"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "dacă vor asculta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poruncile lui Yahve"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "părinților lor"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T02:28:44.089590349Z",
+  "model": "glm-5.3"
+}

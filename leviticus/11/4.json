@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Totuși ⟨את⟩ acesta să nu-l mâncați dintre cei ce scot rumegatul și dintre cei ce despică copita: ⟨את⟩ cămila, căci rumegă el, dar copita nu o despică — necurat este el pentru voi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "totuși"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acesta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "dintre cei ce scot"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "rumegatul"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "și dintre cei ce despică"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "copita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cămila"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "cămila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "scoate"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumegatul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "dar copita"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "despică"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:47.242997331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Căci el te va scăpa de lațul vânătorului, de ciuma pustiirii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "te va scăpa"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "de lațul"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "vânătorului"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "de ciuma"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "pustiirii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:21.043775544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și am zis: Acum vor coborî filistenii asupra mea la Ghilgal, iar fața lui Yahve n-am îmbunat-o; și m-am silit, și am suit arderea de tot.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "vor coborî"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "la Ghilgal"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "și fața"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "am îmbunat"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "și m-am silit"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "și am suit"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea de tot"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:41.154274499Z",
+  "model": "glm-5.3"
+}

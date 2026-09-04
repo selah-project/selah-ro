@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 30:11",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Căci cu ⟨את⟩ tine Eu sunt, oracolul lui Yahve, ca să te mântuiesc; căci voi face un sfârșit în toate neamurile unde te-am risipit acolo; doar pe tine nu voi face sfârșit, și te-am certat la judecată, și nu te voi ierta deplin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu ⟨את⟩ tine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "להושיעך",
+      "gloss": "ca să te mântuiesc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "voi face"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "un sfârșit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "הפצותיך",
+      "gloss": "te-am risipit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pe tine",
+      "marks": "pe tine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "voi face"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sfârșit"
+    },
+    {
+      "surface": "ויסרתיך",
+      "gloss": "și te-am certat"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "la judecată"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "și ierta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנקך",
+      "gloss": "te voi ierta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:36:49.602720829Z",
+  "model": "glm-5.3"
+}

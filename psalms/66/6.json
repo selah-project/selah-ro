@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "A Prefăcut marea în uscat; prin râu au trecut pe jos; acolo ne-am bucurat în ⟨el⟩.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "A Prefăcut"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "în uscat"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "prin râu"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "au trecut"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "pe jos"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "ne-am bucurat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în ⟨el⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:12.701924774Z",
+  "model": "glm-5.3"
+}

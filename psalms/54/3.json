@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Elohim, prin numele tău mă mântuiește, și prin puterea ta fă-mi dreptate.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "prin numele tău"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mă mântuiește"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "și prin puterea ta"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "fă-mi dreptate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:34.450979256Z",
+  "model": "glm-5.3"
+}

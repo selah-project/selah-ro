@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Până când, Yahve? Te vei mânia pe vecie? Va arde ca focul gelozia ta?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "מה",
+      "gloss": "când"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Te vei mânia"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "Va arde"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "אש",
+      "gloss": "focul"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "gelozia ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:04.582620193Z",
+  "model": "glm-5.3"
+}

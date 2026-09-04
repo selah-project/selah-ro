@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Binecuvântat ⟨este⟩ Yahve, căci a făcut minunat hesedul lui față de mine, într-o cetate împresurată.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "a făcut minunat"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    },
+    {
+      "surface": "לי",
+      "gloss": "față de mine"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "într-o cetate"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "împresurată"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:38.185083798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și s-a adunat popor mult, și au astupat ⟨את⟩ toate izvoarele și ⟨את⟩ pârâul cel curgător prin mijlocul țării, zicând: De ce să vină regii Așurului și să găsească apă multă?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Și s-au adunat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mult"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "și au astupat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate izvoarele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "izvoarele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pârâul"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "pârâul"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "cel curgător"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "prin mijlocul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "să vină"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așurului"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "și să găsească"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:30:38.051845879Z",
+  "model": "glm-5.3"
+}

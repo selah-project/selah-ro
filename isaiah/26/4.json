@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Încredeți-vă în Yahve în veci de veci, căci în Ya, Yahve, ⟨este⟩ stânca veacurilor.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Încredeți-vă"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de veci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "în Ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צור",
+      "gloss": "stânca"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "veacurilor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:04.880961427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "și ⟨את⟩ Neghevul, și ⟨את⟩ câmpia, valea Ieriho, cetatea palmierilor, până la Țoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Neghevul"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Neghevul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "câmpia"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "câmpia"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "valea"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Ieriho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmierilor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Țoar"
+    }
+  ],
+  "timestamp": "2026-09-04T02:15:22.420199175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va curăți ⟨את⟩ casa cu sângele păsării și cu apele vii și cu pasărea cea vie și cu lemnul de cedar și cu izopul și cu șni tolaat.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "și va curăți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "cu sângele"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "păsării"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "și cu apele"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vii"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "și cu pasărea"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "cea vie"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "și cu lemnul"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "de cedar"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "și cu izopul"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "și cu șni"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "tolaat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:23.720408104Z",
+  "model": "glm-5.3"
+}

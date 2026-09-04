@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 17:10",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Chiar și el, fiu de vitejie, al cărui inimă este ca inima leului, se va topi de tot, căci tot Israelul știe că viteaz este tatăl tău și fii de vitejie sunt cei cu ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "chiar și el"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de vitejie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "al cărui"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ca inima"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "leului"
+    },
+    {
+      "surface": "המס",
+      "gloss": "se va topi"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "de tot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "știe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "viteaz"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "și fii"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de vitejie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el",
+      "marks": "cei care sunt cu David"
+    }
+  ],
+  "timestamp": "2026-09-04T03:01:48.930859524Z",
+  "model": "glm-5.3"
+}

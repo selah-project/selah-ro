@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Eu sunt Yahve și nu mai există ⟨altul⟩; afară de mine nu există Elohim; te-am încins ⟨cu brâul⟩, și tu nu m-ai cunoscut.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu există"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai ⟨altul⟩"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "afară de mine"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu există"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "te-am încins"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "m-ai cunoscut"
+    }
+  ],
+  "timestamp": "2026-09-04T03:51:50.284066373Z",
+  "model": "glm-5.3"
+}

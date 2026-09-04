@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a fost după șapte zile, și apele potopului au fost peste pământ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "după șapte"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și apele"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopului"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:25.265752565Z",
+  "model": "glm-5.3"
+}

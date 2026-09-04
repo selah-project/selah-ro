@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Căci viața cărnii ⟨este⟩ în sânge, și Eu l-am dat vouă pe altar, să ispășească pentru sufletele voastre, căci sângele, el ispășește viața.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "viața"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "cărnii"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "în sânge"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "și Eu"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "l-am dat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "să ispășească"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "sufletele voastre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "viața"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ispășește"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:57.158027221Z",
+  "model": "glm-5.3"
+}

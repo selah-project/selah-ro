@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "dacă vor vedea ⟨את⟩ pământul pentru care M-am jurat părinților lor — și toți cei ce M-au disprețuit nu îl vor vedea.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vor vedea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pentru care"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "M-am jurat"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toți"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "cei ce M-au disprețuit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "îl vor vedea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:48:13.215064519Z",
+  "model": "glm-5.3"
+}

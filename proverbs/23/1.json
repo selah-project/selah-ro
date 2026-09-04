@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Când șezi să mănânci ⟨את⟩ cu domnitorul, înțelege, înțelege bine ⟨את⟩ ce ⟨este⟩ înaintea ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "șezi"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "să mănânci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu domnitorul"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "domnitorul"
+    },
+    {
+      "surface": "בין",
+      "gloss": "înțelege"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "înțelege bine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce este înaintea ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:21.682499014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 24:33",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și Elazar, fiul lui Aharon, a murit; și l-au îngropat pe ⟨את⟩ el în Givata lui Pinchas, fiul lui, care i-a fost dat lui în muntele Efraim.",
+  "tokens": [
+    {
+      "surface": "ואלעזר",
+      "gloss": "Și Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a murit"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și l-au îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "pe ⟨את⟩ el (obiectul: Elazar)"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "în Givata"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "lui Pinchas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a fost dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în muntele"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    }
+  ],
+  "timestamp": "2026-09-04T07:04:34.757533106Z",
+  "model": "glm-5.3"
+}

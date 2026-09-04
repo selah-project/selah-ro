@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și voi face ⟨את⟩ pământul pustiire, fiindcă au săvârșit nelegiuire — oracolul Adonai Yahve.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Și voi face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustiire"
+    },
+    {
+      "surface": "יען",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "au săvârșit nelegiuire"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:23:55.833373836Z",
+  "model": "glm-5.3"
+}

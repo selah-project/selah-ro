@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Dacă boul va împunge un rob sau o roabă, argint — treizeci de șekeli — va da stăpânului lui, iar boul va fi împroșcat cu pietre.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "un rob"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "va împunge"
+    },
+    {
+      "surface": "השור",
+      "gloss": "boul"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "o roabă"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "de șekeli"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "stăpânului lui"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "iar boul"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "va fi împroșcat cu pietre"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:49.555515575Z",
+  "model": "glm-5.3"
+}

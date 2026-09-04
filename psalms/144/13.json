@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Granarele noastre sunt pline, dând hrană de la un fel la alt fel; turmele noastre aduc mii, zeci de mii, în piețele noastre.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "granarele noastre"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "sunt pline"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "dând"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "hrană de la un fel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "זן",
+      "gloss": "alt fel"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "turmele noastre"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "aduc mii"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "zeci de mii"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "în piețele noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:50.997221144Z",
+  "model": "glm-5.3"
+}

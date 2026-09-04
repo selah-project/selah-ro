@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Mulți sunt cei care mă urmăresc și vrăjmașii mei; de mărturiile tale nu m-am abătut.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Mulți"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "cei care mă urmăresc"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "și vrăjmașii mei"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "de mărturiile tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "m-am abătut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:02.436432835Z",
+  "model": "glm-5.3"
+}

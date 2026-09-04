@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iar Hanei îi da o parte îndoită, căci ⟨את⟩ Hana o iubea, și Yahve închisese pântecul ei.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Iar Hanei"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "o parte"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "îndoită"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o iubea"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "și Yahve"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "închisese"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "pântecul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:38:49.973580958Z",
+  "model": "glm-5.3"
+}

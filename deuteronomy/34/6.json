@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și l-a îngropat în vale, în țara Moabului, în fața Beit Peor; și n-a știut nimeni ⟨את⟩ mormântul lui, până în ziua aceasta.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Și l-a îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (pe Moșe)"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "în vale"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabului"
+    },
+    {
+      "surface": "מול",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și n-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a știut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mormântul lui"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "mormântul lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:15:05.339279147Z",
+  "model": "glm-5.3"
+}

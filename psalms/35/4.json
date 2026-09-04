@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Să fie dați rușinii și să fie de ocară cei ce-mi caută sufletul; să se tragă înapoi și să fie rușinați cei ce plănuiesc răul împotriva mea.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "să fie dați rușinii"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "și să fie de ocară"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "cei ce-mi caută"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "să se tragă"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "înapoi"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "și să fie rușinați"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "cei ce plănuiesc"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "răul împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:17.767472323Z",
+  "model": "glm-5.3"
+}

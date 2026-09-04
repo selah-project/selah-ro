@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 95,
+  "translation": "Al cărui ⟨este⟩ în mână: adâncimile pământului, și înălțimile munților sunt ale lui.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Al cărui"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mână"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "adâncimile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "și înălțimile"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munților"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sunt ale lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:18.432734470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 142,
+  "translation": "Vărs înaintea lui cugetul meu; strâmtorarea mea înaintea lui o vestesc.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Vărs"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "cugetul meu"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "strâmtorarea mea"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "o vestesc"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:49.287915612Z",
+  "model": "glm-5.3"
+}

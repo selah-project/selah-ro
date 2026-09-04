@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Căci regele se încrede în Yahve, și în hesedul Celui Preaînalt nu se va clătina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "se încrede"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "și în hesedul"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Celui Preaînalt"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicidecum"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "se va clătina"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:23.699236137Z",
+  "model": "glm-5.3"
+}

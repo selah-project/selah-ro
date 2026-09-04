@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 150,
+  "translation": "Lăudați-l cu sunet de șofar, lăudați-l cu nevel și chinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "cu sunet de"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "șofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "cu nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "și chinor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:34.277542907Z",
+  "model": "glm-5.3"
+}

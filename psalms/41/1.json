@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Către dirijorul de cântare. Un mizmor al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorul de cântare"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:53.124618919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Cine mă va duce în cetatea fortificată? Cine mă va călăuzi până în Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "mă va duce"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "în cetatea"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortificată"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "mă va călăuzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:35.383405044Z",
+  "model": "glm-5.3"
+}

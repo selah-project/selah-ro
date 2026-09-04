@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "din carnea lor să nu mâncați, și de stârvul lor să nu vă atingeți — necurați ⟨sunt⟩ ei pentru voi.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "din carnea lor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "și de stârvul lor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "să vă atingeți"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "necurați"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:22.837049523Z",
+  "model": "glm-5.3"
+}

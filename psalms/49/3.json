@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Atât fiii lui adam, cât și fiii omului, laolaltă, bogatul și sărmanul.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Atât"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lui adam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cot și"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "laolaltă"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogatul"
+    },
+    {
+      "surface": "ו为零ביון",
+      "gloss": "și sărmanul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:49.690154854Z",
+  "model": "glm-5.3"
+}

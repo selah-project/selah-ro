@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Căci nu un vrăjmaș m-a ocărât, și l-aș fi purtat; nu unul care mă urăște s-a înălțat împotriva mea, și m-aș fi ascuns de el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "un vrăjmaș"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "m-a ocărât"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "și l-aș fi purtat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "unul care mă urăște"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "s-a înălțat"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "și m-aș fi ascuns"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:34.766609998Z",
+  "model": "glm-5.3"
+}

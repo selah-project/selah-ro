@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a fost ca la zece zile, și l-a lovit Yahve ⟨את⟩ pe Nabal, și a murit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "ca la zece"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "și l-a lovit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    }
+  ],
+  "timestamp": "2026-09-04T02:51:45.069245124Z",
+  "model": "glm-5.3"
+}

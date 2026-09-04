@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Răsunați cu bucurie către Elohim, tăria noastră; strigați către Elohim lui Iaacov!",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Răsunați cu bucurie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "către Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "tăria noastră"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "strigați"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "către Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:52.786028185Z",
+  "model": "glm-5.3"
+}

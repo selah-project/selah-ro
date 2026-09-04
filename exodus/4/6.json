@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a spus Yahve lui ⟨el⟩: „Încă o dată, pune, te rog, mâna ta în sânul tău!” Și și-a pus mâna lui în sânul lui și a scos-o, și iată mâna lui lovită de țarațat, ca zăpada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui ⟨el⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Încă o dată"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "pune"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "în sânul tău"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "în sânul lui"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "și a scos-o"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "lovită de țarațat"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "ca zăpada"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:36.651830705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a zis Yahve către Șemuel: Ascultă glasul poporului, la tot ce vor zice către tine; căci nu ⟨את⟩ pe tine te-au disprețuit, ci ⟨את⟩ pe Mine M-au disprețuit, de a domni peste ei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascultă"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "la tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vor zice"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "pe tine"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "te-au disprețuit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe Mine"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "au disprețuit"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "de a domni"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:59.049243304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Căci ⟨el⟩ a vorbit, și a fost; ⟨el⟩ a poruncit, și a stat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "și a stat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:39.710174514Z",
+  "model": "glm-5.3"
+}

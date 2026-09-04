@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și i-a împrăștiat Yahve ⟨את⟩ pe ei de acolo pe fața întregului pământ, și au încetat să mai zidească cetatea.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Și i-a împrăștiat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "și au încetat"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "să mai zidească"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:05.695937336Z",
+  "model": "glm-5.3"
+}

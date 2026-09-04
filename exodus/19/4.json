@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Voi ați văzut ⟨את⟩ ceea ce am făcut Mițraimului, și v-am purtat ⟨את⟩ pe aripile de vultur și v-am adus ⟨את⟩ la Mine.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ați văzut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "וישא ואשא",
+      "gloss": "și v-am purtat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "aripele"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "de vultur"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "și am adus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la Mine"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:13.000617676Z",
+  "model": "glm-5.3"
+}

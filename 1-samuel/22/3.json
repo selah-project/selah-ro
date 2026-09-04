@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a plecat David de acolo, la Mițpa Moabului, și a spus către regele Moabului: Să iasă, te rog, tatăl meu și mama mea cu ⟨את⟩ voi, până ce voi ști ce va face Elohim pentru mine.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a plecat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "la Mițpa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabului"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabului"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "Să iasă"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "și mama mea"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "cu ⟨את⟩ voi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "voi ști"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:47.915704160Z",
+  "model": "glm-5.3"
+}

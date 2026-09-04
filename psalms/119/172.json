@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Să cânte limba mea de spusul tău, căci toate poruncile tale ⟨sunt⟩ dreptate.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "să cânte"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "limba mea"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "de spusul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:47.446857759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a luat ⟨את⟩ tigaia și a turnat-o înaintea lui, dar a refuzat să mănânce. Și a spus Aminon: „Scoateți afară orice om de la mine!” Și a ieșit orice om de la el.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigaia"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "tigaia"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "și a turnat-o"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "și a refuzat"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "să mănânce"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Aminon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "scoateți afară"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "și a ieșit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "de la el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:53.766497430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și șederea ta, și ieșirea ta, și intrarea ta ⟨le⟩ cunosc, și ⟨את⟩ furia ta împotriva mea.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Și șederea ta"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "și ieșirea ta"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "și intrarea ta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "cunosc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "furia ta"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "furia ta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:46:59.135707050Z",
+  "model": "glm-5.3"
+}

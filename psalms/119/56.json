@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Aceasta a fost partea mea, căci poruncile tale le-am păzit.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Aceasta"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(partea) mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "le-am păzit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:41.206216679Z",
+  "model": "glm-5.3"
+}

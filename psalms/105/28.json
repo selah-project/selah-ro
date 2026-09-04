@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "A trimis întunericul și a întunecat, și nu s-au răzvrătit ⟨את⟩ cuvântul lui.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "A trimis"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întunericul"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "și a întunecat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "s-au răzvrătit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul lui"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "cuvântul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:40.925635320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și dacă veți merge cu mine în keri (împotrivire) și nu veți vrea să ascultați de mine, voi adăuga peste voi lovituri de șapte ori, după păcatele voastre.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "veți merge"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "în keri (împotrivire)"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "veți vrea"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "să ascultați"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "voi adăuga"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "lovitură"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "de șapte ori"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "după păcatele voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:43.848262607Z",
+  "model": "glm-5.3"
+}

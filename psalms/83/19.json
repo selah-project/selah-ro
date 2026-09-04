@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Și să știe că tu — numele tău ⟨este⟩ Yahve — numai tu, Cel Preaînalt, peste tot pământul.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Și să știe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "numai tu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Cel Preaînalt"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:36.505498983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a luat ⟨את⟩ toată grăsimea care ⟨era⟩ pe măruntaie, și ⟨את⟩ prelungirea ficatului, și ⟨את⟩ amândouă rinichii și ⟨את⟩ grăsimea lor; și a făcut să se înalțe fum Moșe pe altar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată grăsimea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "prelungirea ficatului"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "prelungirea"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ficatului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "amândouă rinichii"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "amândouă"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "rinichii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "grăsimea lor"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "grăsimea lor"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "și a făcut să se înalțe fum"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:03.909176278Z",
+  "model": "glm-5.3"
+}

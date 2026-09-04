@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a vorbit David lui Yahve ⟨את⟩ cuvintele cântării acesteia, în ziua în care Yahve ⟨את⟩ l-a scăpat din palma tuturor dușmanilor lui și din palma lui Șaul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele cântării"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "cântării"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "a scăpat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "din palma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dușmanilor lui"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "și din palma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:05:12.776666030Z",
+  "model": "glm-5.3"
+}

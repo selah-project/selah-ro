@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Adâncul către adânc cheamă la glasul cataractelor tale; toate valurile tale și talazurile tale peste mine au trecut.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Adâncul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "adânc"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "cheamă"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "la glasul"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "cataractelor tale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "valurile tale"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "și talazurile tale"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:38.402961628Z",
+  "model": "glm-5.3"
+}

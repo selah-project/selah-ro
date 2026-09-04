@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și cohenul își va muia ⟨את⟩ degetul în sânge și va stropi din sânge de șapte ori înaintea lui Yahve, ⟨את⟩ fața perdelei sfântului.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "și va muia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degetul lui"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "degetul lui"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "în sânge"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "și va stropi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ori"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața perdelei sfântului"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perdelei"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfântului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:18.667488082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Să fie inima mea întreagă în rânduielile tale, ca să nu fiu rușinat.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "întreagă"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "în rânduielile tale"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "fiu rușinat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:03.517757027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Iată, sunt neînsemnat; ce să-ți răspund? mâna mea am pus pe gura mea.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "sunt neînsemnat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "să-ți răspund"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "am pus"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:36:35.560529411Z",
+  "model": "glm-5.3"
+}

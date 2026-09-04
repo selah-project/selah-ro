@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va spăla cel ce se curățește ⟨את⟩ hainele lui, și va rade ⟨את⟩ tot părul lui, și se va scălda în apă și va fi curat; și după aceea va intra în tabăra ⟨spre⟩ cort și va ședea în afara cortului lui șapte zile.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "și va spăla"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "cel ce se curățește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele lui"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele lui"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "și va rade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot părul lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "părul lui"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "și se va scălda"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în apă"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "și va fi curat"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "și după aceea"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "va intra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabără"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și va ședea"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "în afara"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "cortului lui"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T01:34:35.929859773Z",
+  "model": "glm-5.3"
+}

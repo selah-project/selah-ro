@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Tu, scoală-te și mergi la casa ta; la intrarea picioarelor tale în cetate, va muri copilul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "scoală-te"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "la casa ta"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "la intrarea"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "picioarelor tale"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va muri"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:41.012277367Z",
+  "model": "glm-5.3"
+}

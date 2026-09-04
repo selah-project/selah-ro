@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a scos regele ⟨את⟩ inelul său de pe mâna lui și l-a dat lui Haman, fiul lui Hamedata, agaguitul, vrăjmașul iudeilor.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Și a scos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inelul său"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "inelul său"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "și l-a dat"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "lui Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedatai"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "agaguitul"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "vrăjmașul"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:15.772837029Z",
+  "model": "glm-5.3"
+}

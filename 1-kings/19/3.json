@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a văzut, și s-a ridicat, și a mers ⟨pentru⟩ viața lui, și a ajuns la Beer-Șeba, care ⟨este⟩ al lui Iehuda, și a lăsat ⟨את⟩ slujitorul lui acolo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "și s-a ridicat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viața lui"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a ajuns"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "al lui Iehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "și a lăsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slujitorul lui"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "slujitorul lui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:59.495823856Z",
+  "model": "glm-5.3"
+}

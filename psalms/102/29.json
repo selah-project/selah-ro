@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Fiii robilor tăi vor locui, și sămânța lor înaintea ta ⟨va fi⟩ întemeiată.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiii"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robilor tăi"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "vor locui"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "și sămânța lor"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "va fi întemeiată"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:07.460378939Z",
+  "model": "glm-5.3"
+}

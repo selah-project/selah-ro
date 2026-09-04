@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Veniți, mâncați din pâinea mea și beți din vinul pe care l-am amestecat.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mâncați"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "din pâinea mea"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "și beți"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "din vinul"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "pe care l-am amestecat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:36.469003902Z",
+  "model": "glm-5.3"
+}

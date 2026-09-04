@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Se vor întoarce cei răi spre Șeol, toate neamurile care uită de Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Se vor întoarce"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "spre Șeol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "care uită de"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:57.626379990Z",
+  "model": "glm-5.3"
+}

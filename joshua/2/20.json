@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar dacă vei vesti ⟨את⟩ cuvântul nostru acesta, vom fi nevinovați de jurământul tău pe care ne-ai pus să-l jurăm.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "vei vesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul nostru acesta"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "cuvântul nostru"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "vom fi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "nevinovați"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "de jurământul tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ne-ai pus să jurăm"
+    }
+  ],
+  "timestamp": "2026-09-04T02:17:53.638359208Z",
+  "model": "glm-5.3"
+}

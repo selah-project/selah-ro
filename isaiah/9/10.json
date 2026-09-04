@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a înălțat Yahve ⟨את⟩ potrivnicii lui Rețin asupra lui, și ⟨את⟩ vrăjmașii lui i-a stârnit împotrivă.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "Și a înălțat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potrivnicii"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "potrivnicii"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "lui Rețin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "asupra lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vrăjmașii lui"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vrăjmașii lui"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "i-a stârnit împotrivă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:48.084732013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Iar eu am fost pentru ei ocară: mă văd și clatină capul.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ocară"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pentru ei"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "mă văd"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "clatină"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "capul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:36.446280444Z",
+  "model": "glm-5.3"
+}

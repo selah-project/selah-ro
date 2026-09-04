@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Să vină înaintea ta rugăciunea mea; pleacă urechea ta spre strigătul meu.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Să vină"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "pleacă"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "urechea ta"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "spre strigătul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:31.283150293Z",
+  "model": "glm-5.3"
+}

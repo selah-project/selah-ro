@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și să vedeți ⟨את⟩ pământul, ce este, și ⟨את⟩ poporul care locuiește pe el: este tare, este slab? Este puțin, sau mulț?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Și să vedeți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "care locuiește"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "este tare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "este slab"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "Este puțin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mulț"
+    }
+  ],
+  "timestamp": "2026-09-04T01:47:54.453618421Z",
+  "model": "glm-5.3"
+}

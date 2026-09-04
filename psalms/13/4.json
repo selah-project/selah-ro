@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Privește, răspunde-mi, Yahve, Elohim al meu! Luminează-mi ochii, ca să nu adorm somnul morții!",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Privește"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "răspunde-mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Luminează"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "adorm"
+    },
+    {
+      "surface": "המות",
+      "gloss": "morții"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:22.620822272Z",
+  "model": "glm-5.3"
+}

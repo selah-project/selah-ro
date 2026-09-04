@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Câte doi, câte doi au venit la Noa, în arca — mascul și femelă, cum poruncise Elohim ⟨את⟩ Noa.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "câte doi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "câte doi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arcă"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mascul"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "și femelă"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:25.265515784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar Yahve șade pentru veșnicie; a întemeiat pentru judecată scaunul său de domnie.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Iar Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pentru veșnicie"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "șade"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "a întemeiat"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "pentru judecată"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "scaunul său de domnie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:49.734535520Z",
+  "model": "glm-5.3"
+}

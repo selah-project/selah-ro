@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și poruncise lui despre lucrul acesta: să nu meargă după alți dumnezei; dar nu a păzit ⟨את⟩ ceea ce poruncise Yahve.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "și poruncise"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "despre"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "meargă"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "alți"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "a păzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": " ceea ce poruncise Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:06.921421359Z",
+  "model": "glm-5.3"
+}

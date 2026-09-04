@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și l-a alungat ⟨את⟩ omul, și a așezat la răsărit de grădina din Eden ⟨את⟩ heruvimii și ⟨את⟩ flacăra sabiei care se rotește, să păzească ⟨את⟩ drumul pomului vieții.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Și l-a alungat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "și a așezat"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "la răsărit"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "de grădina"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "din Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heruvimii"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "heruvimii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "flacăra sabiei"
+    },
+    {
+      "surface": "להט",
+      "gloss": "flacăra"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "care se rotește"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păzească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drumul pomului vieții"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drumul"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pomului"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vieții"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:35.481059555Z",
+  "model": "glm-5.3"
+}

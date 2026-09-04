@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a trimis ⟨את⟩ corbul; acela ieșea, mergând și întorcându-se, până ce s-au uscat apele de pe pământ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "corbul"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "corbul"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "acela ieșea"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "mergând"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "și întorcându-se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "s-au uscat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:26.542360653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și am auzit ⟨את⟩ glasul cuvintelor lui; și când am auzit ⟨את⟩ glasul cuvintelor lui, eu am fost cufundat în somn pe fața mea, și fața mea ⟨era⟩ către pământ.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Și am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "cuvintelor lui"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "și când am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "cuvintelor lui"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "și eu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "cufundat în somn"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "și fața mea"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "către pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:53:30.278260738Z",
+  "model": "glm-5.3"
+}

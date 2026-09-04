@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Iar tu: numește-ți ⟨את⟩ o oștire ca oștirea care a căzut de ⟨את⟩ la tine, și cal ca calul, și car ca carul, și ne vom lupta ⟨את⟩ cu ei în câmpie; dacă nu suntem mai tari decât ei! Și a ascultat de glasul lor și a făcut așa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iar tu"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "numește"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "o oștire"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "ca oștirea"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "care a căzut"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "de ⟨את⟩ la tine",
+      "marks": "calul"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "și cal"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ca calul"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "și car"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "ca carul"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "și ne vom lupta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ îi",
+      "marks": "în câmpie"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "în câmpie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "suntem mai tari"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "decât ei"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "și a ascultat"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "de glasul lor"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    }
+  ],
+  "timestamp": "2026-09-04T07:20:35.912624173Z",
+  "model": "glm-5.3"
+}

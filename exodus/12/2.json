@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Luna aceasta ⟨este⟩ pentru voi capul lunilor; întâiul este el pentru voi între lunile anului.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Luna"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "al lunilor"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "întâiul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el este"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "între lunile"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "anului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:59.726144115Z",
+  "model": "glm-5.3"
+}

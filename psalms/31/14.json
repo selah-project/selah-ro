@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Căci am auzit calomnia multora, spaimă de jur împrejur; cât s-au sfătuit ei împreună împotriva mea, au plănuit să îmi ia viața.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "calomnia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multora"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "spaimă"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "cât s-au sfătuit ei"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "să ia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "viața mea"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "au plănuit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:51.494006633Z",
+  "model": "glm-5.3"
+}

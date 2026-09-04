@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 101,
+  "translation": "Nu voi pune înaintea ochilor mei un lucru de Belial (netrebnicie); fapta celor rătăciți am urât, nu se va lipi de mine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "voi pune"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochilor mei"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un lucru"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "de Belial"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fapta"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "celor rătăciți"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "am urât"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "se va lipi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:31.299594004Z",
+  "model": "glm-5.3"
+}

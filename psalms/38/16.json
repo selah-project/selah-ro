@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Căci pe tine, Yahve, am așteptat; tu vei răspunde, Adonai, Elohimul meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pe tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "am așteptat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "vei răspunde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:09.485693619Z",
+  "model": "glm-5.3"
+}

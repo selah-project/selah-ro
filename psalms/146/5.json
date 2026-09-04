@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 146,
+  "translation": "Ferice de cel ce are în ajutorul lui pe Elohim al lui Iaacov, a cărui nădejde este în Yahve, Elohim al lui!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "are"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "în ajutorul lui"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nădejdea lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim al lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.948516122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și va fi în ziua aceea: voi răspunde — zicerea lui Yahve — voi răspunde ⟨את⟩ cerurilor, și ele vor răspunde ⟨את⟩ pământului.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "voi răspunde"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "zicerea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "voi răspunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cerurilor"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "והם",
+      "gloss": "și ele"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vor răspunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:50.368106771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Când vei zidi o casă nouă, să faci un parapet pentru acoperișul tău, ca să nu pui sânge pe casa ta, dacă va cădea căzătorul de pe el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "vei zidi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "o casă"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "să faci"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "un parapet"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "pentru acoperișul tău"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "pui"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "pe casa ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "va cădea"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "căzătorul"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:09:00.252454484Z",
+  "model": "glm-5.3"
+}

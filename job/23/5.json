@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Aș cunoaște cuvintele cu care m-ar răspunde și aș înțelege ce mi-ar spune.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "aș cunoaște"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "m-ar răspunde"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "și aș înțelege"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mi-ar spune"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:15.074574899Z",
+  "model": "glm-5.3"
+}

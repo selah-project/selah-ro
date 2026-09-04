@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și au uitat faptele lui și minunile lui, pe care le-a arătat lor.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Și au uitat"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "faptele lui"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "și minunile lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "le-a arătat lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:41.298830700Z",
+  "model": "glm-5.3"
+}

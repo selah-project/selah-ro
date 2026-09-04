@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Fiii lui Iehuda: Pereț, Hețron, Karmi, Hur și Șoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereț"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hețron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "și Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "și Hur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "și Șoval"
+    }
+  ],
+  "timestamp": "2026-09-04T08:18:32.965969056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 100,
+  "translation": "Căci bun este Yahve; pentru totdeauna ⟨este⟩ hesedul lui, și până la neam și neam credincioșia lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "דר",
+      "gloss": "neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "și neam"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "credincioșia lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:27.474092640Z",
+  "model": "glm-5.3"
+}

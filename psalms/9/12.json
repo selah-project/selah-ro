@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Cântați lui Yahve, care șade în Țion; vestiți între popoare faptele lui.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Cântați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "care șade"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "în Țion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "vestiți"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "între popoare"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "faptele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:33.940406884Z",
+  "model": "glm-5.3"
+}

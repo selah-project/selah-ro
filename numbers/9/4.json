@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a vorbit Moșe cu fiii lui Israel să facă ⟨את⟩ Pesahul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesahul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:46:43.522227382Z",
+  "model": "glm-5.3"
+}

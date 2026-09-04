@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Vezi pe vrăjmașii mei, căci s-au înmulțit, și cu ură de violență m-au urât.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "pe vrăjmașii mei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "s-au înmulțit"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "și cu ură"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violență"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "m-au urât"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:23.158988384Z",
+  "model": "glm-5.3"
+}

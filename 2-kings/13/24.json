@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a murit HazaEl, regele Aramului, și a domnit Ben-Hadad, fiul lui, în locul lui.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Și a murit"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "HazaEl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "și a domnit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:24.135935732Z",
+  "model": "glm-5.3"
+}

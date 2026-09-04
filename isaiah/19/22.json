@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și va lovi Yahve ⟨את⟩ Mițraimul, lovind și vindecând, și se vor întoarce până la Yahve, și le va răspunde și îi va vindeca.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "și va lovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mițraimul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimul"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "lovind"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "și vindecând"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "și se vor întoarce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "și le va răspunde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "și îi va vindeca"
+    }
+  ],
+  "timestamp": "2026-09-04T07:26:43.219371122Z",
+  "model": "glm-5.3"
+}

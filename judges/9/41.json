@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a rămas Avimeleh la Aruma, iar Zebul l-a alungat ⟨את⟩ pe Gaal și ⟨את⟩ pe frații lui, ca să nu mai locuiască în Șehem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și a rămas"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "la Aruma"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "iar ... a alungat"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "pe Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe frații lui"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "pe frații lui"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "ca să nu mai locuiască"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "în Șehem"
+    }
+  ],
+  "timestamp": "2026-09-04T02:32:17.043302089Z",
+  "model": "glm-5.3"
+}

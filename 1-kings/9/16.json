@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Paro, regele Mițraimului, s-a suit și a cucerit ⟨את⟩ Ghezer și a ars-o în foc, iar ⟨את⟩ cananeanul care locuia în oraș l-a ucis; și a dat-o ca zestre fiicei lui, soția lui Șelomo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "s-a suit"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "și a cucerit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ghezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Ghezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "și a ars-o"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cananeanul"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "cananeanul"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "care locuia"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în oraș"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a ucis"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "și a dat-o"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "ca zestre"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "fiicei lui"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T07:18:09.322750650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Când le este o pricină, vine la mine, și judec între un om și aproapele său, și fac cunoscut ⟨את⟩ hotărârile lui Elohim și ⟨את⟩ Tora lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "este"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o pricină"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "și judec"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapele său"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "și fac cunoscut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hotărârile"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "hotărârile"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Tora lui"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Tora lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:37.690443654Z",
+  "model": "glm-5.3"
+}

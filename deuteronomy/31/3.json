@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Yahve, Elohim al tău, el trece înaintea ta; el va nimici ⟨את⟩ popoarele acestea dinaintea ta și le vei stăpâni; Iehoșua, el trece înaintea ta, cum a vorbit Yahve.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "trece"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "va nimici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popoarele"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "dinaintea ta"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "și le vei stăpâni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "trece"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:15:47.118635185Z",
+  "model": "glm-5.3"
+}

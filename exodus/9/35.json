@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și s-a întărit inima lui Paro și nu a trimis ⟨את⟩ fiii lui Israel, cum vorbise Yahve prin mâna lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "și s-a întărit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:25.345240995Z",
+  "model": "glm-5.3"
+}

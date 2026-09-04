@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a fost după moartea lui Șaul — David s-a întors de la baterea ⟨את⟩ Amalekitului — și David a șezut în Țiclag două zile.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "și David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "de la baterea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekitului"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalekitului"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a șezut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "în Țiclag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "două"
+    }
+  ],
+  "timestamp": "2026-09-04T02:56:16.066147453Z",
+  "model": "glm-5.3"
+}

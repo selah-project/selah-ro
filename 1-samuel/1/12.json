@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a fost, pe când își înmulțea rugăciunea înaintea lui Yahve, că Eli păzea ⟨את⟩ gura ei.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pe când"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "își înmulțea"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "rugăciunea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "că Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "păzea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura ei"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gura ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:38:32.931399003Z",
+  "model": "glm-5.3"
+}

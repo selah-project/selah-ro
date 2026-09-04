@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a fost dimineața, la ridicarea darului de mâncare, și iată apă venind pe drumul Edomului, și s-a umplut țara de ⟨את⟩ apă.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "la ridicarea"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darului de mâncare"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "באים",
+      "gloss": "venind"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomului"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "și s-a umplut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:23:56.254275596Z",
+  "model": "glm-5.3"
+}

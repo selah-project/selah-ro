@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a venit la Șomeron și a lovit ⟨את⟩ pe toți rămașii lui Ahab în Șomeron, până i-a nimicit, după cuvântul lui Yahve pe care l-a grăit către Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "la Șomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți rămașii lui Ahab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "rămașii"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "lui Ahab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "în Șomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "i-a nimicit"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "l-a grăit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:21:30.563026273Z",
+  "model": "glm-5.3"
+}

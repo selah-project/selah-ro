@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a fost ploaia peste pământ patruzeci de zile și patruzeci de nopți.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ploaia"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci de"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zile"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "și patruzeci de"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nopți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:54.834605424Z",
+  "model": "glm-5.3"
+}

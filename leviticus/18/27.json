@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Căci ⟨את⟩ toate urâciunile acestea le-au făcut oamenii pământului care au fost înaintea voastră, și s-a pângărit pământul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate urâciunile acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "urâciunile"
+    },
+    {
+      "surface": "האל",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "le-au făcut"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "și s-a pângărit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:06.038697338Z",
+  "model": "glm-5.3"
+}

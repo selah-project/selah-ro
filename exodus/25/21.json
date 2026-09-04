@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și să pui ⟨את⟩ capacul ispășirii peste chivot, deasupra; și în chivot să pui ⟨את⟩ mărturia pe care ți-o voi da ție.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Și să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capacul ispășirii"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "capacul ispășirii"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chivot"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "deasupra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și în"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chivot"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mărturia"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mărturia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "voi da"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:58.367067337Z",
+  "model": "glm-5.3"
+}

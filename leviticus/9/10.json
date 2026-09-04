@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar ⟨את⟩ grăsimea și ⟨את⟩ rinichii și ⟨את⟩ lobul ficatului, de pe jertfa de păcat, le-a făcut să ardă în fum pe altar, cum poruncise Yahve ⟨את⟩ Moșe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "rinichii"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "rinichii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lobul ficatului"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lobul ficatului"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ficat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfa de păcat"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "a făcut să ardă în fum"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:45.291077999Z",
+  "model": "glm-5.3"
+}

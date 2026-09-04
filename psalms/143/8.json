@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Fă-mă să aud dimineața hesedul tău (îndurarea), căci în tine mi-am încredințat nădejdea; fă-mă să cunosc calea în care să merg, căci către tine mi-am înălțat sufletul.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "fă-mă să aud"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi-am încredințat nădejdea"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fă-mă să cunosc"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "זו",
+      "gloss": "în care"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "să merg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mi-am înălțat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:26.680202584Z",
+  "model": "glm-5.3"
+}

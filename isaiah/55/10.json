@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Căci, după cum se coboară ploaia și zăpada de la ceruri și nu se întoarce acolo, ci adăpă ⟨את⟩ pământul și îl face să rodească și să odrăslească, și dă sămânță semănătorului și pâine celui ce mănâncă,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "după cum"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "se coboară"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ploaia"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "și zăpada"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "și acolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se întoarce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "decât"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "adăpă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "și îl face să rodească"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "și să odrăslească"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "și dă"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânță"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "semănătorului"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "și pâine"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "celui ce mănâncă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:16.511860873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Să frâng Așur în țara mea și pe munții mei să-l calce ⟨piciorul⟩; și se va ridica jugul lui de pe ei, și povara lui de pe umărul lor se va depărta.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "Să frâng"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "în țara mea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "munții mei"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "să-l calce în picioare"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "și se va ridica"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "de pe ei"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "jugul lui"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "și povara lui"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "umărul lor"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "se va depărta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:54.623103835Z",
+  "model": "glm-5.3"
+}

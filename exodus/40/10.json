@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și să ungi ⟨את⟩ altarul arderii-de-jertfă și ⟨את⟩ toate uneltele lui; și să sfințești ⟨את⟩ altarul, și altarul va fi sfânt-sfințenie.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "și să ungi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-de-jertfă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uneltele lui"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "și să sfințești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sfințenie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:46.167353862Z",
+  "model": "glm-5.3"
+}

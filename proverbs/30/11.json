@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Un neam ⟨care⟩ pe tatăl său îl blestemă și ⟨את⟩ pe mama sa nu o binecuvântează.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "blestemă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe mama sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "binecuvântează"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:44.938549589Z",
+  "model": "glm-5.3"
+}

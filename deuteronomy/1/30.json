@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Yahve, Elohim vostru, cel ce merge înaintea voastră, el se va lupta pentru voi, după tot ce a făcut ⟨את⟩ cu voi în Mițraim, înaintea ochilor voștri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "cel ce merge"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "se va lupta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ cu voi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "înaintea ochilor voștri"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:48.725717568Z",
+  "model": "glm-5.3"
+}

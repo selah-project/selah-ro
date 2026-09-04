@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "⟨את⟩ glasul șofarului a auzit și nu s-a păzit — sângele lui asupra lui va fi; iar el, dacă s-a păzit, viața lui a scăpat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul șofarului"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "șofarului"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "s-a păzit"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "asupra lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iar el"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "s-a păzit"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viața lui"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "a scăpat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:23:26.606124248Z",
+  "model": "glm-5.3"
+}

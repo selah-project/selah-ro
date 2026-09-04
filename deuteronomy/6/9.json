@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și le vei scrie pe ușorii casei tale și pe porțile tale.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "și le vei scrie"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ușorii"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "casei tale"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "și pe porțile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:04.234160575Z",
+  "model": "glm-5.3"
+}

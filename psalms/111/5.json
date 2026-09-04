@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 111,
+  "translation": "Pradă a dat celor ce se tem de el; va ține minte pe veci legământul său.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "Pradă"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "celor ce se tem de el"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "va ține minte"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe veci"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "legământul său"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:07.256314937Z",
+  "model": "glm-5.3"
+}

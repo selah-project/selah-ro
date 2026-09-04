@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Ram a născut ⟨את⟩ Aminadav, și Aminadav a născut ⟨את⟩ Nahșon, căpetenie a fiilor lui Iuda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Și Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "și Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahșon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahșon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "căpetenie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a fiilor"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iuda"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:50.486060782Z",
+  "model": "glm-5.3"
+}

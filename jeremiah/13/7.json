@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și m-am dus la Perat și am săpat și am luat ⟨את⟩ brâul din locul în care îl ascunsesem acolo; și iată, se stricase brâul — nu era bun la nimic.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Și m-am dus"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "la Perat"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "și am săpat"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "și am luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brâul"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "brâul"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "îl ascunsesem"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "se stricase"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "brâul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "era bun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "la nimic"
+    }
+  ],
+  "timestamp": "2026-09-04T04:03:15.654671891Z",
+  "model": "glm-5.3"
+}

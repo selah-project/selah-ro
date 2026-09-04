@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Pe cel ce moare din Ahav în cetate îl vor mânca câinii, și pe cel ce moare în câmp îl vor mânca păsările cerurilor.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "pe cel ce moare"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "din Ahav"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "câinii"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "și pe cel ce moare"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "păsările"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:36.699552926Z",
+  "model": "glm-5.3"
+}

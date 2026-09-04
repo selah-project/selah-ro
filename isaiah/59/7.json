@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Picioarele lor aleargă la rău și se grăbesc să verse sânge nevinovat; gândurile lor sunt gânduri de răutate, prăpăd și sfărâmare ⟨sunt⟩ în cărările lor.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "picioarele lor"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "la rău"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "aleargă"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "și se grăbesc"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "să verse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "gândurile lor"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "gânduri"
+    },
+    {
+      "surface": "און",
+      "gloss": "de răutate"
+    },
+    {
+      "surface": "שד",
+      "gloss": "prăpăd"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "și sfărâmare"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "în cărările lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:31:22.159547809Z",
+  "model": "glm-5.3"
+}

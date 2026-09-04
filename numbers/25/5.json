@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a spus Moșe către judecătorii lui Israel: Ucideți-l fiecare pe oamenii săi, pe cei ce s-au alipit de Baal Peor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "judecătorii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "Ucideți-l"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "pe oamenii săi"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "pe cei ce s-au alipit"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "de Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:55:44.705151052Z",
+  "model": "glm-5.3"
+}

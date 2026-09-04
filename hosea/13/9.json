@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Te-ai pierdut, Israel — căci în mine ⟨este⟩ ajutorul tău.",
+  "tokens": [
+    {
+      "surface": "שִׁחֶתְךָ",
+      "gloss": "te-ai pierdut"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בִי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "בְעֶזְרֶךָ",
+      "gloss": "ajutorul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:04.538853060Z",
+  "model": "glm-5.3"
+}

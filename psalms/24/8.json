@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Cine este acesta, regele slavei? Yahve, puternic și viteaz, Yahve, viteaz în război!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "slavei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "puternic"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "și viteaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "viteaz"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "în război"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:35.414813872Z",
+  "model": "glm-5.3"
+}

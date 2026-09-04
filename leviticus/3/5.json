@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și îl ⟨את⟩ vor arde fiii lui Aharon pe altar, peste arderea de tot, care ⟨este⟩ peste lemne, care ⟨sunt⟩ peste foc — ofrandă de foc, mireasmă de odihnă pentru Yahve.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "vor arde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "îl ⟨את⟩",
+      "marks": "ofranda (grăsimea)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altarul"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea de tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "lemnele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "האש",
+      "gloss": "focul"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofrandă de foc"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mireasmă"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "de odihnă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:50.162447611Z",
+  "model": "glm-5.3"
+}

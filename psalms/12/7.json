@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Cuvintele lui Yahve sunt cuvinte curate: argint lămurit în [[cuptor]] de pământ, rafinat de șapte ori.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "curate"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "lămurit"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "în cuptor"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "de pământ"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "rafinat"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "de șapte ori"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:15.726840950Z",
+  "model": "glm-5.3"
+}

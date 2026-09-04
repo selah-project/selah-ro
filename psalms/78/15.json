@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "A crăpat stânci în pustie și i-a adăpat ca ⟨din⟩ adâncuri mari.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "A crăpat"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "stânci"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustie"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "și i-a adăpat"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "ca adâncuri"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mari"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:46.028501314Z",
+  "model": "glm-5.3"
+}

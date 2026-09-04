@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a adus ⟨את⟩ berbecul arderii-depline, și Aharon și fiii lui și-au sprijinit ⟨את⟩ mâinile lor pe capul berbecului.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Și a adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berbecul arderii-depline"
+    },
+    {
+      "surface": "איל",
+      "gloss": "berbecul"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-depline"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "și au sprijinit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "și fiii lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lor"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinile lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbecului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:58.052741284Z",
+  "model": "glm-5.3"
+}

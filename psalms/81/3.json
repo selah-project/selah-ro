@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Ridicați un cântec cu instrumente și dați timpanul, alăuta plăcută cu nabalul",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ridicați"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "un cântec cu instrumente"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "și dați"
+    },
+    {
+      "surface": "תף",
+      "gloss": "timpanul"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "alăuta"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "plăcută"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabalul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:43.190739852Z",
+  "model": "glm-5.3"
+}

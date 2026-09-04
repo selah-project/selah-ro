@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Fața lui Yahve ⟨este⟩ împotriva celor ce fac rău, ca să le taie pomenirea de pe pământ.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "Fața"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "împotriva celor ce fac"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ca să le taie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de pe pământ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "pomenirea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:42.998184997Z",
+  "model": "glm-5.3"
+}

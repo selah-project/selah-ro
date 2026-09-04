@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "Lăudați pe Ya! Fericiți ⟨sunt⟩ omul ⟨care⟩ se teme de ⟨את⟩ Yahve; în poruncile lui găsește plăcere foarte.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Fericiți"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se teme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "în poruncile lui"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "găsește plăcere"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:50.133722296Z",
+  "model": "glm-5.3"
+}

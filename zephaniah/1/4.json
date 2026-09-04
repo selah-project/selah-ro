@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și voi întinde mâna mea asupra lui Iuda și asupra tuturor locuitorilor din Ierușalaim, și voi stârpi din locul acesta ⟨את⟩ rămășița lui Baal, ⟨את⟩ numele chemarimilor împreună cu cohenii.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "Și voi întinde"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "locuitorilor"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "și voi stârpi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rămășița lui Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "rămășița"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "lui Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele chemarimilor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "chemarimilor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenii"
+    }
+  ],
+  "timestamp": "2026-09-04T04:48:16.807625706Z",
+  "model": "glm-5.3"
+}

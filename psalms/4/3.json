@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Fiii oamenilor, până când slava mea ⟨va fi⟩ pentru rușine? Iubiți deșărtăciunea, căutați minciuna! Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oamenilor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מה",
+      "gloss": "când"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "slava mea"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "pentru rușine"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Iubiți"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "deșărtăciunea"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "căutați"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "minciuna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:48.761764580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și vei lua ⟨את⟩ taurul de jertfă pentru păcat și îl vei arde în locul rânduit al casei, în afara sanctuarului.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Și vei lua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taurul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "taurul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "de jertfă pentru păcat"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "și îl vei arde"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "în locul rânduit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "al casei"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "în afara"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "sfântului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:35:33.541119163Z",
+  "model": "glm-5.3"
+}

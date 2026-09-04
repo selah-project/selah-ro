@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și am luat la vremea aceea ⟨את⟩ pământul din mâna celor doi regi ai emoriților, care erau dincoace de Iarden, de la pârâul Arnon până la muntele Hermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Și am luat"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "la vremea"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "celor doi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ai emoriților"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "erau dincoace de"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "de la pârâul"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    }
+  ],
+  "timestamp": "2026-09-04T06:57:03.721176159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "A zis: „după cuvintele voastre, așa ⟨este⟩”; și i-a trimis și au plecat; și a legat ⟨את⟩ firul roșu la fereastră.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "după cuvintele voastre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "și i-a trimis"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au plecat"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "și a legat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firul roșu"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "firul"
+    },
+    {
+      "surface": "השני",
+      "gloss": "roșu"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "la fereastră"
+    }
+  ],
+  "timestamp": "2026-09-04T02:17:04.573436938Z",
+  "model": "glm-5.3"
+}

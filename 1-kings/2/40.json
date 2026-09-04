@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "S-a sculat Șimei și a înșeuat ⟨את⟩ măgarul lui și a mers spre Gat, la Achiș, ca să-și caute ⟨את⟩ robii lui; și a mers Șimei și a adus ⟨את⟩ robii lui din Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "S-a sculat"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Șimei"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "și a înșeuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măgarul lui"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "măgarul lui"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "spre Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Achiș"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ca să-și caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robii lui"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "robii lui"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Șimei"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robii lui"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "robii lui"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "din Gat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:48.003863112Z",
+  "model": "glm-5.3"
+}

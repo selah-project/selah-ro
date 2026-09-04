@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a trăit Șet după nașterea lui ⟨את⟩ Enoș șapte ani și opt sute de ani, și a născut fii și fiice.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Și a trăit"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Șet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nașterea lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoș"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoș"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "și opt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "și fiice"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:05.963497314Z",
+  "model": "glm-5.3"
+}

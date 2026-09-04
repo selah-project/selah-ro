@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Să se scrie aceasta pentru neamul de pe urmă, și poporul care va fi creat Îl va lăuda pe Ya.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "să se scrie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pentru neamul"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "de pe urmă"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și poporul"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "care va fi creat"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "va lăuda"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:11.198775849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Veniți și vedeți faptele lui Elohim: înfricoșător ⟨este⟩ în faptele lui asupra fiilor omului.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "și vedeți"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "înfricoșător"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "în faptele lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:12.701624292Z",
+  "model": "glm-5.3"
+}

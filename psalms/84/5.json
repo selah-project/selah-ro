@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 84,
+  "translation": "Fericiți cei ce locuiesc în casa ta; mereu te laudă. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Fericiți"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "cei ce locuiesc"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "în casa ta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mereu"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "te laudă"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:09.036576356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Și a chemat foamete peste ⟨את⟩ țara, tot toiagul pâinii l-a frânt.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "foamete"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "toiagul"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinii"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "l-a frânt"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:29.882114435Z",
+  "model": "glm-5.3"
+}

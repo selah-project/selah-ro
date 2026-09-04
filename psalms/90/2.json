@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Înainte de a se naște munții și înainte de a fi născut pământul și lumea, din veac și până în veac, tu ești El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Înainte de"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "a se naște"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "și a fi născut"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "și lumea"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "din veac"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:54.372973508Z",
+  "model": "glm-5.3"
+}

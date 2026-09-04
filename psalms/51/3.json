@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Îndură-te de mine, Elohim, după hesedul tău (îndurarea ta), după mulțimea îndurărilor tale șterge fărădelegile mele.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Îndură-te de mine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "după hesedul tău"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "după mulțimea"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "îndurărilor tale"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "șterge"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "fărădelegile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:19.671052634Z",
+  "model": "glm-5.3"
+}

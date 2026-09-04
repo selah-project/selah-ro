@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și i-a spus femeia lui Eliyahu: ce ⟨este⟩ între mine și tine, omule lui Elohim? Ai venit la mine să pui în aminte ⟨את⟩ nelegiuirea mea și să omori ⟨את⟩ fiul meu?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "femeia către"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לי",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "și tine"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omule"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "Ai venit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "să pui în aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelegiuirea mea"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "nelegiuirea mea"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "și să omori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul meu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:30.058587045Z",
+  "model": "glm-5.3"
+}

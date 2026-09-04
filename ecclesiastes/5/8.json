@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Iar câștigul pământului, în toate ⟨este pentru⟩ rege — ⟨iar⟩ un câmp lucrat.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Iar câștigul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "היא",
+      "gloss": "el este"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "câmpului"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "lucrat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:24.923690277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a văzut Efraim ⟨את⟩ boala lui, și Iehuda ⟨את⟩ rana lui; și a mers Efraim la Așur și a trimis la regele Iarav — dar el nu poate să vindece pentru voi și nu poate să îndepărteze de la voi rana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boala lui"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "boala lui"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "și Iehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rana lui"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "rana lui"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יירב",
+      "gloss": "Iarav"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dar el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "poate"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "să vindece"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "va îndepărta"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "de la voi"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:33.113459062Z",
+  "model": "glm-5.3"
+}

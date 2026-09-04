@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Cădea ar cădea, dar nu va fi doborât, căci Yahve îi sprijină mâna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Cădea"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ar cădea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "va fi doborât"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "sprijină"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:42.397094954Z",
+  "model": "glm-5.3"
+}

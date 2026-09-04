@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Și a adus Iosif ⟨את⟩ Iaacov, tatăl lui, și l-a pus să stea înaintea lui Paro; și a binecuvântat Iaacov ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a adus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl lui"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "și l-a pus să stea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și a binecuvântat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:27.144390912Z",
+  "model": "glm-5.3"
+}

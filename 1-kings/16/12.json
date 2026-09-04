@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a nimicit Zimri ⟨את⟩ toată casa lui Bașa, după cuvântul lui Yahve, pe care l-a grăit către Bașa prin mâna lui Iehu naviul,",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Și a nimicit"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată casa lui Bașa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "lui Bașa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "l-a grăit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bașa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "lui Iehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:17:10.278282494Z",
+  "model": "glm-5.3"
+}

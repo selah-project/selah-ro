@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Iar ⟨את⟩ casa sa a clădit Șelomo treisprezece ani, și a isprăvit ⟨את⟩ toată casa lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iar ⟨את⟩",
+      "marks": "casa sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa sa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a clădit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trei"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "și a isprăvit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată casa lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:17:10.769051934Z",
+  "model": "glm-5.3"
+}

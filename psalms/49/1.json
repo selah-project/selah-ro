@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Către dirijorului ⟨corului⟩, al fiilor lui Korah, un mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorului"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "al fiilor"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:49.689722921Z",
+  "model": "glm-5.3"
+}

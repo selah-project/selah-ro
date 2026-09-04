@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Dreapta ta, Yahve, strălucește în tărie; dreapta ta, Yahve, sfărâmă pe vrăjmaș.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "strălucește"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "în tărie"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "sfărâmă"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "pe vrăjmaș"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:23.713855410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Ca focul ⟨care⟩ arde pădurea și ca flacăra ⟨care⟩ aprinde munții —",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "ca focul"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "arde"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pădurea"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "și ca flacăra"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "aprinde"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:41.384335501Z",
+  "model": "glm-5.3"
+}

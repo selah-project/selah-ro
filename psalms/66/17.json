@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Către el cu gura am strigat, și înălțarea ⟨era⟩ sub limba mea.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cu gura"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "am strigat"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "și înălțarea"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "limba mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:35.063150356Z",
+  "model": "glm-5.3"
+}

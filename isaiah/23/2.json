@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Amuțiți, locuitori ai insulei! Neguțătorul lui Țidon, cel care trece marea, te-a umplut.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Amuțiți"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "locuitori"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ai insulei"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "Neguțătorul"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "lui Țidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "cel care trece"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "te-a umplut"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:09.036436471Z",
+  "model": "glm-5.3"
+}

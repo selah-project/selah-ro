@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Chiar și peste robii și peste roabele ⟨voastre⟩, în zilele acelea, voi turna ⟨את⟩ duhul meu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Chiar și"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "robii"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "roabele"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "acelea"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "voi turna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duhul meu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:08.901034673Z",
+  "model": "glm-5.3"
+}

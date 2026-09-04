@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Chiar dacă aș merge prin valea umbrei morții, nu mă tem de rău, căci tu ⟨ești⟩ cu mine; toiagul tău și cârja ta — ele mă mângâie.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Chiar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aș merge"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "prin valea"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "umbrei morții"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mă tem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "de rău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "toiagul tău"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "și cârja ta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ele"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "mă mângâie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:00.465992945Z",
+  "model": "glm-5.3"
+}

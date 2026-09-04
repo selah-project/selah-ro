@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "și pe un sărac să nu-l cinstesti în judecata lui.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "și pe un sărac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "să nu-l cinstesti"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "în judecata lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:08.404719991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Să chiuim de bucurie în izbăvirea ta și în Numele lui Elohim al nostru să ne înălțăm steagul; să împlinească Yahve toate cererile tale.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "să chiuim de bucurie"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "în izbăvirea ta"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "și în Numele"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lui Elohim al nostru"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "să ne înălțăm steagul"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "să împlinească"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "cererile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:47.581142123Z",
+  "model": "glm-5.3"
+}

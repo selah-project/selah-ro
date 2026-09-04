@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și voi trimite înaintea ta un sol și voi alunga ⟨את⟩ Canaanitul, Emoritul, și Hititul, și Perizitul, Hivitul și Ievusitul.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Și voi trimite"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "un sol"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "și voi alunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Canaanitul (și neamurile de după el)"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Canaanitul"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoritul"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "și Hititul"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "și Perizitul"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivitul"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "și Ievusitul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:40.859504806Z",
+  "model": "glm-5.3"
+}

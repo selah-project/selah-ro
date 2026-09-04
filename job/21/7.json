@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 21:7",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "De ce trăiesc cei răi, îmbătrânesc, ba chiar trec în putere și bogăție?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "trăiesc"
+    },
+    {
+      "surface": "עתקו",
+      "gloss": "îmbătrânesc"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ba chiar"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "trec în putere"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "și bogăție"
+    }
+  ],
+  "timestamp": "2026-09-04T05:31:27.531965090Z",
+  "model": "glm-5.3"
+}

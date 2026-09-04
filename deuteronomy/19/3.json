@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Să pregătești pentru tine drumul și să împarți în trei ⟨את⟩ hotarul pământului tău, pe care ți-l va da de moștenire Yahve, Elohim al tău, și va fi să fugă acolo orice ucigaș.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "să pregătești"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "drumul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "și să împarți în trei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hotarul"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hotarul"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "pământului tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "ți-l va da de moștenire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "să fugă"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ucigaș"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:36.678666295Z",
+  "model": "glm-5.3"
+}

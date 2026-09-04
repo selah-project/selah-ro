@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și s-au sculat în amurg să intre la tabăra lui Aram, și au venit până la capătul taberei lui Aram, și iată nu era acolo niciun om.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Și s-au sculat"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "în amurg"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "să intre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabăra"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "lui Aram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "capătul"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "taberei"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "lui Aram"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu era"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "niciun om"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:45.271952773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 30:13",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și i-a spus David: al cui ești tu și de unde ești tu? Și el a spus: sunt un tânăr din Mițraim, rob al unui om amalecit; și stăpânul meu m-a părăsit, căci am fost bolnav de trei zile.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și i-a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למי",
+      "gloss": "al cui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "și de unde"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un tânăr"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "al unui om"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amalecit"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "și m-a părăsit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stăpânul meu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "am fost bolnav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de zile"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:09.614345263Z",
+  "model": "glm-5.3"
+}

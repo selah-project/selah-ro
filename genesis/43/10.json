@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Căci, dacă nu am fi zăbovit, ne-am fi întors acum a doua oară.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "dacă nu"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "am fi zăbovit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cu adevărat"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "ne-am fi întors"
+    },
+    {
+      "surface": "זה",
+      "gloss": "această"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "oară (a doua)"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:05.133118055Z",
+  "model": "glm-5.3"
+}

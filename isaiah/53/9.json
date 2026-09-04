@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Și a dat ⟨את⟩ celor răi mormântul lui, și ⟨את⟩ bogatului în morțile lui, pentru că nu a făcut violență și nu era înșelăciune în gura lui.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celor răi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "mormântul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bogatului"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogatului"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "în morțile lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violință"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "înșelăciune"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "în gura lui"
+    }
+  ],
+  "timestamp": "2026-09-04T10:11:16.889084078Z",
+  "model": "glm-5.3"
+}

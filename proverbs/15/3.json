@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "În tot locul ochii lui Yahve privesc pe cei răi și pe cei buni.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "În tot"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "privesc"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pe cei răi"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "și pe cei buni"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:07.291219903Z",
+  "model": "glm-5.3"
+}

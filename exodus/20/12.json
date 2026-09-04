@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Cinstește ⟨את⟩ pe tatăl tău și ⟨את⟩ pe mama ta, pentru ca să se lungită zilele tale peste pământul pe care Yahve, Elohimul tău, ți-l dă.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Cinstește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tatăl tău"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "pe tatăl tău"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe mama ta"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "pe mama ta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru ca"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "să se lungită"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "zilele tale"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ți-l"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:57.771265417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "El înfricoșător în sfatul sfinților, mare și de temut peste toți cei din jurul lui.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "înfricoșător"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "în sfatul"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sfinților"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "și de temut"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "cei din jurul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:54.231640482Z",
+  "model": "glm-5.3"
+}

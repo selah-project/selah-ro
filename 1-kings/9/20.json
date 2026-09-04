@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "tot poporul care a rămas dintre Emoriți, Hititi, Periziți, Hiviti și Ievusiți, care nu sunt dintre fiii lui Israel —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "care a rămas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriții"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitiții"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Periziții"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiviții"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "și Ievusiții"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dintre fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sunt ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:13:46.939338544Z",
+  "model": "glm-5.3"
+}

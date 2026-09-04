@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Foc și grindină, zăpadă și ceață, vânt de furtună, care îi face cuvântul!",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Foc"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "și grindină"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "zăpadă"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "și ceață"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vânt"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "de furtună"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "care face"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "cuvântul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:07.956274025Z",
+  "model": "glm-5.3"
+}

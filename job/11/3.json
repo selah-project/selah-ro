@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Oamenii vor tăcea la minciunile tale, și tu îți bați joc, și nu ⟨este⟩ nimeni care să te rușineze?",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "la minciunile tale"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "Oamenii"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "vor tăcea"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "și tu îți bați joc"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "nimeni care să te rușineze"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:49.066668632Z",
+  "model": "glm-5.3"
+}

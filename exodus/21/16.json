@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Iar cine fură un om și îl vinde, și este găsit în mâna lui, cu moarte să fie omorât.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Iar cine fură"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "și îl vinde"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "și este găsit"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    },
+    {
+      "surface": "מות",
+      "gloss": "cu moarte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "să fie omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:50.956104375Z",
+  "model": "glm-5.3"
+}

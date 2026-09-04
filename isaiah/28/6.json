@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "și pentru duh de judecată celui ce șade la judecată și pentru tărie celor ce întorc bătălia la poartă.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "și pentru duh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "de judecată"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "celui ce șade"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "judecată"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "și pentru tărie"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "celor ce întorc"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bătălia"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "la poartă"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:20.481697659Z",
+  "model": "glm-5.3"
+}

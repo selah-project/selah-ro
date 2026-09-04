@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Nordul și sudul tu le-ai creat; Tavor și Hermon în numele tău vor cânta de bucurie.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Nordul"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "și sudul"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "le-ai creat"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "și Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "în numele tău"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vor cânta de bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:52.557245186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și au slujit ⟨את⟩ idolii lor, și aceștia le-au fost ⟨pentru⟩ cursă.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Și au slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolii lor"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "idolii lor"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "⟨pentru⟩ cursă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:47.593952458Z",
+  "model": "glm-5.3"
+}

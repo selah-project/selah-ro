@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Vocea lui Yahve ⟨este⟩ cu putere; vocea lui Yahve ⟨este⟩ cu măreție.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vocea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "cu putere"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vocea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "cu măreție"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:59.270207508Z",
+  "model": "glm-5.3"
+}

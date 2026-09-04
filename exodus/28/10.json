@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "șase dintre numele lor pe piatra cea dintâi, și ⟨את⟩ numele celor șase rămași pe piatra a doua, după nașterea lor.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "șase"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "dintre numele lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "piatra"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "cea dintâi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "numele celor șase rămași"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "numele"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "celor șase"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "rămași"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "piatra"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a doua"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "după nașterea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:45.624484293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și au făcut așa vrăjitorii cu vrăjitoriile lor ca să scoată ⟨את⟩ puricii, dar n-au putut; și au fost puricii pe om și pe dobitoc.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Și au făcut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "vrăjitorii"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "cu vrăjitoriile lor"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ca să scoată"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puricii"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "puricii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "au putut"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "puricii"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pe om"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "și pe dobitoc"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:33.164962396Z",
+  "model": "glm-5.3"
+}

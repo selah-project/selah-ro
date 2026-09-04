@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Au vărsat sângele lor ca apele împrejurul Ierușalaimului, și nu ⟨este⟩ nimeni să îngroape.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Au vărsat"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "sângele lor"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ca apele"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "împrejurul"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "nimeni să îngroape"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:24.259087802Z",
+  "model": "glm-5.3"
+}

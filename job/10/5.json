@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Sunt zilele tale ca zilele muritorului, sau anii tăi ca zilele omului?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "ca zilele"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "muritorului"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "zilele tale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "anii tăi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ca zilele"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:40:01.646024202Z",
+  "model": "glm-5.3"
+}

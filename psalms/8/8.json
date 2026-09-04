@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Turma și boii, toate ⟨le⟩, și chiar fiarele câmpului.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "turma"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "și boii"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toate ⟨le⟩"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "fiarele"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "câmpului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:01.678118832Z",
+  "model": "glm-5.3"
+}

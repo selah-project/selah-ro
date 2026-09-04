@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Dar tu, Israel, robul meu, Iaacov, pe care l-am ales, sămânță a lui Avraham, iubitul meu —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dar tu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robul meu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "l-am ales"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânță"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "a lui Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "iubitul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:00.550360151Z",
+  "model": "glm-5.3"
+}

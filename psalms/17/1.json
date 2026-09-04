@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Rugăciune a lui David. Ascultă, Yahve, dreptatea, ia aminte la strigătul meu, pleacă-ți urechea la rugăciunea mea — ⟨cea⟩ fără înșelăciune pe buze.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Rugăciune"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a lui David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ia aminte"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "la strigătul meu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pleacă-ți urechea"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la rugăciunea mea"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "fără"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "pe buze"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "înșelăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:40.303549983Z",
+  "model": "glm-5.3"
+}

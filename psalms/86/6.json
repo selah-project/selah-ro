@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Pleacă urechea, Yahve, rugăciunea mea și ia aminte la glasul cererilor mele!",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Pleacă urechea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "și ia aminte"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la glasul"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "cererilor mele"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.571572089Z",
+  "model": "glm-5.3"
+}

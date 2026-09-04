@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a zis: Aduceți-mi un vas nou și puneți sare în el. Și i l-au adus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Aduceți"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "un vas"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "și puneți"
+    },
+    {
+      "surface": "שם",
+      "gloss": "în el"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "sare"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "Și i l-au adus"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:44.965879659Z",
+  "model": "glm-5.3"
+}

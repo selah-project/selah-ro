@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Să trec, te rog, și să văd ⟨את⟩ pământul cel bun care ⟨este⟩ dincolo de Iarden, muntele acesta bun și Levanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Să trec"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "și să văd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul cel bun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "cel bun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "dincolo de"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "și Levanon"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:49.143109653Z",
+  "model": "glm-5.3"
+}

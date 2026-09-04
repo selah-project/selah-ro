@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Omul în cinste și nu înțelege: a fost asemănat cu vitele, sunt pierduți ⟨ei⟩.",
+  "tokens": [
+    {
+      "surface": "אָדָם",
+      "gloss": "Omul"
+    },
+    {
+      "surface": "בִּיקָר",
+      "gloss": "în cinste"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יָבִין",
+      "gloss": "înțelege"
+    },
+    {
+      "surface": "נִמְשַׁל",
+      "gloss": "a fost asemănat"
+    },
+    {
+      "surface": "כַּבְּהֵמוֹת",
+      "gloss": "cu vitele"
+    },
+    {
+      "surface": "נִדְמוּ",
+      "gloss": "sunt pierduți"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:01.835134367Z",
+  "model": "glm-5.3"
+}

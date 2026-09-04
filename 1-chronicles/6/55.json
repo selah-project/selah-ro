@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "și din jumătatea seminției lui Menașe: ⟨את⟩ Aner cu pășunile ei și ⟨את⟩ Bilam cu pășunile ei, pentru familija rămasă a fiilor lui Kehat.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "și din jumătatea"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "seminției"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "lui Menașe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aner"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pășunile ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pășunile ei"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "pentru familia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a fiilor"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "lui Kehat"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "rămase"
+    }
+  ],
+  "timestamp": "2026-09-04T06:07:35.936764248Z",
+  "model": "glm-5.3"
+}

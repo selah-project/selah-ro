@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "și să nu-i dați tăcere, până întărește și până face ⟨את⟩ Ierușalaim o laudă pe pământ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "să dați"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "tăcere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "întărește"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "o laudă"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T03:56:26.351420397Z",
+  "model": "glm-5.3"
+}

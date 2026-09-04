@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și era: când ridica Moșe mâna sa, biruia Israel; iar când lăsa mâna sa să se odihnească, biruia Amalek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și era"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ridica"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna sa"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "biruia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "iar când"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "lăsa să se odihnească"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna sa"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "biruia"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:24.433058402Z",
+  "model": "glm-5.3"
+}

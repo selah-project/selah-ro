@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Blestemând pe tatăl său și pe mama sa, candela lui se va stinge în adâncul întunericului.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "Blestemând"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "pe tatăl său"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "și pe mama sa"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "se va stinge"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "candela lui"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "în adâncul"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întunericului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:45.187163996Z",
+  "model": "glm-5.3"
+}

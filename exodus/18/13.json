@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a fost a doua zi, și a șezut Moșe să judece ⟨את⟩ poporul, și a stat poporul înaintea lui Moșe, de dimineață până seara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "a doua zi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a șezut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "să judece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "și a stat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "על",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dimineață"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "seara"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:37.689790587Z",
+  "model": "glm-5.3"
+}

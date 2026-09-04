@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 70,
+  "translation": "Elohim, ⟨ca⟩ să mă scape, Yahve, spre ajutorul meu — grăbește-te!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "să mă scape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "spre ajutorul meu"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "grăbește-te"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:38.552692663Z",
+  "model": "glm-5.3"
+}

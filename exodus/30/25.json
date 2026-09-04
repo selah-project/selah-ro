@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și îl vei face ⟨את⟩ untdelemn de ungere sfântă, amestec de mirodenii, lucru al făcătorului de miresme; untdelemn de ungere sfântă va fi el.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Și vei face"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "îl ⟨את⟩",
+      "marks": "untdelemn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemn"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "de ungere"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfântă"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "amestec de mirodenii"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "de mirodenii"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucru"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "al făcătorului de miresme"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemn"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "de ungere"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfântă"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:51.596523580Z",
+  "model": "glm-5.3"
+}

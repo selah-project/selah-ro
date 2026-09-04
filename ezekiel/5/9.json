@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și voi face în tine ⟨את⟩ ceea ce nu am făcut și ⟨את⟩ ceea ce nu voi mai face la fel, din pricina tuturor urâciunilor tale.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "și voi face"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ceea ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "voi face"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "la fel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "יען",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "urâciunilor tale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:40:51.878227353Z",
+  "model": "glm-5.3"
+}

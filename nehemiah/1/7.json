@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Am făgăduit cu stricaciune către tine și n-am păzit ⟨את⟩ poruncile și ⟨את⟩ hotarele și ⟨את⟩ judecățile pe care le-ai poruncit ⟨את⟩ lui Moșe, slujitorul tău.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "am stricat cu jar"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "am făgăduit stricaciune"
+    },
+    {
+      "surface": "לך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "am păzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poruncile"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hotarele"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hotarele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "judecățile"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "judecățile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ai poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:26.346947653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Voi ațâța Mițraim împotriva Mițraimului, și se vor lupta om cu fratele lui și om cu aproapele lui, cetate împotriva cetății, împărăție împotriva împărăției.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Voi ațâța"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "împotriva Mițraimului"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "și se vor lupta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "cu fratele lui"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și om"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "cu aproapele lui"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetate"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "împotriva cetății"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "împărăție"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "împotriva împărăției"
+    }
+  ],
+  "timestamp": "2026-09-04T03:42:01.782870031Z",
+  "model": "glm-5.3"
+}

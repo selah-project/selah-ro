@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Din glasul celui ce defăimează și al hulitorului, din fața vrăjmașului și a răzbunătorului.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "din glasul"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "al celui ce defăimează"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "și al hulitorului"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din fața"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vrăjmașului"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "și a răzbunătorului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:05.669585060Z",
+  "model": "glm-5.3"
+}

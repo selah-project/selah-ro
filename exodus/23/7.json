@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "De cuvântul minciunii să te depărtezi, și pe cel nevinovat și pe cel drept să nu ucizi, căci nu voi socoti drept pe cel rău.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "de cuvântul"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "al minciunii"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "să te depărtezi"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "și pe cel nevinovat"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "și pe cel drept"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ucizi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "voi socoti drept"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe cel rău"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:40.968345845Z",
+  "model": "glm-5.3"
+}

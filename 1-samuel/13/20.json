@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și coborau toți cei din Israel la filisteni, să-și ascută fiecare ⟨את⟩ brăzdarul lui, și ⟨את⟩ târnăcopul lui, și ⟨את⟩ toporul lui, și ⟨את⟩ sapa lui.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Și coborau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "la filisteni"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "să ascută"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brăzdarul lui"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "brăzdarul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "târnăcopul lui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "târnăcopul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toporul lui"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "toporul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sapa lui"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "sapa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:10:09.394211593Z",
+  "model": "glm-5.3"
+}

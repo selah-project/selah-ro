@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "hrana ei în stare dublă voi binecuvânta — ei bine, voi binecuvânta într-adevăr hrana ei; pe săracii ei îi voi sătura cu pâine.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "hrana ei"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "cu a binecuvânta"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "voi binecuvânta"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "pe săracii ei"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "îi voi sătura"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cu pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:43.273248571Z",
+  "model": "glm-5.3"
+}

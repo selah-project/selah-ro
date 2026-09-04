@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "iar ⟨את⟩ restul poporului rămas în cetate și ⟨את⟩ cei căzuți care au căzut la regele Babilonului și ⟨את⟩ restul mulțimii i-a dus în exil Nevuzaradan, căpetenia călăilor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "restul poporului rămas în cetate"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "restul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "rămas"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cei căzuți care au căzut la regele Babilonului"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "cei căzuți"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "au căzut"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "restul mulțimii"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "restul"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "mulțimii"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "i-a dus în exil"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "călăilor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:35:01.271928569Z",
+  "model": "glm-5.3"
+}

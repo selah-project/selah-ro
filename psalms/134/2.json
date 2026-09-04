@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 134,
+  "translation": "Ridicați-vă mâinile spre locul sfânt și binecuvântați ⟨את⟩ Yahve!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ridicați"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "mâinile voastre"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "spre locul sfânt"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "și binecuvântați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:15.960578252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Yahve Țevaot ⟨este⟩ cu noi, turn de scăpare ⟨este⟩ pentru noi Elohim al lui Iaacov. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cu noi"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "turn de scăpare"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "al lui Iaacov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:39.321711314Z",
+  "model": "glm-5.3"
+}

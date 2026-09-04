@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Și au pus în mâncarea mea fiere, și pentru setea mea m-au adăpat cu oțet.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Și au pus"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "în mâncarea mea"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fiere"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "și pentru setea mea"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "m-au adăpat"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "cu oțet"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:48.352575344Z",
+  "model": "glm-5.3"
+}

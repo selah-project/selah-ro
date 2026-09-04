@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și de când am venit la Paro ca să vorbesc în numele tău, a făcut rău poporului acestuia, iar să izbăvească — nu ai izbăvit ⟨את⟩ poporul tău.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "Și de când"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "am venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ca să vorbesc"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "în numele tău"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a făcut rău"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "iar să izbăvească"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "ai izbăvit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul tău"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:34.872288482Z",
+  "model": "glm-5.3"
+}

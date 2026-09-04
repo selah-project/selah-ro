@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Te-aș conduce, te-aș aduce ⟨în⟩ casa mamei mele; ea m-ar învăța; te-aș adăpa cu vin aromat, cu must de rodia mea.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "Te-aș conduce"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "te-aș aduce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨în⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamei mele"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ea m-ar învăța"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "te-aș adăpa"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "cu vin"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "aromat"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "cu must"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "de rodia mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:19.712325982Z",
+  "model": "glm-5.3"
+}

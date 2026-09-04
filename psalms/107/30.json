@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Și s-au bucurat că s-au potolit, și i-a călăuzit spre limanul dorinței lor.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "și s-au bucurat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "s-au potolit"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "și i-a călăuzit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "limanul"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "dorinței lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:27.038055678Z",
+  "model": "glm-5.3"
+}

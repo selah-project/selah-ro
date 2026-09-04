@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și a sculat devreme David, el și oamenii lui, să plece dimineața, să se întoarcă către țara Peliștilor; iar Peliștii au urcat la Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Și a sculat devreme"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "și oamenii lui"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "să plece"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "să se întoarcă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliștilor"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "iar Peliștii"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "au urcat"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:51:24.795667549Z",
+  "model": "glm-5.3"
+}

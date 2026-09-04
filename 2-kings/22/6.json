@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "meșterilor și zidarilor și celor care dre pereții, și pentru a cumpăra lemn și pietre de carieră, ca să întărească ⟨את⟩ casa.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "meșterilor"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "și zidarilor"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "și celor care dre pereții"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "și pentru a cumpăra"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lemn"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "și pietre de"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "carieră"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "ca să întărească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:33:37.071374881Z",
+  "model": "glm-5.3"
+}

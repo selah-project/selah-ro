@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Ascultați, munților, ⟨את⟩ procesul lui Yahve, și temeliilor trainice ale pământului, căci ⟨este⟩ un proces al lui Yahve cu poporul său, și cu Israel se va judeca.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ascultați"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munților"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "procesul lui Yahve"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "procesul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "și temeliilor trainice"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "temeliile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ale pământului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "un proces"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "al lui Yahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "se va judeca"
+    }
+  ],
+  "timestamp": "2026-09-04T04:46:17.860511683Z",
+  "model": "glm-5.3"
+}

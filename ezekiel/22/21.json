@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și vă voi aduna ⟨את⟩ pe voi și voi sufla peste voi cu focul furiei mele, și vă veți topi în mijlocul ei.",
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "Și voi aduna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi (sufixul de persoana a II-a plural)"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "și voi sufla"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "cu foc"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "al furiei mele"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "și vă veți topi"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "în mijlocul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:26:30.536047665Z",
+  "model": "glm-5.3"
+}

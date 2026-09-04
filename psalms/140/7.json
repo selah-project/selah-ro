@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Am spus către Yahve: El al meu ești tu; pleacă urechea, Yahve, la glasul cererilor mele!",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Am spus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El al meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pleacă urechea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "cererilor mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:08.242953356Z",
+  "model": "glm-5.3"
+}

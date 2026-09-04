@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a mers Eliyahu să se arate către Ahav; și foametea era cumplită în Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "să se arate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "și foametea"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "cumplită"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "în Shomron"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:49.056042739Z",
+  "model": "glm-5.3"
+}

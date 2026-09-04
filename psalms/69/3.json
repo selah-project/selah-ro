@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "M-am scufundat în mlaștina adâncului și nu este loc de sprijin; am intrat în adâncurile apelor și puhoiul m-a potopit.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "M-am scufundat"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "în mlaștina"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "adâncului"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "loc de sprijin"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "am intrat"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "în adâncurile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apelor"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "și puhoiul"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "m-a potopit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:22.820584799Z",
+  "model": "glm-5.3"
+}

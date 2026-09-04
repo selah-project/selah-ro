@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a zis: Ce am greșit, că tu dai ⟨את⟩ pe robul tău în mâna lui Ahav, ca să mă omoare?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "am greșit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe robul tău"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "pe robul tău"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "lui Ahav"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "ca să mă omoare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:31.908844946Z",
+  "model": "glm-5.3"
+}

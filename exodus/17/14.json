@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a spus Yahve către Moșe: «Scrie aceasta ca pomenire în carte și pune-o în urechile lui Iehoșua, căci ștergând voi șterge ⟨את⟩ amintirea lui Amalec de sub ceruri.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Scrie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ca pomenire"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "în carte"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "și pune-o"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "în urechile"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "lui Iehoșua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ștergând"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "voi șterge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amintirea lui Amalec"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amintirea"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "lui Amalec"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sub"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:41.988048275Z",
+  "model": "glm-5.3"
+}

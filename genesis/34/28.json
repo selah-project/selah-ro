@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "⟨את⟩ turmele lor și ⟨את⟩ cirezile lor și ⟨את⟩ măgarii lor și ⟨את⟩ ceea ce ⟨era⟩ în cetate și ⟨את⟩ ceea ce ⟨era⟩ în câmp au luat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turmele lor"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "turmele lor"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "și ⟨את⟩",
+      "marks": "cirezile lor"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "cirezile lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "măgarii lor"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "măgarii lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ceea ce era în cetate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ceea ce era în câmp"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "au luat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:24.192698296Z",
+  "model": "glm-5.3"
+}

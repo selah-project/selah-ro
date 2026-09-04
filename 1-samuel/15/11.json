@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Îmi pare rău că l-am pus ⟨את⟩ pe Șaul ca rege, că s-a întors de la urmă-Me, și cuvintele Mele ⟨את⟩ nu le-a împlinit. Și s-a aprins ⟨mânia⟩ în Șemuel, și a strigat către Yahve toată noaptea.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Îmi pare rău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "l-am pus ca rege"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Șaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ca rege"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "de la urmă-Me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cuvintele Mele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele Mele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "le-a împlinit"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "și s-a aprins"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "în Șemuel"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "și a strigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noaptea"
+    }
+  ],
+  "timestamp": "2026-09-04T02:45:28.342670316Z",
+  "model": "glm-5.3"
+}

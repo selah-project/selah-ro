@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Mare ⟨este⟩ Adonai al nostru și mare de putere, la înțelepciunea lui nu ⟨este⟩ număr.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mare"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai al nostru"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "și mare de"
+    },
+    {
+      "surface": "כח",
+      "gloss": "putere"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "la înțelepciunea lui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "număr"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:12.067109458Z",
+  "model": "glm-5.3"
+}

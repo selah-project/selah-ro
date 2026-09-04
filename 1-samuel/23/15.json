@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a văzut David că a ieșit Șaul să caute ⟨את⟩ viața lui, iar David ⟨era⟩ în pustia Țif, la Horeșa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a ieșit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "să caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața lui"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viața lui"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "iar David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustia"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Țif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "la Horeșa"
+    }
+  ],
+  "timestamp": "2026-09-04T08:53:21.575425077Z",
+  "model": "glm-5.3"
+}

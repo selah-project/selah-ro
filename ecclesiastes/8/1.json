@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Cine ⟨este⟩ ca cel înțelept și cine cunoaște tălmăcirea unui cuvânt? Înțelepciunea omului îi luminează fața, iar puterea feței lui se schimbă.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "ca cel înțelept"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "tălmăcirea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "unui cuvânt"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Înțelepciunea"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "luminează"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața lui"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "iar puterea"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "feței lui"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "se schimbă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:11:45.015078185Z",
+  "model": "glm-5.3"
+}

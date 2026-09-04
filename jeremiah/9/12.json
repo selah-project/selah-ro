@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a spus Yahve: Pentru că au părăsit ⟨את⟩ Tora mea pe care am pus-o înaintea lor, și n-au ascultat de glasul meu, și n-au umblat în ea.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "Pentru că"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "au părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora mea"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora mea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am pus-o"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "înaintea lor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "au ascultat"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "de glasul meu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "au umblat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:01:45.627909533Z",
+  "model": "glm-5.3"
+}

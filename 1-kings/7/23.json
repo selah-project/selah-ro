@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a făcut ⟨את⟩ marea de turnătură: zece coturi de la buza ei până la buza ei, rotundă de jur împrejur, și cinci coturi înălțimea ei; și o funie de treizeci de coturi înconjura ⟨את⟩ de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "de turnătură"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zece"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "coturi"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "de la buza ei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "buza ei"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "rotundă"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "și cinci"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "coturi"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "înălțimea ei"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "și o funie"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "de coturi"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "înconjura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T03:11:43.580846816Z",
+  "model": "glm-5.3"
+}

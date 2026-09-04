@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și Mițraim a născut ⟨את⟩ Ludim și ⟨את⟩ Anamim și ⟨את⟩ Lehabim și ⟨את⟩ Naftuhim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Și Mițraim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Naftuhim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuhim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:34.646956361Z",
+  "model": "glm-5.3"
+}

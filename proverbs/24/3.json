@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Prin înțelepciune se clădește o casă și prin pricepere se întemeiază ⟨ea⟩.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "Prin înțelepciune"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "se clădește"
+    },
+    {
+      "surface": "בית",
+      "gloss": "o casă"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "și prin pricepere"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "se întemeiază"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:26.685457194Z",
+  "model": "glm-5.3"
+}

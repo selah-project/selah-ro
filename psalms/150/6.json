@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 150,
+  "translation": "Tot ce suflă să-L laude pe Ya! Lăudați pe Ya!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "ce suflă"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "să-L laude"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:45.245194033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Iar către mine a fost furat un cuvânt, și urechea mea a prins o șoaptă din el.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Iar către mine"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "a fost furat"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "și a prins"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "urechea mea"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "o șoaptă"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "din el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:28.470908505Z",
+  "model": "glm-5.3"
+}

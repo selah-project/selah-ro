@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Dacă va tabăra împotriva mea o oaste, inima mea nu se va teme; dacă se va ridica împotriva mea război, în aceasta eu am încredere.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "va tabăra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "o oaste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "se va teme"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "se va ridica"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "război"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "în aceasta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "am încredere"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:27.875593879Z",
+  "model": "glm-5.3"
+}

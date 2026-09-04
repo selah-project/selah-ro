@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a trăit Chenan șaptezeci de ani, și l-a născut pe ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Și a trăit"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Chenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "șaptezeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și l-a născut pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:54.942788211Z",
+  "model": "glm-5.3"
+}

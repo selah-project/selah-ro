@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Peste ele locuiește pasărea cerurilor; dintre ramuri își dă glasul.",
+  "tokens": [
+    {
+      "surface": "עֲלֵיהֶ֭ם",
+      "gloss": "peste ele"
+    },
+    {
+      "surface": "עוֹף",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "הַשָּׁמַ֣יִם",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "יִשְׁכּ֖וֹן",
+      "gloss": "locuiește"
+    },
+    {
+      "surface": "מִבֵּ֥ין",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "עֳפָאִ֗ים",
+      "gloss": "ramuri"
+    },
+    {
+      "surface": "יִתְּנ֥וּ",
+      "gloss": "își dă"
+    },
+    {
+      "surface": "קֽוֹל",
+      "gloss": "glasul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:25.290465790Z",
+  "model": "glm-5.3"
+}

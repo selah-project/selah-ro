@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Vezi, l-am chemat pe nume: Bețalel, fiul lui Uri, fiul lui Hur, din seminția lui Iehuda.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "am chemat"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "pe nume"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Bețalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "lui Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "חור",
+      "gloss": "lui Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "din seminția"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T01:23:31.646415475Z",
+  "model": "glm-5.3"
+}

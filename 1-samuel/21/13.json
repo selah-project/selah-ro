@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a pus David ⟨את⟩ cuvintele acestea în inima lui și s-a temut foarte de fața lui Achiș, regele Gatului.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele acestea"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "în inima lui"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și s-a temut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de fața"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "lui Achiș"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:43.805398421Z",
+  "model": "glm-5.3"
+}

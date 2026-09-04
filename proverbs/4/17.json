@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Căci pâinea răutății au mâncat-o și vinul violențelor îl beau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "au mâncat-o"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răutății"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "și vinul"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "violențelor"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "îl beau"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:14.362133493Z",
+  "model": "glm-5.3"
+}

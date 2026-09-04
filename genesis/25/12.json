@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și acestea sunt nașterile lui Ișmael, fiul lui Avraham, pe care i l-a născut Hagar, egipteanca, roaba lui Sara, lui Avraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "nașterile"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "lui Ișmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egipteanca"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "roaba"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "lui Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    }
+  ],
+  "timestamp": "2026-09-04T01:01:29.923294141Z",
+  "model": "glm-5.3"
+}

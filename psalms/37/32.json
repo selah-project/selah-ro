@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Pândește cel rău pe cel drept și caută să-l omoare.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "Pândește"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pe cel drept"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "și caută"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "să-l omoare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:43.652838486Z",
+  "model": "glm-5.3"
+}

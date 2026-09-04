@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Ascultați, vă rog, ⟨את⟩ ceea ce spune Yahve: Scoală-te, judecă-te ⟨cu⟩ munții, și dealurile să audă glasul tău.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ascultați"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vă rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce spune Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spune"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Scoală-te"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "judecă-te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munții"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "și să audă"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "dealurile"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "glasul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T04:46:17.860235578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Trimite lumina ta și adevărul tău; ele mă vor călăuzi, mă vor aduce la muntele sfințeniei tale și la corturile tale.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Trimite"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "lumina ta"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "și adevărul tău"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ele"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "mă vor călăuzi"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "mă vor aduce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sfințeniei tale"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și la"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "corturile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:30.982472101Z",
+  "model": "glm-5.3"
+}

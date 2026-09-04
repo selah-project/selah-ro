@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Că robul tău a mers chezaș pentru ⟨את⟩ băiatul de la tatăl meu, spunând: Dacă nu îl voi aduce la tine, voi purta vina față de tatăl meu toate zilele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robul tău"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "a mers chezaș"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "băiatul"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "băiatul"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "spunând"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "îl voi aduce"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "voi purta vina"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "față de tatăl meu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zilele"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:03.792408121Z",
+  "model": "glm-5.3"
+}

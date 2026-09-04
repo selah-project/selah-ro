@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Elohim a făcut bine moașelor, și poporul s-a înmulțit și s-a întărit foarte.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "a făcut bine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "moașelor"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "s-a înmulțit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "s-a întărit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:08.203084079Z",
+  "model": "glm-5.3"
+}

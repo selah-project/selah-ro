@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "În tine, Yahve, m-am adăpostit; să nu fiu rușinat niciodată; în dreptatea ta scapă-mă.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "În tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m-am adăpostit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "fiu rușinat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "niciodată"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "în dreptatea ta"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "scapă-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:08.282033963Z",
+  "model": "glm-5.3"
+}

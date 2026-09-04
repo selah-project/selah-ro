@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Tu ai despicat izvorul și pârâul, Tu ai uscat râuri nestăcătoare.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ai despicat"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "izvorul"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "și pârâul"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "ai uscat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "râuri"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "nestăcătoare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:16.074127223Z",
+  "model": "glm-5.3"
+}

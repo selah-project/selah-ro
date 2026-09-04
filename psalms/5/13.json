@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căci tu, Yahve, îl vei binecuvânta pe cel drept; ca un scut, bunăvoința ta îl va înconjura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "vei binecuvânta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pe cel drept"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "ca un scut"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "cu bunăvoință"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "îl vei înconjura"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:35.507656852Z",
+  "model": "glm-5.3"
+}

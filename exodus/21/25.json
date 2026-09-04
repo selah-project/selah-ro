@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "arsură sub arsură, rană sub rană, vânătaie sub vânătaie.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "arsură"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "arsură"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rană"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rană"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "vânătaie"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "vânătaie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:33.516258523Z",
+  "model": "glm-5.3"
+}

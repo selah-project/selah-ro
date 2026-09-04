@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 26:23",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și s-a culcat Uziahu cu părinții lui, și au îngropat ⟨את⟩ pe el cu părinții lui, în câmpul înmormântării care era al regilor, căci au zis: lepros este el; și a domnit Iotam, fiul lui, în locul lui.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Și s-a culcat"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții lui"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și au îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe Uziahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții lui"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmpul"
+    },
+    {
+      "surface": "הקבורה",
+      "gloss": "înmormântării"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "al regilor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "au zis"
+    },
+    {
+      "surface": "מצורע",
+      "gloss": "lepros"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "și a domnit"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Iotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:27:14.479719764Z",
+  "model": "glm-5.3"
+}

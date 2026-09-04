@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Face să răsară iarba pentru dobitoace și verdeața pentru slujba omului, ca să scoată pâine din pământ.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Face să răsară"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "iarba"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "pentru dobitoace"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "și verdeața"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "pentru slujba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ca să scoată"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:03.586959566Z",
+  "model": "glm-5.3"
+}

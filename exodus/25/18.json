@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și să faci doi cherubimi de aur, lucru bătut să-i faci ⟨את⟩, din amândouă capetele capacului.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Și să faci"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "doi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "cherubimi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "lucru bătut"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să-i faci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "cherubimii"
+    },
+    {
+      "surface": "משני",
+      "gloss": "din amândouă"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "capetele"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "capacului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:41:41.476322568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și au fost sfârșite cerurile și pământul și toată oștirea lor.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "au fost sfârșite"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "și pământul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "צבאמ",
+      "gloss": "oștirea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:34.855198368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și veți ști că eu ⟨sunt⟩ Yahve, când vă voi aduce ⟨את⟩ voi în solul lui Israel, în țara pe care am ridicat ⟨את⟩ mâna mea ca să dau ⟨את⟩ ea părinților voștri.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Și veți ști"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "când vă voi aduce"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "solul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "am ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna mea"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ca să dau"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ea",
+      "marks": "ea (țara)"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "părinților voștri"
+    }
+  ],
+  "timestamp": "2026-09-04T04:26:25.892376715Z",
+  "model": "glm-5.3"
+}

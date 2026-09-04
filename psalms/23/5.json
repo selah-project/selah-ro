@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Aranjezi înaintea mea o masă, față în față cu potrivnicii mei; ai uns cu untdelemn capul meu; paharul meu ⟨este⟩ belșug.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Aranjezi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "o masă"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "față în față cu"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "potrivnicii mei"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ai uns"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "cu untdelemn"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capul meu"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "paharul meu"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "belșug"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:14.808230331Z",
+  "model": "glm-5.3"
+}

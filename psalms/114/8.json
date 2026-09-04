@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 114,
+  "translation": "Cel care a prefăcut stânca în iaz de ape, cremenea în izvor de ape!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Cel care a prefăcut"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "stânca"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "în iaz"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de ape"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "cremenea"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "în izvor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de ape"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:54.890396990Z",
+  "model": "glm-5.3"
+}

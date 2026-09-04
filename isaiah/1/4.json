@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Vai, neam păcătos, popor împovărat de fărădelege, sămânță de răufăcători, fii pierzători! Au părăsit ⟨את⟩ Yahve, au disprețuit ⟨את⟩ pe Sfântul lui Israel, s-au abătut înapoi.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "neam"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "păcătos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "împovărat de"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fărădelege"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânță de"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "răufăcători"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "pierzători"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Au părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "au disprețuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Sfântul lui Israel"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pe Sfântul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "s-au abătut"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "înapoi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:07.972933301Z",
+  "model": "glm-5.3"
+}

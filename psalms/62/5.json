@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Numai ca să-l răstoarne din înălțimea lui se sfătuiesc; se bucură de minciună; cu gura lui binecuvântează, dar în lăuntrul lor blestemă. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "numai"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "din înălțimea lui"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "se sfătuiesc"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "să-l răstoarne"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "se bucură"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "de minciună"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "cu gura lui"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "binecuvântează"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "dar în lăuntrul lor"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "blestemă"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:53.763466877Z",
+  "model": "glm-5.3"
+}

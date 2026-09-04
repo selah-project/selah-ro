@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Cel ce face dreptate orfanului și văduvei, și iubește pe străin, ca să-i dea lui pâine și haină.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "orfanului"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "și văduvei"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "și iubește"
+    },
+    {
+      "surface": "גר",
+      "gloss": "pe străin"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ca să dea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "și haină"
+    }
+  ],
+  "timestamp": "2026-09-04T02:02:45.902575301Z",
+  "model": "glm-5.3"
+}

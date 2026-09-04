@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Să vină peste mine îndurările tale și voi trăi, căci Tora ta este desfătarea mea.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "să vină peste mine"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "îndurările tale"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "și voi trăi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora ta"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "desfătarea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:03.517186865Z",
+  "model": "glm-5.3"
+}

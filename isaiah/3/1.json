@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Căci iată, stăpânul Yahve Țevaot îndepărtează din Ierușalaim și din Iehuda sprijin și toiag, tot sprijinul de pâine și tot sprijinul de apă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "stăpânul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "îndepărtează"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "din Ierușalaim"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "și din Iehuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sprijin"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "și toiag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sprijinul"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pâine"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sprijinul"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de apă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:24:29.934383981Z",
+  "model": "glm-5.3"
+}

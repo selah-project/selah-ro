@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Nu a făcut așa pentru niciun neam, și judecăți nu le-au cunoscut ⟨ei⟩. Halelu-Ya!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru niciun"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "neam"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "și judecăți"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "le-au cunoscut"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:59.072691477Z",
+  "model": "glm-5.3"
+}

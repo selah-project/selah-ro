@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Nu au păzit legământul lui Elohim și în Tora lui au refuzat să umble.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "au păzit"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "și în Tora lui"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "au refuzat"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "să umble"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:41.298722996Z",
+  "model": "glm-5.3"
+}

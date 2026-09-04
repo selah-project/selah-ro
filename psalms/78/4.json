@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Nu le vom ascunde de fiii lor; generației din urmă îi vom povesti laudele lui Yahve, și puterea lui, și minunile lui, pe care le-a făcut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "vom ascunde"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "de fiii lor"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "generației"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "din urmă"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "povestim"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "laudele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "și puterea lui"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "și minunile lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "le-a făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:59.858241551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Nu mă copleși torentul apelor și nu mă înghiți adâncul, și nu închide groapa gura ei peste mine.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "mă copleși"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "torentul"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apelor"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "mă înghiți"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "adâncul"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "să închidă"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "באר",
+      "gloss": "groapa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gura ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:07.112324865Z",
+  "model": "glm-5.3"
+}

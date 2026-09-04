@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și i-a dat ⟨את⟩ pe ei la îndurare înaintea tuturor celor care îi duceau în robie.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și i-a dat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "la îndurare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "celor care îi duceau în robie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:09.400728126Z",
+  "model": "glm-5.3"
+}

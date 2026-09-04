@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Iar Iaacov a furat ⟨את⟩ inima lui Lavan arameul, fără să-i fi vestit că fugea el.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "Iar a furat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "lui Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "arameul"
+    },
+    {
+      "surface": "על",
+      "gloss": "fără"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "să"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "fi vestit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "îi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "fugea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:25.133337779Z",
+  "model": "glm-5.3"
+}

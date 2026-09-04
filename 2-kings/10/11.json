@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a lovit Iehu ⟨את⟩ toți cei rămași ai casei lui Ahav în Iizreel, și toți marii lui, și cunoscuții lui, și cohanii lui, până ce nu i-a lăsat lui niciun supraviețuitor.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Și a lovit"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți cei rămași"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "cei rămași"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ai casei"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "lui Ahav"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "în Iizreel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toți"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "marii lui"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "și cunoscuții lui"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "și cohanii lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "a lăsat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "supraviețuitor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:59.911689445Z",
+  "model": "glm-5.3"
+}

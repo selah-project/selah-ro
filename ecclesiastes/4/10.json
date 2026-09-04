@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Căci dacă cad — unul îl va ridica ⟨את⟩ tovarășul său; iar unul care cade și nu ⟨este⟩ al doilea să-l ridice.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "cad"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "îl va ridica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tovarășul său"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "tovarășul său"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "iar unul"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "care cade"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "să-l ridice"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:53.721755335Z",
+  "model": "glm-5.3"
+}

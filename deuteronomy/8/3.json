@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și te-a smerut și te-a lăsat să flămânzești și te-a hrănit ⟨את⟩ manul, pe care nu l-ai cunoscut și nu l-au cunoscut părinții tăi, pentru ca să te facă să știi că nu pe pâine singură va trăi omul, ci pe tot ce iese din gura lui Yahve va trăi omul.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "Și te-a smerut"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "și te-a lăsat să flămânzești"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "și te-a hrănit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manul"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "l-ai cunoscut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "l-au cunoscut"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "părinții tăi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru ca"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "să te facă să știi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "singură"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "va trăi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci pe"
+    },
+    {
+      "surface": "על",
+      "gloss": "tot ce iese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ce iese"
+    },
+    {
+      "surface": "פי",
+      "gloss": "din gura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "va trăi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:51:49.325537779Z",
+  "model": "glm-5.3"
+}

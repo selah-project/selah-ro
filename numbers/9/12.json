@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Nu vor lăsa din el până dimineața și nici un os nu vor frânge în el; după toată rânduiala Pesahului să-l facă ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "vor lăsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "și nici un os"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "vor frânge"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după toată"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "rânduiala"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesahului"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "să-l facă"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl",
+      "marks": "Pesahul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:46:21.569000564Z",
+  "model": "glm-5.3"
+}

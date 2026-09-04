@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "În locul cel mai sfânt îl vei mânca; orice bărbat îl va mânca ⟨את⟩ el; sfânt îți va fi.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "În locul cel mai sfânt"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "al preasfinților"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "îl vei mânca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bărbat"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "va mânca"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (lucrul sfânt)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T06:54:09.781867953Z",
+  "model": "glm-5.3"
+}

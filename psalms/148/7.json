@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Lăudați ⟨את⟩ Yahve de pe pământ, monștrii marini și toate adâncurile!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "monștrii marini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toate"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "adâncurile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:07.956122945Z",
+  "model": "glm-5.3"
+}

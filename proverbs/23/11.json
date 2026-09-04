@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Căci puternic este răscumpărătorul lor; el va pleda ⟨את⟩ pricina lor ⟨את⟩ cu tine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "răscumpărătorul lor"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "puternic"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "va pleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pricina lor"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "pricina lor"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:44.973363965Z",
+  "model": "glm-5.3"
+}

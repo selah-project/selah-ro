@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 70,
+  "translation": "Să se bucure și să se veselească în tine toți cei ce te caută, și să spună necurmat cei ce iubesc izbăvirea ta: «Elohim să fie mărit!»",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "să se bucure"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "și să se veselească"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "cei ce te caută"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și să spună"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "necurmat"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "să fie mărit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "cei ce iubesc"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "izbăvirea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:36.979652574Z",
+  "model": "glm-5.3"
+}

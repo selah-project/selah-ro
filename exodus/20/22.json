@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a spus Yahve către Moșe: Așa să spui fiilor lui Israel: Voi ați văzut că din ceruri am vorbit cu voi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "să spui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ați văzut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "am vorbit"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cu voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:34.426314027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "A vorbit Yahve cu Moșe și cu Aharon, zicând:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "A vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T01:34:33.643138785Z",
+  "model": "glm-5.3"
+}

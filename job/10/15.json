@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Dacă am fost nelegiuit — vai mie! Și dacă am fost drept — nu-mi voi ridica capul; sătul sunt de rușine și vede suferința mea.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "am fost nelegiuit"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "Și dacă am fost drept"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "îmi voi ridica"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capul"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sătul sunt"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "de rușine"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și vede"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "suferința mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:16.406475143Z",
+  "model": "glm-5.3"
+}

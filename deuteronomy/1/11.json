@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Yahve, Elohim al părinților voștri, să vă adauge peste voi, cât sunteți, de o mie de ori, și să vă binecuvânteze ⟨את⟩ pe voi, cum a vorbit către voi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "părinților voștri"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "să adauge"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "cât sunteți"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de o mie"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "de ori"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și să binecuvânteze"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "către voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:13.386237688Z",
+  "model": "glm-5.3"
+}

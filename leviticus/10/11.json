@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "și să-i învățați ⟨את⟩ pe fiii lui Israel ⟨את⟩ toate hotărârile pe care a vorbit Yahve către ei prin mâna lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "și să-i învățați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate hotărârile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hotărârile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:00.874659365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "Celui ce a întins pământul peste ape, căci în veac ⟨este⟩ hesedul lui.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Celui ce a întins"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:20.450721296Z",
+  "model": "glm-5.3"
+}

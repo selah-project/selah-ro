@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și ⟨את⟩ cu voi să fie cîte un om pentru fiecare trib, cîte un om cap al casei părinților săi, el.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Și ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cîte un om"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pentru fiecare trib"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cîte un om"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "cap"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "al casei"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinților săi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:38.066827363Z",
+  "model": "glm-5.3"
+}

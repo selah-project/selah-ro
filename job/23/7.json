@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 23:7",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Acolo cel drept ar judeca ⟨cu⟩ el, și eu aș scăpa pentru totdeauna de judecata mea.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "נוכח",
+      "gloss": "ar judeca"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "ואפלטה",
+      "gloss": "și aș scăpa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "de judecata mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:15.075009137Z",
+  "model": "glm-5.3"
+}

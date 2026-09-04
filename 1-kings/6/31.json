@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și ⟨את⟩ intrarea Devirului a făcut uși de lemn de măslin; toaca și ușorii — a cincea parte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "intrarea"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "intrarea"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Devirului"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "uși"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "de lemn de"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "măslin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "toaca"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ușorii"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "a cincea parte"
+    }
+  ],
+  "timestamp": "2026-09-04T07:16:34.579813277Z",
+  "model": "glm-5.3"
+}

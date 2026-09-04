@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Cercetează-mă, El, și cunoaște-mi inima; încearcă-mă și cunoaște-mi gândurile:",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Cercetează-mă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "și cunoaște"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inima"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "încearcă-mă"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "și cunoaște"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "gândurile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:02.044135148Z",
+  "model": "glm-5.3"
+}

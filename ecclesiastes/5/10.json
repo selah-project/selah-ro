@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Când se înmulțește avuția, se înmulțesc mâncătorii ei; și ce câștig ⟨este⟩ pentru stăpânul ei, dacă nu privirea ⟨ei⟩ cu ochii lui?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "când se înmulțește"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "avuția"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "se înmulțesc"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "mâncătorii ei"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "și ce"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "câștig"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "pentru stăpânul ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "privirea"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "cu ochii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T10:14:15.675232424Z",
+  "model": "glm-5.3"
+}

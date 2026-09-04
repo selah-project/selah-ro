@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "căci nu în moartea lui va lua totul: nu va coborî după el slava lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "în moartea lui"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "va coborî"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slava lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:39.898880875Z",
+  "model": "glm-5.3"
+}

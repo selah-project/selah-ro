@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a trimis Ioav și a vestit lui David ⟨את⟩ toate faptele războiului.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "și a vestit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate faptele războiului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "războiului"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:04.240041047Z",
+  "model": "glm-5.3"
+}

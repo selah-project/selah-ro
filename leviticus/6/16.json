@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și toată minha de cohen întreagă să fie ⟨tămâiată⟩; nu se va mânca.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Și toată"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "de cohen"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "întreagă"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "se va mânca"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:31.055031367Z",
+  "model": "glm-5.3"
+}

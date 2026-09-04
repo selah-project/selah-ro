@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "O groapă a săpat și a adâncit-o, și a căzut în fosa pe care a făcut-o.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "O groapă"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "a săpat"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "și a adâncit-o"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "și a căzut"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "în fosa"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "a făcut-o"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:14.172218577Z",
+  "model": "glm-5.3"
+}

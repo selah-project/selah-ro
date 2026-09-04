@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Să fie ⟨pentru⟩ bună-placere cuvintele gurii mele și cugetarea inimii mele înaintea ta, Yahve, stânca mea și răscumpărătorul meu.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "pentru bună-placere"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gurii mele"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "și cugetarea"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inimii mele"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "și răscumpărătorul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:52.825844341Z",
+  "model": "glm-5.3"
+}

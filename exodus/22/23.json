@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "și se va aprinde mânia mea și vă voi ucide cu sabia, și femeile voastre vor fi văduve și fiii voșri orfani.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "și se va aprinde"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mânia mea"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "și vă voi ucide"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "cu sabia"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "și vor fi"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "femeile voastre"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "văduve"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "și fiii voștri"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "orfani"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:03.226767611Z",
+  "model": "glm-5.3"
+}

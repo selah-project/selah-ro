@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a cucerit David ⟨את⟩ fortăreața Ționului — ea ⟨este⟩ cetatea lui David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Și a cucerit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fortăreața Ționului"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "fortăreața"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ționului"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetate"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T08:55:01.373093024Z",
+  "model": "glm-5.3"
+}

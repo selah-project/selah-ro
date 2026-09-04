@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Pe oricine se culcă ⟨את⟩ ⟨cu⟩ o vită, moarte să fie omorât.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "pe oricine"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "se culcă"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨cu⟩"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "o vită"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "să fie omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:12.041287721Z",
+  "model": "glm-5.3"
+}

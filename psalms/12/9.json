@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "De pretutindeni răii se plimbă ⟨de voie⟩ — cum ⟨este⟩ înălțată ticăloșia între fiii omului.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "De pretutindeni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "răii"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "se plimbă"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "cum"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ticăloșia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "între fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:23:43.815524878Z",
+  "model": "glm-5.3"
+}

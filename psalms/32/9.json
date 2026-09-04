@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Nu fiți ca calul, ca catârul, fără pricepere: cu frâul și zăbala, podoaba lui, ca să-l stăpânești, ⟨căci altfel⟩ nu se apropie de tine.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "fiți"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ca calul"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "ca catârul"
+    },
+    {
+      "surface": "אין",
+      "gloss": "fără"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "pricepere"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "cu frâul"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "și zăbala"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "podoaba lui"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ca să-l stăpânești"
+    },
+    {
+      "surface": "בל",
+      "gloss": "altfel nu"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "se apropie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "de tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:24.194930791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Mai bună este o bucată de pâine uscată, cu liniște în ea, decât o casă plină de jertfe de ceartă.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mai bună"
+    },
+    {
+      "surface": "פת",
+      "gloss": "o bucată de pâine"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "uscată"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "cu liniște"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "decât o casă"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plin(ă)"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "de jertfe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "de ceartă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:58.888482480Z",
+  "model": "glm-5.3"
+}

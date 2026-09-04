@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Mi-am amintit în noapte numele tău, Yahve, și am păzit Tora ta.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Mi-am amintit"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "în noapte"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "și am păzit"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:41.206005671Z",
+  "model": "glm-5.3"
+}

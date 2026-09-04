@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Ieși din corabie, tu și soția ta și fiii tăi și soțiile fiilor tăi ⟨את⟩ tine:",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Ieși"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "corabie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "și soția ta"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "și fiii tăi"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "și soțiile"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiilor tăi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu tine ⟨את⟩",
+      "marks": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:31.643775256Z",
+  "model": "glm-5.3"
+}

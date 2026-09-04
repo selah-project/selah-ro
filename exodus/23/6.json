@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Nu vei strâmba judecata săracului tău în procesul lui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "vei strâmba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "săracului tău"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "în procesul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:40.968181076Z",
+  "model": "glm-5.3"
+}

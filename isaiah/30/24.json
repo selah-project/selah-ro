@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 30:24",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și boii și măgarii tineri, care lucrează pământul, vor mânca nutreț amestecat și sărat, pe care cineva l-a vânturat cu lopata și cu vânturătoarea.",
+  "tokens": [
+    {
+      "surface": "והאלפים",
+      "gloss": "Și boii"
+    },
+    {
+      "surface": "והעירים",
+      "gloss": "și măgarii tineri"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "care lucrează"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "nutreț amestecat"
+    },
+    {
+      "surface": "חמיץ",
+      "gloss": "sărat"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "l-a vânturat"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "cu lopata"
+    },
+    {
+      "surface": "ובמזרה",
+      "gloss": "și cu vânturătoarea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:45:24.047743433Z",
+  "model": "glm-5.3"
+}

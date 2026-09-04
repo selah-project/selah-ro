@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a murit Iosif și toți frații lui, și tot neamul acela.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Și a murit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "și toți"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:17.410053163Z",
+  "model": "glm-5.3"
+}

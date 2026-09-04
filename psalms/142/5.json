@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 142,
+  "translation": "Privește la dreapta și vezi, și nu ⟨este⟩ pentru mine cunoscător; a pierit adăpostul de la mine, nu ⟨este⟩ cel ce caută pentru sufletul meu.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Privește"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dreapta"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și vezi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "cunoscător"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "a pierit"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "adăpostul"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "cel ce caută"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pentru sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:25.088664846Z",
+  "model": "glm-5.3"
+}

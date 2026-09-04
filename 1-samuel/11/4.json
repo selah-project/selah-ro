@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și au venit solii la Giva lui Șaul și au vorbit cuvintele acestea în urechile poporului, și a ridicat tot poporul ⟨את⟩ glasul lor și au plâns.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Și au venit"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "solii"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "și au vorbit"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "în urechile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "și a ridicat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul lor"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "glasul lor"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "și au plâns"
+    }
+  ],
+  "timestamp": "2026-09-04T02:44:44.074837462Z",
+  "model": "glm-5.3"
+}

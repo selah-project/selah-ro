@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Seara și dimineața și la amiază voi vorbi și voi suspina, și va auzi glasul meu.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Seara"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "și dimineața"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "și la amiază"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "voi vorbi"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "și voi suspina"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "și va auzi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:39.589857701Z",
+  "model": "glm-5.3"
+}

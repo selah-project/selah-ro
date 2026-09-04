@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Căci palmele voastre s-au pângărit cu sânge și degetele voastre cu fărădelege; buzele voastre au vorbit minciună, limba voastră bolborosește nelegiuire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "palmele voastre"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "s-au pângărit"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "cu sânge"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "și degetele voastre"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "cu fărădelege"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "buzele voastre"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "au vorbit"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "limba voastră"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "bolborosește"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:42.221932188Z",
+  "model": "glm-5.3"
+}

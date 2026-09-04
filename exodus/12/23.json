@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și va trece Yahve ca să lovească ⟨את⟩ Mițraimul, și va vedea ⟨את⟩ sângele pe pragul de sus și pe cei doi ușori, și va trece Yahve peste ușă și nu va lăsa pe nimicitor să intre în casele voastre ca să lovească.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "Și va trece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "ca să lovească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mițraimul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimul"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și va vedea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "pragul de sus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "cei doi"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ușori"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "și va trece peste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ușă"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va lăsa"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "pe nimicitor"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "să intre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "casele voastre"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "ca să lovească"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:06.785395798Z",
+  "model": "glm-5.3"
+}

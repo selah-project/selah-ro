@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Le dai — ei o adună; îți deschizi ⟨את⟩ mâna — se satură de bine.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "dai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "ei adună"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "deschizi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "se satură"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "de bine"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:20.640022382Z",
+  "model": "glm-5.3"
+}

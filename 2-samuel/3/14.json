@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a trimis David soli la Iș-Boșet, fiul lui Șaul, să-i spună: Dă-mi ⟨את⟩ soția mea, ⟨את⟩ Mihal, pe care mi-am logodit-o ⟨la mine⟩ cu o sută de preruri ale filistenilor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "soli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Iiș"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Boșet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "să-i spună"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "dă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soția mea"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "soția mea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mihal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mihal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "mi-am logodit-o"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "cu o sută de"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "preruri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ale filistenilor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:54:28.341514059Z",
+  "model": "glm-5.3"
+}

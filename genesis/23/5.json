@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și au răspuns fiii lui Het ⟨את⟩ lui Avraham, zicându-i:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Și au răspuns"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "חת",
+      "gloss": "lui Het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:21.552313134Z",
+  "model": "glm-5.3"
+}

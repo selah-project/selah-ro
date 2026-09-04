@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "voi da iarbă în câmpul tău vitelor tale, și vei mânca și te vei sătura.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "voi da"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iarbă"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "în câmpul tău"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "vitelor tale"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "și vei mânca"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "și te vei sătura"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:01.111544577Z",
+  "model": "glm-5.3"
+}

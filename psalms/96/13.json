@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 96,
+  "translation": "Înaintea lui Yahve, căci vine, căci vine să judece pământul; va judeca ⟨את⟩ lumea în dreptate și popoarele în credincioșia lui.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "să judece"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "va judeca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumea"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "în dreptate"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "și popoarele"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "în credincioșia lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:34.738917773Z",
+  "model": "glm-5.3"
+}

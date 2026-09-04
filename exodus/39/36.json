@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "⟨את⟩ masa, ⟨את⟩ toate uneltele ei și ⟨את⟩ pâinea feței.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uneltele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pâinea"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "feței"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:36.798985028Z",
+  "model": "glm-5.3"
+}

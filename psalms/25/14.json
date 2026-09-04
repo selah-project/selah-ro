@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Taina lui Yahve este pentru cei ce se tem de ⟨el⟩, și legământul lui ⟨este⟩ ca să-i facă să cunoască ⟨el⟩.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "Taina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "pentru cei ce se tem de ⟨el⟩"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "și legământul lui"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ca să-i facă să cunoască ⟨el⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:25.516597948Z",
+  "model": "glm-5.3"
+}

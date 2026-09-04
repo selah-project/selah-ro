@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 142,
+  "translation": "Ia aminte la strigătul meu, căci foarte jos am fost adus; scoate-mă de la urmăritorii mei, căci s-au întărit mai mult decât mine.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ia aminte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "strigătul meu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "jos am fost adus"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "scoate-mă"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "de la urmăritorii mei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "s-au întărit"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "decât mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:25.089129329Z",
+  "model": "glm-5.3"
+}

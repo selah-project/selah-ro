@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Adonai, cât timp vei privi? Întoarce sufletul meu de la prăpădul lor, de la puii de leu, viața mea cea singură.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "cât timp"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vei privi"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "întoarce"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "de la prăpădul lor"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "de la puii de leu"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "viața mea cea singură"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:01.205542405Z",
+  "model": "glm-5.3"
+}

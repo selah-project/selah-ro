@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Se întorc spre seară, urlă ca un câine și dau târcoale cetății.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "se întorc"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "spre seară"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "urlă"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ca un câine"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "și dau târcoale"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetății"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:31.074319761Z",
+  "model": "glm-5.3"
+}

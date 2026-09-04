@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "prostia este așezată în locuri înalte, mulți, iar cei bogați stau în loc jos.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "este așezată"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "prostia"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "în locuri înalte"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mulți"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "iar cei bogați"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "în loc jos"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "stau"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:56.731391104Z",
+  "model": "glm-5.3"
+}

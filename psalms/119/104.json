@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Din poruncile tale pricep, de aceea urăsc orice cale a minciunii.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "din poruncile tale"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "pricep"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "urăsc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "cale"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a minciunii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:15.854228149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Dar eu am zis: „În zadar m-am ostenit, în deșert și în van mi-am istovit puterea; totuși dreptatea mea este cu ⟨את⟩ Yahve, și răsplata mea cu ⟨את⟩ Elohim.”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dar eu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "În zadar"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "m-am ostenit"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "în deșert"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "și în van"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mi-am istovit"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "totuși"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dreptatea mea"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "și răsplata mea"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T07:30:50.149567069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Ferește-te de el, să nu treci pe el; abate-te de la el și treci mai departe.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Ferește-te de el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "treci"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "abate-te"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "de la el"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "și treci mai departe"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:17.002444187Z",
+  "model": "glm-5.3"
+}

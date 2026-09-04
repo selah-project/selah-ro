@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a luat Avraham ⟨את⟩ lemnele arderii-de-olan și le-a pus pe Ițhac, fiul său; și a luat în mâna sa ⟨את⟩ focul și ⟨את⟩ cuțitul, și au mers amândoi împreună.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemnele arderii-de-olan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemnele"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-de-olan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și le-a pus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul său"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "focul"
+    },
+    {
+      "surface": "האש",
+      "gloss": "focul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cuțitul"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "cuțitul"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au mers"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:03.361573105Z",
+  "model": "glm-5.3"
+}

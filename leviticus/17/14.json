@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 17:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Căci nefeșul a tot trupul ⟨este⟩ sângele lui, ⟨este⟩ în nefeșul lui; și am spus fiilor lui Israel: sângele a oricărui trup să nu-l mâncați, căci nefeșul a tot trupul ⟨este⟩ sângele lui; oricare îl va mânca va fi stârpit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeșul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a tot"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "în nefeșul lui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩ el"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "și am spus"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a oricărui"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "trup"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mâncați"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeșul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a tot"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩ el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oricare"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "îl va mânca"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "va fi stârpit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:56.147918304Z",
+  "model": "glm-5.3"
+}

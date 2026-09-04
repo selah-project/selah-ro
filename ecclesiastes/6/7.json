@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Toată osteneala omului ⟨este⟩ pentru gura lui, și totuși sufletul nu se umple.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toată"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "osteneala"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "pentru gura lui"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și totuși"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "se umple"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:54.215551221Z",
+  "model": "glm-5.3"
+}

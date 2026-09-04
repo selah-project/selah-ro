@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Cu argint și cu aur îl împodobesc, cu cuie și cu ciocane îl întăresc, și ⟨el⟩ nu se clatină.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "Cu argint"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "și cu aur"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "îl împodobesc"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "cu cuie"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "și cu ciocane"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "îl întăresc"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "se clatină"
+    }
+  ],
+  "timestamp": "2026-09-04T04:02:00.743136319Z",
+  "model": "glm-5.3"
+}

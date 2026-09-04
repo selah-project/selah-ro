@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 93,
+  "translation": "Yahve domnește, s-a îmbrăcat cu măreție; s-a îmbrăcat Yahve, s-a încins cu putere. Chiar și ⟨את⟩ lumea ⟨este⟩ întemeiată, ca să nu se clatine.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "domnește"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "măreție"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "s-a îmbrăcat"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "s-a îmbrăcat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "cu putere"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "s-a încins"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨este⟩ întemeiată"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "se clatine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:19.725800842Z",
+  "model": "glm-5.3"
+}

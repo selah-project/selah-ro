@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Mână lângă mână, răul nu va rămâne nepedepsit, iar sămânța drepților scapă.",
+  "tokens": [
+    {
+      "surface": "יָד",
+      "gloss": "Mână"
+    },
+    {
+      "surface": "לְיָד",
+      "gloss": "lângă mână"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יִנָּקֶה",
+      "gloss": "va rămâne nepedepsit"
+    },
+    {
+      "surface": "רַע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "וְזֶרַע",
+      "gloss": "iar sămânța"
+    },
+    {
+      "surface": "צַדִּיקִים",
+      "gloss": "drepților"
+    },
+    {
+      "surface": "נִמְלָט",
+      "gloss": "scapă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:28.055383614Z",
+  "model": "glm-5.3"
+}

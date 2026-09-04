@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 129,
+  "translation": "Să fie ca iarba acoperișurilor, care înainte să fie smulsă se usucă.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "acoperișurilor"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "care înainte"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "să fie smulsă"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "se usucă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:26.813859232Z",
+  "model": "glm-5.3"
+}

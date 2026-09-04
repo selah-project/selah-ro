@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă vei da cu împrumut argint poporului meu, sărmanului care ⟨este⟩ cu tine, nu vei fi lui ca un cămătar; nu veți pune peste el dobândă.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "vei da cu împrumut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporului meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sărmanului"
+    },
+    {
+      "surface": "העני",
+      "gloss": "sărmanul"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vei fi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "ca un cămătar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "veți pune"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "dobândă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:03.227076405Z",
+  "model": "glm-5.3"
+}

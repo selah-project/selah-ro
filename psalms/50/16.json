@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Iar celui rău i-a spus Elohim: «Ce ai tu să povestești hotarele Mele și să porți legământul Meu pe gura ta?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "iar celui rău"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ai tu"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "să povestești"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "hotarele Mele"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "și să porți"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul Meu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gura ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:59.472154425Z",
+  "model": "glm-5.3"
+}

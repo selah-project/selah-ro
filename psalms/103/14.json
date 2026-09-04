@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Căci el cunoaște ce suntem făcuți, își amintește că suntem praf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ce suntem făcuți"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "își amintește"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praf"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "suntem noi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:58.105802800Z",
+  "model": "glm-5.3"
+}

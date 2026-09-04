@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a tăiat Iehojada legământul ⟨את⟩ între Yahve și între rege și între popor, ca să fie popor lui Yahve, și între rege și între popor.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Și a tăiat"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Iehojada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ca să fie"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:46.655629402Z",
+  "model": "glm-5.3"
+}

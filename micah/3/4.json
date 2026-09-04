@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Atunci vor striga către Yahve, și nu va răspunde ⟨את⟩ lor; și își va ascunde fața sa de la ei în vremea aceea, potrivit cu răutatea faptelor lor.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "vor striga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "va răspunde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei (obiectul răspunsului)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "și va ascunde"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața sa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de la ei"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "în vremea"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "potrivit cu"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "au făcut rău"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "faptele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:49:41.435578847Z",
+  "model": "glm-5.3"
+}

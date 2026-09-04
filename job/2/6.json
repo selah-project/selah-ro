@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a spus Yahve către Satan: Iată, ⟨el⟩ este în mâna ta; numai ⟨את⟩ viața lui păzește.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "numai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața lui"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viața lui"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "păzește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:59.320672337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și a poruncit norii de sus, și ușile cerurilor a deschis.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Și a poruncit"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nori"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "de sus"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "și ușile"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a deschis"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:52.176472097Z",
+  "model": "glm-5.3"
+}

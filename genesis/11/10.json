@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Acestea sunt neamurile lui Șem: Șem era fiu de o sută de ani și a născut ⟨את⟩ Arpaḥșad, doi ani după Potop.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Acestea"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lui Șem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Șem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de o sută de"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaḥșad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaḥșad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "doi ani"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "după"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Potop"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:19.031045761Z",
+  "model": "glm-5.3"
+}

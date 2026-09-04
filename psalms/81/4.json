@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Sunați din șofar la lună nouă, la plinătate ⟨lunii⟩, pentru ziua sărbătorii noastre",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Sunați"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "la lună nouă"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "din șofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "la plinătate ⟨lunii⟩"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pentru ziua"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "sărbătorii noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:43.190991302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Chiar și peste unul ca acesta deschizi ⟨את⟩ ochii tăi, și pe mine mă aduci la judecată cu tine?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "זה",
+      "gloss": "unul ca acesta"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "deschizi"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ochii tăi"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "și ⟨את⟩ pe mine",
+      "marks": "mă aduci"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "mă aduci"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "la judecată"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T08:07:00.122858589Z",
+  "model": "glm-5.3"
+}

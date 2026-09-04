@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Căci au zis vrăjmașii mei ⟨despre mine⟩, și cei ce pândesc sufletul meu s-au sfătuit împreună,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "au zis"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨despre mine⟩"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "și cei ce pândesc"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "s-au sfătuit"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:02.267600220Z",
+  "model": "glm-5.3"
+}

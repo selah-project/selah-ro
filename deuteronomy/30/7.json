@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și va pune Yahve, Elohim al tău, ⟨את⟩ toate blestemele acestea asupra dușmanilor tăi și asupra celor ce te urăsc, care te-au urmărit.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "și va pune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate blestemele acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "blestemele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dușmanilor tăi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "celor ce te urăsc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "te-au urmărit"
+    }
+  ],
+  "timestamp": "2026-09-04T02:13:24.647125721Z",
+  "model": "glm-5.3"
+}

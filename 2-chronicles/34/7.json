@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a dărâmat ⟨את⟩ altarele și ⟨את⟩ așerim, și chipurile cioplite le-a sfărâmat în bucăți mărunte, și toate stâlpii-soare i-a tăiat în toată țara lui Israel, și s-a întors la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "Și a dărâmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarele"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "așerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "așerim"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "și chipurile cioplite"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "le-a sfărâmat"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "în bucăți mărunte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toate"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "stâlpii-soare"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "i-a tăiat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "la Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:31:34.601535117Z",
+  "model": "glm-5.3"
+}

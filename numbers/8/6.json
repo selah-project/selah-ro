@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Ia ⟨את⟩ leviții din mijlocul fiilor lui Israel și îi vei curăți pe ⟨את⟩ ei.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviții"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviții"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "din mijlocul"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "și îi vei curăți"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "pe ⟨את⟩",
+      "marks": "ei (leviții)"
+    }
+  ],
+  "timestamp": "2026-09-04T01:46:06.441788008Z",
+  "model": "glm-5.3"
+}

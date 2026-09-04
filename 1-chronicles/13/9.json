@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și au ajuns până la aria Chidon, și Uza a întins ⟨את⟩ mâna ca să apuce ⟨את⟩ chivotul, căci s-au poticnit boii.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "au ajuns"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "aria"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Chidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a întins"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "ca să apuce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "s-au poticnit"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "boii"
+    }
+  ],
+  "timestamp": "2026-09-04T09:16:58.498281371Z",
+  "model": "glm-5.3"
+}

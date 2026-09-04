@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Și a spus Yosef: Dați vitele voastre, și vă voi da pentru vitele voastre, dacă s-a sfârșit argintul.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "dați"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "vitele voastre"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "și voi da"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "pentru vitele voastre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "s-a sfârșit"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argintul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:11:22.456460034Z",
+  "model": "glm-5.3"
+}

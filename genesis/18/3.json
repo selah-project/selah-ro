@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a zis: Adonai, dacă am aflat grație în ochii tăi, să nu treci, te rog, de la servul tău —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rog"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "am aflat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grație"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "treci"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de la"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "servul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:33.000691733Z",
+  "model": "glm-5.3"
+}

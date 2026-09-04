@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Ai văzut multe și nu păzești; ⟨cu⟩ urechi deschise și nu aude.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ai văzut"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "multe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "păzești"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "deschis"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "urechi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "aude"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:44.267271903Z",
+  "model": "glm-5.3"
+}

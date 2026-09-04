@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a zis: „Te rog, Adonai, trimite, te rog, prin mâna ⟨aceluia⟩ pe care îl vei trimite.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "בי",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "trimite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "vei trimite"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:18.171313684Z",
+  "model": "glm-5.3"
+}

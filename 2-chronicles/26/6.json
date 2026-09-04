@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și a ieșit și s-a luptat cu filiștienii, și a sfărâmat ⟨את⟩ zidul Gatului și ⟨את⟩ zidul Iavnei și ⟨את⟩ zidul Așdodului, și a zidit cetăți în Așdod și printre filiștienii ⟨de acolo⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "și s-a luptat"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "cu filiștienii"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "și a sfărâmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zidul Gatului"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zidul"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "zidul Iavnei"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zidul"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Iavnei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "zidul Așdodului"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zidul"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Așdodului"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "și a zidit"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cetăți"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "în Așdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "și printre filiștienii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:27:30.777788321Z",
+  "model": "glm-5.3"
+}

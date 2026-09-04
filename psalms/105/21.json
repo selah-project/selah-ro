@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "L-a pus pe ⟨el⟩ stăpân peste casa lui și domnitor peste tot ce avea el.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "l-a pus"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "stăpân"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "peste casa lui"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "și domnitor"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "peste tot"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "ce avea el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:01.714835333Z",
+  "model": "glm-5.3"
+}

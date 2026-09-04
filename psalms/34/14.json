@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Păzește-ți limba de rău și buzele tale de a vorbi înșelăciune.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "-ți limba"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "de rău"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "și buzele tale"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "de a vorbi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "înșelăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:44.467068989Z",
+  "model": "glm-5.3"
+}

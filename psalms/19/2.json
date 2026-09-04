@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Cerurile povestesc slava lui El, și facerea mâinilor lui o vestește întinderea ⟨cerului⟩.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "povestesc"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "și facerea"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinilor lui"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "vestește"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "întinderea cerului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:43.642393298Z",
+  "model": "glm-5.3"
+}

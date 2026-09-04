@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Eu am spus în graba mea: tot omul ⟨este⟩ mincinos.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am spus"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "în graba mea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mincinos"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:35.314959719Z",
+  "model": "glm-5.3"
+}

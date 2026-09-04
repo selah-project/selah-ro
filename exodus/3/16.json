@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Du-te și adună ⟨את⟩ bătrânii lui Israel și le vei spune: Yahve, Elohim al părinților voștri, mi s-a arătat — Elohim al lui Avraham, al lui Ițhac și al lui Iaacov — zicând: Cercetând v-am cercetat ⟨את⟩ pe voi și ⟨את⟩ ce vi s-a făcut în Mițraim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Du-te"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "și vei aduna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bătrânii lui Israel"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și vei spune"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "al părinților voștri"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "mi s-a arătat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "al lui Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "al lui Ițhac"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "și al lui Iaacov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Cercetând"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "v-am cercetat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ce vi s-a făcut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:37.349581141Z",
+  "model": "glm-5.3"
+}

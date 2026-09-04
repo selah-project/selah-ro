@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Toți s-au abătut, împreună s-au făcut putrezi; nu ⟨este⟩ făptuitor de bine, nu ⟨este⟩ nici măcar unul.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Toți"
+    },
+    {
+      "surface": "סר",
+      "gloss": "s-au abătut"
+    },
+    {
+      "surface": "יידו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "s-au făcut putrezi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făptuitor"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "de bine"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nici măcar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:19.781554847Z",
+  "model": "glm-5.3"
+}

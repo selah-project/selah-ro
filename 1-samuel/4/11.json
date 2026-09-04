@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a fost luat aronul lui Elohim, și au murit cei doi fii ai lui Eli, Hafni și Pinhas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Și aronul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "a fost luat"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "și cei doi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ai lui Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "au murit"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hafni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "și Pinhas"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:54.349911333Z",
+  "model": "glm-5.3"
+}

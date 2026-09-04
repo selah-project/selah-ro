@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și au părăsit acolo ⟨את⟩ dumnezeii lor, și a poruncit David, și au fost arse ⟨în⟩ foc.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Și au părăsit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dumnezeii lor"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dumnezeii lor"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a poruncit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "și au fost arse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    }
+  ],
+  "timestamp": "2026-09-04T08:20:26.424370687Z",
+  "model": "glm-5.3"
+}

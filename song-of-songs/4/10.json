@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Cât de frumoase sunt iubirile tale, sora mea, mireasa mea! Cât sunt de bune iubirile tale — mai bune decât vinul! Și mireasma mirului tău — mai bună decât toate mirodeniile!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "cât de"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "sunt frumoase"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "iubirile tale"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sora mea"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mireasa mea"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cât"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "sunt de bune"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "iubirile tale"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "decât vinul"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "și mireasma"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "mirului tău"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "decât toate"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mirodeniile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:49.768198701Z",
+  "model": "glm-5.3"
+}

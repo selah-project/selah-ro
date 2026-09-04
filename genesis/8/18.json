@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a ieșit Noa, și fiii lui, și femeia lui, și femeile fiilor lui cu ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "și fiii lui"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "și femeia lui"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "și femeile"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiilor lui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el",
+      "marks": "Noa"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:05.871445854Z",
+  "model": "glm-5.3"
+}

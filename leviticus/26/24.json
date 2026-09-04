@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "atunci voi merge și eu cu voi în keri, și voi lovi ⟨את⟩ pe voi, chiar eu, de șapte ori, pentru păcatele voastre.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "voi merge"
+    },
+    {
+      "surface": "אף",
+      "gloss": "și"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cu voi"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "în keri"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "și voi lovi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi (obiectul sufixat al lui והכיתי)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "de șapte ori"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "păcatele voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:43.848813072Z",
+  "model": "glm-5.3"
+}

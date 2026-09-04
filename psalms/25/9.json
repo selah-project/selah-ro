@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Călăuzește pe cei smeriți în judecată și îi învață pe cei smeriți calea lui.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "Călăuzește"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pe cei smeriți"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "în judecată"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "și îi învață"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pe cei smeriți"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "calea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:29.561194011Z",
+  "model": "glm-5.3"
+}

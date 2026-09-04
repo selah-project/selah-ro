@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și aurul țării aceleia ⟨este⟩ bun; acolo este bedolachul și piatra șoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "și aurul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceleia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "este bedolachul"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "și piatra"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "șoham"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:44.122686450Z",
+  "model": "glm-5.3"
+}

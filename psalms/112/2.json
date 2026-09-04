@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "Puternic în pământ va fi sămânța lui; neamul celor drepți va fi binecuvântat.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Puternic"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sămânța lui"
+    },
+    {
+      "surface": "דור",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "celor drepți"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "va fi binecuvântat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:50.134492568Z",
+  "model": "glm-5.3"
+}

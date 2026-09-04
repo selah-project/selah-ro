@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "l-Ahimaț a fost tatăl lui Azaria, iar Azaria a fost tatăl lui Iohanan",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "iar Ahimaț"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a fost tatăl lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "iar Azaria"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a fost tatăl lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iohanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Iohanan"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:24.380134249Z",
+  "model": "glm-5.3"
+}

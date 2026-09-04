@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 142,
+  "translation": "Am strigat către tine, Yahve; am zis: tu ⟨ești⟩ adăpostul meu, partea mea în țara celor vii.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Am strigat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "adăpostul meu"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "partea mea"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "celor vii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:25.088993267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Și a mâncat toată iarba din țara lor, și a mâncat rodul ogorului lor.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Și a mâncat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iarba"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "din țara lor"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "și a mâncat"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "rodul"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ogorului lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:48.161221651Z",
+  "model": "glm-5.3"
+}

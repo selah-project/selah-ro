@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Căci ca o haină îi va mânca molia și ca lâna îi va mânca viermele; dar dreptatea mea în veac va fi și izbăvirea mea pentru neam de neamuri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ca o haină"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "îi va mânca"
+    },
+    {
+      "surface": "עש",
+      "gloss": "molia"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "și ca lâna"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "îi va mânca"
+    },
+    {
+      "surface": "סס",
+      "gloss": "viermele"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "dar dreptatea mea"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "și izbăvirea mea"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pentru neam"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "de neamuri"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:22.114646041Z",
+  "model": "glm-5.3"
+}

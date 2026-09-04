@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Totul merge către un singur loc: totul a fost din praf și totul se întoarce în praf.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Totul"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "merge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "loc"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un singur"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "praf"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "și totul"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se întoarce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "praf"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:23.276159380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Yahve, Adonai, tăria izbăvirii mele, ai acoperit capul meu în ziua armelor.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tăria"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "izbăvirii mele"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "ai acoperit"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "capul meu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "armelor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:08.243087602Z",
+  "model": "glm-5.3"
+}

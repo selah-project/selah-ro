@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus Moșe: Mă abat, rogu-te, și văd ⟨את⟩ vederea aceasta mare — de ce nu arde rugul?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Mă abat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rogu-te"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "și văd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vederea aceasta mare"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "vederea"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mare"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "arde"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "rugul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:07.661303520Z",
+  "model": "glm-5.3"
+}

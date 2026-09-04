@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a zis David către Evyatar cohenul, fiul lui Ahimelech: Apropie, te rog, mie efodul. Și a apropiat Evyatar ⟨את⟩ efodul către David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "lui Ahimelech"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Apropie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodul"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "și a apropiat"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodul"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:15.812772906Z",
+  "model": "glm-5.3"
+}

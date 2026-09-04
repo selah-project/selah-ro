@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Am păzit orânduirile tale și mărturiile tale, că toate căile mele sunt înaintea ta.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Am păzit"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "orânduirile tale"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "și mărturiile tale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "căile mele"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sunt înaintea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:31.830468659Z",
+  "model": "glm-5.3"
+}

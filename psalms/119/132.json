@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Întoarce-ți fața către mine și îndură-te de mine, după judecata ⟨cea⟩ dată celor ce iubesc numele tău.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Întoarce-ți fața"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "și îndură-te de mine"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "după judecata"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "dată celor ce iubesc"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:41.975766590Z",
+  "model": "glm-5.3"
+}

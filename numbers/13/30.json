@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a potolit Calev ⟨את⟩ poporul către Moșe și a zis: Să suim, vom sui și o vom moșteni ⟨את⟩, că putem ⟨s-o⟩ putem.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "Și a potolit"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Calev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Să suim"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "vom sui"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "și o vom moșteni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ o",
+      "marks": "țara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "putem"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "putem"
+    },
+    {
+      "surface": "לה",
+      "gloss": "s-o"
+    }
+  ],
+  "timestamp": "2026-09-04T01:48:45.506849058Z",
+  "model": "glm-5.3"
+}

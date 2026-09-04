@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "Atunci se vor întoarce vrăjmașii mei înapoi în ziua în care strig; aceasta știu, că ⟨este⟩ Elohim pentru mine.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "se vor întoarce"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "înapoi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "în care strig"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:31.974283334Z",
+  "model": "glm-5.3"
+}

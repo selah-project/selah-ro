@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Că iată, vrăjmașii tăi vuiesc, și cei ce te urăsc și-au ridicat capul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vrăjmașii tăi"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "vuiesc"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "și cei ce te urăsc"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "au ridicat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:50.937540578Z",
+  "model": "glm-5.3"
+}

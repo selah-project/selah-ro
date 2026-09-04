@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Elohim, dărâmă dinții lor în gura lor; molarii puiilor de leu sfarmă-i, Yahve.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "dărâmă"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "dinții lor"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "în gura lor"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "molarii"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "puiilor de leu"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "sfarmă-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:10.529700791Z",
+  "model": "glm-5.3"
+}

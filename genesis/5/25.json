@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a trăit Metușelah o sută optzeci și șapte de ani, și a născut ⟨את⟩ Lamek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Și a trăit"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metușelah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "și optzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "și o sută"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lamek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lamek"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:46.959700718Z",
+  "model": "glm-5.3"
+}

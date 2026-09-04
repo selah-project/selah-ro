@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a murmurat toată adunarea fiilor Israel împotriva lui Moșe și împotriva lui Aharon în pustiu.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "și a murmurat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și împotriva"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    }
+  ],
+  "timestamp": "2026-09-04T01:18:48.809105892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "Când înfloresc cei răi ca iarba, când înfloresc toți făptuitorii de-neant — ⟨este⟩ ca să fie nimiciți în veci de veci.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "Când înfloresc"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iarba"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "când înfloresc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "făptuitorii"
+    },
+    {
+      "surface": "און",
+      "gloss": "de-neant"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "ca să fie nimiciți"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de veci"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:06.058051630Z",
+  "model": "glm-5.3"
+}

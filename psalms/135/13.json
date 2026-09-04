@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Yahve, numele tău ⟨este⟩ pe vecie; Yahve, pomenirea ta, din neam în neam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "pomenirea ta"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:58.663660222Z",
+  "model": "glm-5.3"
+}

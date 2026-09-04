@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și m-am certat ⟨את⟩ dregătorii și am zis: De ce a fost părăsită casa lui Elohim? Și i-am adunat și i-am pus în picioare la rândul lor.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "și m-am certat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dregătorii"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "dregătorii"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "și am zis"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "a fost părăsită"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "și i-am adunat"
+    },
+    {
+      "surface": "ואעמידם",
+      "gloss": "și i-am pus în picioare"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "rândul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:03:47.374625359Z",
+  "model": "glm-5.3"
+}

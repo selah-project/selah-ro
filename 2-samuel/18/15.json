@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și au înconjurat zece tineri, purtătorii armelor lui Ioav, și au lovit ⟨את⟩ Avșalom și l-au omorât.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "Și au înconjurat"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zece"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "tineri"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "purtătorii"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "armelor"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "lui Ioav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avșalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "și l-au omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:12.726276056Z",
+  "model": "glm-5.3"
+}

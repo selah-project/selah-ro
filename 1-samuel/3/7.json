@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Iar Șemuel nu cunoștea încă ⟨את⟩ pe Yahve, și încă nu-i fusese descoperit cuvântul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Iar Șemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "nu... încă"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoștea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "și nu... încă"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "fusese descoperit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:24.186103922Z",
+  "model": "glm-5.3"
+}

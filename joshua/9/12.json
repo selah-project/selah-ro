@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Aceasta, pâinea noastră, caldă am luat ⟨את⟩ din casele noastre în ziua ieșirii noastre pentru a merge către voi; și acum iată s-a uscat și a devenit fărâmițată.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "pâinea noastră"
+    },
+    {
+      "surface": "חם",
+      "gloss": "caldă"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "am luat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pâinea noastră"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "din casele noastre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "ieșirii noastre"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "de a merge"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "către voi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "s-a uscat"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și a devenit"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "fărâmițată"
+    }
+  ],
+  "timestamp": "2026-09-04T08:50:41.634121257Z",
+  "model": "glm-5.3"
+}

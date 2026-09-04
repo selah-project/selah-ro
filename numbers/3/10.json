@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și ⟨את⟩ pe Aharon și ⟨את⟩ pe fiii lui îi vei rândui, și vor păzi ⟨את⟩ preoția lor; iar străinul care se apropie va fi omorât.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Și ⟨את⟩",
+      "marks": "pe Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "pe Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pe fiii lui"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "îi vei rândui"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "și vor păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "preoția lor"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "preoția lor"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "iar străinul"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "care se apropie"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "va fi omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:13.325410430Z",
+  "model": "glm-5.3"
+}

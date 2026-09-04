@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Căci nu înțeleg ei faptele lui Yahve și lucrul mâinilor lui — le va dărâma și nu le va zidi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "înțeleg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨spre⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și ⟨spre⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinilor lui"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "le va dărâma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "le va zidi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:43.971943108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și au pus ⟨את⟩ chivotul lui Yahve pe căruță, și ⟨את⟩ lada, și ⟨את⟩ șoarecii de aur și ⟨את⟩ chipurile bubelor lor.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Și au pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "căruță"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lada"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "lada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "șoarecii"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "șoarecii"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "chipurile"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "chipurile"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "bubelor lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:40.849179518Z",
+  "model": "glm-5.3"
+}

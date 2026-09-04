@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a auzit Atalia ⟨את⟩ glasul poporului care alerga și care preamărea ⟨את⟩ regele, și a venit spre popor, în Casa lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויתשמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "care alerga"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "și care preamărea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:25:56.227993197Z",
+  "model": "glm-5.3"
+}

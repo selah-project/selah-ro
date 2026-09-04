@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Cei ce mâncau cu desfătări sunt pustiți în piețe; cei purtați pe purpură îmbrățișează gunoiștele.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "cei ce mâncau"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "cu desfătări"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "sunt pustiți"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "în piețe"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "cei purtați (pe brațe)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "purpură"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "îmbrățișează"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "gunoiștile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:41:38.058258655Z",
+  "model": "glm-5.3"
+}

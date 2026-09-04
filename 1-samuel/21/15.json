@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "A spus Akiș către slujitorii săi: Iată, vedeți un om care își pierde mințile; de ce îl aduceți la mine?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiș"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slujitorii săi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vedeți"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "care își pierde mințile"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "aduceți"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "el"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:09.816332450Z",
+  "model": "glm-5.3"
+}

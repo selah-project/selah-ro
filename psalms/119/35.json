@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Călăuzește-mă pe cărarea poruncilor tale, căci în ea mi-am aflat plăcerea.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Călăuzește-mă"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "pe cărarea"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncilor tale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mi-am aflat plăcerea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:06.787400210Z",
+  "model": "glm-5.3"
+}

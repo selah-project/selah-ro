@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Dirijorului, al lui David, un mizmor. Elohim al laudei mele, nu tăcea.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijorului"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "laudei mele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tăcea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:18.059438683Z",
+  "model": "glm-5.3"
+}

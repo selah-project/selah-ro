@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Du-te, mănâncă cu bucurie pâinea ta și bea cu inimă bună vinul tău, căci de mult s-a împăcat Elohim cu ⟨את⟩ faptele tale.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Du-te"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mănâncă"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "cu bucurie"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "pâinea ta"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "și bea"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "cu inimă"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bună"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "vinul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "de mult"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "s-a împăcat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faptele tale"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "faptele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:03.879792995Z",
+  "model": "glm-5.3"
+}

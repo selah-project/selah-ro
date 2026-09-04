@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Pe pricina ta o judecă ⟨את⟩ cu aproapele tău, și taina altuia nu o descoperi;",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "pricina ta"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "judecă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aproapele tău"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "cu aproapele tău"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "și taina"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altuia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "descoperi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:46.067984791Z",
+  "model": "glm-5.3"
+}

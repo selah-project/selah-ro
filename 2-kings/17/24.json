@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a adus regele Așșurului ⟨oameni⟩ din Bavel, din Kuta, din Ava, din Hamat și din Sefarvaim, și i-a așezat în cetățile Șomronului, în locul fiilor lui Israel; și au stăpânit ⟨את⟩ Șomronul și au locuit în cetățile lui.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a adus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așșurului"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "din Bavel"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "din Kuta"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "din Ava"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "din Hamat"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "și din Sefarvaim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și i-a așezat"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "în cetățile"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Șomronului"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "și au stăpânit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șomronul"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Șomronul"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "și au locuit"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "în cetățile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:23:14.344212021Z",
+  "model": "glm-5.3"
+}

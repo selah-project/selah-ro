@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Să nu fii printre băutorii de vin, printre mâncătorii de carne ⟨lacomi⟩, pentru ei.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "printre băutorii"
+    },
+    {
+      "surface": "יין",
+      "gloss": "de vin"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "printre mâncătorii"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "de carne"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pentru ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:04.758431906Z",
+  "model": "glm-5.3"
+}

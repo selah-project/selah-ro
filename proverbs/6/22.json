@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Când mergi, te va călăuzi; când te culci, te va păzi; și la trezirea ta, ea îți va vorbi.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Când mergi"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "va călăuzi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pe tine",
+      "marks": "pronume 'pe tine', nu semnul ⟨את⟩ — sufixat cu pronume"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "când te culci"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "va păzi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "peste tine"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "și la trezirea ta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "îți va vorbi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:00.763211359Z",
+  "model": "glm-5.3"
+}

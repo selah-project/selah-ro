@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Cel ce sapă o groapă în ea va cădea, și cel ce dărâmă un zid îl va mușca un șarpe.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Cel ce sapă"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "o groapă"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "va cădea"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "și cel ce dărâmă"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "un zid"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "îl va mușca"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "un șarpe"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:56.731654078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și i-a zis lui: Așa a zis Iiftah: Nu a luat Israel ⟨את⟩ pământul lui Moab și ⟨את⟩ pământul fiilor lui Amon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și i-a zis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Iiftah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul lui Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "lui Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pământul fiilor lui Amon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "lui Amon"
+    }
+  ],
+  "timestamp": "2026-09-04T07:06:45.116611751Z",
+  "model": "glm-5.3"
+}

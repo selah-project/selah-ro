@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar ce rămâne din darul de mâncare ⟨este⟩ al lui Aharon și al fiilor lui: sfânt între sfintele ⟨jertfelor⟩ — din jertfele de foc ale lui Yahve.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Iar ce rămâne"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darul de mâncare"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "al lui Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "și al fiilor lui"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "între sfintele"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "din jertfele de foc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ale lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:03.288733340Z",
+  "model": "glm-5.3"
+}

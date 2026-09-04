@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Numai deșertăciune sunt fii lui Adam, minciună fii omului; pe cumpăne ca să se urce, ei ⟨sunt mai ușori⟩ împreună decât deșertăciunea.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșertăciune"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lui Adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "minciună"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "pe cumpăne"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ca să se urce"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "decât deșertăciunea"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:59.573509008Z",
+  "model": "glm-5.3"
+}

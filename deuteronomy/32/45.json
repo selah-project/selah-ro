@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a isprăvit Moșe să vorbească ⟨את⟩ toate cuvintele acestea către tot Israelul.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Și a isprăvit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "să vorbească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:14:00.570711034Z",
+  "model": "glm-5.3"
+}

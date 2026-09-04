@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și au jertfit ⟨את⟩ fiii lor și ⟨את⟩ fiicele lor lui Șadai (dumnezeii străini)",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Și au jertfit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lor"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiii lor"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiicele lor"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "fiicele lor"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "lui Șadai (dumnezeii străini)"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:34.793932674Z",
+  "model": "glm-5.3"
+}

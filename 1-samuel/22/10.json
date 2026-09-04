@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "și a întrebat pentru el la Yahve, și merinde a dat lui, și ⟨את⟩ sabia lui Goliat filisteanul a dat lui.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "și a întrebat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "la Yahve"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "și merinde"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sabia lui Goliat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabia"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "lui Goliat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteanul"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:53:37.824416829Z",
+  "model": "glm-5.3"
+}

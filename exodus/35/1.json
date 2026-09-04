@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și a adunat Moșe ⟨את⟩ toată adunarea fiilor lui Israel și a spus către ei: acestea sunt cuvintele pe care le-a poruncit Yahve de făcut ⟨את⟩ lor.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Și a adunat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată adunarea fiilor lui Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "de făcut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:41.049580137Z",
+  "model": "glm-5.3"
+}

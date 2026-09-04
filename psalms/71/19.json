@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Și dreptatea ta, Elohim, ⟨este⟩ până la înălțimi: tu ai făcut lucruri mari; Elohim, cine ⟨este⟩ ca tine?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Și dreptatea ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "înălțimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tu care"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lucruri mari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ca tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:29.982250067Z",
+  "model": "glm-5.3"
+}

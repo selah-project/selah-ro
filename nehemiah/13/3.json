@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a fost, când au auzit ⟨את⟩ Tora, au despărțit tot amestecul din Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "când au auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "au despărțit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "amestecul"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "din Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:08.852663870Z",
+  "model": "glm-5.3"
+}

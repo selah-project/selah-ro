@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și ⟨את⟩ te voi duce în pământul despre care am ridicat ⟨את⟩ mâna Mea să îl dau lui Avraham, lui Ițhac și lui Iaacov, și îl voi da ⟨את⟩ lui vouă ⟨את⟩ ca moștenire; Eu sunt Yahve.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Și te voi duce"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "despre care"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "am ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna Mea"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna Mea"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "să dau"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ îl",
+      "marks": "lui Avraham"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "lui Ițhac"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "și lui Iaacov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "și îl voi da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "vouă"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ca moștenire"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:38.834662287Z",
+  "model": "glm-5.3"
+}

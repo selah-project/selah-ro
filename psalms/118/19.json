@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "Deschideți-mi porțile dreptății: voi intra prin ele, Îl voi lăuda pe Ya.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Deschideți"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "porțile"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptății"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "voi intra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "prin ele"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Îl voi lăuda"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:44.294535169Z",
+  "model": "glm-5.3"
+}

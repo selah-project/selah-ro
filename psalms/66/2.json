@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Cântați slava numelui său, puneți slavă laudei lui.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Cântați"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numelui său"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "puneți"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slavă"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "laudei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:00.036997359Z",
+  "model": "glm-5.3"
+}

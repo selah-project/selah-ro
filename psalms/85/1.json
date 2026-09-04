@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Cârmuitorului de cântare. Al fiilor lui Korach. Un mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Cârmuitorului de cântare"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "al fiilor lui"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:36.211943615Z",
+  "model": "glm-5.3"
+}

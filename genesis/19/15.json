@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și când zorii s-au ridicat, au grăbit trimișii ⟨pe⟩ Lot, zicând: Scoală-te, ia ⟨את⟩ femeia ta și ⟨את⟩ pe cele două fiice ale tale, cele aflate, ca să nu fii măturat în vina cetății.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "Și când"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "zorii"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "s-au ridicat"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "au grăbit"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "trimișii"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "pe Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Scoală-te"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "femeia ta"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "femeia ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cele două fiice ale tale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "două"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "fiice ale tale"
+    },
+    {
+      "surface": "הנמצאות",
+      "gloss": "cele aflate"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "fii măturat"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "în vina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:27.258058308Z",
+  "model": "glm-5.3"
+}

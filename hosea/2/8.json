@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "De aceea, iată-mă: voi împrejmui cu spini ⟨את⟩ calea ta și voi zidi ⟨את⟩ gardul ei, și cărările ei nu le va găsi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "De aceea"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată-mă"
+    },
+    {
+      "surface": "שך",
+      "gloss": "voi împrejmui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calea ta"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "calea ta"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "cu spini"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "și voi zidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gardul ei"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "gardul ei"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "și cărările ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "va găsi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:37.819797763Z",
+  "model": "glm-5.3"
+}

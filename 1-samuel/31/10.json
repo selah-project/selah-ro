@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și au pus ⟨את⟩ armele lui în casa Aștarot, iar ⟨את⟩ trupul lui l-au pironit în zidul Beit-Șan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "și au pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armele lui"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "armele lui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Aștarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "trupul lui"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "trupul lui"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "au pironit"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "în zidul"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Șan"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:21.675609988Z",
+  "model": "glm-5.3"
+}

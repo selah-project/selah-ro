@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 93,
+  "translation": "Întemeiat ⟨este⟩ scaunul tău de atunci, din veac tu ești.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "întemeiat"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "scaunul tău"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "de atunci"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "din veac"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ești"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:19.726131986Z",
+  "model": "glm-5.3"
+}

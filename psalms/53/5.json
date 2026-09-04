@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Nu știu oare făcătorii de nelegiuire, cei care mănâncă poporul meu cum se mănâncă pâine? Pe Elohim nu l-au chemat.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nu... oare"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "știu"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "făcătorii de"
+    },
+    {
+      "surface": "און",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "celor care mănâncă"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "au mâncat"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "l-au chemat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:17.580403791Z",
+  "model": "glm-5.3"
+}

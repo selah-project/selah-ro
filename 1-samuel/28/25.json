@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a adus-o înaintea lui Șaul și înaintea slujitorilor lui, și au mâncat; apoi s-au sculat și au plecat în noaptea aceea.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "Și a adus-o"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "și înaintea"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slujitorilor lui"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "și au mâncat"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "apoi s-au sculat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au plecat"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "în noaptea"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:59.426017401Z",
+  "model": "glm-5.3"
+}

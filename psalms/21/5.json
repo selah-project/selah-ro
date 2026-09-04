@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Viață a cerut de la tine, i-ai dat lui: lungime de zile, veac și pururea.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Viață"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "a cerut"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de la tine"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ai dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lungime"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de zile"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și pururea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:58.072520998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Ție a zis inima mea: „Căutați fața mea”; ⟨את⟩ fața ta, Yahve, voi căuta.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ție"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "căutați"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața ta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "voi căuta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:47.153674275Z",
+  "model": "glm-5.3"
+}

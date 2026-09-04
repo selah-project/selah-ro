@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și dimineața veți vedea ⟨את⟩ slava lui Yahve, când va auzi ⟨את⟩ murmurările voastre împotriva lui Yahve; dar noi ce suntem, că murmurați împotriva noastră?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Și dimineața"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "veți vedea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slava lui Yahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "când va auzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murmurările voastre"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "murmurările voastre"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "dar noi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "murmurați"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "împotriva noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:55.364210175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Nu ⟨este⟩ nimeni ca tine între dumnezei, Adonai, și nu ⟨sunt⟩ fapte ca ale tale.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nu ⟨este⟩ nimeni"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ca tine"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "între dumnezei"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨sunt⟩"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "fapte ca ale tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:51.852167756Z",
+  "model": "glm-5.3"
+}

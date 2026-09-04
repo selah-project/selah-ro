@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Nu în puterea calului își găsește plăcerea, nu în picioarele omului se bucură.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "în puterea"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "calului"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "își găsește plăcerea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "în picioarele"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "se bucură"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:41.793110526Z",
+  "model": "glm-5.3"
+}

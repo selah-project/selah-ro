@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a luat cartea legământului și a citit în auzul poporului; și au zis: Tot ce a grăit Yahve vom face și vom asculta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cartea"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "legământului"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a citit"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "în auzul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a grăit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vom face"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "și vom asculta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:43.503072121Z",
+  "model": "glm-5.3"
+}

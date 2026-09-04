@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 142,
+  "translation": "Cu glasul meu către Yahve strig, cu glasul meu către Yahve mă rog ⟨pentru⟩ îndurare.",
+  "tokens": [
+    {
+      "surface": "קוֹלִי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֶזְעָק",
+      "gloss": "strig"
+    },
+    {
+      "surface": "קוֹלִי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֶתְחַנָּן",
+      "gloss": "mă rog ⟨pentru⟩ îndurare"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:50.590413853Z",
+  "model": "glm-5.3"
+}

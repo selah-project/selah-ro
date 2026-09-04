@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Nu va fi pentru tine alți dumnezei peste fața mea.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "alți"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:42.617419157Z",
+  "model": "glm-5.3"
+}

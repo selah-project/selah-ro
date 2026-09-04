@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Atunci va vorbi ⟨cu⟩ ei în mânia lui, și în furia lui îi va înspăimânta.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "va vorbi"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "în mânia lui"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "și în furia lui"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "îi va înspăimânta"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:32.072307247Z",
+  "model": "glm-5.3"
+}

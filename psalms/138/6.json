@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 138,
+  "translation": "Căci înalt este Yahve, dar ⟨pe⟩ cel smerit îl vede, și ⟨pe⟩ cel trufaș de departe îl cunoaște.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רם",
+      "gloss": "înalt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "dar cel smerit"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "îl vede"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "și cel trufaș"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "de departe"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "îl cunoaște"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:45.524016206Z",
+  "model": "glm-5.3"
+}

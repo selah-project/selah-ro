@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 60:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Nu va mai apune soarele tău, și luna ta nu se va mai strânge, căci Yahve îți va fi lumină veșnică, și se vor fi împlinit zilele jalei tale.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "va mai intra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "שמשך",
+      "gloss": "soarele tău"
+    },
+    {
+      "surface": "וירחך",
+      "gloss": "și luna ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "se va strânge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "îți va fi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "lumină"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnică"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "și se vor fi împlinit"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "אבלך",
+      "gloss": "jalei tale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:31:53.732206220Z",
+  "model": "glm-5.3"
+}

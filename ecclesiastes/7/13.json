@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Vezi ⟨את⟩ lucrarea lui Elohim, căci cine ar putea îndrepta ⟨את⟩ ceea ce a strâmbat el?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrarea"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ar putea"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "îndrepta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce a strâmbat el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "a strâmbat el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:06.470634427Z",
+  "model": "glm-5.3"
+}

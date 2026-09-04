@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Cine să-mi dea în pustie un adăpost de călători, și să las ⟨את⟩ poporul meu și să plec de la ⟨את⟩ ei! Căci toți ⟨sunt⟩ preacurvari, o adunare de trădători.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "să-mi dea"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustie"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "un adăpost"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "de călători"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "și să las"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "și să plec"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "de la ⟨את⟩",
+      "marks": "ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "preacurvari"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "o adunare"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "de trădători"
+    }
+  ],
+  "timestamp": "2026-09-04T04:02:26.662684018Z",
+  "model": "glm-5.3"
+}

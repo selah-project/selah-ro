@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a spus Șemuel bucătarului: Dă porția pe care ți-am dat-o, despre care ți-am spus: Pune-o ⟨את⟩ cu tine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "bucătarului"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Dă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porția"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "porția"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ți-am dat-o"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "despre care"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ți-am spus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "שים",
+      "gloss": "Pune-o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "cu tine (pe ea)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:10.770540822Z",
+  "model": "glm-5.3"
+}

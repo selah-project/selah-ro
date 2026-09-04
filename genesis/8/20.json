@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a zidit Noa un altar lui Yahve, și a luat din tot dobitocul cel curat și din toată păsărea cea curată, și a suit arderi-de-tot pe altar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "și a zidit"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din tot"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobitocul"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "cel curat"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "și din toată"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "păsărea"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "cea curată"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și a suit"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "arderi-de-tot"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "pe altar"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:53.325360123Z",
+  "model": "glm-5.3"
+}

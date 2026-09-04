@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și voi sfărâma ⟨את⟩ trufia puterii voastre și voi face ⟨את⟩ cerurile voastre ca fierul și ⟨את⟩ pământul vostru ca arama.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Și voi sfărâma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trufia puterii voastre"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "trufia"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "puterii voastre"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "și voi face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cerurile voastre"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "cerurile voastre"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "ca fierul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pământul vostru"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "pământul vostru"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "ca arama"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:53.910947550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și va trimite ⟨את⟩ pasărea cea vie spre afară din cetate, spre fața câmpului, și va ispăși pentru casă, și va fi curată.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "și va trimite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasărea cea vie"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "cea vie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "din cetate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpului"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "și va ispăși"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casă"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "și va fi curată"
+    }
+  ],
+  "timestamp": "2026-09-04T06:48:32.390156380Z",
+  "model": "glm-5.3"
+}

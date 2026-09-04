@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Au vestit cerurile dreptatea lui, și au văzut toate popoarele slava lui.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Au vestit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "dreptatea lui"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slava lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:19.276939621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Ascultați și luați aminte, nu vă înălțați, căci Yahve a vorbit.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ascultați"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "și luați aminte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "vă înălțați"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:03:17.795523059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va porunci cohenul și va junghia ⟨את⟩ pasărea cea una spre un vas de lut, peste apă vie.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "și va porunci"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "și va junghia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasărea cea una"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "cea una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "un vas"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "de lut"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:34:35.929187565Z",
+  "model": "glm-5.3"
+}

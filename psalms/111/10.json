@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 111,
+  "translation": "Începutul înțelepciunii ⟨este⟩ frica de Yahve; bun pricepere au toți cei ce le fac; lauda lui stă în veci.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Începutul"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunii"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "frica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "pricepere"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "au toți"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "cei ce le fac"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lauda lui"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stă"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "în veci"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:34.197291451Z",
+  "model": "glm-5.3"
+}

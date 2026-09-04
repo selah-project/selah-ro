@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 21:12",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și s-a dus David și a luat ⟨את⟩ oasele lui Șaul și ⟨את⟩ oasele lui Iehonatan, fiul său, de la ⟨את⟩ stăpânii din Iaveș-Ghilad, care furaseră ⟨את⟩ ele din piața Beit-Șan, unde le spânzuraseră filistenii, în ziua când i-au lovit filistenii ⟨את⟩ Șaul la Ghilboa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și s-a dus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oasele lui Șaul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "oasele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "oasele lui Iehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "oasele"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "lui Iehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul său"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "stăpânii"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "din Iaveș"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "-Ghilad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "furaseră"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ele",
+      "marks": "din piața Beit-Șan"
+    },
+    {
+      "surface": "מרחב",
+      "gloss": "din piața"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Șan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "תלום",
+      "gloss": "le spânzuraseră"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "când i-au lovit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Șaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "la Ghilboa"
+    }
+  ],
+  "timestamp": "2026-09-04T10:12:01.423051600Z",
+  "model": "glm-5.3"
+}

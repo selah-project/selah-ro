@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 141,
+  "translation": "Pe laturile stâncii sunt aruncați judecătorii lor, și vor auzi cuvintele mele, căci sunt plăcute.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "sunt aruncați"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "pe laturile"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "stâncii"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "judecătorii lor"
+    },
+    {
+      "surface": "וימעו",
+      "gloss": ""
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "și vor auzi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "cuvintele mele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "sunt plăcute"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:31.929406122Z",
+  "model": "glm-5.3"
+}

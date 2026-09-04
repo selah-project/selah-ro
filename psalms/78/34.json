@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Când îi omora, îl căutau, și se întorceau, și-l căutau cu staruință pe El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "când"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "îi omora"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "îl căutau"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "și se întorceau"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "și căutau cu staruință"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe El"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:02.545596053Z",
+  "model": "glm-5.3"
+}

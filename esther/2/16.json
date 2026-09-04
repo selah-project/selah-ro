@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a fost luată Ester la regele Ahașveroș, la casa împărăției lui, în luna a zecea — ea este luna Tevet — în anul al șaptelea al domniei lui.",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "și a fost luată"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahașveroș"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "împărăției lui"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "în luna"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "a zecea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea este"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "luna"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "Tevet"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "în anul"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "al șaptelea"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "al domniei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:47:08.937077250Z",
+  "model": "glm-5.3"
+}

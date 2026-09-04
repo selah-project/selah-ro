@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Voi da ⟨את⟩ muntele Seir drept pustiire și desolare și voi stârpi din el pe cel ce trece și pe cel ce se întoarce.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Voi da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muntele Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "drept pustiire"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "și desolare"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "și voi stârpi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pe cel ce trece"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "și pe cel ce se întoarce"
+    }
+  ],
+  "timestamp": "2026-09-04T04:31:46.527921153Z",
+  "model": "glm-5.3"
+}

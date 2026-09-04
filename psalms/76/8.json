@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "Tu, înfricoșător ești tu, și cine va sta înaintea ta de îndată ce ⟨se aprinde⟩ mânia ta?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "înfricoșător"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "va sta"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "de îndată ce"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mânia ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:30.720163839Z",
+  "model": "glm-5.3"
+}

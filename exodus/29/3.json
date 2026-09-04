@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și le vei pune ⟨את⟩ pe un singur coș, și le vei aduce ⟨את⟩ în coș, și ⟨את⟩ vițelul și ⟨את⟩ pe cei doi berbeci.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Și vei pune"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "le vei pune (pâinile)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "סל",
+      "gloss": "coș"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un singur"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "și vei aduce"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le vei aduce"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "în coș"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vițelul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "vițelul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe cei doi berbeci"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pe cei doi"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "berbeci"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:00.687045708Z",
+  "model": "glm-5.3"
+}

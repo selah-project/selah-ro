@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci de acum aș fi întins ⟨את⟩ mâna mea și te-aș fi lovit ⟨את⟩ pe tine și ⟨את⟩ poporul tău cu molima, și ai fi fost nimicit de pe pământ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "de acum"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "aș fi întins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna mea"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ pe tine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poporul tău"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "cu molima"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "și ai fi fost nimicit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:58.513529551Z",
+  "model": "glm-5.3"
+}

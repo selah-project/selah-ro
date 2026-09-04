@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 137,
+  "translation": "La râurile Babilonului, acolo am șezut, am plâns și, când ne-am adus aminte ⟨את⟩ Țion.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "La"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "râurile"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonului"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "am șezut"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "am plâns"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "când ne-am adus aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Țion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:57.993433765Z",
+  "model": "glm-5.3"
+}

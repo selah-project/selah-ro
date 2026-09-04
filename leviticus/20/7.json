@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și vă veți sfinți și veți fi sfinți, căci Eu ⟨sunt⟩ Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Și vă veți sfinți"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "și veți fi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sfinți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:18.068819135Z",
+  "model": "glm-5.3"
+}

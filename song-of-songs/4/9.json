@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Mi-ai răpit inima, sora mea, mireasa mea, mi-ai răpit inima cu una dintre ochii tăi, cu un șirag de la gâtul tău.",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "mi-ai răpit inima"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sora mea"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mireasa mea"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "mi-ai răpit inima"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "cu una"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "dintre ochii tăi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "cu un"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "șirag"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "de la gâtul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:49.767945645Z",
+  "model": "glm-5.3"
+}

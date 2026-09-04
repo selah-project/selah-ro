@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Toți suntem fii ai unui singur om, noi; oameni cinstiți suntem noi, nu au fost robii tăi iscoade.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ai unui om"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "singur"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "oameni cinstiți"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "suntem noi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robii tăi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "iscoade"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:53.794100377Z",
+  "model": "glm-5.3"
+}

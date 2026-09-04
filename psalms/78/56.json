@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Dar l-au ispitit și s-au răzvrătit împotriva lui ⟨את⟩ Elohim Cel Preaînalt și mărturiile lui nu le-au păzit.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "l-au ispitit"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "s-au răzvrătit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Cel Preaînalt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Cel Preaînalt"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "mărturiile lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "au păzit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:13.340430506Z",
+  "model": "glm-5.3"
+}

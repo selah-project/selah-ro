@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și să se radă, dar ⟨את⟩ râia să nu o radă; și să închidă cohenul ⟨את⟩ râia șapte zile a doua oară.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "și să se radă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dar ⟨את⟩",
+      "marks": "râia"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "râia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "să radă"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "și să închidă"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "râia"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "râia"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "a doua oară"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:57.490451892Z",
+  "model": "glm-5.3"
+}

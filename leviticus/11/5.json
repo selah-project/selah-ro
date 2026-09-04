@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ Șafanul, pentru că aduce rumegatul el, dar copita nu despică — necurat este el pentru voi;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șafanul"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "Șafanul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "aduce"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumegatul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "și copita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "despică"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:22.836431307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Am cunoscut că nu este bun în ele, decât să se bucure și să facă bine în viața lui.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Am cunoscut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "בם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(că)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "decât"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "să se bucure"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "și să facă"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "în viața lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:51.449324562Z",
+  "model": "glm-5.3"
+}

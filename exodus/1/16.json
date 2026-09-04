@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a spus: Când veți moșii ⟨את⟩ evreicele și veți vedea pietrele de naștere — dacă este fiu, să-l omorâți, iar dacă este fată, să trăiască.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "Când veți moșii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evreicele"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "evreicele"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "și veți vedea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "pietrele de naștere"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "să-l omorâți"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fată"
+    },
+    {
+      "surface": "היא",
+      "gloss": "este ea"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "să trăiască"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:48.938869210Z",
+  "model": "glm-5.3"
+}

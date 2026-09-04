@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Mai bun ⟨este⟩ supărarea decât râsul, căci la stricăciunea feței se face bine inima.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mai bun"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "supărarea"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "decât râsul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "la stricăciunea"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "feței"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "se face bine"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:34.022071309Z",
+  "model": "glm-5.3"
+}

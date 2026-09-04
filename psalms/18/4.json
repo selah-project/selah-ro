@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Pe Cel lăudat îl chem — Yahve, și de vrăjmașii mei sunt izbăvit.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Pe Cel lăudat"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "îl chem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "și de"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "sunt izbăvit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:54.146657210Z",
+  "model": "glm-5.3"
+}

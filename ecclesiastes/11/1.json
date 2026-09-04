@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Trimite-ți pâinea pe fața apelor, căci în mulțimea zilelor o vei găsi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Trimite-ți"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apelor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "în mulțimea"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zilelor"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "o vei găsi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:46.543179550Z",
+  "model": "glm-5.3"
+}

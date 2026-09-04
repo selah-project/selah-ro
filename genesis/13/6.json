@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și nu a putut purta pământul ⟨את⟩ ei, ca să locuiască împreună, căci avutul lor era mare, și nu nu au putut să locuiască împreună",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a putut purta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ca să locuiască"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "avutul lor"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "au putut"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "să locuiască"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T10:09:49.044927974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci Cel ce cercetează ⟨את⟩ sângele i-a pomenit, nu a uitat strigătul celor smeriți.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Cel ce cercetează"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "i-a pomenit (pe cei omorâți)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "a pomenit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "a uitat"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "strigătul"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "celor smeriți"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:51.605466911Z",
+  "model": "glm-5.3"
+}

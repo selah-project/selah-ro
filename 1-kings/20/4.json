@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a răspuns regele lui Israel și a spus: După cuvântul tău, domnul meu, regele: al tău sunt eu și tot ce ⟨este⟩ al meu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "după cuvântul tău"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "domnul meu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "al tău"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לי",
+      "gloss": "al meu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:20:47.668369766Z",
+  "model": "glm-5.3"
+}

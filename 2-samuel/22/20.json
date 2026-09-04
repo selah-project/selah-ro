@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și m-a scos la loc larg; m-a izbăvit, căci a voit ⟨את⟩ mine — a avut plăcere de mine.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "și m-a scos"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "la loc larg"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mine"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "m-a izbăvit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a voit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:52.070406444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Și cei drepți se vor bucura, vor exulta înaintea lui Elohim și se vor veseli cu bucurie.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "și cei drepți"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se vor bucura"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "vor exulta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "și se vor veseli"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "cu bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:31.137721594Z",
+  "model": "glm-5.3"
+}

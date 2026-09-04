@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a fost rău în ochii lui Yahve ceea ce a făcut, și a murit și ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Și a fost rău"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:46.651706966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Că răul se laudă cu pofta sufletului său, și câștigătorul de câștig binecuvântează, disprețuiește pe Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "se laudă"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "על",
+      "gloss": "cu"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "pofta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletului său"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "și câștigătorul de câștig"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "binecuvântează"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "disprețuiește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:41.950538610Z",
+  "model": "glm-5.3"
+}

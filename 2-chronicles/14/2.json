@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a îndepărtat altarele străine și înălțimile, și a sfărâmat stâlpii sacri ⟨את⟩, și a tăiat așerimile ⟨את⟩ — altarele străine ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "și a îndepărtat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarele străine"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altarele"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "străine"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "și înălțimile"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "și a sfărâmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpii sacri"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stâlpii sacri"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "și a tăiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "așerimile"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "așerimile"
+    }
+  ],
+  "timestamp": "2026-09-04T09:16:31.542815978Z",
+  "model": "glm-5.3"
+}

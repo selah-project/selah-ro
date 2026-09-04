@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și Mă veți căuta ⟨את⟩ pe Mine și Mă veți găsi, căci Mă veți cerceta cu toată inima voastră.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "Și Mă veți căuta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pe Mine",
+      "marks": "pe Mine"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "și Mă veți găsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "Mă veți cerceta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inima voastră"
+    }
+  ],
+  "timestamp": "2026-09-04T04:10:07.846702599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și vei pune pe masă pâinea fețelor, înaintea mea, pururea.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Și vei pune"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fețelor"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pururea"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:01.608782223Z",
+  "model": "glm-5.3"
+}

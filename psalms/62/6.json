@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Numai către Elohim, liniștește-te, sufletul meu, că de la El ⟨vine⟩ nădejdea mea.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "numai"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "către Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "liniștește-te"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de la El"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "nădejdea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:53.763703728Z",
+  "model": "glm-5.3"
+}

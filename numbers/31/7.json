@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și s-au războit împotriva Midianului, cum poruncise Yahve ⟨את⟩ lui Moșe, și au ucis tot masculul.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "Și s-au războit"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianului"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "și au ucis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "masculul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:56:04.245186076Z",
+  "model": "glm-5.3"
+}

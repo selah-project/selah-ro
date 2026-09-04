@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "și ⟨את⟩ cei doi fii ai ei — numele celuia dintâi ⟨era⟩ Gerșom, căci a spus: străin am fost într-o țară străină.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cei doi"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "fiii ei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— dintre care"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "celuia dintâi"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerșom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "גר",
+      "gloss": "străin"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "într-o țară"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "străină"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:14.871336318Z",
+  "model": "glm-5.3"
+}

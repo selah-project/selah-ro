@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Păzește-te ca să nu uiți ⟨את⟩ Yahve, care te-a scos din pământul Mițraimului, din casa robilor.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Păzește-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pe tine⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "uiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "te-a scos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robilor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:04.234939018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a scos Moșe ⟨את⟩ poporul în întâmpinarea lui Elohim, din tabără, și s-au așezat la poalele muntelui.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "și a scos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "în întâmpinarea"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabără"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "și s-au așezat"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "la poalele"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntelui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:46:44.430657450Z",
+  "model": "glm-5.3"
+}

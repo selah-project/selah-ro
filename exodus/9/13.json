@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a spus Yahve către Moșe: scoală-te devreme dimineața și înfățișează-te înaintea lui Paro și să-i spui: Așa a spus Yahve, Elohim al evreilor: Trimite ⟨את⟩ poporul meu, ca să mă slujească.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "scoală-te devreme"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "și înfățișează-te"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și să spui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "evreilor"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Trimite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ca să mă slujească"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:58.512613025Z",
+  "model": "glm-5.3"
+}

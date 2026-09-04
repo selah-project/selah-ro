@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "De glasul tumultului au fugit popoarele; de înălțarea ta s-au risipit neamurile.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "De glasul"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tumultului"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "au fugit"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "de înălțarea ta"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "s-au risipit"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    }
+  ],
+  "timestamp": "2026-09-04T07:27:58.172238271Z",
+  "model": "glm-5.3"
+}

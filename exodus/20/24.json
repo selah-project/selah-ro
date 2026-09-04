@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Un altar de pământ să-Mi faci, și să jertfești pe el ⟨את⟩ arderile-tale de jertfă și ⟨את⟩ jertfele-tale de pace, ⟨את⟩ oile-tale și ⟨את⟩ boii-tăi; în tot locul în care voi face pomenit ⟨את⟩ Numele-Meu voi veni către tine și te voi binecuvânta.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "de pământ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să faci"
+    },
+    {
+      "surface": "לי",
+      "gloss": " Mie"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "și să jertfești"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderile-tale de jertfă"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "arderile-tale de jertfă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "jertfele-tale de pace"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "jertfele-tale de pace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oile-tale"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "oile-tale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "boii-tăi"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "boii-tăi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "voi face pomenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Numele-Meu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Numele-Meu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "voi veni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "și te voi binecuvânta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:34.426664798Z",
+  "model": "glm-5.3"
+}

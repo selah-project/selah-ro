@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "în ziua când vor tremura păzitorii casei și se vor încovoia oamenii vânjoși, și vor înceta morile, căci s-au împuținat, și s-au întunecat privitorii prin ferestre —",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "când vor tremula"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "păzitorii"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "și se vor încovoia"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "vânjoși"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "și vor înceta"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "morile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "s-au împuținat"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "și s-au întunecat"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "privitorii"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "prin ferestre"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:32.902522657Z",
+  "model": "glm-5.3"
+}

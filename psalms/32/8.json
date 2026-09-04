@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Te voi face înțelept și te voi călăuzi pe calea pe care vei merge; voi sfătui, cu ochiul meu ⟨asupra ta⟩.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "te voi face înțelept"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "și te voi călăuzi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe calea"
+    },
+    {
+      "surface": "זו",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "vei merge"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "voi sfătui"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "asupra ta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochiul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:26.967710378Z",
+  "model": "glm-5.3"
+}

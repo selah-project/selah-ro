@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și nu-l întristase tatăl lui, din zilele lui, zicând: De ce ai făcut așa? Și chiar el ⟨era⟩ bun foarte la înfățișare, și ⟨את⟩ el l-a născut după Avșalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "întristase"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl lui"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "din zilele lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "la înfățișare"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe el (Adonia)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "l-a născut"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:24.252957563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Doar cei drepți vor mulțumi numelui tău, cei drepți ⟨את⟩ vor locui înaintea feței tale.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Doar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "vor mulțumi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "numelui tău"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vor locui"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feței tale"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "feței tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:24.421529105Z",
+  "model": "glm-5.3"
+}

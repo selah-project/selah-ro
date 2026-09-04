@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Avuția nu folosește în ziua mâniei, iar dreptatea scapă ⟨pe cine o are⟩ de la moarte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "folosește"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Avuția"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "mâniei"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "iar dreptatea"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "scapă"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la moarte"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:22.386299407Z",
+  "model": "glm-5.3"
+}

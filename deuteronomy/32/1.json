@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Dați ascultare, cerurilor, și voi grăi, și să audă pământul cuvintele gurii mele.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Dați ascultare"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "și voi grăi"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "și să audă"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gurii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T02:15:01.816441129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și să iei ⟨את⟩ untdelemnul ungerei și să torni pe capul lui, și să îl ungi ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "și să iei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "untdelemnul ungerei"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemnul"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ungerei"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "și să torni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "capul lui"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "și să ungi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T01:23:37.724844682Z",
+  "model": "glm-5.3"
+}

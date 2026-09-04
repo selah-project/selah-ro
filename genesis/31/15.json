@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Nu suntem oare socotite de el ca străine? Căci ne-a vândut și a mâncat chiar cu totul ⟨את⟩ argintul nostru.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Nu oare"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ca străine"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "suntem socotite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ne-a vândut"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "și a mâncat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "cu totul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argintul nostru"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "argintul nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:47.020518320Z",
+  "model": "glm-5.3"
+}

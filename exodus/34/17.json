@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Dumnezei turnați să nu-ți faci.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "turnați"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "faci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:45.930555162Z",
+  "model": "glm-5.3"
+}

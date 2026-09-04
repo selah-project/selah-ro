@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Yahve, ascultă rugăciunea mea, și strigătul meu spre tine să vină.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ascultă"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "și strigătul meu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "spre tine"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "să vină"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:02.790645783Z",
+  "model": "glm-5.3"
+}

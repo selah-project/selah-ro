@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 130,
+  "translation": "Să spere Israel către Yahve, căci la Yahve ⟨este⟩ hesed (dragoste stăruitoare) și multă ⟨este⟩ la el răscumpărare.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "să spere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "și multă"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "răscumpărare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:40.767140287Z",
+  "model": "glm-5.3"
+}

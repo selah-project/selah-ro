@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Iar Avșalom, pe care l-am uns peste noi, a murit în luptă; și acum de ce tăceți voi, de nu întoarceți ⟨את⟩ regele?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Iar Avșalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "l-am uns"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a murit"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "în luptă"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "tăceți"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "de nu întoarceți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    }
+  ],
+  "timestamp": "2026-09-04T03:04:34.617491967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și vor rătăci de la o mare până la o mare și de la miazănoapte până la răsărit; vor alerga încoace și încolo ca să caute ⟨את⟩ cuvântul lui Yahve, dar nu îl vor afla.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "Și vor rătăci"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de la o mare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "ים",
+      "gloss": "o mare"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "și de la miazănoapte"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "răsărit"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "vor alerga încoace și încolo"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ca să caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul lui Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "îl vor afla"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:22.260188520Z",
+  "model": "glm-5.3"
+}

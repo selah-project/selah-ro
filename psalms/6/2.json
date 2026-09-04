@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Yahve, nu mă mustra în mânia ta și nu mă pedepsi în furia ta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "în mânia ta"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "mă mustra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "în furia ta"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "mă pedepsi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:34.873995973Z",
+  "model": "glm-5.3"
+}

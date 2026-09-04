@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și lui Șet, și lui, i s-a născut un fiu, și a chemat ⟨את⟩ numele lui Enoș; atunci s-a început a se chema în numele lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "Și lui Șet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "s-a născut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoș"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "s-a început"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "a se chema"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:29.970998210Z",
+  "model": "glm-5.3"
+}

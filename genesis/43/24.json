@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și a adus omul ⟨את⟩ oamenii în casa lui Iosif, și a dat apă, și și-au spălat picioarele, și a dat nutreț măgarilor lor.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a adus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "și au spălat"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "picioarele lor"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "nutreț"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "măgarilor lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:51.603170356Z",
+  "model": "glm-5.3"
+}

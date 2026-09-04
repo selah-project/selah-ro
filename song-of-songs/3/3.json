@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "M-au aflat paznicii, cei ce se învârt prin cetate: ⟨את⟩ pe cel pe care îl iubește sufletul meu l-ați văzut?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "m-au aflat"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "paznicii"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "cei ce se învârt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "prin cetate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cel pe care îl iubește sufletul meu"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "pe care îl iubește"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ați văzut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:05.704152474Z",
+  "model": "glm-5.3"
+}

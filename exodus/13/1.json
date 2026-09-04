@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a grăit Yahve către Moșe, zicând:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a grăit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T08:46:42.740671173Z",
+  "model": "glm-5.3"
+}

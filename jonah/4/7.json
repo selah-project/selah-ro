@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a rânduit Elohim un vierme la răsăritul zorilor, a doua zi; și a lovit ⟨את⟩ chichionul și s-a uscat.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Și a rânduit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "un vierme"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "la răsăritul"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "zorilor"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "a doua zi"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chichionul"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "chichionul"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "și s-a uscat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:55.464007556Z",
+  "model": "glm-5.3"
+}

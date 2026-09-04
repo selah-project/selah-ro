@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Pe mine m-a purtat și m-a dus în întuneric, și nu ⟨spre⟩ lumină.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mine"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "m-a purtat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și m-a dus"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "în întuneric"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumină"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:53.083281030Z",
+  "model": "glm-5.3"
+}

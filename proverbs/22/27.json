@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă nu ai cu ce să plătești, de ce să-ți ia ⟨el⟩ patul de sub tine?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ai"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "cu ce să plătești"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "să ia"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "patul tău"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "de sub tine"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:05.583559544Z",
+  "model": "glm-5.3"
+}

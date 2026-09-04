@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Căci o rânduială pentru Israel este el, o hotărâre pentru Elohim al lui Iaacov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חק",
+      "gloss": "o rânduială"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pentru Israel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "o hotărâre"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pentru Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "al lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:44.947454947Z",
+  "model": "glm-5.3"
+}

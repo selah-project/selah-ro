@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Ne dai ca o turmă de mâncare, și printre neamuri ne-ai împrăștiat.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Ne dai"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ca o turmă"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "de mâncare"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "și printre neamuri"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "ne-ai împrăștiat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:06.332723637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 49:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Și a zis: ușor este să fii tu rob mie, ca să ridic ⟨את⟩ semințiile lui Iaacov și păstrații Israelului să-i întorc; și te voi da drept lumină a neamurilor, ca să fie mântuirea mea până la capătul pământului.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "ușor este"
+    },
+    {
+      "surface": "מהיותך",
+      "gloss": "să fii tu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ca să ridic"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semințiile lui Iaacov"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "semințiile"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "ונצירי",
+      "gloss": "și păstrații"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "să-i întorc"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "și te voi da"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "drept lumină"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a neamurilor"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ca să fie"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mântuirea mea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "capătul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:52:28.300208961Z",
+  "model": "glm-5.3"
+}

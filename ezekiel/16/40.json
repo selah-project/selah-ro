@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și vor ridica împotriva ta o adunare, și ⟨את⟩ pe tine te vor lovi cu piatra, și te vor străpunge cu săbiile lor.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "Și vor ridica"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "împotriva ta"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "o adunare"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "și vor lovi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ pe tine",
+      "marks": "cu piatra"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "cu piatra"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "și te vor străpunge"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "cu săbiile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:42:43.086665921Z",
+  "model": "glm-5.3"
+}

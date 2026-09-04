@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "și să-ți dea ⟨את⟩ binecuvântarea lui Avraham, ție și seminției tale ⟨את⟩ ⟨cu⟩ tine, ca să moștenești ⟨את⟩ pământul peregrinărilor tale, pe care l-a dat Elohim lui Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "și să dea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binecuvântarea lui Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "binecuvântarea"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "și seminției tale"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨cu⟩ tine"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "ca să moștenești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul peregrinărilor tale"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "peregrinărilor tale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "l-a dat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:25.722085143Z",
+  "model": "glm-5.3"
+}

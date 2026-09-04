@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a fost la sfârșitul a patruzeci de zile, și Noa a deschis ⟨את⟩ fereastra arcei pe care o făcuse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "la sfârșitul"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "a patruzeci de"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "și a deschis"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fereastra arcei"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "fereastra"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arcei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făcuse"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:26.542183799Z",
+  "model": "glm-5.3"
+}

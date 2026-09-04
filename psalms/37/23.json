@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "De la Yahve sunt pașii omului, iar calea lui îi este plăcută.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "De la Yahve"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "pașii"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "omului"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "sunt întemeiați"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "iar calea lui"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "îi este plăcută"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:42.396939265Z",
+  "model": "glm-5.3"
+}

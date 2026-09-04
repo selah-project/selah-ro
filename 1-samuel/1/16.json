@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Nu da ⟨את⟩ roaba ta înaintea unei fiice a lui Belial, căci din mulțimea vorbirii mele și a mâniei mele am vorbit până acum.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roaba ta"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "roaba ta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "unei fiice"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "a lui Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "din mulțimea"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "vorbirii mele"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "și a mâniei mele"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "am vorbit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "acum"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:44.791704205Z",
+  "model": "glm-5.3"
+}

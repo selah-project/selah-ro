@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joel 2:26",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și veți mânca — mâncare și săturare — și veți lăuda ⟨את⟩ Numele lui Yahve, Elohim al vostru, care a făcut cu voi minuni; și poporul meu nu se va rușina în veci.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "și veți mânca"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "mâncare"
+    },
+    {
+      "surface": "ושבוע",
+      "gloss": "și săturare"
+    },
+    {
+      "surface": "והללתם",
+      "gloss": "și veți lăuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Numele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cu voi"
+    },
+    {
+      "surface": "להפליא",
+      "gloss": "minuni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "se vor rușina"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veci"
+    }
+  ],
+  "timestamp": "2026-09-04T04:40:58.614850189Z",
+  "model": "glm-5.3"
+}

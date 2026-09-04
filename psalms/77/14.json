@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Elohim, în sfințenie ⟨este⟩ calea ta: cine este El mare ca Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "în sfințenie"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "calea ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "ca Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:22.625712807Z",
+  "model": "glm-5.3"
+}

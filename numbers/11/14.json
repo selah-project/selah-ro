@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Nu pot eu singur să port ⟨את⟩ tot poporul acesta, căci ⟨este⟩ prea greu pentru mine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "pot"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "singur"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "să port"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot poporul acesta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "prea greu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pentru mine"
+    }
+  ],
+  "timestamp": "2026-09-04T01:48:21.740382608Z",
+  "model": "glm-5.3"
+}

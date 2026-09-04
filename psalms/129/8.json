@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 129,
+  "translation": "Și nu zic cei ce trec: «Binecuvântarea lui Yahve ⟨să fie⟩ asupra voastră; v-am binecuvântat în Numele lui Yahve.»",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zic"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "cei ce trec"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "binecuvântarea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "asupra voastră"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "v-am binecuvântat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în Numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:26.814117736Z",
+  "model": "glm-5.3"
+}

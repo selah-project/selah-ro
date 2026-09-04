@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Nu te grăbi în duhul tău să te mânii, căci mânia în sânul proștilor se odihnește.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "te grăbi"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "în duhul tău"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "să te mânii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "în sânul"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "proștilor"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "se odihnește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:50.683222632Z",
+  "model": "glm-5.3"
+}

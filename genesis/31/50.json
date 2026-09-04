@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Dacă vei asupri ⟨את⟩ fiicele mele și dacă vei lua femei pe lângă fiicele mele — nu este nimeni cu noi; vezi: Elohim ⟨este⟩ martor între mine și între tine.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "vei asupri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiicele mele"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "fiicele mele"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vei lua"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "femei"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe lângă"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "fiicele mele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cu noi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vezi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨este⟩ martor"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "și între tine"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:45.246728033Z",
+  "model": "glm-5.3"
+}

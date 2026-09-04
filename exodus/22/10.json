@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Un jurământ al lui Yahve va fi între amândoi, ⟨anume⟩ că nu și-a întins mâna asupra lucrului apropiatului său; și stăpânul îl va primi, și nu va despăgubi.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "jurământ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a întins"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna sa"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "asupra lucrului"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "apropiatului său"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "și va primi"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "stăpânul ei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va despăgubi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:44.166901626Z",
+  "model": "glm-5.3"
+}

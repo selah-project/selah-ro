@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "o cupă de aur, una, de zece ⟨de șecheli⟩, plină de tămâie.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "o cupă"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "de zece"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plin(ă)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "de tămâie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:43:50.546634Z",
+  "model": "glm-5.3"
+}

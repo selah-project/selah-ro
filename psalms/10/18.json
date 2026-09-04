@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "ca să judece ⟨את⟩ orfanul și ⟨את⟩ asupritul — ca să nu mai înspăimânte omul muritor din pământ.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ca să judece"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "orfanul"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "și asupritul"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "să mai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vreodată"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "înspăimânte"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "omul muritor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:40.865029574Z",
+  "model": "glm-5.3"
+}

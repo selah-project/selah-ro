@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Ca o ucidere în oasele mele mă ocărăsc vrăjmașii mei, când îmi spun toată ziua: Unde este Elohim al tău?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Ca o ucidere"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "în oasele mele"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mă ocărăsc"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "când îmi spun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Unde este"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:17.506385936Z",
+  "model": "glm-5.3"
+}

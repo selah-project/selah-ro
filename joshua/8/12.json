@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a luat ca cinci mii de oameni și i-a pus ⟨את⟩ ca ambuscadă între Bet-El și între Ai, la apus de cetate.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "ca cinci"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de oameni"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și i-a pus"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "cei cinci mii de oameni"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ca ambuscadă"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "la apus de"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "cetate"
+    }
+  ],
+  "timestamp": "2026-09-04T07:03:18.534820009Z",
+  "model": "glm-5.3"
+}

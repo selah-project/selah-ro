@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Chiar Așur s-a alăturat ⟨cu⟩ ei: au fost braț pentru fiii lui Lot. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "s-a alăturat"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "⟨cu⟩ ei"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "braț"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pentru fiii"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "lui Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:33.040301176Z",
+  "model": "glm-5.3"
+}

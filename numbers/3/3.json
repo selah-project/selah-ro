@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Acestea sunt numele fiilor lui Aharon, cohenii cei unși, ⟨cărora⟩ le-a umplut mâinile ca să slujească drept coheni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Acestea"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunt numele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenii"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "cei unși"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨cărora⟩"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "le-a umplut"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mâinile"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ca să slujească drept coheni"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:12.022776807Z",
+  "model": "glm-5.3"
+}

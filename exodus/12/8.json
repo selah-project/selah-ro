@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și să mănânce ⟨את⟩ carnea în noaptea aceasta, friptă la foc, și pâine nedospită; cu ierburi amare să o mănânce.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Și să mănânce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carnea"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "în noaptea"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "friptă"
+    },
+    {
+      "surface": "אש",
+      "gloss": "la foc"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "și pâine nedospită"
+    },
+    {
+      "surface": "על",
+      "gloss": "cu"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "ierburi amare"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "să o mănânce"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:36.715653830Z",
+  "model": "glm-5.3"
+}

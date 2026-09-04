@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Tot cel prevăzător lucrează cu cunoștință, iar prostul își întinde nebunia ⟨la vedere⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "cel prevăzător"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "lucrează"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "cu cunoștință"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "iar prostul"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "întinde"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "nebunia"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:12.489745360Z",
+  "model": "glm-5.3"
+}

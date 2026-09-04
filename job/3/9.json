@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Să se întunece stelele amurgului lui; să aștepte lumină și nu este; și să nu vadă pleoapele zorilor.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "să se întunece"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "stelele"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "amurgului lui"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "să aștepte"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "lumină"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vadă"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "pleoapele"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zorilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:32.037306327Z",
+  "model": "glm-5.3"
+}

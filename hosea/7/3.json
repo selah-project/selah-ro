@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Cu răutatea lor veselesc un rege, iar cu minciunile lor — căpetenii.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "cu răutatea lor"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "veselesc"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un rege"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "iar cu minciunile lor"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "căpetenii"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:35.712789290Z",
+  "model": "glm-5.3"
+}

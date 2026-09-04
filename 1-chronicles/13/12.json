@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și s-a temut David ⟨de⟩ Elohim în ziua aceea, zicând: Cum voi aduce la mine ⟨את⟩ chivotul lui Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "s-a temut"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "voi aduce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T09:16:58.498909298Z",
+  "model": "glm-5.3"
+}

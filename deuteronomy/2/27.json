@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Să trec prin țara ta — pe drum, pe drum voi merge; nu mă voi abate nici la dreapta nici la stânga.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Să trec"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "prin țara ta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "voi merge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "mă voi abate"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la dreapta"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "nici la stânga"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:28.447001529Z",
+  "model": "glm-5.3"
+}

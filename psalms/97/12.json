@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Bucurați-vă, cei drepți, în Yahve, și mulțumiți amintirii sfințeniei lui.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Bucurați-vă"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "și mulțumiți"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "amintirii"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfințeniei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:52.281606362Z",
+  "model": "glm-5.3"
+}

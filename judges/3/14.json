@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au slujit fiii lui Israel ⟨את⟩ Eglon, regele Moabului, optsprezece ani.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "și au slujit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabului"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "opt"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-09-04T02:30:02.087176860Z",
+  "model": "glm-5.3"
+}

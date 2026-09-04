@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Cu cel ales te arăți limpede, și cu cel strâmb te arăți întortochiat.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Cu"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "cel ales"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "te arăți limpede"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "cel strâmb"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "te arăți întortochiat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:29.521105198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Iar tu, Adonai, ⟨ești⟩ El milostiv și îndurător, îndelung-rabdător și mare în hesed și în adevăr.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iar tu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "milostiv"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "și îndurător"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "îndelung"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "-rabdător"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "și mare"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "în hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "și în adevăr"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:09.545868236Z",
+  "model": "glm-5.3"
+}

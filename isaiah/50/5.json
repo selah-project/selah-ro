@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Adonai Yahve mi-a deschis urechea, și eu nu m-am răzvrătit, înapoi nu m-am retras.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a deschis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "urechea"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "și eu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "m-am răzvrătit"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "înapoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "m-am retras"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:41.051169039Z",
+  "model": "glm-5.3"
+}

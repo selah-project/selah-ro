@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Voi povesti numele tău fraților mei, în mijlocul adunării te voi lăuda.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "voi povesti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "fraților mei"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "adunării"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "te voi lăuda"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:20.480186524Z",
+  "model": "glm-5.3"
+}

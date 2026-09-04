@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Care a pus sufletul nostru în viață și nu a dat să se clatine piciorul nostru.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Care a pus"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sufletul nostru"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "în viață"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "să se clatine"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "piciorul nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:40.805514531Z",
+  "model": "glm-5.3"
+}

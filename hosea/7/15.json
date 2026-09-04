@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și eu i-am certat, le-am întărit brațele, dar împotriva mea puneau la cale răul.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Și eu"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "i-am certat"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "am întărit"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "brațele lor"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "puneau la cale"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:39.402507289Z",
+  "model": "glm-5.3"
+}

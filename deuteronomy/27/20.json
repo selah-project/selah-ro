@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Blestemat ⟨este⟩ cel care se culcă cu ⟨את⟩ nevasta tatălui său, căci a dezgolit poala tatălui său, și a spus tot poporul: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Blestemat"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "cel care se culcă"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nevasta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "a dezgolit"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "poala",
+      "marks": "poala tatălui său"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-04T02:11:45.585164679Z",
+  "model": "glm-5.3"
+}

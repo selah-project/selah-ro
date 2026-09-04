@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Ai binevoit, Yahve, ⟨את⟩ pământul tău; ai întors robia lui Iaacov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Ai binevoit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "pământul tău"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ai întors"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "robia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:36.212121236Z",
+  "model": "glm-5.3"
+}

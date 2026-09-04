@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Al lui David. O învățătură. Ferice de cel a cărui răzvrătire este purtată, a cărui greșeală este acoperită!",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "o învățătură"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "este purtată"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "răzvrătirea"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "este acoperită"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "greșeala"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:08.705765008Z",
+  "model": "glm-5.3"
+}

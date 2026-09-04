@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a trăit Eber treizeci și patru de ani, și a născut ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Și a trăit"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patru"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "și treizeci de"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:47.321220339Z",
+  "model": "glm-5.3"
+}

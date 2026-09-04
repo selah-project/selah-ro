@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și dacă zic: «Viu este Yahve», tot spre minciună jură.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Viu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zic"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "spre minciună"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "jură"
+    }
+  ],
+  "timestamp": "2026-09-04T04:00:21.374053748Z",
+  "model": "glm-5.3"
+}

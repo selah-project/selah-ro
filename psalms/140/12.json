@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Omul limbii rele să nu fie înfipt în pământ; pe omul asupririi, cel rău, să-l vâneze lovituri peste lovituri.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "limbii rele"
+    },
+    {
+      "surface": "בל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "fie înfipt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "asupririi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "să-l vâneze"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "lovituri peste lovituri"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:00.732157604Z",
+  "model": "glm-5.3"
+}

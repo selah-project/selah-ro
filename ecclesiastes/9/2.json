@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Totul ca pentru toți: o singură soartă pentru cel drept și pentru cel rău, pentru cel bun și pentru cel curat și pentru cel necurat, pentru cel ce jertfește și pentru cel ce nu jertfește; ca cel bun, așa cel păcătos; cel ce jură, ca cel ce se teme de jurământ.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Totul"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ca"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru toți"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "soartă"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pentru cel drept"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "și pentru cel rău"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "pentru cel bun"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "și pentru cel curat"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "și pentru cel necurat"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "și pentru cel ce jertfește"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "și pentru cel ce"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfește"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "ca cel bun"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "așa cel păcătos"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "cel ce jură"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ca"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "jurământul"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se teme de"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:22.032906967Z",
+  "model": "glm-5.3"
+}

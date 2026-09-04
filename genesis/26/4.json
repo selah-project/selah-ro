@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 26:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și voi înmulți ⟨את⟩ sămânța ta ca stelele cerurilor, și voi da seminției tale ⟨את⟩ toate țările acestea, și se vor binecuvânta în sămânța ta toate neamurile pământului.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "Și voi înmulți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sămânța ta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sămânța ta"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "ca stelele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "și voi da"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "seminției tale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate țările acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "țările"
+    },
+    {
+      "surface": "האל",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "și se vor binecuvânta"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "în sămânța ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:02.925802402Z",
+  "model": "glm-5.3"
+}

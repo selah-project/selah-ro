@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 84,
+  "translation": "Ei merg din putere în putere; se va arăta înaintea lui Elohim în Țion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Ei merg"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "din putere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "putere"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se va arăta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "în Țion"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:09.037102933Z",
+  "model": "glm-5.3"
+}

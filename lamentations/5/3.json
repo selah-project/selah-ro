@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Orfani am devenit, fără tată; mamele noastre ⟨sunt⟩ ca văduvele.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Orfani"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "am devenit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "fără"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tată"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "mamele noastre"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "ca văduvele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:28.623774003Z",
+  "model": "glm-5.3"
+}

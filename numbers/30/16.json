@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și dacă le desface des ⟨את⟩ după ce a auzit, atunci el va purta ⟨את⟩ nelegiuirea ei.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "desface"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "des"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le (acestea — voturile)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "va purta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelegiuirea ei"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "nelegiuirea ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:55:50.830814530Z",
+  "model": "glm-5.3"
+}

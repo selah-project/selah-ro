@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și spurcăciune vor fi pentru voi: din carnea lor să nu mâncați, și ⟨את⟩ stârvul lor să-l țineți de spurcăciune.",
+  "tokens": [
+    {
+      "surface": "וְשֶׁקֶץ",
+      "gloss": "și spurcăciune"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "מִבְּשָׂרָם",
+      "gloss": "din carnea lor"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תֹּאכֵלוּ",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "și ⟨את⟩",
+      "marks": "stârvul lor"
+    },
+    {
+      "surface": "נִבְלָתָם",
+      "gloss": "stârvul lor"
+    },
+    {
+      "surface": "תְּשַׁקֵּצוּ",
+      "gloss": "să țineți de spurcăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:56.247533588Z",
+  "model": "glm-5.3"
+}

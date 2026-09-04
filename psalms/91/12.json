@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Pe palme te vor ridica, ca să nu lovească în piatră piciorul tău.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "palme"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "te vor ridica"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "să lovească"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "în piatră"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "piciorul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:38.103455363Z",
+  "model": "glm-5.3"
+}

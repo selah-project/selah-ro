@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "El îmi va zidi o casă, și îi voi întări ⟨את⟩ tronul lui până în veac.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "va zidi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "o casă"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "și îi voi întări"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tronul lui"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tronul lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:05.545875080Z",
+  "model": "glm-5.3"
+}

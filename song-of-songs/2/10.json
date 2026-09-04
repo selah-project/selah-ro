@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "A răspuns iubitul meu și mi-a zis: scoală-te, iubita mea, frumoasa mea, și vino, te rog.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "A răspuns"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "iubitul meu"
+    },
+    {
+      "surface": "ו אמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "scoală-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "iubita mea"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "frumoasa mea"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "și vino"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te rog"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:34.181366941Z",
+  "model": "glm-5.3"
+}

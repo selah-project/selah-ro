@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și s-a rugat Iona către Yahve, Elohim al lui, din măruntaiele peștelui.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "Și s-a rugat"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Iona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim al lui"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "din măruntaiele"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "peștelui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:02.542313130Z",
+  "model": "glm-5.3"
+}

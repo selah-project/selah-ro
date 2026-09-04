@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "care s-a luptat pentru voi și și-a aruncat ⟨את⟩ viața lui înainte, și v-a izbăvit ⟨את⟩ pe voi din mâna Midianului.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "s-a luptat"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "și a aruncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața lui"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viața lui"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "înainte"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "și v-a izbăvit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:06:26.711581566Z",
+  "model": "glm-5.3"
+}

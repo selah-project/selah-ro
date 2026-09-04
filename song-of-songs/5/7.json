@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "M-au găsit străjerii, cei care dau ocolul cetății; m-au lovit, m-au rănit; au luat ⟨את⟩ vălul meu de pe mine — străjerii zidurilor.",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "M-au găsit"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "străjerii"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "cei care dau ocolul"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "m-au lovit"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "m-au rănit"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "au luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vălul meu"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "vălul meu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de pe mine"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "străjerii"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "ai zidurilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:24.640575162Z",
+  "model": "glm-5.3"
+}

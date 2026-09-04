@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și s-au ridicat și s-au dus la Zif, înaintea lui Șaul; iar David și oamenii lui ⟨erau⟩ în pustiul Maon, în Araba, la dreapta Ieșimonului.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Și s-au ridicat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și s-au dus"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "iar David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "și oamenii lui"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiul"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "în Araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dreapta"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Ieșimonului"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:14.703253847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Căci un pahar ⟨este⟩ în mâna lui Yahve, și vinul spumând, plin de amestec, și toarnă din el; doar drojdia lui o vor stoarce, o vor bea toți cei răi ai pământului.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "un pahar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "și vinul"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "spumând"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plin"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "de amestec"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "și toarnă"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "din el"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "drojdia lui"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "vor stoarce"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "vor bea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ai pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:56.138322232Z",
+  "model": "glm-5.3"
+}

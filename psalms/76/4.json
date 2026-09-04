@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "Acolo a sfărâmat ⟨el⟩ flăcările arcului, scutul, și sabia, și războiul. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Acolo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "a sfărâmat ⟨el⟩"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "flăcările"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arcului"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "scutul"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "și sabia"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "și războiul"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:15.438101752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Yahve, binecuvântează-i puterea lui și lucrarea mâinilor lui primește-o; zdrobește șalele celor ce se ridică împotriva lui și ale celor ce-l urăsc, ca să nu se mai ridice.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "binecuvântează"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "puterea lui"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "și lucrarea"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinilor lui"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "primește-o"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "zdrobește"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "șalele"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "celor ce se ridică împotriva lui"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "și ale celor ce-l urăsc"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "se mai ridice"
+    }
+  ],
+  "timestamp": "2026-09-04T02:13:39.075920620Z",
+  "model": "glm-5.3"
+}

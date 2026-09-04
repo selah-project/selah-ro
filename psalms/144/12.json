@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Ale căror fii ⟨sunt⟩ ca niște puieți crescuți în tinerețea lor, fiicele noastre ca niște colțuri cioplite, chip de palat.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ale căror"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "ca niște puieți"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "crescuți"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "în tinerețea lor"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "fiicele noastre"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "ca niște colțuri"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "cioplite"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "chip"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "de palat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:44.324571420Z",
+  "model": "glm-5.3"
+}

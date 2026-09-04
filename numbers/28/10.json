@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "arderea de tot a Șabatului, la Șabatul lui, pe lângă arderea de tot a celei continue și libația ei.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "arderea de tot"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "a Șabatului"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "la Șabatul lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe lângă"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "arderea de tot"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "a celei continue"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "și libația ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:54:23.584631203Z",
+  "model": "glm-5.3"
+}

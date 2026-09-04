@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Iar tu, Yahve, ești scut ⟨pentru⟩ mine, slava mea și Cel care îmi înalță capul.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "scut"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨pentru⟩ mine"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "slava mea"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "și Cel care înalță"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:18.592576565Z",
+  "model": "glm-5.3"
+}

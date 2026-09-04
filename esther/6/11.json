@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a luat Haman ⟨את⟩ veșmântul și ⟨את⟩ calul și l-a îmbrăcat pe ⟨את⟩ Mordehai, și l-a urcat pe el în piața orașului, și a strigat înaintea lui: Așa se face omului pe care regele vrea să-l cinstească.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veșmântul"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "veșmântul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "calul"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "calul"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "și l-a îmbrăcat pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordehai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "și l-a urcat pe el în"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "în piața"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "orașului"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a strigat"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se face"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vrea"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "să-l cinstească"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:20.389611798Z",
+  "model": "glm-5.3"
+}

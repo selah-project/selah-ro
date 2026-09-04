@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a spus Cain către Hevel, fratele său. Și a fost, pe când erau ei în câmp, că s-a ridicat Cain către Hevel, fratele său, și l-a omorât.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Cain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "pe când erau ei"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "s-a ridicat"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Cain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "și l-a omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:13.220996395Z",
+  "model": "glm-5.3"
+}

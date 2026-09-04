@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Fiecare ⟨să se teamă⟩ de mama sa și de tatăl său, și ⟨את⟩ Șabaturile mele să le păziți; Eu ⟨sunt⟩ Yahve, Elohimul vostru.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Fiecare"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama sa"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "și de tatăl său"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "să vă temeți"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șabaturile mele"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Șabaturile mele"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "să păziți"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:20.792442795Z",
+  "model": "glm-5.3"
+}

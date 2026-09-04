@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Binecuvântat ⟨fie⟩ Elohim, care nu a îndepărtat rugăciunea mea și hesedul lui de la ⟨את⟩ mine.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "binecuvântat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a îndepărtat"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "și hesedul lui"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "de la ⟨את⟩ mine",
+      "marks": "mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:35.063756697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "La început a creat Elohim ⟨את⟩ cerurile și ⟨את⟩ pământul.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "La început"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "a creat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cerurile"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:51.310263442Z",
+  "model": "glm-5.3"
+}

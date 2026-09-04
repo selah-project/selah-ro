@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Lăudați pe Ya, căci bine ⟨este⟩ a cânta lui Elohim, al nostru; căci plăcută ⟨este⟩ și potrivită ⟨este⟩ lauda.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "a cânta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lui Elohim, al nostru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "plăcută"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "potrivită"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lauda"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.398158009Z",
+  "model": "glm-5.3"
+}

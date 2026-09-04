@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a deportat regele Așurului ⟨את⟩ Israelul în Așur și i-a așezat în Hala și pe Havor, râul Gozan, și în cetățile lui Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Și a deportat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așurului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "în Așur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "și i-a așezat"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "în Hala"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "și pe Havor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "râul"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "și în cetățile"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "lui Madai"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:48.973393270Z",
+  "model": "glm-5.3"
+}

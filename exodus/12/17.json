@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și veți păzi ⟨את⟩ azimele, căci chiar în ziua aceasta am scos ⟨את⟩ oștirile voastre din țara Mițraim; și veți păzi ⟨את⟩ ziua aceasta pentru neamurile voastre, hotărâre veșnică.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Și veți păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azimele"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "azimele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "chiar în"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "am scos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oștirile voastre"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "oștirile voastre"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "și veți păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziua aceasta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "pentru neamurile voastre"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "hotărâre"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnică"
+    }
+  ],
+  "timestamp": "2026-09-04T08:46:15.979088793Z",
+  "model": "glm-5.3"
+}

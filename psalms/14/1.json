@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Către dirijorul de cântare. Al lui David. A zis nebunul în inima lui: «Nu ⟨este⟩ Elohim». S-au stricat, s-au făcut scârboși în fapte; nu ⟨este⟩ niciun făptuitor de bine.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorul de cântare"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebunul"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "în inima lui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "s-au stricat"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "s-au făcut scârboși"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "în fapte"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făptuitor"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "de bine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:19.781033090Z",
+  "model": "glm-5.3"
+}

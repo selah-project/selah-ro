@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și l-au pus pe ⟨את⟩ el în pază, căci nu fusese lămurit ce să i se facă lui.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "și l-au pus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "el (omul)"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "în pază"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "fusese lămurit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "să i se facă"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:53:49.352093394Z",
+  "model": "glm-5.3"
+}

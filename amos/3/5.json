@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Va cădea pasărea pe lațul pământului, și capcană nu este pentru ea? Se va ridica lațul de pe pământ și de prins nu va prinde?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Va cădea"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פח",
+      "gloss": "lațul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "și capcană"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pentru ea"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "Se va ridica"
+    },
+    {
+      "surface": "פח",
+      "gloss": "lațul"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "și de prins"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "va prinde"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:32.434088760Z",
+  "model": "glm-5.3"
+}

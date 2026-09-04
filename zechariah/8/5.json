@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "și piețele cetății se vor umple de copii și de fete, jucându-se în piețele ei.",
+  "tokens": [
+    {
+      "surface": "ורחובות",
+      "gloss": "și piețele"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "se vor umple"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "de copii"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "și de fete"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "jucându-se"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "în piețele ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:49:39.485256286Z",
+  "model": "glm-5.3"
+}

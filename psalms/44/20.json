@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Căci ne-ai zdrobit în locul tanninilor și ne-ai acoperit cu umbra morții.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "ne-ai zdrobit"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "tanninilor"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "și ai acoperit"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "cu umbra morții"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:05.670104232Z",
+  "model": "glm-5.3"
+}

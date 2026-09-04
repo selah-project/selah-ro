@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iar dacă darul lui de jertfă este dintre turmă, dintre oi sau dintre capre, pentru ardere-de-tot, mascul fără meteahnă îl va aduce.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "turmă"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "darul lui de jertfă"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "oi"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "capre"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "pentru ardere-de-tot"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mascul"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fără meteahnă"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "îl va aduce"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:49.118443369Z",
+  "model": "glm-5.3"
+}

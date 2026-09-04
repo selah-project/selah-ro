@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 138,
+  "translation": "Al lui David. Te voi lăuda cu toată inima mea; înaintea dumnezeilor îți voi cânta ție.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Te voi lăuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezeilor"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "îți voi cânta ție"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:57.211560969Z",
+  "model": "glm-5.3"
+}

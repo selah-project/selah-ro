@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Voi da semne pe ceruri și pe pământ: sânge și foc și coloane de fum.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Voi da"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "semne"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "pe ceruri"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "și pe pământ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "și foc"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "și coloane"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "de fum"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:08.901227451Z",
+  "model": "glm-5.3"
+}

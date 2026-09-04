@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și s-a vestit regelui Mițraim că a fugit poporul, și s-a întors inima lui Paro și a slugilor lui către popor, și au zis: Ce este aceasta ce am făcut, că am trimis ⟨את⟩ Israel din slujirea noastră?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și s-a vestit"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "a fugit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "și a slugilor lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "am trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "din slujirea noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:20.476823534Z",
+  "model": "glm-5.3"
+}

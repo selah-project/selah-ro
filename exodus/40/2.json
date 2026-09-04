@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "În ziua lunii celei dintâi, la întâi ale lunii, să ridici ⟨את⟩ locuința, cortul întâlnirii.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "lunii"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "celei dintâi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "la întâi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ale lunii"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "să ridici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locuința"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "locuința"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:14.086283430Z",
+  "model": "glm-5.3"
+}

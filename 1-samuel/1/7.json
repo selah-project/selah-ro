@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și așa făcea an cu an, ori de câte ori se suia ea în casa lui Yahve, așa o tulbura; iar ea plângea și nu mânca.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Și așa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "făcea"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "cu an"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ori de câte ori"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "se suia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "o tulbura"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "iar ea plângea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mânca"
+    }
+  ],
+  "timestamp": "2026-09-04T02:38:49.974007583Z",
+  "model": "glm-5.3"
+}

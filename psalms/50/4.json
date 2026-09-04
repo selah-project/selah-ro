@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Cheamă cerurile din înalt și pământul, ca să judece poporul lui.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Cheamă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "din înalt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și către"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ca să judece"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:56.029473136Z",
+  "model": "glm-5.3"
+}

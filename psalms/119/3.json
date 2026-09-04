@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Chiar degeaba — nu au făcut nelegiuire, în căile lui au mers.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "în căile lui"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "au mers"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:32.023421718Z",
+  "model": "glm-5.3"
+}

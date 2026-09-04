@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Prin trândăvie se prăbușește acoperișul, și prin slăbiciunea mâinilor scurge casa.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "prin trândăvie"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "se prăbușește"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "acoperișul"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "și prin slăbiciune"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "a mâinilor"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "scurge"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    }
+  ],
+  "timestamp": "2026-09-04T08:11:56.799431834Z",
+  "model": "glm-5.3"
+}

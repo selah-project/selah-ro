@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și au ridicat ⟨את⟩ grâul lor pe măgarii lor și au plecat de acolo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Și au ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grâul lor"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "grâul lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "măgarii lor"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au plecat"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:31.671825075Z",
+  "model": "glm-5.3"
+}

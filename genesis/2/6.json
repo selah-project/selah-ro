@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și un abur se ridica din pământ și uda ⟨את⟩ toată fața solului.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "și abur"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "se ridica"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "și uda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată fața solului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "solului"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:56.028779795Z",
+  "model": "glm-5.3"
+}

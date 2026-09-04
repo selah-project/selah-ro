@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Cei cu minte împărțită i-am urât, și Tora ta am iubit.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "cei cu minte împărțită"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "am urât"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "și Tora ta"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "am iubit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:55.618039975Z",
+  "model": "glm-5.3"
+}

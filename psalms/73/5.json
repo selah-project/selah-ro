@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "În necazul muritorilor ei nu sunt, și cu oamenii nu sunt atinși.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "În necazul"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "muritorilor"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ei nu sunt"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "sunt atinși"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:47.801422472Z",
+  "model": "glm-5.3"
+}

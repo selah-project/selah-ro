@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "S-au ridicat toți oamenii viteji și au mers toată noaptea și au luat ⟨את⟩ trupul lui Șaul și ⟨את⟩ trupurile fiilor lui de pe zidul Bet-Șan, au venit la Iaveș și i-au ars acolo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "s-au ridicat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "viteji"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au mers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "și au luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupul lui Șaul"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "trupurile fiilor lui"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "trupurile"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiilor lui"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "de pe zidul"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Șan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "la Iaveș"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "și i-au ars"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:49.756849975Z",
+  "model": "glm-5.3"
+}

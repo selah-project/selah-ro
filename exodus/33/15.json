@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a zis către el: Dacă Fața ta nu merge ⟨cu noi⟩, nu ne sui de aici.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Fața ta"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "merge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "ne sui"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "de aici"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:32.843287009Z",
+  "model": "glm-5.3"
+}

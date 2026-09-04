@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Ca să te temi de ⟨את⟩ Yahve, Elohim al tău, să păzești ⟨את⟩ toate așezămintele lui și poruncile lui pe care eu îți poruncesc — tu și fiul tău și fiul fiului tău — toate zilele vieții tale, și ca să se lungiască zilele tale.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te temi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păzești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate așezămintele lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "așezămintele lui"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "și poruncile lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "îți poruncesc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "și fiul tău"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "și fiul"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiului tău"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "vieții tale"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "și ca să"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "să se lungiască"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "zilele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:35.830070489Z",
+  "model": "glm-5.3"
+}

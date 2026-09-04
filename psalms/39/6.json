@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Iată, ca niște palmi ai dat zilele mele, și vremea mea ca nimic înaintea ta; doar un abur ⟨este⟩ fiecare om stând. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "palmi (lățimi de palmă)"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ai dat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele mele"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "și vremea mea"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ca nimic"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "abur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stând"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:46.419294578Z",
+  "model": "glm-5.3"
+}

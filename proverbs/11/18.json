@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Cel rău face o plată a minciunii, iar celui ce seamănă dreptate ⟨este⟩ răsplată adevărată.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "plata"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a minciunii"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "iar cel ce seamănă"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "răsplată"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevărată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:33.780571115Z",
+  "model": "glm-5.3"
+}

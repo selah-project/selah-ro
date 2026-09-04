@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Au vărsat norii deasă apă, au dat un tunet șesurile; chiar și săgețile tale se ploșeau încoace și-ncolo.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "au vărsat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "norii deasă"
+    },
+    {
+      "surface": "קול",
+      "gloss": "un tunet"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "au dat"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "șesurile"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "săgețile tale"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "se ploșeau încoace și-ncolo"
+    }
+  ],
+  "timestamp": "2026-09-04T09:40:04.306806481Z",
+  "model": "glm-5.3"
+}

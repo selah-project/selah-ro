@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Nu în ceruri este ea, ca să spui: Cine se va sui pentru noi în ceruri și o va lua pentru noi și ne-o va face auzită ⟨את⟩ pe ea, ca s-o facem?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este ea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ca să spui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "se va sui"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "și o va lua"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "și ne-o va face auzită"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea (porunca)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ca s-o facem"
+    }
+  ],
+  "timestamp": "2026-09-04T08:50:32.627580310Z",
+  "model": "glm-5.3"
+}

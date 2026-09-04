@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Chiar și Iehuda nu a păzit ⟨את⟩ poruncile lui Yahve Elohim al lor, și au mers în rânduielile lui Israel pe care le-au făcut.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "a păzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poruncile"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim al lor"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au mers"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "în rânduielile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "le-au făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:18.494358285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 121,
+  "translation": "Yahve ⟨este⟩ păzitorul tău, Yahve ⟨este⟩ umbra ta la dreapta ta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "păzitorul tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "umbra ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dreapta"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:57.867076309Z",
+  "model": "glm-5.3"
+}

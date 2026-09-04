@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Când s-a luptat el cu ⟨את⟩ Aram-Naharaim și cu ⟨את⟩ Aram-Țova, și s-a întors Ioav și a lovit ⟨את⟩ Edom în Valea Sării, douăsprezece mii.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Când s-a luptat el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharaim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aram-Țova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Țova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "în Valea"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Sării"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "două"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:47.424746705Z",
+  "model": "glm-5.3"
+}

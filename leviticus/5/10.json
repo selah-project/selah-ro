@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Iar ⟨את⟩ al doilea îl va face ardere de tot, după rânduială, și cohenul va face ispășire pentru el, de păcatul lui pe care l-a păcătuit, și i se va ierta lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iar ⟨את⟩",
+      "marks": "al doilea"
+    },
+    {
+      "surface": "השני",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "îl va face"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ardere de tot"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "după rânduială"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "și va face ispășire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "de păcatul lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "l-a păcătuit"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "și i se va ierta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:10.646393941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și dacă ⟨este⟩ mai sărac decât prețuirea ta, atunci va sta înaintea cohenului, și cohenul îl va evalua ⟨את⟩ pe el; după cum ajunge mâna celui ce a făcut votul, așa îl va evalua cohenul.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "מך",
+      "gloss": "mai sărac"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "decât prețuirea ta"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "și îl va sta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenului"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "și va evalua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "omul adus pentru evaluare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "celui ce"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ajunge"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "celui ce a făcut votul"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "îl va evalua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:33.521696144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și ⟨את⟩ pe voi îi voi împrăștia printre neamuri și voi scoate sabia pe urmele voastre, și pământul vostru va fi pustietate, și cetățile voastre vor fi sterpe.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "și ⟨את⟩ pe voi",
+      "marks": "pe voi (obiectul lui «îi voi împrăștia»)"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "îi voi împrăștia"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "printre neamuri"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "și voi scoate"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "pe urmele voastre"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabia"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "pământul vostru"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustietate"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "și cetățile voastre"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "sterpe"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:40.082156005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și la regii care ⟨sunt⟩ la nord, în munte și în Araba, la sud de Kinrot, și în Șefela, și în ținuturile lui Dor, de la mare;",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "și la"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "regii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "la nord"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în munte"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "și în Araba"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "la sud"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "de Kinrot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "și în Șefela"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "și în ținuturile"
+    },
+    {
+      "surface": "דור",
+      "gloss": "lui Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de la mare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:02:50.677125913Z",
+  "model": "glm-5.3"
+}

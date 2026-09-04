@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Ești mai frumos decât fiii oamenilor, grația ⟨este⟩ turnată pe buzele tale; de aceea te-a binecuvântat Elohim pe vecie.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "ești mai frumos"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "decât fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "oamenilor"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "⟨este⟩ turnată"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grația"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "pe buzele tale"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "te-a binecuvântat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:43.268082643Z",
+  "model": "glm-5.3"
+}

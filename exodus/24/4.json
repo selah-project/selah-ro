@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a scris Moșe ⟨את⟩ toate cuvintele lui Yahve, și s-a sculat dis-de-dimineață și a zidit un altar sub munte, și douăsprezece stâlpi de piatră pentru cele douăsprezece seminții ale lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Și a scris"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele lui Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "și s-a sculat dis-de-dimineață"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "și a zidit"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "munte"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "și douăsprezece"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "stâlpi de piatră"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stâlpi"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "pentru cele douăsprezece"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "seminții"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:42.916726860Z",
+  "model": "glm-5.3"
+}

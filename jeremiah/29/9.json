@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Căci în minciună profețesc ei vouă în numele meu; nu i-am trimis, oracol al lui Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "în minciună"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profețesc"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "în numele meu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "i-am trimis"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:08:57.215062163Z",
+  "model": "glm-5.3"
+}

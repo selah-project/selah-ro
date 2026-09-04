@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "și către intrarea cortului întâlnirii nu îl va aduce, ca să-l facă ⟨את⟩ lui Yahve — și va fi stârpit omul acela din poporul lui.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "și către"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "intrarea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "îl va aduce"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ca să facă"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl",
+      "marks": "lui Yahve"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "și va fi stârpit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "din poporul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:49:38.730904863Z",
+  "model": "glm-5.3"
+}

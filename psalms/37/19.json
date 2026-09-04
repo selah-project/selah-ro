@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Nu vor fi dați de rușine în vremea răului, și în zilele foametei se vor sătura.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "vor fi dați de rușine"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "în vremea"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răului"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "și în zilele"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "foametei"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "se vor sătura"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:42.476602292Z",
+  "model": "glm-5.3"
+}

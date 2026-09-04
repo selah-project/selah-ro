@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "ca din zilele în care am poruncit judecători peste poporul meu Israel; și voi smeri ⟨את⟩ toți dușmanii tăi, și îți vestesc că o casă îți va zidi Yahve.",
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "ca din zilele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "am poruncit"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "judecători"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "și voi smeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți dușmanii tăi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dușmanii tăi"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "și îți vestesc"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "că o casă"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "va zidi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:05.545586682Z",
+  "model": "glm-5.3"
+}

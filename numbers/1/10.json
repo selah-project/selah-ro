@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Pentru fiii lui Iosif: pentru Efraim, Elișama, fiul lui Amihud; pentru Menașe, Gamliel, fiul lui Pedahțur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Pentru fiii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "pentru Efraim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elișama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "lui Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "pentru Menașe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "lui Pedahțur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:34.975387008Z",
+  "model": "glm-5.3"
+}

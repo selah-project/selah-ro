@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a fost la mijlocul nopții, și omul s-a speriat și s-a întors; și iată — o femeie culcată la picioarele lui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "la mijlocul"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nopții"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "și s-a speriat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "o femeie"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "culcată"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "la picioarele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:22.672902864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "înainte ca să se întunece soarele și lumina și luna și stelele, și să se întoarcă norii după ploaie —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "înainte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "să se întunece"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "și lumina"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "și luna"
+    },
+    {
+      "surface": "ווהכוכבים",
+      "gloss": "și stelele"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "și să se întoarcă"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "norii"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "după"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ploaie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:32.902336655Z",
+  "model": "glm-5.3"
+}

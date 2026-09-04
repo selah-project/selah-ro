@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "și au poruncit ⟨את⟩ poporului, zicând: Când veți vedea ⟨את⟩ chivotul legământului lui Yahve, Elohim vostru, și pe cohenii leviți purtându-l ⟨את⟩ pe el, atunci voi să plecați din locul vostru și să mergeți după el.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "și au poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporului"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "când veți vedea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "și pe cohenii"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviți"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "purtând"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "atunci voi"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "să plecați"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "din locul vostru"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "și să mergeți"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:17:02.711467090Z",
+  "model": "glm-5.3"
+}

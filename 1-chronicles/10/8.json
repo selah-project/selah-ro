@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a fost a doua zi, și au venit filiștienii să jefuiască ⟨את⟩ cei căzuți, și i-au găsit pe Șaul ⟨את⟩ și pe fiii lui ⟨את⟩ căzuți pe muntele Ghilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "a doua zi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștienii"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "să jefuiască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cei căzuți"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "cei căzuți"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "și i-au găsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "căzuți"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pe muntele"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Ghilboa"
+    }
+  ],
+  "timestamp": "2026-09-04T06:09:14.279055134Z",
+  "model": "glm-5.3"
+}

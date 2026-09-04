@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 12:25",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Căci eu sunt Yahve: vorbesc ⟨את⟩ cuvântul pe care îl vorbesc și ⟨el⟩ se va face — nu se va mai prelungi, căci în zilele voastre, casa rebelă, voi vorbi un cuvânt și îl voi face, oracle al Adonai Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "vorbesc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "îl vorbesc"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "și se va face"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "se va prelungi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "în zilele voastre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "rebelă"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "voi vorbi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "ועשיתיו",
+      "gloss": "și îl voi face"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracol"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:21:42.145308352Z",
+  "model": "glm-5.3"
+}

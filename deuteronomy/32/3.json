@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Căci numele lui Yahve voi vesti; dați mărire lui Elohim, al nostru!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "voi vesti"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "dați"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mărire"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "lui Elohim, al nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T02:15:01.816914482Z",
+  "model": "glm-5.3"
+}

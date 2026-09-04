@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și i s-au născut lui David fii în Hevron; și întâiul său născut ⟨a fost⟩ Amnon, de la Ahinoam iezreelita.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "și s-au născut"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "în Hevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "întâiul său născut"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "de la Ahinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "iezreelita"
+    }
+  ],
+  "timestamp": "2026-09-04T02:54:38.416879804Z",
+  "model": "glm-5.3"
+}

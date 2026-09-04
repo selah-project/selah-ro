@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "Dirijorului coralului; despre «porumbița mută a locurilor depărtate»; al lui David; mihtam; la a prinde ⟨את⟩ pe el filistenii în Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijorului coralului"
+    },
+    {
+      "surface": "על",
+      "gloss": "despre"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "porumbița"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "mută"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "a locurilor depărtate"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mihtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "la a prinde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (pe el)",
+      "marks": "filistenii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "în Gat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:02.588291694Z",
+  "model": "glm-5.3"
+}

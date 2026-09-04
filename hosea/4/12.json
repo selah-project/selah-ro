@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Poporul meu își întreabă lemnul său, și toiagul lui îi vestește lui; căci un duh de desfrânări l-a rătăcit, și s-au desfrânat de sub Elohimul lor.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Poporul meu"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "lemnul său"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "își întreabă"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "și toiagul lui"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "îi vestește"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "de desfrânări"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "l-a rătăcit"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "și s-au desfrânat"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sub"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T09:04:57.385425039Z",
+  "model": "glm-5.3"
+}

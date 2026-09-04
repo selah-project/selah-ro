@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a grăbit Paro să cheme pe Moșe și pe Aharon, și a zis: am greșit față de Yahve, Elohim al vostru, și față de voi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Și a grăbit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "să cheme"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "pe Moșe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "și pe Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "am greșit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "față de Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "și față de voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:18.871677868Z",
+  "model": "glm-5.3"
+}

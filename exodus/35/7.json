@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "și piei de berbeci vopsite roșu, și piei de tahas, și lemn de salcâm.",
+  "tokens": [
+    {
+      "surface": "ו ערת",
+      "gloss": "și piei de"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "berbeci"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "vopsite roșu"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "și piei de"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahas"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "lemn de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "salcâm"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:32.780051102Z",
+  "model": "glm-5.3"
+}

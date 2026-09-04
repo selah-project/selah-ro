@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Dar eu știu că nu va da ⟨את⟩ pe voi regele lui Mițraim să plecați, și nu printr-o mână puternică.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dar eu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lui Mițraim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "să plecați"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "printr-o mână"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "puternică"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:02.398103816Z",
+  "model": "glm-5.3"
+}

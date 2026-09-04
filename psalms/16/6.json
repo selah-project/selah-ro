@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Corzile de măsură au căzut pentru mine în locuri plăcute; da, o moștenire frumoasă ⟨este⟩ peste mine.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "corzile de măsură"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "au căzut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "în locuri plăcute"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "o moștenire"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "frumoasă"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:26.779743134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Din ceruri privește Yahve, vede ⟨את⟩ pe toți fiii omului.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "din ceruri"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "privește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți fiii omului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:21.474901140Z",
+  "model": "glm-5.3"
+}

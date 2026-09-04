@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și printr-un navi a suit Yahve ⟨את⟩ Israel din Mițraim, și printr-un navi a fost păzit.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "Și printr-un navi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "a suit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "și printr-un navi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "a fost păzit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:48:34.818837786Z",
+  "model": "glm-5.3"
+}

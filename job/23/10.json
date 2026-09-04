@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Căci el cunoaște calea ⟨care este⟩ cu mine; când mă va încerca, voi ieși ca aurul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "el cunoaște"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨care este⟩ cu mine"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "mă va încerca"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "ca aurul"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "voi ieși"
+    }
+  ],
+  "timestamp": "2026-09-04T05:31:57.483663565Z",
+  "model": "glm-5.3"
+}

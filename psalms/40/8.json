@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Atunci am zis: Iată, am venit — în sulul cărții ⟨este⟩ scris despre mine.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "am venit"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "în sulul"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cărții"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "scris"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "despre mine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:57.834633327Z",
+  "model": "glm-5.3"
+}

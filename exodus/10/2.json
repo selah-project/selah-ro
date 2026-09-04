@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "și ca să istorisești în urechile fiului tău și ale fiului fiului tău ⟨את⟩ ce am făcut eu în Mițraim și ⟨את⟩ semnele mele pe care le-am pus în ele, și să știți că eu sunt Yahve.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "și ca să"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "să istorisești"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "în urechile"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiului tău"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "și fiului"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiului tău"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce am făcut eu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "semnele mele"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "semnele mele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "le-am pus"
+    },
+    {
+      "surface": "בם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "și să știți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:37.296246049Z",
+  "model": "glm-5.3"
+}

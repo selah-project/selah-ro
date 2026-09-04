@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Iar dacă jertfa lui ⟨este⟩ o capră, o va aduce înaintea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "עז",
+      "gloss": "o capră"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jertfa lui"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "o va aduce"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:15.222149094Z",
+  "model": "glm-5.3"
+}

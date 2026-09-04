@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "De aceea toate hotărârii ⟨le socotesc⟩ drepte, pe toate le țin; toată calea minciunii am urât-o.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "De"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "hotărârii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toate"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "le țin drepte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "calea"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciunii"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "am urât-o"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:43.147320302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și s-a închinat Bat-Șeva și s-a prosternat înaintea regelui, iar regele a zis: Ce ai tu?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Și s-a închinat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "și s-a prosternat"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "înaintea regelui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "iar a zis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ai tu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:15:47.666330934Z",
+  "model": "glm-5.3"
+}

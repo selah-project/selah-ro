@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și l-a plămudit Yahve Elohim ⟨את⟩ omul — țărână din sol — și a suflat în nările lui suflare de viață, și a devenit omul un suflet viu.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "și l-a plămudit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "țărână"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sol"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "și a suflat"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "în nările lui"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "suflarea"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vieții"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a devenit"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "un suflet"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "viu"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:56.029032224Z",
+  "model": "glm-5.3"
+}

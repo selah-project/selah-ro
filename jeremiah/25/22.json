@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "și ⟨את⟩ toți regii Țorului și ⟨את⟩ toți regii Țidonului și ⟨את⟩ regii insulei care ⟨este⟩ dincolo de mare;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toți regii Țorului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Țorului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toți regii Țidonului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Țidonului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "regii insulei"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "האי",
+      "gloss": "insulei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "dincolo de"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:06:43.737640222Z",
+  "model": "glm-5.3"
+}

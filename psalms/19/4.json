@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Nu este cuvânt și nu sunt cuvinte, fără ca să le fie auzit glasul.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "cuvânt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu sunt"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "să fie auzit"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "glasul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:43.642728004Z",
+  "model": "glm-5.3"
+}

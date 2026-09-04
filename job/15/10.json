@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Atât cărunt, cât și bătrân vârstnic ⟨este⟩ printre noi — mai mare decât tatăl tău ⟨în⟩ zile.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Atât"
+    },
+    {
+      "surface": "שב",
+      "gloss": "cărunt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cât și"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "bătrân vârstnic"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "printre noi"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mai mare"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "decât tatăl tău"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:30:17.303457829Z",
+  "model": "glm-5.3"
+}

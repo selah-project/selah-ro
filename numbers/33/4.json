@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Iar mițrienii îngropau ⟨את⟩ pe aceia pe care îi lovise Yahve între ei — pe tot întâiul-născut; și împotriva dumnezeilor lor a făcut Yahve judecăți.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Iar mițrienii"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "îngropau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe aceia pe care îi lovise Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "îi lovise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "între ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "întâiul-născut"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "și împotriva dumnezeilor lor"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "judecăți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:57:16.832267214Z",
+  "model": "glm-5.3"
+}

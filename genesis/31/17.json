@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și s-a sculat Iaacov și a urcat ⟨את⟩ fiii săi și ⟨את⟩ femeile sale pe cămile.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și s-a sculat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "și a urcat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii săi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii săi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "femeile sale"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "femeile sale"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "cămile"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:25.132590553Z",
+  "model": "glm-5.3"
+}

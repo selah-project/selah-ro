@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și ⟨i s-a⟩ vestit lui Șaul că a fugit David în Gat, și nu a mai căutat ⟨să-l caute⟩ de acum.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și ⟨i s-a⟩ vestit"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "a fugit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "în Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "a mai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "de acum"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "să-l caute"
+    }
+  ],
+  "timestamp": "2026-09-04T07:12:40.030144123Z",
+  "model": "glm-5.3"
+}

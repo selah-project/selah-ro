@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Iar hrana lui, o porție necurmată, i-a fost dată de la ⟨את⟩ regele, rânduiala unei zile în ziua ei, toate zilele vieții lui.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "iar hrana lui"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "o porție"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "necurmată"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a fost dată"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rânduiala"
+    },
+    {
+      "surface": "יום",
+      "gloss": "unei zile"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "în ziua ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "vieții lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:34:13.123296167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "M-au ajuns din urmă în ziua necazului meu, și Yahve ⟨mi-a fost⟩ sprijin mie.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "m-au ajuns din urmă"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "necazului meu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "de sprijin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:01.238858473Z",
+  "model": "glm-5.3"
+}

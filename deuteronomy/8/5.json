@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și să știi cu inima ta că, precum pedepsește un om ⟨את⟩ fiul său, Yahve, Elohimul tău, te pedepsește ⟨pe tine⟩.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Și să știi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "inima ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "precum"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "pedepsește"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul său"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul său"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "te pedepsește"
+    }
+  ],
+  "timestamp": "2026-09-04T02:02:06.280347031Z",
+  "model": "glm-5.3"
+}

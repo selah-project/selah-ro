@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "A spus Yahve către Moșe: întinde-ți mâna peste țara Mițraim cu lăcustele, și să se ridice ele peste țara Mițraim și să mănânce ⟨את⟩ toată iarba țării, ⟨את⟩ tot ce a lăsat grindina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "întinde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "cu lăcustele"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și să se ridice"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "și să mănânce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată iarba țării"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iarba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce a lăsat grindina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "a lăsat"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grindina"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:40.183002263Z",
+  "model": "glm-5.3"
+}

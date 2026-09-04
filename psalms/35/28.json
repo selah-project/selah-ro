@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Iar limba mea va murmura dreptatea ta, toată ziua lauda ta.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "iar limba mea"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "va murmura"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "dreptatea ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lauda ta"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:11.144827415Z",
+  "model": "glm-5.3"
+}

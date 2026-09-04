@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Milostiv și îndurat ⟨este⟩ Yahve, îndelung-rabdător și mare în hesed (îndurare).",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Milostiv"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "și îndurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "îndelung-rabdător"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "(în mânie)"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "și mare"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "în hesed"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:46.371128308Z",
+  "model": "glm-5.3"
+}

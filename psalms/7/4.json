@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Yahve, Elohim al meu, dacă am făcut aceasta, dacă este nelegiuire în palmele mele,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "în palmele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:01.785346910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și s-au luptat fiii lui Iehuda cu Ierușalaim, și au cucerit ⟨את⟩ pe ea, și au lovit-o la gura sabiei, și ⟨את⟩ cetatea au trimis-o în foc.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Și s-au luptat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "cu Ierușalaim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "și au cucerit"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ pe ea",
+      "marks": "Ierușalaimul"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "și au lovit-o"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "la gura"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cetatea"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "au trimis-o"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:46.797189622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și chiar aceasta ⟨este⟩ un rău bolnav: cum a venit, tot așa va pleca; și ce câștig are el, că se obosește pentru vânt?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și chiar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rău"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "bolnav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "așa cum"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tot așa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "va pleca"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "și ce"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "câștig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "are el"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "se obosește"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "pentru vânt"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:06.441831207Z",
+  "model": "glm-5.3"
+}

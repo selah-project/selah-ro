@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a văzut Elohim ⟨את⟩ pământul, și iată era stricat, căci stricase toată carnea ⟨את⟩ calea ei pe pământ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "era stricat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "stricase"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calea ei"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "calea ei"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:50.189804555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "de vin și de băutură tare se va feri; oțet de vin și oțet de băutură tare nu va bea, și toată muierea de struguri nu va bea; și struguri proaspeți sau uscați nu va mânca.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "de vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "și de băutură tare"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "se va feri"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "oțet"
+    },
+    {
+      "surface": "יין",
+      "gloss": "de vin"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "și oțet"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "de băutură tare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "va bea"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "muierea"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "de struguri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "va bea"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "și struguri"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "proaspeți"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "sau uscați"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "va mânca"
+    }
+  ],
+  "timestamp": "2026-09-04T01:44:24.961136396Z",
+  "model": "glm-5.3"
+}

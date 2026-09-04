@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 87,
+  "translation": "Iubește Yahve porțile Ționului, mai mult decât toate locuințele lui Iaacov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Iubește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "porțile"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ționului"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mai mult decât toate"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "locuințele"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:34.109461329Z",
+  "model": "glm-5.3"
+}

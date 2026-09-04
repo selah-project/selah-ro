@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "Când s-a sculat Elohim la judecată, ca să mântuiască pe toți cei smeriți ai pământului. Sela.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Când s-a sculat"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "la judecată"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ca să mântuiască"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "cei smeriți"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ai pământului"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:05.445087109Z",
+  "model": "glm-5.3"
+}

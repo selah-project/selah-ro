@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a zis: fiindcă ⟨este⟩ mână pe tronul lui Ya, război lui Yahve ⟨este⟩ cu Amalek, din neam în neam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mână"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כס",
+      "gloss": "tronul"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lui Ya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "război"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "cu Amalek"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "דר",
+      "gloss": "în neam"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:44.567646103Z",
+  "model": "glm-5.3"
+}

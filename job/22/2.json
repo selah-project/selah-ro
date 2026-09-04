@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Oare pentru El este de folos un om? Sau este de folos pentru el cel înțelept?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Oare pentru El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "este de folos"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "un om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sau"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "este de folos"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "cel înțelept"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:17.628252875Z",
+  "model": "glm-5.3"
+}

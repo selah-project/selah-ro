@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și vei zice în ziua aceea: Te voi lăuda, Yahve, căci Te-ai mâniat pe mine; s-a întors mânia Ta și m-ai mângâiat.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Și vei zice"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Te voi lăuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "Te-ai mâniat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pe mine"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mânia Ta"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "și m-ai mângâiat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:33.667449787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 141,
+  "translation": "Nu lăsa inima mea să se plece spre o vorbă rea, să săvârșească fapte de răutate cu ⟨את⟩ oamenii care lucrează nelegiuirea, și să nu mănânc din desfătările lor.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תט",
+      "gloss": "să se plece"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "spre o vorbă"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rea"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "să săvârșească"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "fapte"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "de răutate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii care lucrează nelegiuirea"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "care lucrează"
+    },
+    {
+      "surface": "און",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "mănânc"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "din desfătările lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:09.931945640Z",
+  "model": "glm-5.3"
+}

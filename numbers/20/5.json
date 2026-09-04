@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și de ce ne-ai suit din Mițraim, ca să ne aduci ⟨את⟩ne la locul acesta rău? Nu ⟨este⟩ loc de sămânță, și de smochin, și de viță, și de rodie, și apă nu este de băut.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "și de ce"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ne-ai suit"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ca să aduci"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ne",
+      "marks": "la locul acesta rău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "loc"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "de sămânță"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "și de smochin"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "și de viță"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "și de rodie"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "și apă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "de băut"
+    }
+  ],
+  "timestamp": "2026-09-04T01:51:08.159802423Z",
+  "model": "glm-5.3"
+}

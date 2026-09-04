@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au zis: Sânge ⟨este⟩ acesta! De sabie s-au nimicit regii, au lovit fiecare ⟨את⟩ aproapele său. Și acum, la pradă, Moav!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "de sabie"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "s-au nimicit"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "regii"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "au lovit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aproapele său"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapele său"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "la pradă"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-09-04T07:20:45.705970858Z",
+  "model": "glm-5.3"
+}

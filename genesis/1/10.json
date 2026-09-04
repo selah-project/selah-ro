@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a numit Elohim uscatul Pământ, și adunarea apelor a numit-o Mări. Și a văzut Elohim că ⟨este⟩ bun.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a numit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "uscatul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Pământ"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "și adunarea"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apelor"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a numit-o"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Mări"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:34.413570390Z",
+  "model": "glm-5.3"
+}

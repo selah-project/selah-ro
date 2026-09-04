@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Este un rău pe care l-am văzut sub soare, ca o rătăcire care iese de la fața stăpânitorului:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Este"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un rău"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pe care l-am văzut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "ca o rătăcire"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "care iese"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de la fața"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "stăpânitorului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:56.731175766Z",
+  "model": "glm-5.3"
+}

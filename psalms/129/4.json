@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 129,
+  "translation": "Yahve ⟨este⟩ drept; a tăiat funiile celor răi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "drept"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "a tăiat"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "funiile"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:28.370533001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și m-am întors eu și am văzut deșărtăciune sub soare.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Și m-am întors"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "și am văzut"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșărtăciune"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:35.500284151Z",
+  "model": "glm-5.3"
+}

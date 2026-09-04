@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a zis Yahve: ⟨Este⟩ bine ceea ce ți s-a aprins ⟨mânia⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "face-bine?"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "s-a aprins"
+    },
+    {
+      "surface": "לך",
+      "gloss": "în tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:16.636898061Z",
+  "model": "glm-5.3"
+}

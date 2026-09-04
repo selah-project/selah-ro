@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Milostiv ⟨este⟩ Yahve și drept, și Elohim, ⟨al nostru⟩, ⟨este⟩ îndurător.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Milostiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "și drept"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "și Elohim ⟨al nostru⟩"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "îndurător"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:51.598438506Z",
+  "model": "glm-5.3"
+}

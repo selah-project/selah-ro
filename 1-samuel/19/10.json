@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Șaul a căutat să lovească cu sulița în David, și în perete; s-a ferit din fața lui Șaul, și a lovit ⟨את⟩ sulița în perete; David a fugit și a scăpat în noaptea aceea.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "a căutat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "să lovească"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "cu sulița"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "în David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "și în perete"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "s-a ferit"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din fața"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sulița"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "sulița"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "în perete"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "și David"
+    },
+    {
+      "surface": "נס",
+      "gloss": "a fugit"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "și a scăpat"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "în noaptea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "acea"
+    }
+  ],
+  "timestamp": "2026-09-04T10:11:18.068959481Z",
+  "model": "glm-5.3"
+}

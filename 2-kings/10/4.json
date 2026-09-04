@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și s-au temut foarte, foarte, și au zis: Iată, doi regi nu au stat înaintea lui, și cum vom sta noi?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Și s-au temut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "שני",
+      "gloss": "doi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "regi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "au stat"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "și cum"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "vom sta"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:52.489733552Z",
+  "model": "glm-5.3"
+}

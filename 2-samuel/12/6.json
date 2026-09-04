@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "și ⟨את⟩ oaia va plăti împătrit, pentru că a făcut ⟨את⟩ lucrul acesta și pentru că nu a avut milă.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "oaia"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "oaia"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va plăti"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "împătrit"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pentru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "a avut milă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:31.363714430Z",
+  "model": "glm-5.3"
+}

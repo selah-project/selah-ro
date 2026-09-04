@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Să nu fie rușinați din pricina mea cei ce nădăjduiesc în tine, Adonai Yahve Țevaot; să nu fie înfruntați din pricina mea cei ce te caută, Elohim al lui Israel.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "fie rușinați"
+    },
+    {
+      "surface": "בי",
+      "gloss": "din pricina mea"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "cei ce nădăjduiesc în tine"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "fie înfruntați"
+    },
+    {
+      "surface": "בי",
+      "gloss": "din pricina mea"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "cei ce te caută"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "al lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:03.572436901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și le-a spus: văd eu ⟨את⟩ fața tatălui vostru — că nu mai este față de mine ca ieri și alaltăieri; iar Elohim al tatălui meu a fost cu mine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "להן",
+      "gloss": "le"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "văd"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "tatălui vostru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nu mai este"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "față de"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "ca ieri"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "și alaltăieri"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "iar Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "al tatălui meu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:48.365628365Z",
+  "model": "glm-5.3"
+}

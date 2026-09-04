@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "S-a sculat de dimineață Hizchiahu regele și a adunat ⟨את⟩ căpeteniile cetății și a urcat la casa lui Yahve.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "s-a sculat de dimineață"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizchiahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "și a adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "căpeteniile cetății"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și a urcat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:28:52.201445095Z",
+  "model": "glm-5.3"
+}

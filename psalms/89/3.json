@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Căci am zis: pe veci se zidește hesed, cerurile — tu întemeiezi credincioșia ta în ele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pe veci"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "se zidește"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "tu întemeiezi"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "credincioșia ta"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:05.594161368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a pus ⟨את⟩ unul în Beit-El, iar ⟨את⟩ celălalt l-a pus în Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unul"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "celălalt"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "celălalt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "l-a pus"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "în Dan"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:37.392581251Z",
+  "model": "glm-5.3"
+}

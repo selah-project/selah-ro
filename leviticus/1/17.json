@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și să-l sfâșie ⟨את⟩ el pe aripile lui, să nu despartă; și să facă fum ⟨את⟩ el cohenul pe altar, peste lemnele care sunt peste foc: olocaust ⟨este⟩ el, jertfă de foc, mireasmă plăcută pentru Yahve.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "Și să sfâșie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (pasărea)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "pe aripile lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "să despartă"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "și să facă fum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (pasărea)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "lemnele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "האש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olocaust"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jertfă de foc"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mireasmă"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "plăcută"
+    },
+    {
+      "surface": "ליהוָה",
+      "gloss": "pentru Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:29.295763210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Încinge sabia ta pe coapsă, viteazule, strălucirea ta și maiestatea ta.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "încinge"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sabia ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "coapsă"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "viteazule"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "strălucirea ta"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "și maiestatea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:43.268291276Z",
+  "model": "glm-5.3"
+}

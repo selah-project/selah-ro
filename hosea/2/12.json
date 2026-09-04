@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și acum îi voi dezgoli ⟨את⟩ rușinea înaintea ochilor iubiților ei, și niciun om nu o va smulge din mâna mea.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "îi voi dezgoli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rușinea"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "rușinea"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "înaintea ochilor"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "iubiților ei"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și niciun om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "o va smulge"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "din mâna mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:55.362853044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Cu dar de bunăvoie îmi voi jertfi ⟨ție⟩, voi lăuda Numele tău, Yahve, căci ⟨este⟩ bun.",
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "cu dar de bunăvoie"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "îmi voi jertfi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "voi lăuda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Numele tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:50.049777610Z",
+  "model": "glm-5.3"
+}

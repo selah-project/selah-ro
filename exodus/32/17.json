@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "A auzit Iehoșua ⟨את⟩ glasul poporului când răcnea, și a spus către Moșe: glas de război ⟨este⟩ în tabără.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A auzit"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "când răcnea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "de război"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "în tabără"
+    }
+  ],
+  "timestamp": "2026-09-04T08:47:17.073319907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Părăsite sunt cetățile Aroerului; pentru turme vor fi, și ⟨turmele⟩ se vor culca și nu va fi ⟨nimic⟩ care să sperie.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "Părăsite"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "sunt cetățile"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroerului"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "pentru turme"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "și se vor culca"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu va fi"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "care să sperie"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:54.602183499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Iată, au ajuns ca paiele — focul i-a ars; nu își vor scăpa ⟨את⟩ sufletele lor din mâna flăcării; nu este jar pentru încălzit, nici flacără de șezut înaintea ei.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au ajuns"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ca paiele"
+    },
+    {
+      "surface": "אש",
+      "gloss": "focul"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "i-a ars"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "își vor scăpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufetele lor"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sufetele lor"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "flăcării"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "jar"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "pentru încălzit"
+    },
+    {
+      "surface": "אור",
+      "gloss": "flacără"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "de șezut"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "înaintea ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:47.215413708Z",
+  "model": "glm-5.3"
+}

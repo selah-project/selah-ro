@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 19:2",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și s-a desfrânat împotriva lui concubina lui, și a plecat de la ⟨את⟩ el către casa tatălui ei, către Beit-Lechem Iehuda, și a fost acolo zile, patru luni.",
+  "tokens": [
+    {
+      "surface": "ותזנה",
+      "gloss": "Și s-a desfrânat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "împotriva lui"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "concubina lui"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "și a plecat"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "de la ⟨את⟩ el",
+      "marks": "el (referința pronuminală a marcării cu את)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "tatăl ei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lechem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "patru"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "luni"
+    }
+  ],
+  "timestamp": "2026-09-04T07:08:10.170308175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și s-a certat poporul cu Moșe, și au vorbit zicând: O, dacă am fi murit când au murit frații noștri înaintea lui Yahve!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "și s-a certat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au vorbit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "o, dacă"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "am fi murit"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "când au murit"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "frații noștri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:51:22.015141300Z",
+  "model": "glm-5.3"
+}

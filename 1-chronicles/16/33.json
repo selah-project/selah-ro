@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Atunci vor cânta de bucurie copacii pădurii, înaintea lui Yahve, căci vine să judece ⟨את⟩ pământul.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vor cânta de bucurie"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "copacii"
+    },
+    {
+      "surface": "היער",
+      "gloss": "pădurii"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "să judece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:40.482436947Z",
+  "model": "glm-5.3"
+}

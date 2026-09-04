@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Nu va asupri vrăjmașul ⟨pe⟩ el, și fiul fărădelegii nu-l va apăsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va asupri"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vrăjmașul"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨pe⟩ el"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "și fiul"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "fărădelegii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "-l va apăsa"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:04.416666980Z",
+  "model": "glm-5.3"
+}

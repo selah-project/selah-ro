@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au auzit ⟨את⟩ glasul lui Yahve Elohim plimbându-se în grădină la suflarea zilei, și s-a ascuns omul și femeia lui de fața lui Yahve Elohim în mijlocul pomului grădinii.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Și au auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "plimbându-se"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "în grădină"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "la suflarea"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zilei"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "și s-a ascuns"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "și femeia lui"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de fața"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pomului"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "grădinii"
+    }
+  ],
+  "timestamp": "2026-09-04T08:44:48.711065652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "și s-au plimbat de la un neam la alt neam și de la o împărăție la un popor altul.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "și s-au plimbat"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "de la un neam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "alt neam"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "și de la o împărăție"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un popor"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:10:43.100291215Z",
+  "model": "glm-5.3"
+}

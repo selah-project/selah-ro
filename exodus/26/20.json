@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și pentru a doua latură a Mișkanului, spre latura de miazănoapte, douăzeci de scânduri.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Și pentru latura"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mișkanului"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a doua"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "spre latura de"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "miazănoapte"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci de"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "scânduri"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:48.501693014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Pătrat era, dublat, au făcut ⟨את⟩ hoșenul; o palmă lungimea lui și o palmă lățimea lui, dublat.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "pătrat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dublat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoșenul"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoșenul"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "o palmă"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lungimea lui"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "și o palmă"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lățimea lui"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dublat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:57.458863872Z",
+  "model": "glm-5.3"
+}

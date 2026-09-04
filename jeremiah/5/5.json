@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 5:5",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Mă duc ⟨pentru mine⟩ la cei mari și le voi vorbi ⟨את⟩ pe ei, căci ei cunosc calea lui Yahve, judecata lui Elohim ⟨al lor⟩; dar ei au spart împreună jugul, au rupt legăturile.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "Mă duc"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pentru mine⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "cei mari"
+    },
+    {
+      "surface": "וידברה",
+      "gloss": "și le voi vorbi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei — cei mari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "cunosc"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "lui Elohim ⟨al lor⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "au spart"
+    },
+    {
+      "surface": "על",
+      "gloss": "jugul"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "au rupt"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "legăturile"
+    }
+  ],
+  "timestamp": "2026-09-04T04:00:04.412452343Z",
+  "model": "glm-5.3"
+}

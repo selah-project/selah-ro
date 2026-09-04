@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Nu pizmui pe oamenii răului și nu dori să fii cu ⟨את⟩ ei.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "pizmui"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "pe oamenii"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răului"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "dori"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "să fii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "cu ⟨את⟩ ei",
+      "marks": "cu ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:26.684837581Z",
+  "model": "glm-5.3"
+}

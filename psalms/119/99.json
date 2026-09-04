@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Peste toți învățătorii mei am căpătat înțelepciune, căci mărturiile tale sunt cugetarea mea.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "peste toți"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "învățătorii mei"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "am căpătat înțelepciune"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "mărturiile tale"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "sunt cugetarea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:06.766499814Z",
+  "model": "glm-5.3"
+}

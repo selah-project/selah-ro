@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Oare, către om ⟨se îndreaptă⟩ cuvântul meu? Și dacă da, de ce nu s-ar împuțina duhul meu?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "Oare, eu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "către om"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "cuvântul meu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "s-ar împuțina"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:08:10.984090520Z",
+  "model": "glm-5.3"
+}

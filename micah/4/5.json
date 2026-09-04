@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Căci toate popoarele vor merge, fiecare în numele dumnezeului său, iar noi vom merge în numele lui Yahve, Elohim al nostru, până în veac și peste aceea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vor merge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în numele"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "dumnezeului său"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "iar noi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "vom merge"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "până în veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și peste aceea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:49:26.494759558Z",
+  "model": "glm-5.3"
+}

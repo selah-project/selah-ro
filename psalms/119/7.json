@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Te voi lăuda cu dreptate de inimă, când învăț judecățile dreptății tale.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Te voi lăuda"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "cu dreptate"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "de inimă"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "când învăț"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecățile"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "dreptății tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:55.873150747Z",
+  "model": "glm-5.3"
+}

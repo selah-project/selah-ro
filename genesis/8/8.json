@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a trimis ⟨את⟩ porumbița de la el, să vadă dacă s-au ușurat apele de pe fața pământului.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porumbița"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "porumbița"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "de la ⟨את⟩ el"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "dacă s-au ușurat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:26.542521511Z",
+  "model": "glm-5.3"
+}

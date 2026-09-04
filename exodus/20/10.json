@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "dar ziua a șaptea ⟨este⟩ Șabatul lui Yahve, Elohimul tău: să nu faci nicio lucrare — tu, fiul tău și fiica ta, robul tău și roaba ta, vita ta și străinul tău care ⟨este⟩ în porțile tale.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "dar ziua"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a șaptea"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Șabatul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "faci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nicio"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lucrare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "fiul tău"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "și fiica ta"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robul tău"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "și roaba ta"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "vita ta"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "și străinul tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "în porțile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:57.770930362Z",
+  "model": "glm-5.3"
+}

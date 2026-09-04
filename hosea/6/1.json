@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Veniți, și să ne întoarcem către Yahve, căci el a sfâșiat și ne va vindeca, a lovit și ne va lega ⟨rănile⟩.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "și să ne întoarcem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "a sfâșiat"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "și ne va vindeca"
+    },
+    {
+      "surface": "יך",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "și ne va lega"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:47.462709738Z",
+  "model": "glm-5.3"
+}

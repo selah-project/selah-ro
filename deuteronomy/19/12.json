@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "atunci bătrânii orașului lui vor trimite și-l vor lua de acolo și-l vor da ⟨את⟩ în mâna răzbunătorului sângelui, și va muri.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "vor trimite"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "orașului lui"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "vor lua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "vor lua de acolo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "vor da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "vor da în mâna răzbunătorului"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "răzbunătorului"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângelui"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va muri"
+    }
+  ],
+  "timestamp": "2026-09-04T02:08:27.643154102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 99,
+  "translation": "Yahve, Elohimul nostru, tu i-ai răspuns, El care poartă ⟨păcate⟩ ai fost pentru ei, și te-ai răzbunat pentru faptele lor.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimul nostru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "i-ai răspuns"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "care poartă"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ai fost"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pentru ei"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "și te-ai răzbunat"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "faptele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:18.429401588Z",
+  "model": "glm-5.3"
+}

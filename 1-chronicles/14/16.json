@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a făcut David cum îi poruncise Elohim, și au lovit ⟨את⟩ tabăra filiștenilor de la Givon până la Ghezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "îi poruncise"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabăra"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabăra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filiștenilor"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "de la Givon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Ghezer"
+    }
+  ],
+  "timestamp": "2026-09-04T06:10:41.907948160Z",
+  "model": "glm-5.3"
+}

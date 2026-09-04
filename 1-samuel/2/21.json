@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci a cercetat Yahve ⟨את⟩ Hana, și a rămas însărcinată și a născut trei fii și două fiice; iar copilul Șmuel a crescut cu Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "a cercetat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "și a rămas însărcinată"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "și două"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiice"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "și a crescut"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:39:35.273573690Z",
+  "model": "glm-5.3"
+}

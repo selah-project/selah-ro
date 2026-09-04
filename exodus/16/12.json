@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Am auzit ⟨את⟩ murmurările fiilor lui Israel; vorbește către ei, zicând: La amurg veți mânca carne, iar dimineața vă veți sătura de pâine, și veți ști că Eu ⟨sunt⟩ Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murmurările"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "murmurările"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbește"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "בין",
+      "gloss": "La"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "amurg"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "veți mânca"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "iar dimineața"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "vă veți sătura"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pâine"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "și veți ști"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:18:55.410776066Z",
+  "model": "glm-5.3"
+}

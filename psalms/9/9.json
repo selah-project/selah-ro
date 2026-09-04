@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și ⟨el⟩ va judeca ⟨את⟩ lumea în dreptate, va judeca popoarele în nepărtinire.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Și ⟨el⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "va judeca"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "în dreptate"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "va judeca"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "în nepărtinire"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:09.088611977Z",
+  "model": "glm-5.3"
+}

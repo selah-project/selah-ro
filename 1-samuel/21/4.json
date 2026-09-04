@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și acum ce este sub mâna ta? Cinci pâini dă în mâna mea, sau ce se găsește.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâini"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "dă"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "în mâna mea"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ce se găsește"
+    }
+  ],
+  "timestamp": "2026-09-04T02:49:40.760623356Z",
+  "model": "glm-5.3"
+}

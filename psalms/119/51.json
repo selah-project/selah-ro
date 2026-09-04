@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Trufașii m-au batjocorit peste măsură, dar de la Tora ta nu m-am abătut",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "trufașii"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "m-au batjocorit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "peste măsură"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "de la Tora ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "m-am abătut"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:07.533403265Z",
+  "model": "glm-5.3"
+}

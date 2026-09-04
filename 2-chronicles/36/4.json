@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și regele Mițraimului l-a făcut împărat pe Elyakim, fratele lui, peste Yehuda și Ierușalaim, și i-a schimbat numele în Yehoyakim; iar ⟨את⟩ pe Yehoahaz, fratele lui, l-a luat Neko și l-a dus în Mițraim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Și l-a făcut împărat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "și Ierușalaim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "și i-a schimbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "în Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "pe Yehoahaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "l-a luat"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "și l-a dus"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "în Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:32:00.932459717Z",
+  "model": "glm-5.3"
+}

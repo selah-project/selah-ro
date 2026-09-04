@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "A întemeiat pământul pe temeliile lui — nu va fi clintit în veac și pentru totdeauna.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "A întemeiat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "temeliile lui"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "va fi clintit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și pentru totdeauna"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:20.170701422Z",
+  "model": "glm-5.3"
+}

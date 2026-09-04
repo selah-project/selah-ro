@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "În locul în care se junghie ⟨את⟩ arderea de tot, să junghie ⟨את⟩ jertfa de vină, și ⟨את⟩ sângele lui să-l stropească pe altar, de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "În locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "se junghie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea de tot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea de tot"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "să junghie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa de vină"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "jertfa de vină"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sângele lui"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "să stropească"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:01.397407417Z",
+  "model": "glm-5.3"
+}

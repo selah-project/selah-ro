@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "În Elohim am încredere, nu mă tem; ce-mi poate face omul?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "În Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "am încredere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mă tem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "poate face"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:31.974546727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Fiule, păzește cuvintele mele, și poruncile mele ascunde-le ⟨את⟩ cu tine.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiule"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "păzește"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "cuvintele mele"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "și poruncile mele"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ascunde-le"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cu tine",
+      "marks": "poruncile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:29.102564420Z",
+  "model": "glm-5.3"
+}

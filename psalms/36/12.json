@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Să nu mă calce piciorul trufiei și mâna celor răi să nu mă clatine.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "mă calce"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "piciorul"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "trufiei"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "și mâna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "mă clatine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:08.318548568Z",
+  "model": "glm-5.3"
+}

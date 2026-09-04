@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va zice Paro despre fiii lui Israel: Încurcați ei ⟨sunt⟩ în țară, pustiul a închis asupra lor.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și va zice"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "despre fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "încurcați"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "a închis"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "asupra lor"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustiul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:10.943755631Z",
+  "model": "glm-5.3"
+}

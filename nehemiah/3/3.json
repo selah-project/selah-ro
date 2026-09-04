@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și ⟨את⟩ poarta peștilor au zidit-o fiii Senaei; ei i-au așezat grinzile și au pus ușile ei, zăvoarele ei și barele ei.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Și ⟨את⟩",
+      "marks": "poarta peștilor"
+    },
+    {
+      "surface": "שער",
+      "gloss": "poarta"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "peștilor"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "au zidit(-o)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Senei"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "i-au așezat grinzile"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "și au pus"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "ușile ei"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "zăvoarele ei"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "și barele ei"
+    }
+  ],
+  "timestamp": "2026-09-04T06:00:35.837713972Z",
+  "model": "glm-5.3"
+}

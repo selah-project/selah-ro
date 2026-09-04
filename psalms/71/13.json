@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Să fie dați rușinii și să piară cei ce îmi pizmuiesc suflarea; să fie înveliți de ocară și de rușine cei ce îmi caută răul.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "să fie dați rușinii"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "să piară"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "cei ce pizmuiesc"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "suflarea mea"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "să fie înveliți"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "de ocară"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "și de rușine"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "cei ce caută"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "răul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:16.334512605Z",
+  "model": "glm-5.3"
+}

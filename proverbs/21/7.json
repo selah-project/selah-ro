@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Prada celor răi îi va târî ⟨după sine⟩, căci au refuzat să facă dreptate.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "Prada"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "îi va târî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "au refuzat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dreptate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:43.065387884Z",
+  "model": "glm-5.3"
+}

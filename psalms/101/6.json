@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 101,
+  "translation": "Ochii mei ⟨sunt⟩ către credincioșii țării, ca să locuiască cu mine; cel ce merge pe calea fără prihană, acela îmi va sluji.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "către credincioșii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ca să locuiască"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "cel ce merge"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe calea"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fără prihană"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "îmi va sluji"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:15.853148202Z",
+  "model": "glm-5.3"
+}

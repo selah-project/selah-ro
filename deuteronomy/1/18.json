@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și v-am poruncit ⟨את⟩ pe voi, la vremea aceea, ⟨את⟩ toate cuvintele pe care să le faceți.",
+  "tokens": [
+    {
+      "surface": "וָאֲצַוֶּה",
+      "gloss": "și am poruncit"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "בָּעֵת",
+      "gloss": "la vremea"
+    },
+    {
+      "surface": "הַהִוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הַדְּבָרִים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תַּעֲשׂוּן",
+      "gloss": "să le faceți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:57:04.689684107Z",
+  "model": "glm-5.3"
+}

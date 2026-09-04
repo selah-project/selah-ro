@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și au făcut ⟨את⟩ Pesahul în prima (lună), în a paisprezecea zi a lunii, între aceste amurguri, în pustiul Sinai; potrivit cu tot ce a poruncit Yahve ⟨את⟩ Moșe, așa au făcut fiii lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Și au făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesahul"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesahul"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "în prima (lună)"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "în a paisprezecea"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(paisprezece)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a lunii"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "aceste amurguri"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiul"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "potrivit cu tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T08:50:03.777481436Z",
+  "model": "glm-5.3"
+}

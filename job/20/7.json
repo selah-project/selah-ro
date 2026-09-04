@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 20:7",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Ca gunoiul lui, pentru totdeauna va pieri; cei care l-au văzut vor zice: unde ⟨este⟩ el?",
+  "tokens": [
+    {
+      "surface": "כגללו",
+      "gloss": "ca gunoiul lui"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "va pieri"
+    },
+    {
+      "surface": "ראיו",
+      "gloss": "cei care l-au văzut"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vor zice"
+    },
+    {
+      "surface": "איו",
+      "gloss": "unde ⟨este⟩ el?"
+    }
+  ],
+  "timestamp": "2026-09-04T08:07:48.951420100Z",
+  "model": "glm-5.3"
+}

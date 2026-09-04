@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și iată-mă, eu întăresc ⟨את⟩ inima Mițraimului, și vor veni după ei, și voi fi preamărit în Paro și în toată oștirea lui, în carele lui și în călăreții lui.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Și eu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată-mă"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "întăresc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și vor veni"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "după ei"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "și voi fi preamărit"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "în Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și în toată"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "oștirea lui"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "în carele lui"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "și în călăreții lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:18:12.597777292Z",
+  "model": "glm-5.3"
+}

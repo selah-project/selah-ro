@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Și i-a scos Iosif ⟨את⟩ pe ei de pe genunchii lui, și s-a închinat cu fața la pământ.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Și i-a scos"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei (fiii)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "genunchii lui"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "și s-a închinat"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "cu fața"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "la pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T01:11:15.289377995Z",
+  "model": "glm-5.3"
+}

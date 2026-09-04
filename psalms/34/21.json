@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Păzește toate oasele lui; niciunul dintre ele nu este frânt.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "păzește"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "oasele lui"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "dintre ele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "este frântă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:23.663243060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 4:23",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Păziți-vă bine, ca nu cumva să uitați ⟨את⟩ legământul lui Yahve, Elohimul vostru, pe care l-a tăiat cu voi, și să faceți vouă chip cioplit, icoană a oricărui lucru despre care te-a poruncit Yahve, Elohimul tău.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "Păziți-vă"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "să uitați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul lui Yahve"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "l-a tăiat"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cu voi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "și să faceți"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "chip cioplit"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "icoană a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oricărui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "despre care"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "te-a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:45.019855358Z",
+  "model": "glm-5.3"
+}

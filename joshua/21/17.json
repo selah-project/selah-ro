@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "și din seminția lui Binjamin ⟨את⟩ Givon și ⟨את⟩ ținuturile ei, ⟨את⟩ Geva și ⟨את⟩ ținuturile ei.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "și din seminția"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "lui Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ținuturile ei"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ținuturile ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ținuturile ei"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ținuturile ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:25:19.706038043Z",
+  "model": "glm-5.3"
+}

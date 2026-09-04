@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Lăudați-l, toți îngerii lui, lăudați-l, toată oștirea lui!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "îngerii lui"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "oștirea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:54.559858758Z",
+  "model": "glm-5.3"
+}

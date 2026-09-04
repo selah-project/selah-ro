@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "În mâna ta îmi încredințez duhul; m-ai răscumpărat ⟨את⟩ pe mine, Yahve, El al adevărului.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "îmi încredințez"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "m-ai răscumpărat"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ pe mine",
+      "marks": "pe mine (obiectul răscumpărării)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "al adevărului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:02.485982427Z",
+  "model": "glm-5.3"
+}

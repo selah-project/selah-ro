@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a zis David: „Numai în deșert am păzit ⟨את⟩ tot ce are omul acesta în pustiu, și nu s-a pierdut nimic din tot ce are el; iar el mi-a întors rău pentru bine.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Și a zis David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "אך",
+      "gloss": "numai"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "în deșert"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "am păzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce are omul acesta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "are omul acesta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "s-a pierdut"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "are el"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nimic"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "iar el mi-a întors"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi-"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rău"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:49:41.821196763Z",
+  "model": "glm-5.3"
+}

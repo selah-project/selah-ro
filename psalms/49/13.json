@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Și omul în cin nu rămâne peste noapte, este asemănat dobitoacelor: ⟨au pierit⟩.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Și omul"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "în cin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "rămâne peste noapte"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "este asemănat"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ca dobitoacele"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "au pierit"
+    }
+  ],
+  "timestamp": "2026-09-04T09:41:57.251182496Z",
+  "model": "glm-5.3"
+}

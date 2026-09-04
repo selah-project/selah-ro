@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a chemat Yahve Elohim către om și i-a spus: Unde ești tu?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și i-a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Unde ești tu?"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:41.842925179Z",
+  "model": "glm-5.3"
+}

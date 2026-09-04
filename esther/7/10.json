@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și l-au spânzurat ⟨את⟩ Haman pe lemnul pe care îl pregătise pentru Mordehai, și mânia regelui s-a potolit.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Și l-au spânzurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lemnul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "îl pregătise"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "pentru Mordehai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "și mânia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "s-a potolit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:51.191898808Z",
+  "model": "glm-5.3"
+}

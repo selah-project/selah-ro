@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și ⟨את⟩ toiagul acesta îl vei lua în mâna ta, cu care vei face ⟨את⟩ semnele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toiagul acesta"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "toiagul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vei lua"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semnele"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "semnele"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:31.752164340Z",
+  "model": "glm-5.3"
+}

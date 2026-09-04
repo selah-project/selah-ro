@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a trimis Iehoșua ⟨את⟩ poporul, fiecare la moștenirea lui.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "la moștenirea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:26:55.531673332Z",
+  "model": "glm-5.3"
+}

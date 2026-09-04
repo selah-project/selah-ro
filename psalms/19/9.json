@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Hotărârile lui Yahve ⟨sunt⟩ drepte, veselesc inima; porunca lui Yahve ⟨este⟩ curată, luminează ochii.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "hotărârile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "drepte"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "veselind"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "curată"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "luminează"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ochii"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:13.872413517Z",
+  "model": "glm-5.3"
+}

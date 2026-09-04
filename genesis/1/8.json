@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a chemat Elohim întinderea Ceruri; și a fost seară și a fost dimineață: zi a doua.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "întinderea"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Ceruri"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "seară"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineață"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a doua"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:48.449178571Z",
+  "model": "glm-5.3"
+}

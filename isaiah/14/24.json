@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "S-a jurat Yahve Țevaot, zicând: Nu cumva, cum am cugetat, așa va fi, și cum am sfătuit, aceea se va întămpla?",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "S-a jurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nu cumva"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "am cugetat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "și cum"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "am sfătuit"
+    },
+    {
+      "surface": "היא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "se va întâmpla"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:03.362647219Z",
+  "model": "glm-5.3"
+}

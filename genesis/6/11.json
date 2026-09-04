@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și s-a stricat pământul înaintea lui Elohim, și s-a umplut pământul de violență.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "și s-a stricat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "și s-a umplut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violență"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:50.189575457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Nu ⟨este⟩ sfânt ca Yahve, căci nu ⟨este⟩ în afară de tine, și nu ⟨este⟩ stâncă ca Elohimul nostru.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ca Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "în afară de tine"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "צור",
+      "gloss": "stâncă"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "ca Elohimul nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T02:39:11.799778196Z",
+  "model": "glm-5.3"
+}

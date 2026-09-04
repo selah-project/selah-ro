@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 82,
+  "translation": "Nu știu și nu înțeleg, în întuneric umblă; se clatină toate temeliile pământului.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "știu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "înțeleg"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "în întuneric"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "umblă"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "se clatină"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "temeliile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:25.808533204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a spus ⟨el⟩: Du-te, Daniel, căci închise și pecetluite sunt cuvintele acestea până la vremea sfârșitului.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Du-te"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "închise"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "și pecetluite"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sunt cuvintele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vremea"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "sfârșitului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:54:22.098091775Z",
+  "model": "glm-5.3"
+}

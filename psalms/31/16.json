@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "În mâna ta sunt vremurile mele; smulge-mă din mâna vrăjmașilor mei și din mâna celor ce mă urmăresc.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "vremurile mele"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "smulge-mă"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vrăjmașilor mei"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "și din mâna celor ce mă urmăresc"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:51.494251028Z",
+  "model": "glm-5.3"
+}

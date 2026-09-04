@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a numărat Moșe, cum poruncise Yahve ⟨את⟩ el, ⟨את⟩ pe toți întâi-născuții dintre fiii lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Și a numărat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți întâi-născuții"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "întâi-născuții"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "dintre fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:18.292034903Z",
+  "model": "glm-5.3"
+}

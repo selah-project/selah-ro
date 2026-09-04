@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și a numit ⟨את⟩ Șiva; de aceea numele cetății ⟨este⟩ Beer-Șeva, până în ziua aceasta.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a numit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Șiva"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Șiva"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:01:34.606983039Z",
+  "model": "glm-5.3"
+}

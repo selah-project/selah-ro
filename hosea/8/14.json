@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "A uitat Israel ⟨את⟩ Făcătorul său și a zidit temple, iar Iehuda a înmulțit cetăți întărite; dar Eu voi trimite foc în cetățile lui și va mistui cetățuile sale.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁכַּ֨ח",
+      "gloss": "A uitat"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֜ל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Făcătorul său"
+    },
+    {
+      "surface": "עֹשւֵ֗הוּ",
+      "gloss": "Făcătorul său"
+    },
+    {
+      "surface": "וַיִּ֨בֶן֙",
+      "gloss": "și a zidit"
+    },
+    {
+      "surface": "הֵֽיכָל֔וֹת",
+      "gloss": "temple"
+    },
+    {
+      "surface": "וִֽיהוּדָ֕ה",
+      "gloss": "iar Iehuda"
+    },
+    {
+      "surface": "הִרְבָּ֖ה",
+      "gloss": "a înmulțit"
+    },
+    {
+      "surface": "עָרִ֣ים",
+      "gloss": "cetăți"
+    },
+    {
+      "surface": "בְּצֻר֑וֹת",
+      "gloss": "întărite"
+    },
+    {
+      "surface": "וְשִׁלַּחְתִּי",
+      "gloss": "dar voi trimite"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "foc"
+    },
+    {
+      "surface": "בְּעָרָ֔יו",
+      "gloss": "în cetățile lui"
+    },
+    {
+      "surface": "וְאָכְלָ֖ה",
+      "gloss": "și va mistui"
+    },
+    {
+      "surface": "אַרְמְנֹתֶֽיהָ",
+      "gloss": "cetățuile sale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:48:33.311270915Z",
+  "model": "glm-5.3"
+}

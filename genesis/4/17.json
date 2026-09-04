@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a cunoscut Cain ⟨את⟩ soția lui, și ea a rămas gravidă și a născut ⟨את⟩ Hanoh; și a fost el zidind o cetate, și a chemat numele cetății după numele fiului său, Hanoh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Și a cunoscut"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Cain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soția lui"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția lui"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "și ea a rămas gravidă"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanoh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zidind"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "o cetate"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "după numele"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiului său"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoh"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:30.821792817Z",
+  "model": "glm-5.3"
+}

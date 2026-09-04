@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a scris acolo, pe pietre, ⟨את⟩ copia Torei lui Moșe, pe care a scris-o înaintea fiilor lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Și a scris"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copia Torei lui Moșe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "copia"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "a scris-o"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:19:33.196217663Z",
+  "model": "glm-5.3"
+}

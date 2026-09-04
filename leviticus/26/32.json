@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și voi pustii ⟨את⟩ pământul — Eu însumi — și dușmanii voștri, cei care locuiesc în el, se vor spăimânta de el.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Și voi pustii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu însumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "se vor spăimânta"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "de el"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dușmanii voștri"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "cei care locuiesc"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:35.657366284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Regii lui Tarșiș și ai insulelor dar vor aduce, regii lui Șeva și ai lui Sava daruri vor oferi.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarșiș"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "și ai insulelor"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "vor aduce"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "și ai lui Sava"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "daruri"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "vor oferi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:14.292953223Z",
+  "model": "glm-5.3"
+}

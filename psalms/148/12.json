@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Tinerii și fecioarele, bătrânii împreună cu copiii.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Tinerii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "fecioarele"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "copiii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:40.488602464Z",
+  "model": "glm-5.3"
+}

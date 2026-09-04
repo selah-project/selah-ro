@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a fost după aceasta, și a lovit inima lui David ⟨את⟩ el, pentru că a tăiat ⟨את⟩ colțul care era a lui Șaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "pe David"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a tăiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "colțul"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "colțul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "era a lui Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:49:41.347496169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Și să știe că ⟨aceasta⟩ este mâna ta — tu, Yahve, ai făcut-o.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Și să știe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ai făcut-o"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:36.447157931Z",
+  "model": "glm-5.3"
+}

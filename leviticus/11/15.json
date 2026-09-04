@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "⟨את⟩ tot corbul, după felul lui;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot corbul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "corbul"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "după felul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:54.965825719Z",
+  "model": "glm-5.3"
+}

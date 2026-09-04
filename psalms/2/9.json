@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Îi vei frânge cu un sceptru de fier, ca pe un vas de olar îi vei sfărâma.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "îi vei frânge"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "cu un sceptru"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "de fier"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "ca pe un vas"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "de olar"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "îi vei sfărâma"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:02.202867712Z",
+  "model": "glm-5.3"
+}

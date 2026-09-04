@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 87,
+  "translation": "Și despre Țion se va spune: om și om s-a născut în ea; și El, Elion, o va întări.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "și despre Țion"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se va spune"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și om"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "s-a născut"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și El"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "o va întări"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elion"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:38.110528339Z",
+  "model": "glm-5.3"
+}

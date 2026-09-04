@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "A căutat Cohelet să găsească cuvinte de plăcere, și ce ⟨este⟩ scris ⟨este⟩ drept — cuvinte de adevăr.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "A căutat"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Cohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "să găsească"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "de plăcere"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "și scrisul"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "drept"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "de adevăr"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:42.905600350Z",
+  "model": "glm-5.3"
+}

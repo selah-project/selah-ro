@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Destul v-ați învârtit în jurul muntelui acestuia; întoarceți-vă spre miazănoapte.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Destul"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vă"
+    },
+    {
+      "surface": "סב",
+      "gloss": "v-ați învârtit în jurul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muntele acesta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntelui"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "întoarceți-vă"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "spre miazănoapte"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:23.970962639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a văzut Paro că era ușurarea, și a îngreuiat ⟨את⟩ inima lui și nu i-a ascultat, cum vorbise Yahve.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "era"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ușurarea"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "și a îngreuiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima lui"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a ascultat"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:36.707212514Z",
+  "model": "glm-5.3"
+}

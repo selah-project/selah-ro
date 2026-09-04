@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Iar eu în tine mi-am pus încrederea, Yahve; am zis: Elohimul meu ești tu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi-am pus încrederea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:51.494144232Z",
+  "model": "glm-5.3"
+}

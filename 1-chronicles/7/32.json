@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și Hever a născut ⟨את⟩ Iaflet și ⟨את⟩ Șomer și ⟨את⟩ Hotam și ⟨את⟩ Șua, sora lor.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Și Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Iaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Șomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Hotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Șua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "sora lor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:08:15.259349413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 38:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și pentru a doua umăr, dincoace și dincolo de poarta curții, perdele de cincisprezece coți, stâlpii lor trei și postamentele lor trei.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "Și pentru umăr"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dincoace"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "și dincolo"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "de poarta"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curții"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "perdele"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "coți"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "stâlpii lor"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "și postamentele lor"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:18.274804905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Cel ce privește spre pământ și ⟨acesta⟩ se cutremură, atinge munții și ⟨ei⟩ fumegă.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Cel ce privește"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "spre pământ"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "și ⟨acesta⟩ se cutremură"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "atinge"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "și ⟨ei⟩ fumegă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:18.166503681Z",
+  "model": "glm-5.3"
+}

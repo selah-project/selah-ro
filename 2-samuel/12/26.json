@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și s-a luptat Ioav împotriva Rabei a fiilor lui Amon, și a cucerit ⟨את⟩ cetatea împărătească.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "Și s-a luptat"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "împotriva Rabei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a fiilor"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "lui Amon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "și a cucerit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea împărătească"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "împărătească"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:49.976286132Z",
+  "model": "glm-5.3"
+}

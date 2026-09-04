@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și mi-a scrâșnit dinții cu pietriș, m-a călcat în picioare în cenușă.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "și mi-a scrâșnit"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "cu pietriș"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dinții"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "m-a călcat în picioare"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "în cenușă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:38.542785132Z",
+  "model": "glm-5.3"
+}

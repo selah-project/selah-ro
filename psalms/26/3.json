@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Căci hesedul tău ⟨este⟩ înaintea ochilor mei și m-am plimbat în adevărul tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochilor mei"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "și m-am plimbat"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "în adevărul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:09.564351579Z",
+  "model": "glm-5.3"
+}

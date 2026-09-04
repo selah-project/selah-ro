@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a spus regele: Murind vei muri, Ahimelec, tu și toată casa tatălui tău.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Murind"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "vei muri"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelec"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    }
+  ],
+  "timestamp": "2026-09-04T07:12:26.820401711Z",
+  "model": "glm-5.3"
+}

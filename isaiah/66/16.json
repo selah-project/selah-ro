@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Căci în foc Yahve va judeca, și cu sabia lui ⟨את⟩ toată carnea; și mulți vor fi cei uciși ai lui Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "va judeca"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "și cu sabia lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată carnea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "și mulți vor fi"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "cei uciși"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:56:56.646558838Z",
+  "model": "glm-5.3"
+}

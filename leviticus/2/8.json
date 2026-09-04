@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și să aduci ⟨את⟩ darul de mâncare care se face din acestea lui Yahve, și să-l aducă aproape la cohen, și să-l prezinte la altar.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Și să aduci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul de mâncare"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darul de mâncare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se face"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "din acestea"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "și să-l aducă aproape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "și să-l prezinte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:14.004488873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și va întinde mâna sa peste țări, și țara Mițraimului nu va fi ⟨pentru⟩ scăpare.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "și va întinde"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna sa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "peste țări"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "și țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "⟨pentru⟩ scăpare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:54:24.864048661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Face dreptăți Yahve și judecăți pentru toți asupriții.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Face"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "dreptăți"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "și judecăți"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru toți"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "asupriții"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:46.369472796Z",
+  "model": "glm-5.3"
+}

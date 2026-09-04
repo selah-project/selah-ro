@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și un bărbat care se va culca cu ⟨את⟩ un bărbat, ca o culcătură de femeie — pângărire au făcut amândoi; morți vor fi omorâți; sângele lor ⟨este⟩ asupra lor.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un bărbat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "se va culca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un bărbat"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "un bărbat (mascul)"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "culcături"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "de femeie"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "pângărire"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morți"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "vor fi omorâți"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "sângele lor"
+    },
+    {
+      "surface": "בם",
+      "gloss": "asupra lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:54.049738472Z",
+  "model": "glm-5.3"
+}

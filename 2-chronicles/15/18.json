@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a adus ⟨את⟩ lucrurile sfinte ale tatălui său și lucrurile lui sfinte în casa lui Elohim: argint și aur și vase.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrurile sfinte ale tatălui său"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "lucrurile sfinte"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ale tatălui său"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "și lucrurile lui sfinte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "și aur"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "și vase"
+    }
+  ],
+  "timestamp": "2026-09-04T06:22:07.286695756Z",
+  "model": "glm-5.3"
+}

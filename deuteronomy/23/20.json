@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Să nu iei dobândă de la fratele tău: dobândă de argint, dobândă de hrană, dobândă de orice lucru care se dă cu dobândă.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "iei dobândă"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "de la fratele tău"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "dobândă"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de argint"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "dobândă"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "de hrană"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "dobândă"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de orice"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lucru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "se dă cu dobândă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:56.237760985Z",
+  "model": "glm-5.3"
+}

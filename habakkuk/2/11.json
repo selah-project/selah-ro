@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Că piatra din perete va striga, și bârna din lemn îi va răspunde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "piatra"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "din perete"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "va striga"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "și bârna"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "din lemn"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "îi va răspunde"
+    }
+  ],
+  "timestamp": "2026-09-04T04:46:08.198120064Z",
+  "model": "glm-5.3"
+}

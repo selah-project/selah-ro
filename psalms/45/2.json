@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Clocotește inima mea un cuvânt bun; grăiesc eu: faptele mele ⟨sunt⟩ pentru rege; limba mea ⟨este⟩ pana unui scrib iute.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "Clocotește"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "grăiesc"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "faptele mele"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pentru rege"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "limba mea"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pana"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "unui scrib"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "iute"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:06.474255238Z",
+  "model": "glm-5.3"
+}

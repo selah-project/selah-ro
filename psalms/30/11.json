@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Ascultă, Yahve, și îndură-te de mine; Yahve, fii mie ajutor!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "și îndură-te de mine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fii"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ajutor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T09:06:58.139206567Z",
+  "model": "glm-5.3"
+}

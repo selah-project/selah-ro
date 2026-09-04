@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Străin am fost pentru frații mei și necunoscut pentru fiii mamei mele.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "Străin"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "pentru frații mei"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "și necunoscut"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pentru fiii"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:39.477859633Z",
+  "model": "glm-5.3"
+}

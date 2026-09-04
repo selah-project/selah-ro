@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "A băut din vin și s-a îmbătat, și s-a dezgolit în mijlocul cortului său.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "a băut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vinul"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "și s-a îmbătat"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "și s-a dezgolit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "cortului său"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:22.192917296Z",
+  "model": "glm-5.3"
+}

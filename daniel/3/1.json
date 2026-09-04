@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 3:1",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Nevuhadnețar, împăratul, a făcut o statuie de aur, înălțimea ei de șaizeci de coți, lățimea ei de șase coți; a ridicat-o în câmpia Dura, în ținutul Babilonului.",
+  "tokens": [
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevuhadnețar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "împăratul"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "o statuie"
+    },
+    {
+      "surface": "די",
+      "gloss": "de"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "רומה",
+      "gloss": "înălțimea"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "de coți"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "șaizeci"
+    },
+    {
+      "surface": "פתיה",
+      "gloss": "lățimea"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "de coți"
+    },
+    {
+      "surface": "שת",
+      "gloss": "șase"
+    },
+    {
+      "surface": "אקימה",
+      "gloss": "a ridicat-o"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "în câmpia"
+    },
+    {
+      "surface": "דורא",
+      "gloss": "Dura"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "în ținutul"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:50:05.251601118Z",
+  "model": "glm-5.3"
+}

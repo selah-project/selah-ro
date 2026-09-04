@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Au răgnet vrăjmașii tăi în mijlocul locului tău de întâlnire; și-au pus semnele lor ⟨ca⟩ semne.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Au răgnet"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "vrăjmașii tăi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "locului tău de întâlnire"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "și-au pus"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "semnele lor"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "⟨ca⟩ semne"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:42.191688085Z",
+  "model": "glm-5.3"
+}

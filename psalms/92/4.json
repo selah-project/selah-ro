@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "pe asor cu zece strune și pe nevel, cu murmurul higgaionului pe chivotăraie.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor cu zece strune"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "cu"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "murmurul higgaionului"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "pe chivotăraie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:07.096899553Z",
+  "model": "glm-5.3"
+}

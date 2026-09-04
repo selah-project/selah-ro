@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a zis unul: Încuviințează, te rog, și vino ⟨את⟩ robii tăi. Și a zis: Eu voi merge.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Încuviințează"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "și vino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robii tăi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robii tăi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "voi merge"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:39.091852422Z",
+  "model": "glm-5.3"
+}

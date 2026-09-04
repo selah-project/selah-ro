@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Acestea sunt poruncile pe care le-a poruncit Yahve ⟨את⟩ Moșe către fiii lui Israel, la muntele Sinai.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Acestea"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "sunt poruncile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "le-a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "la muntele"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:18.198307875Z",
+  "model": "glm-5.3"
+}

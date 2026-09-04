@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Când a venit la el navi Natan, după ce a intrat la Bat-Șeva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Când a venit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviul"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a intrat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:19.670860345Z",
+  "model": "glm-5.3"
+}

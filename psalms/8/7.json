@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "L-ai pus să domnească peste lucrul mâinilor tale; pe toate le-ai așezat sub picioarele lui.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "l-ai pus să domnească"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "peste lucrul"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mâinilor tale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toate"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "le-ai așezat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "picioarele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:01.677738724Z",
+  "model": "glm-5.3"
+}

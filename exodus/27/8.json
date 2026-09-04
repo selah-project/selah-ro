@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Gol, cu scânduri, să-l faci ⟨את⟩; cum ți s-a arătat ⟨את⟩ pe munte, așa să-l facă.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "Gol"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "cu scânduri"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să-l faci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ți s-a arătat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pe munte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "să-l facă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:43.093382522Z",
+  "model": "glm-5.3"
+}

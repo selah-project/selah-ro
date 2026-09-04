@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și avea două neveste: numele uneia Hana, și numele celei de-a doua Penina; și Peninei ⟨erau⟩ copii, iar Hanei nu ⟨erau⟩ copii.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "și avea"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "două"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "neveste"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "uneia"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "și numele"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "celei de-a doua"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și erau"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninei"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "copii"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "iar Hanei"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "copii"
+    }
+  ],
+  "timestamp": "2026-09-04T02:39:44.462418Z",
+  "model": "glm-5.3"
+}

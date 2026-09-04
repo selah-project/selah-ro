@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Că sărac și nevoiaș ⟨sunt⟩ eu, și inima mea ⟨este⟩ rănită înăuntrul meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărac"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și nevoiaș"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "și inima mea"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "rănită"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "năuntrul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:45.031710523Z",
+  "model": "glm-5.3"
+}

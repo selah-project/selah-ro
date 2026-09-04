@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Fericiți cei fără prihană în calea ⟨lor⟩, cei care umblă în Tora lui Yahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Fericiți"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "cei fără prihană"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "în calea"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "cei care umblă"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "în Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:25.612429253Z",
+  "model": "glm-5.3"
+}

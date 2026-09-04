@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și este înălțat Yahve al Țevaot prin judecată, și El, Cel Sfânt, se sfințește prin dreptate.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "și este înălțat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "al Țevaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "prin judecată"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "și El"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "Cel Sfânt"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "se sfințește"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "prin dreptate"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:17.982723840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a trimis Șaul mesageri să-l ia pe David, și ea a zis: bolnav este.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mesageri"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "să ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și ea a zis"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "bolnav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:59.498177603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 146,
+  "translation": "Va împărăți Yahve în veac, Elohim al tău, Țion, din neam în neam. Lăudați ⟨pe⟩ Ya!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "Va împărăți"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:57.091336925Z",
+  "model": "glm-5.3"
+}

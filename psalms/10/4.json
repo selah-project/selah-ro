@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Răul, după înălțimea feței lui, nu caută ⟨pe nimeni⟩: nu ⟨este⟩ Elohim în toate planurile lui.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Răul"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "după înălțimea"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "feței lui"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "planurile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:41.950666011Z",
+  "model": "glm-5.3"
+}

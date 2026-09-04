@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Luați ⟨את⟩ cartea Torei acesteia și puneți-o ⟨את⟩ lângă chivotul legământului lui Yahve, Elohim al vostru, și va fi acolo cu tine în veci.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "Luați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cartea Torei"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cartea"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torei"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "și puneți-o"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "o ⟨את⟩",
+      "marks": "lângă chivotul legământului"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "în veci"
+    }
+  ],
+  "timestamp": "2026-09-04T02:15:21.425910518Z",
+  "model": "glm-5.3"
+}

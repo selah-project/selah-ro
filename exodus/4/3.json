@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a zis: aruncă-l la pământ! Și l-a aruncat la pământ, și a fost ca un șarpe, și a fugit Moșe dinaintea lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "aruncă-l"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "la pământ"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "și l-a aruncat"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "la pământ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ca un șarpe"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "și a fugit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dinaintea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:07.189043780Z",
+  "model": "glm-5.3"
+}

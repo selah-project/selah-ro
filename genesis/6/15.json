@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și aceasta este cum s-o faci ⟨את⟩: trei sute de coți lungimea arcei, cincizeci de coți lățimea ei, și treizeci de coți înălțimea ei.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Și aceasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "s-o faci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "arca"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "de coți"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lungimea"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arcei"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cincizeci"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "de coți"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lățimea ei"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "și treizeci"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "de coți"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "înălțimea ei"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:49.989587914Z",
+  "model": "glm-5.3"
+}

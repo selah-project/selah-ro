@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "S-au tulburat neamurile, s-au clătinat împărățiile; a dat glasul lui — se topește pământul.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "S-au tulburat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "s-au clătinat"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "împărățiile"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "glasul lui"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "se topește"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:39.321572808Z",
+  "model": "glm-5.3"
+}

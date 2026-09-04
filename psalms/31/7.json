@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Urăsc ⟨pe⟩ cei ce păzesc deșertăciuni deșarte, dar eu în Yahve am încredere.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Urăsc"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "cei ce păzesc"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "deșertăciuni"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "deșarte"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dar eu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "am încredere"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:58.227493606Z",
+  "model": "glm-5.3"
+}

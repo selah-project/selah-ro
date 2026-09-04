@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și te-a apropiat ⟨את⟩ pe tine și ⟨את⟩ pe toți frații tăi, fiii lui Levi, ⟨את⟩ împreună cu tine — și căutați și preoția?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "și te-a apropiat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pe tine",
+      "marks": "pe tine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți frații tăi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "frații tăi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "lui Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ împreună cu tine"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "și căutați"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "preoția"
+    }
+  ],
+  "timestamp": "2026-09-04T06:54:14.942210585Z",
+  "model": "glm-5.3"
+}

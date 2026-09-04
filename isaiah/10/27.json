@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 10:27",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și va fi în ziua aceea: se va ridica povara lui de pe umărul tău și jugul lui de pe ceafa ta, și jugul va putrezi din pricina grăsimii.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "se va ridica"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "povara lui"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "שכמך",
+      "gloss": "umărul tău"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "și jugul lui"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ceafa ta"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "și va putrezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "jugul"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "grăsimii"
+    }
+  ],
+  "timestamp": "2026-09-04T08:58:32.202573991Z",
+  "model": "glm-5.3"
+}

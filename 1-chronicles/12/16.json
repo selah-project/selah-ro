@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Aceștia sunt cei care au trecut ⟨את⟩ Iardenul în luna întâi, când el umplea peste toate malurile lui, și au pus pe fugă ⟨את⟩ toate văilor, spre răsărit și spre apus.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aceștia"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cei care"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iardenul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenul"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "în luna"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "întâi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "când el"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "umplea"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "malurile lui"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "și au pus pe fugă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate văile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "văile"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "spre răsărit"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "și spre apus"
+    }
+  ],
+  "timestamp": "2026-09-04T06:10:48.234868490Z",
+  "model": "glm-5.3"
+}

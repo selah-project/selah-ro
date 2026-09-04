@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Cel ce întinde grinzile camerelor sale de sus în ape, cel ce face norii carul său, cel ce merge pe aripile vântului:",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Cel ce întinde grinzile"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în ape"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "camerelor sale de sus"
+    },
+    {
+      "surface": "השם",
+      "gloss": "cel ce face"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "norii"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "carul său"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "cel ce merge"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "aripele"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vântului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:20.170353374Z",
+  "model": "glm-5.3"
+}

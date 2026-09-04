@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și au moștenit ⟨את⟩ țara lui și ⟨את⟩ țara lui Og, regele din Bașan — cei doi regi ai amoritilor care erau dincolo de Iarden, spre răsăritul soarelui.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Și au moștenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara lui"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "țara lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "țara lui Og"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "lui Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "din Bașan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cei doi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ai amoritilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "dincolo de"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iarden"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "spre răsăritul"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarelui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:09.462496827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 149,
+  "translation": "Înălțări ale lui El ⟨sunt⟩ în gâtlejul lor, și o sabie cu două tăișuri în mâna lor.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "Înălțări (de laudă)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "în gâtlejul lor"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "și o sabie"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "cu două tăișuri"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "în mâna lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:41.544693385Z",
+  "model": "glm-5.3"
+}

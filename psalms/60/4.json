@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Ai cutremurat pământul, l-ai despicat — vindecă-i spărturile, căci se clatină!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Ai cutremurat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "l-ai despicat"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "vindecă"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "spărturile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "se clatină"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:47.425058222Z",
+  "model": "glm-5.3"
+}

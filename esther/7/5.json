@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a vorbit regele Ahașveroș și a zis către Ester regina: Cine ⟨este⟩ acesta și unde ⟨este⟩ acesta căruia i s-a umplut inima lui să facă așa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahașveroș"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "către Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "regina"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩ el"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "și unde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el ⟨este⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "căruia"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "s-a umplut"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:56.390917766Z",
+  "model": "glm-5.3"
+}

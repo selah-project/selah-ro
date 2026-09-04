@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și Șelah a trăit treizeci de ani, și a născut ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Și Șelah"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a trăit"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci de"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:47.320699347Z",
+  "model": "glm-5.3"
+}

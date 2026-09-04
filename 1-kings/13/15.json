@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și i-a zis: Mergi cu ⟨את⟩ mine spre casă și mănâncă pâine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu ⟨את⟩ mine"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "spre casă"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "și mănâncă"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:11.258063252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a luat Amram ⟨את⟩ Iocavèd, mătușa lui, de soție, și ea i-a născut ⟨את⟩ Aharon și ⟨את⟩ Moșe; iar anii vieții lui Amram: o sută treizeci și șapte de ani.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iocavèd"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Iocavèd"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "mătușa lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pentru el⟩"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de soție"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și ea a născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "iar anii"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "vieții"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "lui Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "și treizeci"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "și o sută"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:43.037399434Z",
+  "model": "glm-5.3"
+}

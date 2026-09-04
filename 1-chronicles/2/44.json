@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Șema a născut ⟨את⟩ Raham, tatăl lui Iorkeam; și Rekem a născut ⟨את⟩ Șamai.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Și Șema"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raham"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Raham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "lui Iorkeam"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "și Rekem"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șamai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Șamai"
+    }
+  ],
+  "timestamp": "2026-09-04T08:18:15.471177687Z",
+  "model": "glm-5.3"
+}

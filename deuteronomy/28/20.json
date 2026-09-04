@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Va trimite Yahve asupra ta ⟨את⟩ blestemul, ⟨את⟩ tulburarea și ⟨את⟩ mustrarea, în tot ce întinzi mâna ta să faci, până la nimicirea ta și până la pieirea ta grabnică, din pricina răutății faptelor tale, fiindcă m-ai părăsit pe mine.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Va trimite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "asupra ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blestemul"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "blestemul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulburarea"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "tulburarea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mustrarea"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "mustrarea"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ce întinzi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "să"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "faci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "nimicirea ta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "pieirea ta"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "grabnică"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răutății"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "faptelor tale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "m-ai părăsit pe mine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:13:02.386212797Z",
+  "model": "glm-5.3"
+}

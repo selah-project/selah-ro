@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Auziți, voi cei departe, ce am făcut; și cunoașteți, voi cei aproape, puterea mea.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Auziți"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "voi cei departe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "și cunoașteți"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "voi cei aproape"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "puterea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:44:59.484904872Z",
+  "model": "glm-5.3"
+}

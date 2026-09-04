@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Căci nu din răsărit și nici din apus, nici din pustiul munților înălțarea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "din răsărit"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "și nici din apus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nici"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "din pustiul"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munților"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:27.672596824Z",
+  "model": "glm-5.3"
+}

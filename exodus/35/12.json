@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "⟨את⟩ Chivotul și ⟨את⟩ barele lui, ⟨את⟩ capacul ispășirii și ⟨את⟩ perdeaua cortinei;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chivotul"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Chivotul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "barele lui"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "barele lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capacul ispășirii"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "capacul ispășirii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "perdeaua"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perdeaua"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "cortinei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:33.848216557Z",
+  "model": "glm-5.3"
+}

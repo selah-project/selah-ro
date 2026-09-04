@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "După necurăția lor și după fărădelegile lor am făcut cu ⟨את⟩ ei, și Mi-am ascuns fața de la ei.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "După necurăția lor"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "și după fărădelegile lor"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "cu ei"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "și Mi-am ascuns"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de la ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:45:48.863052885Z",
+  "model": "glm-5.3"
+}

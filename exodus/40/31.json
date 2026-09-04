@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și din el s-au spălat Moșe și Aharon și fiii lui: ⟨את⟩ mâinile lor și ⟨את⟩ picioarele lor.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "și s-au spălat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "și Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "și fiii lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lor"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinile lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "picioarele lor"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "picioarele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:55.591843356Z",
+  "model": "glm-5.3"
+}

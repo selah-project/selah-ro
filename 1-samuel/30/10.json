@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a urmărit David, el și patru sute de oameni, iar două sute de oameni s-au oprit, care epuizaseră ⟨de la⟩ a trece ⟨את⟩ pârâul Beșor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "Și a urmărit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "și patru"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de oameni"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "iar s-au oprit"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "două sute"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de oameni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "epuizaseră"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "de la a trece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pârâul (Beșor)"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "pârâul"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Beșor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:51:36.587764785Z",
+  "model": "glm-5.3"
+}

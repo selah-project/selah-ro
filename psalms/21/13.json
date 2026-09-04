@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Căci îi vei așeza ceafa, pe coardele tale vei pregăti ⟨săgețile⟩ împotriva feței lor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "îi vei așeza"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ceafa"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "pe coardele tale"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "vei pregăti"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "feței lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:55.686296747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 96,
+  "translation": "Căci mare ⟨este⟩ Yahve și lăudat foarte; înfricoșător ⟨este⟩ el peste toți dumnezeii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "și lăudat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "înfricoșător"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezeii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:54.718224126Z",
+  "model": "glm-5.3"
+}

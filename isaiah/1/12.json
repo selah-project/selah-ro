@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Când veniți să vă înfățișați înaintea feței mele, cine a cerut aceasta din mâinile voastre — să-mi călcați curțile?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "veniți"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vă înfățișați"
+    },
+    {
+      "surface": "פני",
+      "gloss": "înaintea feței mele"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "a cerut"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "din mâinile voastre"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "să-mi călcați"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "curțile"
+    }
+  ],
+  "timestamp": "2026-09-04T03:35:32.524356677Z",
+  "model": "glm-5.3"
+}

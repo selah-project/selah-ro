@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a vestit Ahav lui Izevel ⟨את⟩ tot ce a făcut Eliiahu și ⟨את⟩ tot ce a ucis — ⟨את⟩ pe toți naviii — cu sabia.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și a vestit"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "lui Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliiahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a ucis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți naviii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "naviii"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "cu sabia"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:58.310744410Z",
+  "model": "glm-5.3"
+}

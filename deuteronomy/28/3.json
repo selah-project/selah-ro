@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Binecuvântat ⟨ești⟩ tu în cetate și binecuvântat ⟨ești⟩ tu în câmp.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "și binecuvântat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:29.224022311Z",
+  "model": "glm-5.3"
+}

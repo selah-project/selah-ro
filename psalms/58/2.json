@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Oare, în tăcere dreptate vorbiți? Cu nepărtinire judecați, fii ai oamenilor?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Oare, într-adevăr"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "în tăcere"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "vorbiți"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "cu nepărtinire"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "judecați"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ai oamenilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:16.531791671Z",
+  "model": "glm-5.3"
+}

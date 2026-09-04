@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a luat și a pus ⟨את⟩ mărturia în chivot, și a așezat ⟨את⟩ barele pe chivot, și a pus ⟨את⟩ capacul ispășirii pe chivot, deasupra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mărturia"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mărturia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chivot"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și a așezat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barele"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "barele"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chivot"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capacul ispășirii"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "capacul ispășirii"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chivot"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "deasupra"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:13.103716444Z",
+  "model": "glm-5.3"
+}

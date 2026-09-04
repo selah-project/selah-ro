@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a coborât la gropița de treierat și a făcut după tot ce îi poruncise soacra ei.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "și a coborât"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gropița de treierat"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "soacra ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:22.672373633Z",
+  "model": "glm-5.3"
+}

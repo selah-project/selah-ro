@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Ascultă de mine, Iaacov, și Israel, cel chemat de mine: Eu sunt Cel, Eu sunt cel dintâi și Eu sunt cel de pe urmă.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "și Israel"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "cel chemat de mine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sunt Cel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "cel dintâi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "și"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "cel de pe urmă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:34.024637352Z",
+  "model": "glm-5.3"
+}

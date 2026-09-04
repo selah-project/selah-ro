@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Viu ⟨este⟩ Yahve, Elohim al tău: dacă ⟨se află⟩ vreun neam sau vreo împărăție unde stăpânul meu nu a trimis acolo să te caute, și au zis: Nu ⟨este⟩! — și a pus să jure ⟨את⟩ împărăția și ⟨את⟩ neamul că nu te vor găsi.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨se află⟩"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "vreun neam"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "sau vreo împărăție"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a trimis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stăpânul meu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "să te caute"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "și a pus să jure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "împărăția"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "te vor găsi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:31.909237557Z",
+  "model": "glm-5.3"
+}

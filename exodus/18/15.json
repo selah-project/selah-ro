@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a zis Moșe către socru său: Fiindcă vine la mine poporul să caute ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "către socru său"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Fiindcă"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "să caute"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:37.690288175Z",
+  "model": "glm-5.3"
+}

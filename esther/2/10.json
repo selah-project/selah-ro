@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Nu spusese Ester ⟨את⟩ neamul ei și ⟨את⟩ obârșia ei, căci Mordehai poruncise asupra ei să nu spună.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "spusese"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neamul ei"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "neamul ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "obârșia ei"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "obârșia ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "asupra ei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "să"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "spună"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:58.796300463Z",
+  "model": "glm-5.3"
+}

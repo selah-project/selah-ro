@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a luat Hanun ⟨את⟩ slugile lui David și a ras ⟨את⟩ jumătate din bărbile lor și a tăiat ⟨את⟩ veșmintele lor la mijloc, până la șoldurile lor, și i-a trimis (pe ei).",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slugile lui David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "și a ras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumătate din bărbile lor"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "jumătate"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "din bărbile lor"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "și a tăiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veșmintele lor"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "veșmintele lor"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "la mijloc"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "șoldurile lor"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "și i-a trimis (pe ei)"
+    }
+  ],
+  "timestamp": "2026-09-04T10:19:57.393765383Z",
+  "model": "glm-5.3"
+}

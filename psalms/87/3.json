@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 87,
+  "translation": "Lucruri de seamă se vorbesc despre tine, cetate a lui Elohim. Sela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "lucruri de seamă"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "se vorbesc"
+    },
+    {
+      "surface": "בך",
+      "gloss": "despre tine"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetate"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "a lui Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:34.109625889Z",
+  "model": "glm-5.3"
+}

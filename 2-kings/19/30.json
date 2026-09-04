@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și va mai lua rădăcină în jos cea scăpată din casa lui Iehuda, rămășița cea rămasă, și va face rod în sus.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "va mai lua"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "cea scăpată"
+    },
+    {
+      "surface": "בית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "cea rămasă"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "rădăcină"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "în jos"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și va face"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "rod"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "în sus"
+    }
+  ],
+  "timestamp": "2026-09-04T07:22:40.276291672Z",
+  "model": "glm-5.3"
+}

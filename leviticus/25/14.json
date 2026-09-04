@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și dacă vindeți o vânzare semenului tău sau cumpărați din mâna semenului tău, să nu asupriți un om ⟨את⟩ pe fratele lui.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "vindeți"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "o vânzare"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "semenului tău"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "cumpărați"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "semenului tău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "asupriți"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe fratele lui"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "pe fratele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:11.695194487Z",
+  "model": "glm-5.3"
+}

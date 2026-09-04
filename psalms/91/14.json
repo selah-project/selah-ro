@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Fiindcă în mine și-a pus dragostea, îl voi scăpa; îl voi înălța, fiindcă cunoaște Numele meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "și-a pus dragostea"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "îl voi scăpa"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "îl voi înălța"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Numele meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:51.957858203Z",
+  "model": "glm-5.3"
+}

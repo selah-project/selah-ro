@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a pus ⟨את⟩ perdeaua de la intrarea Cortului.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perdeaua de la intrare"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perdeaua"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "de la intrare"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Cortului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:33.306281012Z",
+  "model": "glm-5.3"
+}

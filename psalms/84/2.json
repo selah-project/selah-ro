@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 84,
+  "translation": "Cât de iubite sunt locuințele tale, Yahve Țevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cât de"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "iubite"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "sunt locuințele tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:17.119539233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Yahve, în puterea ta se bucură regele, și în mântuirea ta cât se veselește!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "în puterea ta"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se bucură"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "și în mântuirea ta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cât"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "se veselește"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(foarte)"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:04.312927151Z",
+  "model": "glm-5.3"
+}

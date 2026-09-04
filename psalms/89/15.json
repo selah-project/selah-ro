@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Dreptatea și judecata sunt temeiul tronului tău; hesed și adevărul merg înaintea feței tale.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Dreptatea"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și judecata"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "temeiul"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tronului tău"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "și adevărul"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "merg înaintea"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "feței tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:52.557571720Z",
+  "model": "glm-5.3"
+}

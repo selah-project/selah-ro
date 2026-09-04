@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Vai celor ce zic răului «bun» și bunului «rău»; celor ce pun întunericul drept lumină și lumina drept întuneric; celor ce pun amarul drept dulce și dulcele drept amar!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "celor ce zic"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "răului"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "«bun»"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "și bunului"
+    },
+    {
+      "surface": "רע",
+      "gloss": "«rău»"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "celor ce pun"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întunericul"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "drept lumină"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "și lumina"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "drept întuneric"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "pun"
+    },
+    {
+      "surface": "מר",
+      "gloss": "amarul"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "drept dulce"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "și dulcele"
+    },
+    {
+      "surface": "למר",
+      "gloss": "drept amar"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:12.684516291Z",
+  "model": "glm-5.3"
+}

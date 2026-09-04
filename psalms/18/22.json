@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Căci am păzit căile lui Yahve și nu am făcut rău împotriva lui Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "am păzit"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "căile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "am făcut rău"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "împotriva lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:53.724076355Z",
+  "model": "glm-5.3"
+}

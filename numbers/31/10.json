@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și ⟨את⟩ toate cetățile lor din așezările lor și ⟨את⟩ toate castelele lor le-au ars în foc.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate cetățile lor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "cetățile lor"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "din așezările lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate castelele lor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "castelele lor"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "le-au ars"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    }
+  ],
+  "timestamp": "2026-09-04T01:55:30.816236408Z",
+  "model": "glm-5.3"
+}

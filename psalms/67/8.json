@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 67,
+  "translation": "Ne va binecuvânta Elohim, și se vor teme de ⟨את⟩ El toate marginile pământului.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Ne va binecuvânta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "și se vor teme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "de ⟨את⟩ El",
+      "marks": "marginile pământului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "marginile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:47.578436046Z",
+  "model": "glm-5.3"
+}

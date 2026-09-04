@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și voi ridica ⟨את⟩ palma mea, și vei vedea ⟨את⟩ spatele meu, dar fața mea nu va fi văzută.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Și voi ridica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palma mea"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palma mea"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "și vei vedea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spatele meu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "spatele meu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dar fața mea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "va fi văzută"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:27.813964455Z",
+  "model": "glm-5.3"
+}

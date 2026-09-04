@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Înțeleptul are ochii în capul lui, iar nebunul umblă în întuneric; și am știut și eu că aceeași soartă se întâmplă ⟨את⟩ tuturor.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "Înțeleptul"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochii lui"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "în capul lui"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "iar nebunul"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "în întuneric"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "umblă"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "și am știut"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "că aceeași soartă"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "se întâmplă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuturor"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tuturor"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:48.621484137Z",
+  "model": "glm-5.3"
+}

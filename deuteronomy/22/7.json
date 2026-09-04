@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Să dai drumul să lași mama să plece, iar pe pui ⟨את⟩ să-i iei pentru tine, ca să-ți fie bine și să-ți lungi zilele.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Să dai drumul"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "să lași să plece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mama"
+    },
+    {
+      "surface": "האם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "pe pui"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "să-i iei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "îți fie bine"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "și să-ți lungi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zilele"
+    }
+  ],
+  "timestamp": "2026-09-04T02:09:00.252281054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Ca să te cânte slava ⟨mea⟩ și să nu tacă: Yahve, Elohim ⟨al meu⟩, în veci îți voi mulțumi!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ca să"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "să te cânte"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tacă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨al meu⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "îți voi mulțumi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:02.466965352Z",
+  "model": "glm-5.3"
+}

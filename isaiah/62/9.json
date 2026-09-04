@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Căci cei ce-l vor aduna îl vor mânca și vor lăuda ⟨את⟩ Yahve, și cei ce-l vor strânge îl vor bea în curțile sfințeniei mele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "cei ce-l vor aduna"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "îl vor mânca"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "și vor lăuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "și cei ce-l vor strânge"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "îl vor bea"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "în curțile"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sfințeniei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:22.568081583Z",
+  "model": "glm-5.3"
+}

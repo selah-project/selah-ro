@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "regele Machedei, unul; regele Bet-Elului, unul;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Machedei"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:02:09.970663872Z",
+  "model": "glm-5.3"
+}

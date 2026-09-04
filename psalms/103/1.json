@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Al lui David. Binecuvântează, suflete al meu, ⟨את⟩ Yahve, și toate măruntaiele mele ⟨את⟩ numele sfânt al lui Yahve!",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Binecuvântează"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "suflete al meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toate"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "măruntaiele mele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele sfânt al lui Yahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfânt al lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:45.027063776Z",
+  "model": "glm-5.3"
+}

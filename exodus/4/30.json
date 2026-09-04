@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a vorbit Aharon ⟨את⟩ toate cuvintele pe care le vorbise Yahve către Moșe, și a făcut semnele înaintea ochilor poporului.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "și a vorbit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "semine"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "înaintea ochilor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:08.480904768Z",
+  "model": "glm-5.3"
+}

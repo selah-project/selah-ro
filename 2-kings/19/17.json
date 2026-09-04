@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "În adevăr, Yahve, au pustiit regii Așurului ⟨את⟩ neamurile și ⟨את⟩ țara lor.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "În adevăr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "au pustiit"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așurului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neamurile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "țara lor"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "țara lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:32:57.102095015Z",
+  "model": "glm-5.3"
+}

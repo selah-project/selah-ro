@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iar dacă în câmp găsește omul ⟨את⟩ fata logodită, și o apucă omul și se culcă cu ea, atunci să moară omul care s-a culcat cu ea — numai el.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "găsește"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fata logodită"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "fata"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "logodită"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "și o apucă"
+    },
+    {
+      "surface": "בה",
+      "gloss": "de ea"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "și se culcă"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "cu ea"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "atunci să moară"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "s-a culcat"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "cu ea"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "numai el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:50.562879369Z",
+  "model": "glm-5.3"
+}

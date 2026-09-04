@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Menașe ⟨את⟩ Efraim, și Efraim ⟨את⟩ Menașe, împreună ei ⟨sunt⟩ împotriva lui Iehuda; în toate acestea nu s-a întors mânia lui, și încă mâna lui ⟨este⟩ întinsă.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menașe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "și Efraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menașe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menașe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mânia lui"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "și încă"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "întinsă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:39.212070585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Toată mâncarea o scârbește nefeșul lor și au ajuns până la porțile morții",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toată"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mâncarea"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "o scârbește"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeșul lor"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "și au ajuns"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "porțile"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:30.737556355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și ⟨l⟩-a adus înapoi ⟨את⟩ Moșe și ⟨את⟩ Aharon la Paro, și le-a spus: Duceți-vă, slujiți ⟨את⟩ Yahve, Elohimul vostru. Cine și cine sunt cei care merg?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Și a adus înapoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și le-a spus"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Duceți-vă"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slujiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "sunt cei care merg"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:15.022856375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Eu voi vesti dreptatea ta și ⟨את⟩ faptele tale, și nu îți vor folosi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "voi vesti"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "dreptatea ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "faptele tale"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "faptele tale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "îți vor folosi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:31:48.250985813Z",
+  "model": "glm-5.3"
+}

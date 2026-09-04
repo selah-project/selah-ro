@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 9:15",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a spus mărăcinele copacilor: Dacă în adevăr mă ungeți ca rege peste voi, veniți, adăpostiți-vă la umbra mea; iar dacă nu, va ieși foc din mărăcine și va mânca ⟨את⟩ cedrii Libanului.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "mărăcinele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "copacii"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "în adevăr"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "ungeți"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mă",
+      "marks": "rege"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ca rege"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "veniți"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "adăpostiți-vă"
+    },
+    {
+      "surface": "בצלי",
+      "gloss": "la umbra mea"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "va ieși"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "mărăcine"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "și va mânca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedrii Libanului"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedrii"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:06:24.304444642Z",
+  "model": "glm-5.3"
+}

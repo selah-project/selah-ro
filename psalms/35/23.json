@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Deșteaptă-te și scoală-te la judecata mea, Elohim al meu, și Adonai al meu, la pricina mea!",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Deșteaptă-te"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "și scoală-te"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "la judecata mea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "și Adonai al meu"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "la pricina mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:07.591355827Z",
+  "model": "glm-5.3"
+}

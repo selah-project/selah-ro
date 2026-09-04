@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Să fie zilele lui puține, și altul să ia slujba lui.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Să fie"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "zilele lui"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "puține"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "slujba lui"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "să ia"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:53.984926841Z",
+  "model": "glm-5.3"
+}

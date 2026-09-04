@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Oare nu urăsc, Yahve, pe cei ce te urăsc, și cu cei ce se ridică împotriva ta mă ceart?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "pe cei ce te urăsc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "urăsc"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "și cu cei ce se ridică împotriva ta"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "mă ceart"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:02.043819020Z",
+  "model": "glm-5.3"
+}

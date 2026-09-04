@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Cel drept mănâncă spre saturarea nefeșului ⟨său⟩, iar pântecele răilor duce lipsă.",
+  "tokens": [
+    {
+      "surface": "צַדִּיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "אֹכֵל",
+      "gloss": "mănâncă"
+    },
+    {
+      "surface": "לְשֹׂבַע",
+      "gloss": "spre saturare"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "nefeșului"
+    },
+    {
+      "surface": "וּבֶטֶן",
+      "gloss": "iar pântecele"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "răilor"
+    },
+    {
+      "surface": "תֶּחְסָר",
+      "gloss": "duce lipsă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:52.965802981Z",
+  "model": "glm-5.3"
+}

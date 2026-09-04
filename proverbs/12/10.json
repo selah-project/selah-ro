@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Cunoaște cel drept sufletul vitei lui, iar milele răilor ⟨sunt⟩ crude.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "vitei lui"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "iar milele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "răilor"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "crude"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:11.897657107Z",
+  "model": "glm-5.3"
+}

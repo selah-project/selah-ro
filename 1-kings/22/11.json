@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și și-a făcut Țidchia, fiul lui Chenaana, corni de fier și a zis: Așa a vorbit Yahve: Cu acestea vei împunge ⟨את⟩ Aram până ce îi vei sfârși.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "își"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Țidchia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "lui Chenaana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "corni"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "de fier"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "Cu acestea"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "vei împunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "îi vei sfârși"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:30.415239713Z",
+  "model": "glm-5.3"
+}

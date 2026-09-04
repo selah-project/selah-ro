@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "M-am jurat și ⟨l⟩-am împlinit: să păzesc judecățile dreptății tale.",
+  "tokens": [
+    {
+      "surface": "נִשְׁבַּעְתִּי",
+      "gloss": "M-am jurat"
+    },
+    {
+      "surface": "וָאֲקַיֵּמָה",
+      "gloss": "și am împlinit"
+    },
+    {
+      "surface": "לִשְׁמֹר",
+      "gloss": "să păzesc"
+    },
+    {
+      "surface": "מִשְׁפְּטֵי",
+      "gloss": "judecățile"
+    },
+    {
+      "surface": "צִדְקֶךָ",
+      "gloss": "dreptății tale"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:38.179253647Z",
+  "model": "glm-5.3"
+}

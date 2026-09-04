@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Căci și-a pus ⟨את⟩ sufletul în palma lui și l-a lovit ⟨את⟩ pe filistean, și a făcut Yahve o izbăvire mare pentru tot Israelul; ai văzut și te-ai bucurat — și de ce să păcătuiești în sânge nevinovat, omorându-l ⟨את⟩ pe David degeaba?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "și-a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletul"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "în palma lui"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și l-a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisteanul"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteanul"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "izbăvire"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ai văzut"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "și te-ai bucurat"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "și de ce"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "să păcătuiești"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "în sânge"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "omorându-l"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "degeaba"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:50.632762886Z",
+  "model": "glm-5.3"
+}

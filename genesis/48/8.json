@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Și a văzut Israel ⟨את⟩ fiii lui Iosif și a spus: Cine sunt aceștia?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Iosif"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sunt aceștia"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:16.152169085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Acestea sunt numele fiilor lui Esav: Elifaz, fiul Adei, soția lui Esav; Reuel, fiul Boșmat, soția lui Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Acestea"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "numele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adei"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Boșmat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lui Esav"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:29.803409603Z",
+  "model": "glm-5.3"
+}

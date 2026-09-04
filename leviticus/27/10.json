@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Să nu o schimbe și să nu o dea în schimb ⟨את⟩: bun pentru rău sau rău pentru bun; iar dacă va da în schimb vită cu vită, va fi: ea și schimbul ei ⟨vor fi⟩ sfinți.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "să o schimbe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "dea în schimb"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vită (animalul închinat)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "pentru rău"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "pentru bun"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "המר",
+      "gloss": "va da în schimb"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "cu adevărat"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vită"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "cu vită"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "și schimbul ei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfinți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:35.880557945Z",
+  "model": "glm-5.3"
+}

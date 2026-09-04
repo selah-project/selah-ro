@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Acolo s-au temut de spaimă, căci Elohim ⟨este⟩ în neamul celor drepți.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Acolo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "s-au temut"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "de spaimă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "în neamul"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "celor drepți"
+    }
+  ],
+  "timestamp": "2026-09-04T07:52:52.437711880Z",
+  "model": "glm-5.3"
+}

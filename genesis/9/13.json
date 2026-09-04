@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "⟨את⟩ arcul meu l-am pus în nor, și va fi semn al legământului între mine și pământ.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "arcul meu"
+    },
+    {
+      "surface": "קַשְׁתִּי",
+      "gloss": "arcul meu"
+    },
+    {
+      "surface": "נָתַתִּי",
+      "gloss": "am pus"
+    },
+    {
+      "surface": "בֶּעָנָן",
+      "gloss": "în nor"
+    },
+    {
+      "surface": "וְהָיְתָה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "לְאוֹת",
+      "gloss": "semn"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "legământului"
+    },
+    {
+      "surface": "בֵּינִי",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T10:05:52.579177730Z",
+  "model": "glm-5.3"
+}

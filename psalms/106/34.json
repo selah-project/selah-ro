@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Nu au nimicit ⟨את⟩ popoarele pe care a spus Yahve ⟨să le nimicească⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "au nimicit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popoarele"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨să le nimicească⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:47.593550069Z",
+  "model": "glm-5.3"
+}

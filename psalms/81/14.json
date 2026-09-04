@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "O, dacă poporul Meu M-ar asculta, dacă Israel ar umbla în căile Mele!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "O, dacă"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul Meu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ar asculta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "M-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "în căile"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ar umbla"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:38.738555597Z",
+  "model": "glm-5.3"
+}

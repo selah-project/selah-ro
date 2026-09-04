@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a spus Yahve: Cine îl va amăgi ⟨את⟩ Ahav, ca să se suie și să cadă la Ramot-Ghilad? Și unul spunea așa, și altul spunea așa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "va amăgi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahav"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ca să se suie"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "și să cadă"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "la Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ghilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "זה",
+      "gloss": "unul"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "și altul"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spunea"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "așa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:37.320932551Z",
+  "model": "glm-5.3"
+}

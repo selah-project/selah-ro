@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "El mă va striga: «Tu ești tatăl meu, El-ul meu și stânca mântuirii mele.»",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "mă va striga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ul meu"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "și stânca"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mântuirii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:17.940071058Z",
+  "model": "glm-5.3"
+}

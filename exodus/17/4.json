@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a strigat Moșe către Yahve, zicând: ce să fac cu poporul acesta? Încă puțin și mă vor ucide cu pietre.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Și a strigat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "să fac"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "cu poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "și mă vor ucide cu pietre"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:55.489228305Z",
+  "model": "glm-5.3"
+}

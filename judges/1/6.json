@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a fugit Adoni-Bezek, și au urmărit după el, și l-au apucat ⟨את⟩ pe el, și au tăiat ⟨את⟩ degetele mari ale mâinilor lui și ale picioarelor lui.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "Și a fugit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "-Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "și au urmărit"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "și l-au apucat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe Adoni-Bezek"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "și au tăiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degetele mari"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "degetele mari"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ale mâinilor lui"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "și ale picioarelor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:46.796731357Z",
+  "model": "glm-5.3"
+}

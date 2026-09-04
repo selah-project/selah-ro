@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Și i-a călăuzit pe un drum drept, să meargă către o cetate de locuit.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "și i-a călăuzit"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe un drum"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "drept"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "să meargă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "o cetate"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "de locuit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:59.247482415Z",
+  "model": "glm-5.3"
+}

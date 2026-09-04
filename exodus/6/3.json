@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și M-am arătat lui Avraham, lui Ițhac și lui Iaacov ca El Șadai (El Atotputernicul), dar Numele meu Yahve nu le-a fost cunoscut.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Și M-am arătat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și lui"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "באל",
+      "gloss": "ca"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Șadai"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "dar Numele meu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "le-a fost cunoscut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:34.981765859Z",
+  "model": "glm-5.3"
+}

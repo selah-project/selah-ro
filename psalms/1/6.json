@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Căci cunoaște Yahve calea celor drepți, iar calea celor răi va pieri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "celor drepți"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "iar calea"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "va pieri"
+    }
+  ],
+  "timestamp": "2026-09-04T09:39:20.811600843Z",
+  "model": "glm-5.3"
+}

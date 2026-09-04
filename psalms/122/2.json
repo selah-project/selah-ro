@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 122,
+  "translation": "Stând au stat picioarele noastre în porțile tale, Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Stând"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au stat"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "picioarele noastre"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "în porțile tale"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:41.586679711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și au întins oamenii ⟨את⟩ mâna și l-au adus pe ⟨את⟩ Lot la ei, în casă, și ⟨את⟩ ușa au închis-o.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Și au întins"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mâna lor"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "și au adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "la ei"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "în casă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ușa"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ușa"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "au închis-o"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:19.516169091Z",
+  "model": "glm-5.3"
+}

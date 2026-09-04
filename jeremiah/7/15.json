@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Vă voi arunca de pe fața mea, așa cum am aruncat ⟨את⟩ toți frații voștri, ⟨את⟩ toată sămânța lui Efrayim.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "Vă voi arunca"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vă"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "așa cum"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "am aruncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți frații voștri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frații voștri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată sămânța lui Efrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânța"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "lui Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T04:00:10.203899290Z",
+  "model": "glm-5.3"
+}

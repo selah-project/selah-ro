@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a fost la sfârșitul a douăzeci de ani în care a zidit Șelomo ⟨את⟩ casa lui Yahve și ⟨את⟩ casa lui,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "la sfârșitul"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a zidit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Yahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casa lui"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:20:48.978090969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 125,
+  "translation": "Cântare a urcărilor. Cei ce se încred în Yahve ⟨sunt⟩ ca muntele Țion: nu va fi clintit, în veac șade.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Cei ce se încred"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "ca muntele"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "va fi clintit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "șade"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:59.829073388Z",
+  "model": "glm-5.3"
+}

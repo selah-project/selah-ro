@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "iar dacă nu, să iasă foc din Avimeleh și să mănânce ⟨את⟩ pe stăpânii Șehemului și ⟨את⟩ casa lui Milo; și să iasă foc din stăpânii Șehemului și din casa lui Milo, și să mănânce ⟨את⟩ pe Avimeleh!",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "să iasă"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "din Avimeleh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "și să mănânce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stăpânii Șehemului"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "stăpânii"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Șehemului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casa lui Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "lui Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "și să iasă"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "din stăpânii"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Șehemului"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "și din casa"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "lui Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "și să mănânce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "pe Avimeleh"
+    }
+  ],
+  "timestamp": "2026-09-04T08:52:10.529562983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Cum să blestem pe cel ce nu l-a blestemat El? Și cum să mâniesc pe cel ce nu l-a mâniat Yahve?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "să blestem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "a blestemat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Și cum"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "să mâniesc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "a mâniat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:55:31.761197490Z",
+  "model": "glm-5.3"
+}

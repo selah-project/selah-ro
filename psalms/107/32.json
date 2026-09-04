@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Și să-l înalțe în adunarea poporului, și în sfatul bătrânilor să-l laude.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "și să-l înalțe"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "în adunarea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "și în sfatul"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bătrânilor"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "să-l laude"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:27.038499485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "La auzul urechii mă ascultă; fiii străinului se prefac față de mine.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "La auzul"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "urechii"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mă ascultă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străinului"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "se prefac"
+    },
+    {
+      "surface": "לי",
+      "gloss": "față de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:12.007166730Z",
+  "model": "glm-5.3"
+}

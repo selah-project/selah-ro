@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "care te rostesc cu vicleșug, îți iau ⟨Numele⟩ în deșert, vrăjmașii tăi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "te rostesc"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "cu vicleșug"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "iază"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "în deșert"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "vrăjmașii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:51.162323807Z",
+  "model": "glm-5.3"
+}

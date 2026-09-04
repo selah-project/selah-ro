@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Căci dacă omul trăiește ani mulți, să se bucure în toți ⟨ei⟩; și să-și amintească ⟨את⟩ zilele întunericului, căci multe vor fi — tot ce vine este deșertăciune.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mulți"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "trăiește"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "în toți"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "să se bucure"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "și să-și amintească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zilele întunericului"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "întunericului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "multe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ce vine"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșertăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:54.742627519Z",
+  "model": "glm-5.3"
+}

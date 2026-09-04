@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și au răspuns lor ⟨את⟩ și au zis: Este; iată, ⟨este⟩ înaintea ta; grăbește acum, căci azi a venit la cetate, căci jertfă ⟨este⟩ azi pentru popor pe înălțime.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "și au răspuns"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "lor"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Este"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "grăbește"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "la cetate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfă"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pentru popor"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "pe înălțime"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:41.416286451Z",
+  "model": "glm-5.3"
+}

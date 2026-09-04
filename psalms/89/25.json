@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Credincioșia mea și hesed-ul meu ⟨sunt⟩ cu el, și în numele meu se va înălța cornul lui.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "credincioșia mea"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "și hesed-ul meu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "și în numele meu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "se va înălța"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "cornul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:17.939611884Z",
+  "model": "glm-5.3"
+}

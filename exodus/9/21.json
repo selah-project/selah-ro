@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar cel care nu și-a pus inima spre cuvântul lui Yahve și-a lăsat ⟨את⟩ servii săi și ⟨את⟩ vitele lui în câmp.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Iar cel care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "și-a lăsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "servii săi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "servii săi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vitele lui"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "vitele lui"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:36.383270971Z",
+  "model": "glm-5.3"
+}

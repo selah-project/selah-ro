@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și s-au întors solii la el, și a zis către ei: ce ⟨este⟩ aceasta, v-ați întors?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Și s-au întors"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "solii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "v-ați întors"
+    }
+  ],
+  "timestamp": "2026-09-04T03:23:26.490736287Z",
+  "model": "glm-5.3"
+}

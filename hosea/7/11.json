@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a fost Efraim ca un porumbel nebun, fără inimă: Mițraim au chemat, la Așur au mers.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "ca un porumbel"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "nebun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "fără"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "au chemat"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "au mers"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:31.413118441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 117,
+  "translation": "Căci hesedul lui ⟨s-a arătat puternic⟩ peste noi, și adevărul lui Yahve ⟨dăinuiește⟩ în veac. Halelu-Ya!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨s-a arătat puternic⟩"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "și adevărul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "-Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:27.683245303Z",
+  "model": "glm-5.3"
+}

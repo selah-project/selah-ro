@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Cercetează-mă, Yahve, și pune-mă la încercare, rafinate ⟨sunt⟩ rinichii mei și inima mea.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Cercetează-mă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "și pune-mă la încercare"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "rafinate"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "rinichii mei"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "și inima mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:52.161618866Z",
+  "model": "glm-5.3"
+}

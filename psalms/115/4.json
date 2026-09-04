@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Idolii lor ⟨sunt⟩ argint și aur, lucrare a mâinilor omului.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Idolii lor"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "și aur"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrare"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "a mâinilor"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:06.763744820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Nu știți oare? Nu auziți oare? Nu vi s-a vestit oare de la început? Nu ați înțeles oare temeliile pământului?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Nu ... oare"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "știți"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Nu ... oare"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "auziți"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Nu ... oare"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "s-a vestit"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "de la început"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Nu ... oare"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "ați înțeles"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "temeliile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:17.241638305Z",
+  "model": "glm-5.3"
+}

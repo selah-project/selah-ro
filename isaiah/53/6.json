@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Noi toți ca o turmă am rătăcit, fiecare pe drumul lui ne-am întors; iar Yahve a făcut să vină asupra lui ⟨את⟩ nelegiuirea noastră a tuturor.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "noi toți"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ca o turmă"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "am rătăcit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "pe drumul lui"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "ne-am întors"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "iar Yahve"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "a făcut să vină asupra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelegiuirea"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "noastră a tuturor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:40.172856498Z",
+  "model": "glm-5.3"
+}

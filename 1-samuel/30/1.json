@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a fost, la venirea lui David și a oamenilor lui la Țiklag, în ziua a treia, că amalekiții au năvălit asupra sudului și asupra Țiklagului, și au lovit ⟨את⟩ Țiklagul și au ars ⟨את⟩ cu foc.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "la venirea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "și a oamenilor lui"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "la Țiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a treia"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "că amalekiții"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "au năvălit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sudului"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Țiklagului"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Țiklagul"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Țiklagul"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "și au ars"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "cu foc"
+    },
+    {
+      "surface": "באש",
+      "gloss": "cu foc"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:24.907774117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și au zis slujitorii lui Șaul către el: Iată, te rog, un duh al lui Elohim, rău, te înspăimântă.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slujitorii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un duh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "al lui Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rău"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "te înspăimântă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:45:47.188633535Z",
+  "model": "glm-5.3"
+}

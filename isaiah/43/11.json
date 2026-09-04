@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Eu, eu ⟨sunt⟩ Yahve, și în afară de mine nu ⟨este⟩ mântuitor.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "în afară de mine"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mântuitor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:55.097480745Z",
+  "model": "glm-5.3"
+}

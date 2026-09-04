@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "și vei zice în inima ta: puterea mea și tăria mâinii mele mi-a făcut ⟨את⟩ bogăția aceasta.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "și vei zice"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "în inima ta"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "și tăria"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâinii mele"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogăția aceasta"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "bogăția"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:07.928005149Z",
+  "model": "glm-5.3"
+}

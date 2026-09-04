@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și Chenaan a născut ⟨את⟩ Țidon, întâiul născut de-al lui, și ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Și Chenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Țidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Țidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "întâiul născut de-al lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:35.741952192Z",
+  "model": "glm-5.3"
+}

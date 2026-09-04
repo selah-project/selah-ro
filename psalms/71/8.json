@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Să se umple gura mea de lauda ta, toată ziua de măreția ta.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "să se umple"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura mea"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "de lauda ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "de măreția ta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:00.431580943Z",
+  "model": "glm-5.3"
+}

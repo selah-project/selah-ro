@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a luat Avimeleh oi și vite, robi și roabe, și a dat ⟨lui⟩ Avraham; și i-a înapoiat ⟨את⟩ Sara, soția lui.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleh"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "oi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "și vite"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "și robi"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "și roabe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și i-a înapoiat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:57.875553112Z",
+  "model": "glm-5.3"
+}

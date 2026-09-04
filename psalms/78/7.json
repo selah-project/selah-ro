@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "și să-și pună în Elohim încrederea lor, și să nu uite faptele lui El, ci poruncile lui să le păzească.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "și să pună"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "în Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "încrederea lor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "uite"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "iar poruncile lui"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "să le păzească"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:58.535979305Z",
+  "model": "glm-5.3"
+}

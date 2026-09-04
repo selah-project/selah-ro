@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a poruncit ⟨את⟩ lor, zicând: Așa să spuneți domnului meu, lui Esav: Așa a zis robul tău Iaacov: Cu Lavan am peregrinat și am zăbovit până acum.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "și a poruncit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "mesagerii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "să spuneți"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "domnului meu"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robul tău"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "am peregrinat"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "și am zăbovit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:31.481531097Z",
+  "model": "glm-5.3"
+}

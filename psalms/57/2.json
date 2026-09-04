@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Îndură-te de mine, Elohim, îndură-te de mine, că în tine își caută scăparea sufletul meu, și la umbra aripilor tale mă voi adăposti, până vor trece prăpădurile.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Îndură-te de mine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "îndură-te de mine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "își caută scăparea"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "și la umbra"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "aripilor tale"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mă voi adăposti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "vor trece"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "prăpădurile"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:41.032627521Z",
+  "model": "glm-5.3"
+}

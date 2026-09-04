@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a părăsit sfatul bătrânilor care i-l dăduseră, și s-a sfătuit cu ⟨את⟩ copiii care crescuseră ⟨את⟩ el, care stăteau înaintea lui.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Și a părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfatul bătrânilor"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "sfatul"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bătrânilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "i-l dăduseră"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "și s-a sfătuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copiii"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "cu copiii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "crescuseră"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stăteau"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:31.574323126Z",
+  "model": "glm-5.3"
+}

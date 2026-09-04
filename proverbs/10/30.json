@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Cel drept în veac nicidecum nu se va clătina, iar cei răi nu vor locui ⟨pe⟩ pământ.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Cel drept"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicidecum"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "nu se va clătina"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "iar cei răi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "vor locui"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:07.286335202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "regele lui Eglon, unul; regele lui Ghezer, unul;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Ghezer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:21:01.864285511Z",
+  "model": "glm-5.3"
+}

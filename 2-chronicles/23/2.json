@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și au mers prin Iehuda și au adunat ⟨את⟩ leviții din toate cetățile Iehudei și căpeteniile părinților lui Israel, și au venit la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "și au mers"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "prin Iehuda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "și au adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviții"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviții"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din toate"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehudei"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "și căpeteniile"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "părinților"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:25:30.638969479Z",
+  "model": "glm-5.3"
+}

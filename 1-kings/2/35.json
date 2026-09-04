@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a pus regele ⟨את⟩ Benayahu, fiul lui Iehoiada, în locul lui, peste oștirea, iar ⟨את⟩ Țadok cohenul l-a pus regele în locul lui Evyatar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Iehoiada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "oștirea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Țadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Țadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    }
+  ],
+  "timestamp": "2026-09-04T07:16:55.038670456Z",
+  "model": "glm-5.3"
+}

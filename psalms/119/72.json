@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Bine ⟨este⟩ pentru mine Tora gurii tale, mai mult decât mii de aur și argint.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gurii tale"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "mai mult decât mii de"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "și argint"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:36.658026634Z",
+  "model": "glm-5.3"
+}

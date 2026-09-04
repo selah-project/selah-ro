@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "A lovit Yahve ⟨את⟩ kușiții dinaintea lui Asa și dinaintea lui Iehuda, și au fugit kușiții.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "A lovit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kușiții"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kușiții"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dinaintea"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "lui Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "și dinaintea"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "și au fugit"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kușiții"
+    }
+  ],
+  "timestamp": "2026-09-04T06:23:23.357233814Z",
+  "model": "glm-5.3"
+}

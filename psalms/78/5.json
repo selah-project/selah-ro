@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și a ridicat o mărturie în Iaacov și o Tora a pus în Israel, pe care a poruncit-o ⟨את⟩ părinților noștri, ca să le-o facă cunoscută fiilor lor.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "și a ridicat"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "o mărturie"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "în Iaacov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "și o Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "părinților noștri"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "părinții noștri"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ca să le-o facă cunoscută"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fiilor lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:58.535570910Z",
+  "model": "glm-5.3"
+}

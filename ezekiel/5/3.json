@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și vei lua de acolo puține la număr și le vei lega ⟨את⟩ în poalele tale.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Și vei lua"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puține"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "la număr"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "și le vei lega"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "în poalele tale"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "în poalele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T04:21:01.653829684Z",
+  "model": "glm-5.3"
+}

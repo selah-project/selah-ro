@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Și au strigat către Yahve în strâmtorarea lor, și din încurcăturile lor i-a scos.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Și au strigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "în strâmtorarea"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "din încurcăturile lor"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "i-a scos"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:51.363271331Z",
+  "model": "glm-5.3"
+}

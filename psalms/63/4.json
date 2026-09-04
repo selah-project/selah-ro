@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Căci mai bun decât viața ⟨e⟩ hesedul tău; buzele mele te laudă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "decât viața"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele mele"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "te laudă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:31.039159728Z",
+  "model": "glm-5.3"
+}

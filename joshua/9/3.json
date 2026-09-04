@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar locuitorii Givonului au auzit ⟨את⟩ ce a făcut Iehoșua cu Ierihoul și cu Aiul,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Iar locuitorii"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givonului"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "au auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce a făcut Iehoșua cu Ierihoul și cu Aiul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "cu Ierihoul"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "și cu Aiul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:20:08.355738712Z",
+  "model": "glm-5.3"
+}

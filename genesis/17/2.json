@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și voi așeza legământul meu între mine și între tine, și voi înmulți ⟨את⟩ pe tine foarte, foarte mult.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Și voi așeza"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "și între tine"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "și voi înmulți"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "pe tine — cel înmulțit foarte-foarte"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte mult"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:21.971672134Z",
+  "model": "glm-5.3"
+}

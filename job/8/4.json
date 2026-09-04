@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Dacă fiii tăi au păcătuit înaintea lui, și i-a dat în mâna răzvrătirii lor.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiii tăi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "au păcătuit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "și i-a dat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "răzvrătirii lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:22.357491646Z",
+  "model": "glm-5.3"
+}

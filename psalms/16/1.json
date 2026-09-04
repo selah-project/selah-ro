@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Un michtam al lui David. Păzește-mă, El, căci în tine m-am adăpostit.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Un michtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Păzește-mă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m-am adăpostit"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:28.556920174Z",
+  "model": "glm-5.3"
+}

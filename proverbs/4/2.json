@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Căci o învățătură bună v-am dat vouă; Tora mea nu o părăsiți.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "învățătură"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bună"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "v-am dat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora mea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "părăsiți"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:10.754036307Z",
+  "model": "glm-5.3"
+}

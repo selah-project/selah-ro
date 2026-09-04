@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Îmi răsplătesc răul în locul binelui, pustiire a sufletului meu.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Îmi răsplătesc"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "binelui"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "pustiire"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "a sufletului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:47.259826962Z",
+  "model": "glm-5.3"
+}

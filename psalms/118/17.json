@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "Nu voi muri, ci voi trăi și voi povesti faptele lui Ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "voi muri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "voi trăi"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "și voi povesti"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "יה",
+      "gloss": "lui Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:44.294120557Z",
+  "model": "glm-5.3"
+}

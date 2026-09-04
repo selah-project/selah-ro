@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și am cumpărat ⟨את⟩ brâul, după cuvântul lui Yahve, și l-am pus pe șoldurile mele.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Și am cumpărat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brâul"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "brâul"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "și l-am pus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "șoldurile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:03:25.532791917Z",
+  "model": "glm-5.3"
+}

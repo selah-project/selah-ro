@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Și a zis: chiar acum, după cuvintele voastre așa este: cel la care se va găsi ⟨את⟩ el va fi rob al meu, iar voi veți fi nevinovați.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֕אמֶר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "גַּ֥ם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "עַתָָּ֥ה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "כִּדְבְרֵיכֶ֖ם",
+      "gloss": "după cuvintele voastre"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "este"
+    },
+    {
+      "surface": "אֲשֶׁׁ֨ר",
+      "gloss": "cel care"
+    },
+    {
+      "surface": "יִמָּצֵ֤א",
+      "gloss": "se va găsi"
+    },
+    {
+      "surface": "אִתּוֹ֙",
+      "gloss": "cu ⟨את⟩ el",
+      "marks": "obiectul găsit (paharul)"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "al meu"
+    },
+    {
+      "surface": "עֶ֫֔בֶד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "וְאַתֶּּ֖ם",
+      "gloss": "iar voi"
+    },
+    {
+      "surface": "תִּהְי֥וּ",
+      "gloss": "veți fi"
+    },
+    {
+      "surface": "נְקִיִּּֽים",
+      "gloss": "nevinovați"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:27.190879882Z",
+  "model": "glm-5.3"
+}

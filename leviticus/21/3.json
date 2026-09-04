@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "și pentru sora lui, fecioara, cea apropiată de el, care nu a fost ⟨a⟩ unui bărbat — pentru ea să se pângărească ⟨el⟩.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "și pentru sora lui"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "fecioara"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "cea apropiată"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a unui bărbat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pentru ea"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "să se pângărească"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:36.595559473Z",
+  "model": "glm-5.3"
+}

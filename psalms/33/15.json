@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Cel care modelează împreună inimile lor, cel care înțelege toate faptele lor.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Cel care modelează"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "inimile lor"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "cel care înțelege"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "faptele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:18.223121204Z",
+  "model": "glm-5.3"
+}

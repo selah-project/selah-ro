@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a fost în anul al treilea al lui Hoșea, fiul lui Ela, rege al lui Israel: a domnit Hizchia, fiul lui Ahaz, rege al lui Iehuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "în anul"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "al treilea"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "al lui Hoșea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lui Ela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "al lui Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a domnit"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizchia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "lui Ahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "al lui Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:39.516672277Z",
+  "model": "glm-5.3"
+}

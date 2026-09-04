@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Iată, pe palme te-am săpat: zidurile tale sunt pururea înaintea mea.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "palme"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "te-am săpat"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "zidurile tale"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pururea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:51:32.874734753Z",
+  "model": "glm-5.3"
+}

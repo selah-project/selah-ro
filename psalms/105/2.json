@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Cântați-i, cântați cu instrumente, vorbiți de toate minunile lui!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cântați-i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cântați cu instrumente"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "vorbiți"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de toate"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "minunile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:51.331721779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și m-am întors și am coborât de pe munte și am pus ⟨את⟩ tablele în chivotul pe care l-am făcut, și au fost acolo, cum m-a poruncit Yahve.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "Și m-am întors"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "și am coborât"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "munte"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "și am pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tablele"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tablele"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "în chivot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "l-am făcut"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "m-a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:09.093439829Z",
+  "model": "glm-5.3"
+}

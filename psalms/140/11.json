@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Să cadă peste ei tăciuni aprinși; în foc să-i arunce, în gropi adânci — ca să nu se mai ridice.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "să cadă"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "tăciuni aprinși"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "să-i arunce"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "în gropi adânci"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "se mai ridice"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:00.731499505Z",
+  "model": "glm-5.3"
+}

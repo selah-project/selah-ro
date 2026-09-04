@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și oștirea lui și numărații lor: patruzeci și șapte de mii și șase sute.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "și oștirea lui"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "și numărații lor"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "patru(zeci)"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "și șapte(zeci)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "și șase"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:31.680566803Z",
+  "model": "glm-5.3"
+}

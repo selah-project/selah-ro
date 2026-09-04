@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Judecă-mă, Elohim, și apără pricina mea, de la un neam neevlavios; de la om de înșelăciune și de nelegiuire mă vei scăpa.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Judecă-mă"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "și apără"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "pricina mea"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "de la un neam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "evlavios"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de la om"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "de înșelăciune"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "și de nelegiuire"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "mă vei scăpa"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:30.981394572Z",
+  "model": "glm-5.3"
+}

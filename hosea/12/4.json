@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "În pântece l-a apucat de călcâi ⟨את⟩ fratele său, și în puterea lui s-a luptat ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "în pântece"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "l-a apucat de călcâi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fratele său"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "și în puterea lui"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "s-a luptat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:39.376369411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Tu ai poruncit poruncile tale, ca să le păzim cu tot ce avem.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "ai poruncit"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ca să le păzim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cu tot ce avem"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:32.023667440Z",
+  "model": "glm-5.3"
+}

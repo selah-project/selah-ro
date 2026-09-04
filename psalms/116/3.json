@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "M-au încercuit funiile morții, și strâmtorările Șeolului m-au aflat; strâmtorare și durere am aflat.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "M-au încercuit"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "funiile"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "și strâmtorările"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șeolului"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "m-au aflat"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "strâmtorare"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "și durere"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "am aflat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:52.220952867Z",
+  "model": "glm-5.3"
+}

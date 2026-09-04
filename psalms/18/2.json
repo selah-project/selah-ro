@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a zis: Te voi îndrăgi, Yahve, sprijinul meu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Te voi îndrăgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "sprijinul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:54.146318662Z",
+  "model": "glm-5.3"
+}

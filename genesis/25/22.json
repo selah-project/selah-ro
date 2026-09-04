@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și se zbuciumau copiii în pântecele ei, și a zis: Dacă așa ⟨stau lucrurile⟩, pentru ce aceasta mie? Și a mers să întrebe ⟨את⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "și se zbuciumau"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "copiii"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "în pântecele ei"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pentru ce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "să întrebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:01:22.664327339Z",
+  "model": "glm-5.3"
+}

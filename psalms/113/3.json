@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 113,
+  "translation": "De la răsăritul soarelui până la apusul lui, lăudat este numele lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "De la răsăritul"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarelui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "apusul lui"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "lăudat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:33.023265080Z",
+  "model": "glm-5.3"
+}

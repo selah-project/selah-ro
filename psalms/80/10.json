@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Ai curățat loc înaintea ei, și și-a afundat rădăcinile ei și a umplut pământul.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "ai curățat loc"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "înaintea ei"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "și a prins rădăcină"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "rădăcinile ei"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "și a umplut"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:32.850779304Z",
+  "model": "glm-5.3"
+}

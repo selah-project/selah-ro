@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Nu opri copilul de la mușar, căci dacă îl vei lovi cu toiagul, nu va muri.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "opri"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "de la mușar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "îl vei lovi"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "cu toiagul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "va muri"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:36.310635894Z",
+  "model": "glm-5.3"
+}

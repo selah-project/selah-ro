@@ -1,0 +1,31 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Chiar dacă strig și chem ajutor, rugăciunea mea a astupat-o.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Chiar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "strig"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "și m-a înconjurat",
+      "repeated": true,
+      "note": "glosă preluată din v.5 pentru lemma identică"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:42.050584477Z",
+  "model": "glm-5.3"
+}

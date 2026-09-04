@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Către dirijorul ⟨corului⟩ — Al Tașhet (Nu distruge) — al lui David, un michtam, când a trimis Șaul și au pândit ⟨את⟩ casa ca să-l omoare.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "distruge"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "michtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "când a trimis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "și au pândit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ca să-l omoare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:21.879575162Z",
+  "model": "glm-5.3"
+}

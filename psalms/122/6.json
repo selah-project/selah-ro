@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 122,
+  "translation": "Cereți pacea Ierușalaimului! Să fie împăcați cei ce te iubesc.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Cereți"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pacea"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "Să fie împăcați"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "cei ce te iubesc"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:57.401526036Z",
+  "model": "glm-5.3"
+}

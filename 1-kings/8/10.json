@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a fost, la ieșirea cohenilor din locul sfânt, și norul a umplut ⟨את⟩ casa lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "la ieșirea"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenilor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "locul sfânt"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "și norul"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a umplut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Yahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:12:51.332480884Z",
+  "model": "glm-5.3"
+}

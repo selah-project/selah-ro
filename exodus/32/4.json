@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a luat ⟨את⟩ el din mâna lor și l-a cioplit cu dalta și l-a făcut vițel turnat; și au zis: Aceștia ⟨sunt⟩ dumnezeii tăi, Israel, care te-au suit din țara Mițraim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "din mâna lor"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "și l-a cioplit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "dalta"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "cu dalta"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "și l-a făcut"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "vițel"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "turnat"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Aceștia"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dumnezeii tăi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "te-au suit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:13.619252985Z",
+  "model": "glm-5.3"
+}

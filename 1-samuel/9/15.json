@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar Yahve descoperise ⟨את⟩ urechea lui Șemuel o zi una înainte de venirea lui Șaul, zicând:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Iar Yahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "descoperise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urechea lui Șemuel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "urechea"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "lui Șemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "o zi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înainte de"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "venirea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T02:44:20.822939157Z",
+  "model": "glm-5.3"
+}

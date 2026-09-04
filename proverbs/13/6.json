@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Dreptatea păzește calea celui nevinovat, iar răutatea răstoarnă păcatul.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "păzește"
+    },
+    {
+      "surface": "תם",
+      "gloss": "celui nevinovat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "calea"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "iar răutatea"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "răstoarnă"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "păcatul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:05.522772804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "De la fața celor răi care mă prădează — dușmanii mei cu sufletul mă înconjoară împotriva mea.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "de la fața"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "care"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "mă prădează"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dușmanii mei"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "cu sufletul"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "mă înconjoară"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:45.034181512Z",
+  "model": "glm-5.3"
+}

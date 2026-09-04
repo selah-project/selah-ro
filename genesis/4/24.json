@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Că de șapte ori este răzbunat Kain, iar de Lemech de șaptezeci și șapte de ori.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "de șapte ori"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "este răzbunat"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "iar de Lemech"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "de șaptezeci"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "și șapte de ori"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:11.478327172Z",
+  "model": "glm-5.3"
+}

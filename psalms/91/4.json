@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Cu pana lui te va acoperi, și sub aripile lui te vei adăposti; scut și pavăză ⟨este⟩ adevărul lui.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Cu pana lui"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "te va acoperi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pe tine"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "și sub"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "aripile lui"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "te vei adăposti"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "scut"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "și pavăză"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "adevărul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:21.044056538Z",
+  "model": "glm-5.3"
+}

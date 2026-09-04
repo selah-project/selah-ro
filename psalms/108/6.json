@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Înălță-te peste ceruri, Elohim, și peste tot pământul slava ta!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Înălță-te"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "slava ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:55.059650817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și va da pe regii lor în mâna ta, și vei pierde ⟨את⟩ numele lor de sub ceruri; nu se va ține piept nimeni înaintea ta, până când îi vei nimici ⟨את⟩ pe ei.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Și va da"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "pe regii lor"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "și vei pierde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lor"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "numele lor"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sub"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "se va ține piept"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neni cineva"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până când"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "îi vei nimici"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:50:36.905833464Z",
+  "model": "glm-5.3"
+}

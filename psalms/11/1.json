@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Către maiestrul de cor. Al lui David. În Yahve mi-am căutat adăpost — cum spuneți sufletului meu: «Fugiți pe muntele vostru, ⟨ca o⟩ pasăre»?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către maiestrul de cor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi-am căutat adăpost"
+    },
+    {
+      "surface": "איך",
+      "gloss": "cum"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "spuneți"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sufletului meu"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "fugiți"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "muntele vostru"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "pasăre"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:41.444649141Z",
+  "model": "glm-5.3"
+}

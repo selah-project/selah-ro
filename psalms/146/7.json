@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 146,
+  "translation": "Cel ce face dreptate celor asupriți, Cel ce dă pâine celor flămânzi; Yahve desface pe cei legați.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "celor asupriți"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "celor flămânzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "desface"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "pe cei legați"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.948909641Z",
+  "model": "glm-5.3"
+}

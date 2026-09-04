@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și Meșa, regele Moabului, era crescător de oi, și înapoia regelui lui Israel o sută de mii de miei și o sută de mii de berbeci, cu lână.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Și Meșa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabului"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "crescător de oi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "și înapoia"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "o sută"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "de miei"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "și o sută"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "de berbeci"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "cu lână"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:19.640692918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Să nu te temi de ei; adu-ți aminte, adu-ți bine aminte ⟨את⟩ ceea ce a făcut Yahve, Elohimul tău, lui Paro și întregului Mițraim:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te temi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de ei"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "adu-ți aminte"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "adu-ți bine aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce a făcut Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "și întregului"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:57:04.538154078Z",
+  "model": "glm-5.3"
+}

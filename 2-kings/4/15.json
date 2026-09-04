@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a spus: Cheam-o. Și a chemat-o, și ea a stat în ușă.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Cheam"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-o"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-o"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "și ea a stat"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "în ușă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:24:29.384649495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Căci așa a vorbit Yahve: glas de spaimă am auzit — frică, și nu este pace.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "de spaimă"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "frică"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    }
+  ],
+  "timestamp": "2026-09-04T04:10:00.854857256Z",
+  "model": "glm-5.3"
+}

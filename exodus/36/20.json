@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și a făcut ⟨את⟩ scandurile pentru Mișcan, din lemn de șitim, în picioare.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "scandurile"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "scandurile"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pentru Mișcan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemn de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "șitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "în picioare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:53.764823382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "După Yahve, Elohim vostru, veți merge, și ⟨את⟩ pe el îl veți teme, și ⟨את⟩ poruncile lui le veți păzi, și la glasul lui veți asculta, și ⟨את⟩ pe el îl veți sluji, și de el vă veți lipi.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "După"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "veți merge"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "și ⟨את⟩ pe el",
+      "marks": "pe el (temut)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "îl veți teme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poruncile lui"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "poruncile lui"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "le veți păzi"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "și la glasul lui"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "veți asculta"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "și ⟨את⟩ pe el",
+      "marks": "pe el (slujit)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "îl veți sluji"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "și de el"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "vă veți lipi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:07:48.735784026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și când veți jertfi o jertfă de șelamim lui Yahve, pentru bună-placerea voastră s-o jertfiți.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și când"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "veți jertfi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "o jertfă"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "de șelamim (jertfe de pace)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "pentru bună-placerea voastră"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "s-o jertfiți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:17.721185241Z",
+  "model": "glm-5.3"
+}

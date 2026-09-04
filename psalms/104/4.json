@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Face pe solii săi vânturi, pe slujitorii săi foc de flacără:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Face"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "pe solii săi"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "vânturi"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "pe slujitorii săi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "להט",
+      "gloss": "de flacără"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:20.170575697Z",
+  "model": "glm-5.3"
+}

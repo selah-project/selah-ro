@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "S-a sculat David devreme, dimineața, și a lăsat ⟨את⟩ turma în grija unui păzitor, a luat și a plecat cum îi poruncise Ișai; și a ajuns la întăritură, iar oastea, ieșind la rânduiala de bătaie, a strigat în luptă.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "S-a sculat devreme"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "și a lăsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turma"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "turma"
+    },
+    {
+      "surface": "על",
+      "gloss": "în grija"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "unui păzitor"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a plecat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ișai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a ajuns"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "la întăritură"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "iar oastea"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ieșind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "rânduiala de bătaie"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "a strigat"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "în luptă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:55.795378699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Veghez nedormit și sunt ca o pasăre singuratică pe acoperiș.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "veghez nedormit"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "și sunt"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ca o pasăre"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "singuratică"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "גג",
+      "gloss": "acoperiș"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:40.964616801Z",
+  "model": "glm-5.3"
+}

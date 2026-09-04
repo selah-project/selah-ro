@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Elohim ⟨este⟩ pentru noi adăpost și tărie, ajutor în strâmtorări, aflat foarte lesne.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "adăpost"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "și tărie"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ajutor"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "în strâmtorări"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "aflat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte lesne"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:02.489648323Z",
+  "model": "glm-5.3"
+}

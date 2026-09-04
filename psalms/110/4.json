@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 110,
+  "translation": "S-a jurat Yahve și nu se va căi: „Tu ești cohen pe vecie, după rânduiala lui Malki-Țedek.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "s-a jurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "se va căi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "cohen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rânduiala"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "lui Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Țedek"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:49.690496324Z",
+  "model": "glm-5.3"
+}

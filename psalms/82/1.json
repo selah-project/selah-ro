@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 82,
+  "translation": "Un mizmor al lui Asaf. Elohim stă în adunarea lui El, în mijlocul dumnezeilor judecă.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "al lui Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stă"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "în adunarea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezeilor"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "judecă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:21.350472010Z",
+  "model": "glm-5.3"
+}

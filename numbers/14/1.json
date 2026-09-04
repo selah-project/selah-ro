@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a ridicat toată adunarea ⟨את⟩ glasul lor și a plâns poporul în noaptea aceea.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "Și a ridicat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "și au dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul lor"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "glasul lor"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "și a plâns"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "în noaptea"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceaea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:47:29.060019066Z",
+  "model": "glm-5.3"
+}

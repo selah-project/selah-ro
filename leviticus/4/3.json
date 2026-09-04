@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Dacă preotul cel uns va păcătui, spre vina poporului, să aducă pentru păcatul lui pe care l-a săvârșit un taur, fiu de cireadă, fără meteahnă, lui Yahve, pentru jertfă de păcat.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preotul"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "cel uns"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "va păcătui"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "spre vina"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "și să aducă"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "păcatul lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a săvârșit"
+    },
+    {
+      "surface": "פר",
+      "gloss": "un taur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de cireadă"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fără meteahnă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pentru jertfă de păcat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:08.255215013Z",
+  "model": "glm-5.3"
+}

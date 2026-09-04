@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Scoate-mă și mă izbăvește de la mâna fiilor străinării, ai căror gură a vorbit deșertăciune și a căror dreaptă este o dreaptă a minciunii.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Scoate-mă"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "și mă izbăvește"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la mâna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străinării"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ai căror"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "gură"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "deșertăciune"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "și a căror dreaptă"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dreaptă"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a minciunii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:44.324386395Z",
+  "model": "glm-5.3"
+}

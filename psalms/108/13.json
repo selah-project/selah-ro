@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Dă nouă ajutor din strâmtorare, și deșartă ⟨este⟩ izbăvirea omului.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Dă"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ajutor"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "din strâmtorare"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "și deșartă"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "izbăvirea"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:29.807486035Z",
+  "model": "glm-5.3"
+}

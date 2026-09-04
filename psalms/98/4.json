@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 98,
+  "translation": "Strigați de bucurie către Yahve, tot pământul; izbucniți în cântece, chiuiți și cântați!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Strigați de bucurie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "Izbucniți"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "și chiuiți"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "și cântați"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:03.367048768Z",
+  "model": "glm-5.3"
+}

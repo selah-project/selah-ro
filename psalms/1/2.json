@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Ci plăcerea lui ⟨este⟩ în Tora lui Yahve și în Tora lui ⟨el⟩ murmurează ziua și noaptea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ci⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "în Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "plăcerea lui"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "și în Tora lui"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "murmurează"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "și noaptea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:59.826471952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a zis: Dacă pentru pace au ieșit, prindeți-i vii; iar dacă pentru război au ieșit, vii prindeți-i.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pentru pace"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "au ieșit"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "prindeți-i"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vii"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pentru război"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "au ieșit"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vii"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "prindeți-i"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:49.580108615Z",
+  "model": "glm-5.3"
+}

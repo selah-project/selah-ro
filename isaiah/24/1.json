@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Iată, Yahve golește pământul și îl prăpădește, și îi strică fața și îi risipește locuitorii.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "golește"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "și îl prăpădește"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "și îi strică"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "fața"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "și risipește"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "locuitorii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:32.646251424Z",
+  "model": "glm-5.3"
+}

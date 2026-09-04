@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a spus unchiul lui Șaul: Spune-mi, te rog, ce v-a spus Șmuel?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "unchiul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Spune"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:38.666051272Z",
+  "model": "glm-5.3"
+}

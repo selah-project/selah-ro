@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și oștirea lui și cei numărați ai lor: cinci și treizeci de mii și patru sute.",
+  "tokens": [
+    {
+      "surface": "וּצְבָאוֹ",
+      "gloss": "și oștirea lui"
+    },
+    {
+      "surface": "וּפְקֻדֵיהֶם",
+      "gloss": "și cei numărați ai lor"
+    },
+    {
+      "surface": "חֲמִשָּׁה",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁים",
+      "gloss": "și treizeci"
+    },
+    {
+      "surface": "אֶלֶף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "וְאַרְבַּע",
+      "gloss": "și patru"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "sute"
+    }
+  ],
+  "timestamp": "2026-09-04T06:50:59.699145991Z",
+  "model": "glm-5.3"
+}

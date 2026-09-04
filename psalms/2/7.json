@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Voi vesti hotărârea: Yahve mi-a spus: „Fiul meu ești tu; eu astăzi te-am născut.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Voi vesti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨despre⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "hotărârea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Fiul meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ești"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "te-am născut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:32.072758109Z",
+  "model": "glm-5.3"
+}

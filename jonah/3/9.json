@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Cine știe? Se va întoarce, se va căi Elohim, se va întoarce de la aprinderea mâniei lui, și nu vom pieri.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "știe"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se va întoarce"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "se va căi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "și se va întoarce"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "de la aprinderea"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mâniei lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "vom pieri"
+    }
+  ],
+  "timestamp": "2026-09-04T04:43:33.513553925Z",
+  "model": "glm-5.3"
+}

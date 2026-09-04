@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și a făcut ⟨את⟩ prăjinile din lemn de șitim și le-a acoperit cu aur, ca să poarte ⟨את⟩ masa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prăjinile"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "prăjinile"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "din lemn de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "șitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "și le-a acoperit cu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le",
+      "marks": "aur (obiectul acoperirii: prăjinile)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ca să poarte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:49.389075032Z",
+  "model": "glm-5.3"
+}

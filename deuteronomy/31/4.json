@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și va face Yahve cu ei cum a făcut cu Sihon și cu Og, regii Haemori, și cu țara lor, pe care ⟨את⟩ i-a nimicit.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Și va face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "cu Sihon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "și cu Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "și cu țara lor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "a nimicit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i-"
+    }
+  ],
+  "timestamp": "2026-09-04T02:15:47.118785984Z",
+  "model": "glm-5.3"
+}

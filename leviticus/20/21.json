@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și un om care va lua ⟨את⟩ femeia fratelui său — necurăție este; goliciunea fratelui său a dezgolit-o; fără copii vor fi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "femeia fratelui său"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratelui său"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "necurăție"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "goliciunea"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratelui său"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "a dezgolit-o"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "fără copii"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vor fi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:13.538193910Z",
+  "model": "glm-5.3"
+}

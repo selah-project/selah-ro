@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "și să nu vă verse pământul ⟨את⟩ voi, când îl pângăriți ⟨את⟩ el, cum a vomitat ⟨את⟩ neamul care a fost înaintea voastră.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "vă verse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "când îl pângăriți"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "a vomitat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neamul"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:06.038846671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "și ți s-a vestit și ai auzit și ai cercetat bine, și iată: adevărat și întemeiat ⟨este⟩ cuvântul — s-a făcut urâciunea aceasta în Israel —",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "și ți s-a vestit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "și ai auzit"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "și ai cercetat"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevărat"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "întemeiat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "s-a făcut"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "urâciunea"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:49.638390871Z",
+  "model": "glm-5.3"
+}

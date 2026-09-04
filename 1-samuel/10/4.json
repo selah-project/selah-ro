@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și te vor întreba de tine, cum îți este, și îți vor da două pâini, și le vei lua din mâna lor.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "Și te vor întreba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "de tine"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "cum îți este"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "și îți vor da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "două"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâini"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "și le vei lua"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "din mâna lor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:44:19.703574033Z",
+  "model": "glm-5.3"
+}

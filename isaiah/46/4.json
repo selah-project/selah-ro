@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Până la bătrânețe eu sunt ⟨același⟩, și până la căruntețe eu voi purta; eu am făcut, și eu voi ridica, și eu voi purta și voi scăpa.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "Până la"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "bătrânețe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sunt ⟨același⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "căruntețe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "voi purta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "și eu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "voi ridica"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "și eu"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "voi purta"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "și voi scăpa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:44.202082148Z",
+  "model": "glm-5.3"
+}

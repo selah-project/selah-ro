@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 67,
+  "translation": "Să te laude popoarele, Elohim, să te laude popoarele, toate.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "să te laude"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "să te laude"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:14.660233363Z",
+  "model": "glm-5.3"
+}

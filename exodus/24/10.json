@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și au văzut ⟨את⟩ pe Elohim al lui Israel, iar sub picioarele lui ⟨era⟩ ca o lucrare de pavaj din piatra de safir și ca ființa cerurilor la curăția lor.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Elohim al lui Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "iar sub"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "picioarele lui"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ca o lucrare"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "de pavaj"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "din piatra de safir"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "și ca ființa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "la curăția lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:39.004210493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Și va întoarce peste ei ⟨את⟩ nelegiuirea lor, și în răutatea lor îi va stârpi — îi va stârpi Yahve, Elohim al nostru.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "și va întoarce"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelegiuirea lor"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "nelegiuirea lor"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "și în răutatea lor"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "îi va stârpi"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "îi va stârpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:34.994195237Z",
+  "model": "glm-5.3"
+}

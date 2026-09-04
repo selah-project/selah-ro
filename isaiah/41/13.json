@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 41:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Căci eu, Yahve, Elohim al tău, cel ce țin de mâna ta dreaptă, Cel ce îți zice: Nu te teme, eu te-am ajutat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "cel ce țin"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "de mâna ta dreaptă"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "Cel ce zice"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "te-am ajutat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:28.995478420Z",
+  "model": "glm-5.3"
+}

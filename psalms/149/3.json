@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 149,
+  "translation": "Să laude numele lui în dans, cu tobul și cu chitara să cânte lui.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Să laude"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "în dans"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "cu tobul"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "și cu chitara"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "să cânte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:47.611991543Z",
+  "model": "glm-5.3"
+}

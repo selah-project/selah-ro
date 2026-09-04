@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a trimis Ițhac ⟨את⟩ Iaacov, și a mers către Padan-Aram, către Lavan, fiul lui Betuel arameul, fratele Rivkăi, mama lui Iaacov și a lui Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "lui Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "arameul"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratele"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkăi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "și a lui Esav"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:05.725475168Z",
+  "model": "glm-5.3"
+}

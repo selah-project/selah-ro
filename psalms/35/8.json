@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Să-l ajungă prăpădul fără să știe, și lațul pe care l-a ascuns să-l prindă; în prăpăd să cadă în el.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "să-l ajungă"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "prăpădul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "va ști"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "și lațul lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "l-a ascuns"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "să-l prindă"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "în prăpăd"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "să cadă"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:27.831329203Z",
+  "model": "glm-5.3"
+}

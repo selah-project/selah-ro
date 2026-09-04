@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și cel care lovește o vită s-o va despăgubi, iar cel care lovește un om va fi omorât.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Și cel care lovește"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "o vită"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "s-o va despăgubi"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "iar cel care lovește"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un om"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "va fi omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:13.558262712Z",
+  "model": "glm-5.3"
+}

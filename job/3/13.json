@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Căci acum aș fi zăcut și aș fi tăcut, aș fi dormit — atunci ar fi fost odihnă pentru mine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "aș fi zăcut"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "și aș fi tăcut"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "aș fi dormit"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ar fi fost odihnă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:46.101476220Z",
+  "model": "glm-5.3"
+}

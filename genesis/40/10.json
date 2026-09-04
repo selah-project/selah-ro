@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și în viță ⟨erau⟩ trei mlădițe, și ea ca înflorind a ridicat floarea ei — au copt ciorchinii ei struguri.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "Și în viță"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "שריגים",
+      "gloss": "mlădițe"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "și ea"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "ca înflorind"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "a ridicat"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "floarea ei"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "au copt"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "ciorchinii ei"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "struguri"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:53.047626733Z",
+  "model": "glm-5.3"
+}

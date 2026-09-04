@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și m-am sculat dimineața ca să alăptez pe fiul meu, și iată ⟨era⟩ mort; și m-am uitat la el dimineața, și iată nu era fiul meu, cel pe care îl născusem.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "și m-am sculat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "ca să alăptez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe fiul meu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mort"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "și m-am uitat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel pe care"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "îl născusem"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:40.108836956Z",
+  "model": "glm-5.3"
+}

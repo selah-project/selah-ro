@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și mie ⟨imi⟩ este inimă ca vouă; nu sunt căzut mai prejos decât voi; și ⟨את⟩ cine nu este ca aceștia?",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Și"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "לֵבָב",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "כְּמוֹכֶם",
+      "gloss": "ca vouă"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נֹפֵל",
+      "gloss": "sunt căzut"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מִכֶּם",
+      "gloss": "mai prejos decât voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cine"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אַיִן",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "ca"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "aceștia"
+    }
+  ],
+  "timestamp": "2026-09-04T08:06:31.135087956Z",
+  "model": "glm-5.3"
+}

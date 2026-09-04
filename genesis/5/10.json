@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a trăit Enoș, după nașterea lui ⟨את⟩ Chenan, opt sute cincisprezece ani, și a născut fii și fiice.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Și a trăit"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoș"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nașterea lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Chenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "și opt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "și fiice"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:54.942406774Z",
+  "model": "glm-5.3"
+}

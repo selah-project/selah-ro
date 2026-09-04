@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "În rânduielile tale voi cugeta și-mi voi pleca privirea spre căile tale.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "În rânduielile tale"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "voi cugeta"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "și-mi voi pleca privirea"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "căile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:21.164636301Z",
+  "model": "glm-5.3"
+}

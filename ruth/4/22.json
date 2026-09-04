@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și Oved a născut ⟨את⟩ Ișai, iar Ișai a născut ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Și Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ișai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ișai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "iar Ișai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:48.895000952Z",
+  "model": "glm-5.3"
+}

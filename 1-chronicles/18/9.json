@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a auzit Tou, regele Hamatului, că a lovit David ⟨את⟩ toată oștirea lui Hadadezer, regele Țobei.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată oștirea lui Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "oștirea"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "lui Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Țobei"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:04.014705195Z",
+  "model": "glm-5.3"
+}

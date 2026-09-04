@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și au luat oamenii din hrana lor, dar gura lui Yahve nu au întrebat-o.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Și au luat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "din hrana lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dar ⟨את⟩",
+      "marks": "gura lui Yahve"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "au întrebat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T02:18:42.693631367Z",
+  "model": "glm-5.3"
+}

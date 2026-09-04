@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "și ne-a scăpat de vrăjmașii noștri, că în veac ⟨este⟩ hesedul lui",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "și ne-a scăpat"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "de vrăjmașii noștri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:20.819820081Z",
+  "model": "glm-5.3"
+}

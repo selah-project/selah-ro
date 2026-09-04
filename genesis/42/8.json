@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și i-a recunoscut Iosif ⟨את⟩ frații săi, dar ei nu l-au recunoscut pe el.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "și i-a recunoscut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frații săi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dar ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "l-au recunoscut pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:20.999459905Z",
+  "model": "glm-5.3"
+}

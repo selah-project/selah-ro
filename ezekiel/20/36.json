@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 20:36",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Cum m-am judecat cu ⟨את⟩ părinții voștri în pustiul țării Mițraimului, așa mă voi judeca cu ⟨את⟩ voi — oracolul lui Adonai Yahve.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "נשפטתי",
+      "gloss": "m-am judecat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "părinții voștri"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "părinții voștri"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mă voi judeca"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "cu ⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:43:27.157064573Z",
+  "model": "glm-5.3"
+}

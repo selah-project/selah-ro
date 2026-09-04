@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și l-a trimis Yahve Elohim din grădina din Eden, să lucreze ⟨את⟩ pământul din care fusese luat.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "Și l-a trimis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "din grădina"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "din Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "să lucreze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "din care"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fusese luat"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:35.480711577Z",
+  "model": "glm-5.3"
+}

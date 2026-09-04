@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "și aude cel care aude ⟨את⟩ glasul șofarului și nu se păzește — vine sabia și îl ia pe el: sângele lui asupra capului lui va fi.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "și aude"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "cel care aude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "șofarului"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "se păzește"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabia"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "și îl ia pe el"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "asupra capului lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:30:02.401858780Z",
+  "model": "glm-5.3"
+}

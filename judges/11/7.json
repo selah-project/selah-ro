@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 11:7",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a spus Iiftah bătrânilor Ghiladului: Oare nu voi m-ați urât ⟨את⟩ ⟨pe mine⟩ și m-ați alungat din casa tatălui meu? Și de ce ați venit la mine acum, când ⟨este⟩ strâmtorare pentru voi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Iiftah"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "bătrânilor"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ghiladului"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "m-ați urât"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨pe mine⟩",
+      "marks": "sufixul -י al obiectului: „pe mine”"
+    },
+    {
+      "surface": "ותגרשוני",
+      "gloss": "și m-ați alungat"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatălui meu"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "Și de ce"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ați venit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "צר",
+      "gloss": "strâmtorare"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:34:33.424277541Z",
+  "model": "glm-5.3"
+}

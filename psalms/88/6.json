@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Între morți sunt slobozit, ca cei străpunși care zacă în mormânt, pe care nu îi mai pomenești, și ei de mâna ta sunt tăiați deoparte.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "între morți"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "sunt slobozit"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "cei străpunși"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "care zacă"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "în mormânt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "îi mai pomenești"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "și ei"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "de mâna ta"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "sunt tăiați deoparte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:05.804403205Z",
+  "model": "glm-5.3"
+}

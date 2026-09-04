@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "O calcă în picioare piciorul — picioarele celor smeriți, pașii celor nevoiași.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "o calcă în picioare"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "piciorul"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "picioarele"
+    },
+    {
+      "surface": "עני",
+      "gloss": "celor smeriți"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "pașii"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "celor nevoiași"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:57.650602954Z",
+  "model": "glm-5.3"
+}

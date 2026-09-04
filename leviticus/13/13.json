@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și va vedea cohenul, și iată, țaraatul a acoperit ⟨את⟩ tot carnea lui, atunci va declara curat ⟨את⟩ plaga — totul s-a întors alb: curat este.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "și va vedea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "a acoperit"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "țaraatul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot carnea lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "carnea lui"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "și va declara curat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plaga"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plaga"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "totul"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "alb"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:56.519090454Z",
+  "model": "glm-5.3"
+}

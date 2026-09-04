@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Și m-a întors ⟨את⟩ ⟨pe mine⟩ pe drumul porții sanctuarului, celei din afară, celei îndreptate spre răsărit, și ea era închisă.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și m-a întors"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨pe mine⟩",
+      "marks": "אתי este את + sufix: semnul marchează „mine”"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "sanctuarului"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "celei din afară"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "celei îndreptate"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "spre răsărit"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și ea"
+    },
+    {
+      "surface": "גור",
+      "gloss": ""
+    },
+    {
+      "surface": "סגור",
+      "gloss": "închisă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:36:06.635550342Z",
+  "model": "glm-5.3"
+}

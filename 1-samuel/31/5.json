@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a văzut cel ce-i purta armele că murise Șaul, și a căzut și el pe sabia sa și a murit împreună cu el.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "cel ce purta"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "armele lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מת",
+      "gloss": "murise"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "și a căzut"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sabia sa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "împreună cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:54:17.556598894Z",
+  "model": "glm-5.3"
+}

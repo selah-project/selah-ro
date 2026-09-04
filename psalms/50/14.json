@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Jertfește-I lui Elohim mulțumire și plătește-I Celui Preaînalt voturile tale!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "jertfește-I"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "mulțumire"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "și plătește-I"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Celui Preaînalt"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "voturile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:59.471906329Z",
+  "model": "glm-5.3"
+}

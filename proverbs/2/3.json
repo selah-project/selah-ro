@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "ba, dacă după înțelegere vei striga, spre pricepere vei da glasul tău,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "după înțelegere"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "vei striga"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "spre pricepere"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vei da"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "glasul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:35.941213340Z",
+  "model": "glm-5.3"
+}

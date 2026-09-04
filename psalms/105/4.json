@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Căutați-l pe Yahve și tăria lui; căutați fața lui neîncetat!",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Căutați-l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "și tăria lui"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "căutați"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața lui"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:51.332271754Z",
+  "model": "glm-5.3"
+}

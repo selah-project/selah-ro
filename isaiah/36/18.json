@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Ca nu cumva să vă amăgească ⟨את⟩ voi Hizchia, zicând: Yahve ne va scăpa! Au scăpat oare dumnezeii neamurilor, fiecare ⟨את⟩ țara lui, din mâna regelui Așur?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "să vă amăgească"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizchia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ne va scăpa"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "au scăpat oare"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara lui"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "țara lui"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:32.934342504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "și să nu fie ca părinții lor, un neam îndărătnic și răzvrătit, un neam care nu și-a pregătit inima și a cărui duh nu a fost statornic ⟨את⟩ lui El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "fie"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "ca părinții lor"
+    },
+    {
+      "surface": "דור",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "îndărătnic"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "și răzvrătit"
+    },
+    {
+      "surface": "דור",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "și-a pregătit"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și ... nu"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "a fost statornică"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "duhul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:58.536114528Z",
+  "model": "glm-5.3"
+}

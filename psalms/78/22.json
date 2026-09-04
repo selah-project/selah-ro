@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "pentru că nu au crezut în Elohim și nu s-au încrezut în mântuirea lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "au crezut"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "în Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "s-au încrezut"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "în mântuirea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:23.667094417Z",
+  "model": "glm-5.3"
+}

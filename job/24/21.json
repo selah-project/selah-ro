@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Păstorește stearpa care nu va naște, și văduvei nu îi face bine.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "păstorește"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "stearpa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "va naște"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "și văduvei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "face bine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:48.890602304Z",
+  "model": "glm-5.3"
+}

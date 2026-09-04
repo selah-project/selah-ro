@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Iată, zvârcolindu-se cu nelegiuirea, a rămas grea cu necazul și a născut minciuna.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "zvârcolindu-se"
+    },
+    {
+      "surface": "און",
+      "gloss": "cu nelegiuirea"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "a rămas grea"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "cu necazul"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciuna"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:14.172097882Z",
+  "model": "glm-5.3"
+}

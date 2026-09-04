@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Fiii lui Israel au rodit, au forțit, s-au înmulțit și s-au făcut foarte, foarte puternici, și s-a umplut pământul de ⟨את⟩ ei.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "au rodit"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "au forțit"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "s-au înmulțit"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "s-au făcut puternici"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "și s-a umplut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:17.367475607Z",
+  "model": "glm-5.3"
+}

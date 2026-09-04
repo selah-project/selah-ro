@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și s-a ridicat Yoav și a mers la Gșura, și a adus ⟨את⟩ Avșalom la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "și s-a ridicat"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "la Gșura"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avșalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T03:01:02.244869778Z",
+  "model": "glm-5.3"
+}

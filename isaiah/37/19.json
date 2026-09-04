@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "și au aruncat ⟨את⟩ dumnezeii lor în foc, căci nu ⟨sunt⟩ dumnezei, ci lucru făcut de mâinile omului, lemn și piatră, și i-au nimicit.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "și au aruncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dumnezeii lor"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dumnezeii lor"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "doar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucru făcut"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de mâinile"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lemn"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "și piatră"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "și i-au nimicit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:32.600714527Z",
+  "model": "glm-5.3"
+}

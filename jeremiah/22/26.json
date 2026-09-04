@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și te voi arunca, ⟨את⟩ pe tine, și ⟨את⟩ pe mama ta, care te-a născut, pe un alt pământ, în care nu v-ați născut; și acolo veți muri.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "Și te voi arunca"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pe tine",
+      "marks": "pe tine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe mama ta"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "te-a născut"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "v-ați născut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "și acolo"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "veți muri"
+    }
+  ],
+  "timestamp": "2026-09-04T09:39:47.060800856Z",
+  "model": "glm-5.3"
+}

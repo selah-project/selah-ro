@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Și Yahve a fost mie ⟨ca⟩ loc de înălțime, și Elohim al meu ⟨ca⟩ stâncă a adăpostului meu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "loc de înălțime"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "și Elohim al meu"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "stâncă"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "adăpostului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:34.994046183Z",
+  "model": "glm-5.3"
+}

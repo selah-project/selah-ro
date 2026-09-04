@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și au luat ⟨את⟩ Lot, fiul fratelui lui Avram, și ⟨את⟩ avutul lui, și au plecat; iar el ședea în Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "și au luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "avutul lui"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "avutul lui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratelui"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "lui Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au plecat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iar el"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ședea"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "în Sodom"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:01.891991431Z",
+  "model": "glm-5.3"
+}

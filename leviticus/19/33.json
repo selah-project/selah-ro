@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și dacă va locui un ger cu tine ⟨את⟩ în pământul vostru, să nu-l asupriți ⟨את⟩ pe el.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "va locui ca străin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu tine ⟨את⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "un ger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "în pământul vostru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "să asupriți"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "el (gerul)"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:00.154782146Z",
+  "model": "glm-5.3"
+}

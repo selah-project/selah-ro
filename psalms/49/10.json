@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Și ⟨el⟩ va trăi încă în veci, nu va vedea groapa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "și va trăi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "va vedea"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "groapa"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:44.661010712Z",
+  "model": "glm-5.3"
+}

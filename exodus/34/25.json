@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Să nu junghii cu dospit sângele jertfei mele, și să nu rămână până dimineața jertfa sărbătorii Pesahului.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "junghii"
+    },
+    {
+      "surface": "על",
+      "gloss": "cu"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "dospit"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "jertfei mele"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "rămână (peste noapte)"
+    },
+    {
+      "surface": "ל בקר",
+      "gloss": "până dimineața"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sărbătorii"
+    },
+    {
+      "surface": "ה פסח",
+      "gloss": "Pesahului"
+    }
+  ],
+  "timestamp": "2026-09-04T06:45:13.412984378Z",
+  "model": "glm-5.3"
+}

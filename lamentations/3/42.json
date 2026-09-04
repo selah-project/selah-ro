@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Noi am răzvrătit și ne-am răzvrătit, tu nu ai iertat.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Noi"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "am răzvrătit"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "și ne-am răzvrătit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ai iertat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:38.608211434Z",
+  "model": "glm-5.3"
+}

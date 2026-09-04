@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și ⟨את⟩ Iehu, fiul lui Nimși, îl vei unge ca rege peste Israel, și ⟨את⟩ Elișa, fiul lui Șafat, din Avel-Mehola, îl vei unge ca navi (profet) în locul tău.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "lui Nimși"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "vei unge"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ca rege"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Elișa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elișa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Șafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "din Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mehola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "vei unge"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "ca navi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "în locul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T07:20:06.796788895Z",
+  "model": "glm-5.3"
+}

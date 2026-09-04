@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Ah, Yahve, căci eu sunt sluga ta, eu sunt sluga ta, fiul roabei tale — ai deschis lanțurile mele.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sunt sluga ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sunt sluga ta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "roabei tale"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "ai deschis"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "lanțurile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:21.076306089Z",
+  "model": "glm-5.3"
+}

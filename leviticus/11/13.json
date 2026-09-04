@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Iar ⟨את⟩ acestea le veți urî dintre păsări: nu se vor mânca, spurcăciune sunt ele: ⟨את⟩ vulturul, și ⟨את⟩ vulturul-pleșuv, și ⟨את⟩ vulturul-pezător.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "acestea"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "veți urî"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "păsările"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "se vor mânca"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "spurcăciune"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sunt ele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vulturul"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "vulturul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vulturul-pleșuv"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "vulturul-pleșuv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vulturul-pezător"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "vulturul-pezător"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:54.965482352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a răspuns Yahve ⟨את⟩ îngerul care vorbea în mine — cuvinte bune, cuvinte de mângâiere.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "îngerul"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "îngerul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "care vorbea"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bune"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "de mângâiere"
+    }
+  ],
+  "timestamp": "2026-09-04T04:48:54.580808178Z",
+  "model": "glm-5.3"
+}

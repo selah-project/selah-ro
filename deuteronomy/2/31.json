@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a spus Yahve către mine: Vezi, am început să dau înaintea ta ⟨את⟩ Sihon și ⟨את⟩ pământul lui; începe, pune stăpânire, să stăpânești ⟨את⟩ pământul lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "am început"
+    },
+    {
+      "surface": "תת",
+      "gloss": "să dau"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pământul lui"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "pământul lui"
+    },
+    {
+      "surface": "החל",
+      "gloss": "începe"
+    },
+    {
+      "surface": "רש",
+      "gloss": "pune stăpânire"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "să stăpânești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul lui"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "pământul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:40.863453364Z",
+  "model": "glm-5.3"
+}

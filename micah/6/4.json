@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Căci te-am scos din țara Mițraimului și din casa robilor te-am răscumpărat, și am trimis înaintea feței tale ⟨את⟩ Moșe, ⟨את⟩ Aharon și ⟨את⟩ Miriam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "te-am scos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "și din casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robilor"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "te-am răscumpărat"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "și am trimis"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea feței tale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe, Aharon și Miriam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "și Miriam"
+    }
+  ],
+  "timestamp": "2026-09-04T04:46:17.860780174Z",
+  "model": "glm-5.3"
+}

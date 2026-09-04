@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Nu mă părăsi, Yahve, Elohimul meu, nu te depărta de mine!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "mă părăsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul meu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "te depărta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:53.318433716Z",
+  "model": "glm-5.3"
+}

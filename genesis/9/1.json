@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a binecuvântat Elohim ⟨את⟩ Noe și ⟨את⟩ fiii lui, și le-a spus: Prindeți roade și înmulțiți-vă și umpleți ⟨את⟩ pământul.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Și a binecuvântat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Prindeți roste"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "și înmulțiți-vă"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "și umpleți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:42.317724894Z",
+  "model": "glm-5.3"
+}

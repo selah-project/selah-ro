@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și chiar sânge nevinovat pe care l-a vărsat — căci a umplut ⟨את⟩ Ierușalaim de sânge nevinovat — și n-a voit Yahve să ierte.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și chiar"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "l-a vărsat"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "și a umplut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a voit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "să ierte"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:15.448996672Z",
+  "model": "glm-5.3"
+}

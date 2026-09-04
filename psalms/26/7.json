@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "ca să se audă vocea mulțumirii și să istorisesc toate minunile tale.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ca să se audă"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "vocea"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "mulțumirii"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "și să istorisesc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "minunile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:33.085662300Z",
+  "model": "glm-5.3"
+}

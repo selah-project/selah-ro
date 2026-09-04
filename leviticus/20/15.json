@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și un bărbat care își va da culcarea cu o vită — va fi omorât de-a binelea, iar ⟨את⟩ vita s-o omorâți.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un bărbat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "își va da"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "culcarea"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "cu o vită"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de-a binelea"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "va fi omorât"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "vita"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "s-o omorâți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:54.050336851Z",
+  "model": "glm-5.3"
+}

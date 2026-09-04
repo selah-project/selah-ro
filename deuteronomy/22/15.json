@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "vor lua tatăl fetei și mama ei, și vor scoate ⟨את⟩ semnele virginității fetei înaintea bătrânilor cetății, la poartă;",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "vor lua"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "fetei"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "și mama ei"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "și vor scoate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semnele virginității fetei"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "semnele virginității"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "fetei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânilor"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "la poartă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:15.788408555Z",
+  "model": "glm-5.3"
+}

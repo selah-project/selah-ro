@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Poporul meu — asupritorii lui ⟨sunt⟩ prunc, și femeile au domnit peste el. Poporul meu, cei ce te fericesc te rătăcesc, și calea cărărilor tale au înghițit-o.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Poporul meu"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "asupritorii lui"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "prunc"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "și femeile"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "au domnit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Poporul meu"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "cei ce te fericesc"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "te rătăcesc"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "și calea"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "cărărilor tale"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "au înghițit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:06.596489555Z",
+  "model": "glm-5.3"
+}

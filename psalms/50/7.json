@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Ascultă, poporul meu, și voi grăi, Israel, și voi mărturisi împotriva ta: Elohim, Elohim al tău, sunt eu.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "și voi grăi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "și voi mărturisi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "împotriva ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt eu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:32.309185607Z",
+  "model": "glm-5.3"
+}

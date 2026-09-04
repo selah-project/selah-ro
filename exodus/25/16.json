@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și să pui în Chivot ⟨את⟩ Mărturia pe care ți-o voi da Eu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "să pui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Chivot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mărturia"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Mărturia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "voi da"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:39.597815149Z",
+  "model": "glm-5.3"
+}

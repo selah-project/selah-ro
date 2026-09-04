@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Până când, Yahve, te vei ascunde ⟨pe⟩ totdeauna? Va arde ca focul mânia ta?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מה",
+      "gloss": "când"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "te vei ascunde"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨pe⟩ totdeauna"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "va arde"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "אש",
+      "gloss": "focul"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "mânia ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:04.665426330Z",
+  "model": "glm-5.3"
+}

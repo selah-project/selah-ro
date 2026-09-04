@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Am cunoscut, Yahve, că drepte sunt judecățile tale, și în credincioșie m-ai smerit ⟨pe mine⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Am cunoscut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "drepte"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "și în credincioșie"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "m-ai smerit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:02.921323155Z",
+  "model": "glm-5.3"
+}

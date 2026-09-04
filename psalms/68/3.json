@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Cum e împrăștiat fumul, așa îi vei împrăștia; cum se topește ceara de fața focului, așa vor pieri cei răi de fața lui Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "cum e împrăștiat"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "fumul"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "așa îi vei împrăștia"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "cum se topește"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "ceara"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de fața"
+    },
+    {
+      "surface": "אש",
+      "gloss": "focului"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "așa vor pieri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de fața"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:31.137601388Z",
+  "model": "glm-5.3"
+}

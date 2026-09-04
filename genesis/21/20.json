@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a fost Elohim ⟨את⟩ copilul, și a crescut și a locuit în pustiu și a fost crescând ⟨את⟩ arcul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copilul"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "și a crescut"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a locuit"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "crescând"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arcul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:15.569627760Z",
+  "model": "glm-5.3"
+}

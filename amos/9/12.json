@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 9:12",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "ca să stăpânească ⟨את⟩ rămășița Edomului și toate neamurile peste care ⟨este⟩ chemat numele meu, neum al lui Yahve, cel ce face aceasta",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "stăpânească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rămășița Edomului"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "rămășița"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomului"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toate"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "peste care"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "este chemat"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "numele meu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "al lui Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cel ce face"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:10.199336271Z",
+  "model": "glm-5.3"
+}

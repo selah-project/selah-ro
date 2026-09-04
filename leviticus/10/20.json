@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a ascultat Moșe, și a fost bine în ochii lui.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a ascultat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "și a fost bine"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:13.357551461Z",
+  "model": "glm-5.3"
+}

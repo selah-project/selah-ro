@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a răsplătit Yahve ⟨pe⟩ mine după dreptatea mea, după curăția mâinilor mele înaintea ochilor lui.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și a răsplătit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "după dreptatea mea"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "după curăția"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâinilor mele"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:29.520763088Z",
+  "model": "glm-5.3"
+}

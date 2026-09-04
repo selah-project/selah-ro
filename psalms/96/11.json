@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 96,
+  "translation": "Să se bucure cerurile și să se veselească pământul; să răsune marea și tot ce o umple.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Să se bucure"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "și să se veselească"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "să răsune"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "și tot ce o umple"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:39.171417170Z",
+  "model": "glm-5.3"
+}

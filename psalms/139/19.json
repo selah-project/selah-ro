@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "O, de l-ai ucide pe cel rău, Eloa! Iar oamenii de sânge — depărtați-vă de mine!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "o, de"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "ai ucide"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe cel rău"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "iar oamenii"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "de sânge"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "depărtați-vă"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:51.162190818Z",
+  "model": "glm-5.3"
+}

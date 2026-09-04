@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Numai, aproape de cei ce se tem de el ⟨este⟩ izbăvirea sa, ca să locuiască slava în țara noastră.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "aproape"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "de cei ce se tem de el"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "izbăvirea sa"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ca să locuiască"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "în țara noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:52.087619707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "În ziua a șasea, căpetenia fiilor lui Gad: Elyasaf, fiul lui Deuel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "a șasea"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "גד",
+      "gloss": "lui Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:43:55.207332771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Așa a vorbit Yahve Țevaot: Am cercetat ⟨את⟩ ce a făcut Amalek lui Israel, cum i-a pus ⟨capcană⟩ în drum la suișul lui din Mițraim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Am cercetat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce a făcut Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "în drum"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "la suișul lui"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:41.007315179Z",
+  "model": "glm-5.3"
+}

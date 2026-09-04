@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a auzit ⟨את⟩ glasul alergătorilor și al poporului Atalia, și a venit spre popor, în casa lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "și a auzit"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "alergătorilor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "și al poporului"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:43.756344916Z",
+  "model": "glm-5.3"
+}

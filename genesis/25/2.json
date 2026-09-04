@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și i-a născut ⟨את⟩ Zimran și ⟨את⟩ Iokșan și ⟨את⟩ Medan și ⟨את⟩ Midian și ⟨את⟩ Iișbac și ⟨את⟩ Șuah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iokșan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Iokșan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iișbac"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Iișbac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șuah"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Șuah"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:10.826257816Z",
+  "model": "glm-5.3"
+}

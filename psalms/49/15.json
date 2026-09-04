@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Ca o turmă, pentru Șeol sunt puși; moartea îi va păște, și vor domni peste ei cei drepți dimineața; iar chipul lor îl va mistui Șeol, din locuința lui.",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "Ca o turmă"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "pentru Șeol"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "sunt puși"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "îi va păște"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "și vor domni"
+    },
+    {
+      "surface": "בם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "iar chipul lor"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "va mistui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șeol"
+    },
+    {
+      "surface": "מזבול",
+      "gloss": "din locuința"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:31.774454032Z",
+  "model": "glm-5.3"
+}

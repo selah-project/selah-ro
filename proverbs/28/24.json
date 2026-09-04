@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Cel ce jefuiește pe tatăl său și pe mama sa și spune: «Nu ⟨este⟩ fărădelege», părtaș ⟨este⟩ el unui om care distruge.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "Cel ce jefuiește"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "pe tatăl său"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "și pe mama sa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "și spune"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "fărădelege"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "părtaș"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "care distruge"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:46.218722003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "A prefăcut ⟨את⟩ apele lor în sânge și a omorât ⟨את⟩ peștii lor.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "a prefăcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apele lor"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "apele lor"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "în sânge"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a omorât"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peștii lor"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "peștii lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:01.494537147Z",
+  "model": "glm-5.3"
+}

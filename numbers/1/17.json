@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a luat Moșe și Aharon ⟨את⟩ oamenii aceștia, care au fost rânduiți cu nume.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "și Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii aceștia"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "au fost rânduiți"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "cu nume"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:48.368195286Z",
+  "model": "glm-5.3"
+}

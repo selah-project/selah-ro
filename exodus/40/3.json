@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și să pui acolo ⟨את⟩ chivotul mărturiei, și să acoperi chivotul ⟨את⟩ cu perdeaua.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul mărturiei"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "mărturiei"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "și să acoperi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ cu"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdeaua"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:21.372912041Z",
+  "model": "glm-5.3"
+}

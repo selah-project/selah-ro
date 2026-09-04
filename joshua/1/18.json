@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Orice om care va nesocoti ⟨את⟩ gura ta și nu va asculta ⟨את⟩ cuvintele tale, în tot ce îl vei porunci, va fi omorât; numai fii tare și curajos!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Orice"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "va nesocoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura ta"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gura ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "va asculta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele tale"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "cuvintele tale"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "îl vei porunci"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "va fi omorât"
+    },
+    {
+      "surface": "רק",
+      "gloss": "numai"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "fii tare"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "și curajos"
+    }
+  ],
+  "timestamp": "2026-09-04T02:16:22.025725091Z",
+  "model": "glm-5.3"
+}

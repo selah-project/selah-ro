@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Peste mine s-a sprijinit furia ta, și cu toate valurile tale m-ai apăsat. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "s-a sprijinit"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "furia ta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și cu toate"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "valurile tale"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "m-ai apăsat"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:05.804655562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și aceasta este Tora jertfei de vină: sfânt al sfintelor ⟨este⟩ ea.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Și aceasta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "jertfei de vină"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "al sfintelor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:01.397121882Z",
+  "model": "glm-5.3"
+}

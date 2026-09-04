@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Goliciunea tatălui tău și goliciunea mamei tale să nu o descoperi; mama ta este ea — să nu descoperi goliciunea ei.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Goliciunea"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "și goliciunea"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamei tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "descoperi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este ea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "descoperi"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "goliciunea ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:04.407313709Z",
+  "model": "glm-5.3"
+}

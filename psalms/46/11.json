@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Slăbiți și cunoașteți că eu ⟨sunt⟩ Elohim; sunt înălțat printre neamuri, sunt înălțat pe pământ.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Slăbiți"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "și cunoașteți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "sunt înălțat"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "printre neamuri"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "sunt înălțat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:08.213001817Z",
+  "model": "glm-5.3"
+}

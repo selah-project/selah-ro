@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Zgură ai făcut să piară pe toți răii pământului; de aceea am iubit mărturiile tale.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Zgură"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ai făcut să piară"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "răii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "de aceea"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "am iubit"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mărturiile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:49.632297849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a potolit David ⟨את⟩ oamenii săi cu cuvinte și nu i-a lăsat să se scoale asupra lui Șaul; iar Șaul s-a sculat din peșteră și a mers pe drum.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "Și a potolit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii săi"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "oamenii săi"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "cu cuvinte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "i-a lăsat"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "să se scoale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "iar Șaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "s-a sculat"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "din peșteră"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    }
+  ],
+  "timestamp": "2026-09-04T02:49:41.347818233Z",
+  "model": "glm-5.3"
+}

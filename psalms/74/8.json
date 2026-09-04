@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Au zis în inima lor: „Să-i prăpădim pe toți deodată!” Au ars toate locurile de întâlnire ale lui El în țară.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "au zis"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "în inima lor"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "să-i prăpădim"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "deodată"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "au ars"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "locurile de întâlnire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ale lui El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:23.828785284Z",
+  "model": "glm-5.3"
+}

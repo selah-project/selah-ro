@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Poporul care umblă în întuneric a văzut o lumină mare; celor care locuiesc în țara umbrei morții, o lumină a strălucit peste ei.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Poporul"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "care umblă"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "în întuneric"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "אור",
+      "gloss": "o lumină"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "celor care locuiesc"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "umbrei morții"
+    },
+    {
+      "surface": "אור",
+      "gloss": "o lumină"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "a strălucit"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:25:06.581695346Z",
+  "model": "glm-5.3"
+}

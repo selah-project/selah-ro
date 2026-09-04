@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a văzut regina Șeva ⟨את⟩ înțelepciunea lui Șelomo și casa pe care a zidit-o.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "regina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "înțelepciunea"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "și casa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a zidit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T06:21:23.604202988Z",
+  "model": "glm-5.3"
+}

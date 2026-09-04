@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Căci ochii voștri ⟨sunt⟩ cei care au văzut ⟨את⟩ toată lucrarea cea mare a lui Yahve, pe care a făcut-o.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ochii voștri"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "cei care au văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată lucrarea cea mare a lui Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a lui Yahve"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut-o"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:18.990414792Z",
+  "model": "glm-5.3"
+}

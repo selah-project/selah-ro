@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "ca neamurile pe care Yahve le pierde dinaintea voastră, așa veți pieri, fiindcă nu ascultați de glasul lui Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "ca neamurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "le pierde"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dinaintea voastră"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "veți pieri"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "ascultați"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:07.928715212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Du-te, poporul meu, intră în cămările tale și închide-ți ușile după tine; ascunde-te numai o clipă, până trece mânia.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Du-te"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "intră"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "în cămările tale"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "și închide"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ușile tale"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "după tine"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "ascunde-te"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "numai"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "o clipă"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "trece"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "mânia"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:24.535539739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Mai sunt ⟨oare⟩ în casa celui rău comori de nelegiuire, și efa micșorată, cea blestemată?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Mai"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨oare⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "celui rău"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "comori"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de nelegiuire"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "și efa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "micșorată"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "cea blestemată"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:53.997625603Z",
+  "model": "glm-5.3"
+}

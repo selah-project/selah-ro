@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Căci brațele rășătilor vor fi sfărâmate, dar pe cei drepți îi sprijină Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "brațele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rășătilor"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "vor fi sfărâmate"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "dar sprijină"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pe cei drepți"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:42.476224210Z",
+  "model": "glm-5.3"
+}

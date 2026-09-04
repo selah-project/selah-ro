@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Căci închisese de-a închide Yahve orice pântece din casa lui Avimeleh, din pricina Șarei, soția lui Avraham.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "închisese"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "de-a închide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨asupra⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "pântece"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "lui Avimeleh"
+    },
+    {
+      "surface": "על",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "← pricina"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Șarei"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:33.143445219Z",
+  "model": "glm-5.3"
+}

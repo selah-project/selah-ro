@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus omul: Femeia pe care ai pus-o ⟨să fie⟩ cu mine — ea mi-a dat din pom, și am mâncat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Femeia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ai pus-o"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pom"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "și am mâncat"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:41.844401686Z",
+  "model": "glm-5.3"
+}

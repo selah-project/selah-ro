@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și nu a mai păstrat Iarovam putere în zilele lui Avia, și l-a lovit Yahve, și a murit.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "a mai păstrat"
+    },
+    {
+      "surface": "כח",
+      "gloss": "putere"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Iarovam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "lui Avia"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "și l-a lovit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:23:08.927712775Z",
+  "model": "glm-5.3"
+}

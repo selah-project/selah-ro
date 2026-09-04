@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Vorbește adunării, zicând: Ridicați-vă de prin împrejurimi, de la corturile lui Korah, Datán și Aviram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(adunării)"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "adunării"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Ridicați-vă"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "de prin împrejurimi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "de la corturile lui"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datán"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "și Aviram"
+    }
+  ],
+  "timestamp": "2026-09-04T01:48:53.336543712Z",
+  "model": "glm-5.3"
+}

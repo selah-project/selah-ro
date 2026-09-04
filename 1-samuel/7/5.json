@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a spus Șemuel: Adunați ⟨את⟩ tot Israelul la Mițpa, și mă voi ruga pentru voi către Yahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Adunați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot Israelul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "la Mițpa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "și mă voi ruga"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:00.978785748Z",
+  "model": "glm-5.3"
+}

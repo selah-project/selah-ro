@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și s-au ținut strâns filiștimii după Șaul și după fiii lui, și au lovit filiștimii ⟨את⟩ Ionatan, și ⟨את⟩ Avinadav, și ⟨את⟩ Malkișua, fiii lui Șaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Și s-au ținut strâns"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștimii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "și după"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștimii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ionatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Ionatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Malkișua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "șua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T09:16:06.572230816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "De o veste rea nu se va teme; întărită ⟨este⟩ inima lui, încrezându-se în Yahve.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "De o veste"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "se va teme"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "întărită"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "încrezându-se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:02.579592716Z",
+  "model": "glm-5.3"
+}

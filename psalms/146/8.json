@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 146,
+  "translation": "Yahve deschide ochii orbilor, Yahve îndreaptă pe cei gârboviți, Yahve iubește pe cei drepți.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "deschide ochii"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "orbilor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "îndreaptă"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "pe cei gârboviți"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iubește"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pe cei drepți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.949038369Z",
+  "model": "glm-5.3"
+}

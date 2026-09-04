@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Numai în zilele tale nu o voi face, de dragul lui David, tatăl tău; din mâna fiului tău o voi rupe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "în zilele tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "o voi face"
+    },
+    {
+      "surface": "למען",
+      "gloss": "de dragul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiului tău"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "o voi rupe"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:06.921772271Z",
+  "model": "glm-5.3"
+}

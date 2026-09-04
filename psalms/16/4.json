@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Se vor înmulți idolii-dureri ale celor ce se grăbesc după altcineva; nu voi turna jerfele lor de sânge și nu voi purta ⟨את⟩ numele lor pe buzele mele.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Se vor înmulți"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "idolii-dureri ai lor"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "după"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "s-au grăbit"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "voi turna"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "jerfele lor"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "de sânge"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "voi purta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lor"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "numele lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:28.557505771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și s-au adunat peliștimii ⟨את⟩ toate taberele lor la Afek, iar Israel campa la izvorul care este în Izreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Și s-au adunat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peliștimii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate taberele lor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "taberele lor"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "la Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "iar Israel"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "campa"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "la izvorul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "în Izreel"
+    }
+  ],
+  "timestamp": "2026-09-04T08:56:12.963456735Z",
+  "model": "glm-5.3"
+}

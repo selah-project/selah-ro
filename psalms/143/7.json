@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Grăbește, răspunde-mi, Yahve! Se topește duhul meu; nu-ți ascunde fața de la mine, ca să nu fiu asemenea celor ce coboară în groapă!",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "grăbește"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "răspunde-mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "se topește"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ascunde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ca să nu fiu asemenea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "celor"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ce coboară"
+    },
+    {
+      "surface": "בור",
+      "gloss": "în groapă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:26.679998770Z",
+  "model": "glm-5.3"
+}

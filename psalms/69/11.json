@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Și am plâns cu postul sufletului meu, și a fost spre ocară pentru mine.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Și am plâns"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "cu postul"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletului meu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "spre ocară"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:39.478267050Z",
+  "model": "glm-5.3"
+}

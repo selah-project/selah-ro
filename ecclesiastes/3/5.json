@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Un vreme să arunci pietre și un vreme să aduni pietre; un vreme să îmbrățișezi și un vreme să te depărtezi de îmbrățișare.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un vreme"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "să arunci"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un vreme"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "să aduni"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un vreme"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "să îmbrățișezi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un vreme"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "să te depărtezi"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "de îmbrățișare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:42.382007259Z",
+  "model": "glm-5.3"
+}

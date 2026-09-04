@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Cunoaștere prea minunată ⟨este⟩ pentru mine, prea înaltă — nu pot ⟨ajunge⟩ la ea.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "prea minunată"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "cunoașterea"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "înălțată peste măsură"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "pot"
+    },
+    {
+      "surface": "לה",
+      "gloss": "la ea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:41.315807807Z",
+  "model": "glm-5.3"
+}

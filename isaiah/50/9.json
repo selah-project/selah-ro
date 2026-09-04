@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 50:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Iată, Adonai Yahve mă va ajuta; cine este el care mă va osândi? Iată, toți se vor învechi ca o haină, molia îi va mânca.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "va ajuta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mă"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "mă va osândi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "iată"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ca o haină"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "se vor învechi"
+    },
+    {
+      "surface": "עש",
+      "gloss": "molia"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "îi va mânca"
+    }
+  ],
+  "timestamp": "2026-09-04T03:52:47.576442540Z",
+  "model": "glm-5.3"
+}

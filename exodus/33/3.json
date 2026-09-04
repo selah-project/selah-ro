@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "spre o țară curgând cu lapte și miere; căci nu voi sui în mijlocul tău, căci tu ești un popor tare de ceafă — ca nu cumva să te nimicesc pe drum.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o țară"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "curgând"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "cu lapte"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "și miere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "voi sui"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "în mijlocul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un popor"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tare"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "de ceafă"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ești"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "să te nimicesc"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:40.859700448Z",
+  "model": "glm-5.3"
+}

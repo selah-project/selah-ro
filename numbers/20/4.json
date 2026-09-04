@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și de ce ați adus ⟨את⟩ adunarea lui Yahve în pustiul acesta, să murim acolo, noi și vitele noastre?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "și de ce"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ați adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adunarea lui Yahve"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustiul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "למות",
+      "gloss": "să murim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "și vitele noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T01:51:22.015295312Z",
+  "model": "glm-5.3"
+}

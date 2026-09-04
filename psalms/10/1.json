@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "De ce, Yahve, stai departe, te ascunzi la vremuri de strâmtorare?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stai"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "departe"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "te ascunzi"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "la vremuri"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "de strâmtorare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:41.950139086Z",
+  "model": "glm-5.3"
+}

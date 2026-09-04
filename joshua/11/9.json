@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "A făcut Iehoșua cu ei cum îi spusese lui Yahve: ⟨את⟩ caii lor i-a cruzit, iar ⟨את⟩ carele lor le-a ars în foc.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spusese"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caii lor"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "caii lor"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "i-a cruzit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "carele lor"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "carele lor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "a ars"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    }
+  ],
+  "timestamp": "2026-09-04T02:21:36.214720834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Către dirijorul de cor, pe (nesigur — „Pe șușanim\") „șușanim”, al fiilor lui Korah, un mașkil, un cântec de iubiri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorul de cor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "„șușanim”"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "al fiilor"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "lui Korah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un mașkil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un cântec"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "de iubiri"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:06.473976339Z",
+  "model": "glm-5.3"
+}

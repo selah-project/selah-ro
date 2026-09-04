@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "Căci așa a vorbit Yahve către eunuci: cei ce păzesc ⟨את⟩ Șabaturile mele și aleg ce îmi place și se țin strâns de legământul meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "către eunuci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cei ce"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "păzesc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șabaturile mele"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Șabaturile mele"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "și aleg"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "îmi place"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "și se țin strâns"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "de legământul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:30:01.465247439Z",
+  "model": "glm-5.3"
+}

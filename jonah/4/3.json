@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și acum, Yahve, ia, te rog, ⟨את⟩ viața mea de la mine, căci mai bine ⟨este⟩ moartea mea decât viața mea.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ia"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața mea"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "viața mea"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai bine"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "moartea mea"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "decât viața mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:16.636768774Z",
+  "model": "glm-5.3"
+}

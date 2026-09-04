@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și să o îmbraci cu aur curat ⟨את⟩ și să-i faci o cunună de aur de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Și să îmbraci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ o",
+      "marks": "masa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cu aur"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curat"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și să faci"
+    },
+    {
+      "surface": "לו",
+      "gloss": "îi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "o cunună"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:58.368129149Z",
+  "model": "glm-5.3"
+}

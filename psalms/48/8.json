@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Cu un vânt de răsărit ai sfărâmat corăbiile lui Tarșiș.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "cu un vânt"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "de răsărit"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ai sfărâmat"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "corăbiile"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "lui Tarșiș"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:52.623842409Z",
+  "model": "glm-5.3"
+}

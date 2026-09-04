@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și regele Koresh a scos ⟨את⟩ vasele casei lui Yahve, pe care le scosese Nevuhadnețar din Ierușalaim, și le-a pus în casa dumnezeului său.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Și regele"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "a scos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasele"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vasele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "scosese"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevuhadnețar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "din Ierușalaim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "și le-a pus"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "dumnezeului său"
+    }
+  ],
+  "timestamp": "2026-09-04T05:55:32.621926255Z",
+  "model": "glm-5.3"
+}

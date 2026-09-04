@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Să fie sfârșitul lui ⟨spre⟩ a fi stins; în neamul de-apoi să li se șteargă numele.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "sfârșitul lui"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "spre a fi stins"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "în neamul"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "de-apoi"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "să li se șteargă"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "numele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:15.832306260Z",
+  "model": "glm-5.3"
+}

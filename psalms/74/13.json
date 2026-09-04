@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Tu ai sfărâmat cu puterea ta marea, ai zdrobit capetele monștrilor marini peste ape.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "ai sfărâmat"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "cu puterea ta"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ai zdrobit"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capetele"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ale monștrilor marini"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ape"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:02.428494739Z",
+  "model": "glm-5.3"
+}

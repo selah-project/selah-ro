@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "A construit ⟨את⟩ Beit-Horon cel de sus și ⟨את⟩ Beit-Horon cel de jos, cetăți de fortăreață, cu ziduri, porți și zăvoare.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "A construit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Horon cel de sus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "cel de sus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Beit-Horon cel de jos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "cel de jos"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cetăți"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "de fortăreață"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ziduri"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "porți"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "și zăvoare"
+    }
+  ],
+  "timestamp": "2026-09-04T09:16:29.056135378Z",
+  "model": "glm-5.3"
+}

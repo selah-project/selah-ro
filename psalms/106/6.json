@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Am greșit împreună cu părinții noștri, am făcut strâmbătate, am făcut răutate.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Am greșit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "părinții noștri"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "am făcut strâmbătate"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "am făcut răutate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:04.332370645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Partea mea ⟨este⟩ Yahve; am spus să păzesc cuvintele tale.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "partea mea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am spus"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păzesc"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "cuvintele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:16.465796547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "ca să scape de la moarte sufletul lor și ca să-i țină în viață în foamete.",
+  "tokens": [
+    {
+      "surface": "לְהַצִּ֣יל",
+      "gloss": "ca să scape"
+    },
+    {
+      "surface": "מִמָּ֣וֶת",
+      "gloss": "de la moarte"
+    },
+    {
+      "surface": "נַפְשָׁ֑ם",
+      "gloss": "sufletul lor"
+    },
+    {
+      "surface": "וּ֝לְחַיּוֹתָ֗ם",
+      "gloss": "și ca să-i țină în viață"
+    },
+    {
+      "surface": "בָּרָעָֽב",
+      "gloss": "în foamete"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:31.926594006Z",
+  "model": "glm-5.3"
+}

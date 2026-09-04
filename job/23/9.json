@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 23:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "La stânga, când lucrează ⟨el⟩, și nu îl percep; se învelește la dreapta, și nu îl văd.",
+  "tokens": [
+    {
+      "surface": "שמאול",
+      "gloss": "La stânga"
+    },
+    {
+      "surface": "בעשתו",
+      "gloss": "când lucrează ⟨el⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "îl percep"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "se învelește"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la dreapta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "îl văd"
+    }
+  ],
+  "timestamp": "2026-09-04T05:31:57.483362175Z",
+  "model": "glm-5.3"
+}

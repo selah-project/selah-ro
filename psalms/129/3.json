@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 129,
+  "translation": "Pe spatele meu au arat arătorii, și-au lungit brazdele lor.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "spatele meu"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "au arat"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "arători"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "au lungit"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "brazdele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:28.370384786Z",
+  "model": "glm-5.3"
+}

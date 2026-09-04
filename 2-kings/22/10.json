@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a spus Șafan scribul regelui, zicând: mi-a dat o carte Hilchia cohenul. Și a citit-o Șafan înaintea regelui.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Șafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "scribul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "o carte"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi-"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilchia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "Și a citit-o"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Șafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:32:58.688595403Z",
+  "model": "glm-5.3"
+}

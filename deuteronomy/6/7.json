@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și le vei învăța sărind pe fiii tăi și vei vorbi despre ele în șederea ta în casa ta, în mersul tău pe drum, în culcarea ta și în scularea ta.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "Și le vei învăța sărind"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "pe fiii tăi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "și vei vorbi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "despre ele"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "în șederea ta"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "în casa ta"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "în mersul tău"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "în culcarea ta"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "în scularea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:47.348416041Z",
+  "model": "glm-5.3"
+}

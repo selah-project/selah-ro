@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Turma ta a locuit în ea; pregătești, în bunătatea ta, pentru cel sărman, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "turma ta"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "a locuit"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "pregătești"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "în bunătatea ta"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "pentru cel sărman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:25.464684857Z",
+  "model": "glm-5.3"
+}

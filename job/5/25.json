@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și vei ști că multă ⟨este⟩ sămânța ta, iar vlăstarele tale ca iarba pământului.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Și vei ști"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "רב",
+      "gloss": "multă"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sămânța ta"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "iar vlăstarele tale"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:59.773173917Z",
+  "model": "glm-5.3"
+}

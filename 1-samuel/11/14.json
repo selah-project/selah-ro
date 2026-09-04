@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a spus Șemuel către popor: Veniți și să mergem la Ghilgal și să înnoim acolo împărăția.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "וונלכה",
+      "gloss": "și să mergem"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "la Ghilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "și să înnoim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "împărăția"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:28.895396125Z",
+  "model": "glm-5.3"
+}

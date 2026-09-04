@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a fost, la auzirea regelui ⟨את⟩ cuvintele femeii, că și-a rupt ⟨את⟩ hainele lui — iar el trecea pe zid — și a văzut poporul, și iată: sacul pe trupul lui, pe dinăuntru.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "la auzirea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele femeii"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeii"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "și a rupt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele lui"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele lui"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iar el"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "trecea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "zid"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "השק",
+      "gloss": "sacul"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "trupul lui"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "pe dinăuntru"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:39.776451674Z",
+  "model": "glm-5.3"
+}

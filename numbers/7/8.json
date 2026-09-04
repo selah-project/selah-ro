@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "și ⟨את⟩ patru căruțe și ⟨את⟩ opt boi a dat fiilor lui Merari, după slujba lor, sub mâna lui Itamar, fiul lui Aharon, cohenul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "patru căruțe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patru"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "căruțe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "opt boi"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "opt"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "boi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fior"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "lui Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "după"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "slujba lor"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sub mâna"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "lui Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:43:32.832337850Z",
+  "model": "glm-5.3"
+}

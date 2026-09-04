@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Tatăl tău a făcut greu ⟨את⟩ jugul nostru; și acum ușurează munca grea a tatălui tău și jugul lui cel greu pe care l-a pus peste noi, și te vom sluji.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Tatăl tău"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "a făcut greu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jugul nostru"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "jugul nostru"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ușurează"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "munca"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "greu"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "și jugul lui"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "cel greu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "l-a pus"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "și te vom sluji"
+    }
+  ],
+  "timestamp": "2026-09-04T06:21:26.266566545Z",
+  "model": "glm-5.3"
+}

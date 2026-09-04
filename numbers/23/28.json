@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a luat Balak ⟨את⟩ Bilam pe vârful lui Peor, care se uită peste fața pustiului.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vârful"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "lui Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "care se uită"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "pustiului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:09.669828615Z",
+  "model": "glm-5.3"
+}

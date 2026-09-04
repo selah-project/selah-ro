@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și au pornit din Sukot și au tăbărât în Etam, la marginea pustiului.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Și au pornit"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "din Sukot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "și au tăbărât"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "în Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "la marginea"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustiului"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:43.044068621Z",
+  "model": "glm-5.3"
+}

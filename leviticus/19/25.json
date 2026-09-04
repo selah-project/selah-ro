@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și în anul al cincilea să mâncați ⟨את⟩ rodul lui, ca să vi se adauge vouă roada lui: eu sunt Yahve, Elohimul vostru.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Și în anul"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "al cincilea"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rodul lui"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "rodul lui"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "ca să se adauge"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "roada lui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:17.885538482Z",
+  "model": "glm-5.3"
+}

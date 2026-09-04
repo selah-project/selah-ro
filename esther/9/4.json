@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 9:4",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci mare ⟨era⟩ Mordehai în casa regelui, și vestea despre el mergea în toate provinciile, căci omul Mordehai mergea înainte și creștea mare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "și vestea despre el"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mergea"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provinciile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mergea"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "și creștea mare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:17.226309756Z",
+  "model": "glm-5.3"
+}

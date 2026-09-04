@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și gaia, și ⟨את⟩ vulturul, și uliul după felul ei",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "și gaia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vulturul"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "vulturul"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "și uliul"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "după felul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:09.573203498Z",
+  "model": "glm-5.3"
+}

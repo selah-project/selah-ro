@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Către maiestrul de cântare, pe «Almut Laben», un psalm al lui David.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Către maiestrul de cântare"
+    },
+    {
+      "surface": "עַלְמוּת",
+      "gloss": "pe «Almut»"
+    },
+    {
+      "surface": "לַבֵּן",
+      "gloss": "Laben»"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "un psalm"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:38.217865600Z",
+  "model": "glm-5.3"
+}

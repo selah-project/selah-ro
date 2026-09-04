@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus: fiindcă voi fi cu tine, și acesta îți este semnul că eu te-am trimis: la scoaterea ⟨את⟩ poporului din Mițraim, ve sluji ⟨את⟩ Elohim pe muntele acesta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "voi fi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "și acesta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "האות",
+      "gloss": "semnul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "te-am trimis"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "la scoaterea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "ve sluji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:01.103025170Z",
+  "model": "glm-5.3"
+}

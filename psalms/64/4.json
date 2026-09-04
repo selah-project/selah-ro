@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "care și-au ascuțit ca o sabie limba, și-au îndreptat săgeata — un cuvânt amar.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "și-au ascuțit"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ca o sabie"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "limba"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "și-au îndreptat"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "săgeata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "מר",
+      "gloss": "amar"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:10.434582629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Nebunul disprețuiește mustrarea tatălui său, dar cel ce păzește certarea se face chibzuit.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "Nebunul"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "disprețuiește"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mustrarea"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "dar cel ce păzește"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "certarea"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "se face chibzuit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:22.148939884Z",
+  "model": "glm-5.3"
+}

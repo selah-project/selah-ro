@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Căci s-au sălbătăcit păstorii și ⟨את⟩ Yahve nu l-au căutat; de aceea n-au priceput nimic și toată turma lor este risipită.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "s-au sălbătăcit"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "păstorii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "l-au căutat"
+    },
+    {
+      "surface": "על",
+      "gloss": "de aceea"
+    },
+    {
+      "surface": "כן",
+      "gloss": "de aceea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "au priceput"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "turma lor"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "este risipită"
+    }
+  ],
+  "timestamp": "2026-09-04T09:00:50.192868708Z",
+  "model": "glm-5.3"
+}

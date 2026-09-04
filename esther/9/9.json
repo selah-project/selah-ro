@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "și ⟨את⟩ Parmașta, și ⟨את⟩ Arisai, și ⟨את⟩ Aridai, și ⟨את⟩ Vaiezata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Parmașta"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmașta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Arisai"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aridai"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Vaiezata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vaiezata"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:43.860355313Z",
+  "model": "glm-5.3"
+}

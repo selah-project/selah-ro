@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": " și au dat ⟨את⟩ dumnezeii lor în foc, căci nu ⟨sunt⟩ dumnezei ei, ci lucrare a mâinilor omului, lemn și piatră, și i-au nimicit.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "și au dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dumnezeii lor"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dumnezeii lor"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨decât⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrare"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "a mâinilor"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lemn"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "și piatră"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "și i-au nimicit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:32:57.102353661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 67,
+  "translation": "Ca să se cunoască pe pământ calea ta, în toate popoarele mântuirea ta.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ca să se cunoască"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "calea ta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "mântuirea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:14.660118954Z",
+  "model": "glm-5.3"
+}

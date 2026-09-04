@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Și a binecuvântat ⟨את⟩ Iosif și a zis: Elohimul înaintea căruia au pășit tații mei, Avraham și Ițhac, Elohimul care mă paște pe mine ⟨את⟩ dintru începutul meu până în ziua aceasta aceasta,",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Și a binecuvântat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iosif"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "au pășit"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "tații mei"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "și Ițhac"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimul"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "care mă paște"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mine"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "dintru începutul meu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T10:09:48.146252966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 10:5",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Au vestit lui David și a trimis să-i întâmpine, căci erau oamenii rușinați foarte; și a zis regele: Ședeți în Ieriho până vă va răsări barba, și vă veți întoarce.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Au vestit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "să-i întâmpine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "rușinați"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Ședeți"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "în Ieriho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "vă va răsări"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "barba"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "și vă veți întoarce"
+    }
+  ],
+  "timestamp": "2026-09-04T02:57:42.090225873Z",
+  "model": "glm-5.3"
+}

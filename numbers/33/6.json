@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și au plecat din Sucot și au tabărât la Etam, care ⟨este⟩ la marginea pustiului.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Și au plecat"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "din Sucot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "și au tabărât"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "la Etam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "la marginea"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustiului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:57:03.122139057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 138,
+  "translation": "Te vor lăuda, Yahve, toți regii pământului, căci au auzit cuvintele gurii tale.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Te vor lăuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "au auzit"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gurii tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:57.212169757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 111,
+  "translation": "Sprijinite pe veci, în veacul veacului, făcute în adevăr și dreptate.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Sprijinite"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pe veci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veacul veacului"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "făcute"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "în adevăr"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "și dreptate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:07.257433466Z",
+  "model": "glm-5.3"
+}

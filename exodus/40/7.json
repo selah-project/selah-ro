@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "și să pui ⟨את⟩ vasul de spălare între Cortul Întâlnirii și altar, și să pui acolo apă.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasul de spălare"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "vasul de spălare"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:56.223981367Z",
+  "model": "glm-5.3"
+}

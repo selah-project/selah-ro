@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Dorința celor ce se tem de el o face, și ⟨את⟩ strigătul lor îl aude și îi mântuiește.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Dorința"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "celor ce se tem de el"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o face"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "strigătul lor"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "strigătul lor"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "îl aude"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "și îi mântuiește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:05.751279332Z",
+  "model": "glm-5.3"
+}

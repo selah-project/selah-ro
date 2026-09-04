@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 6:20",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Atunci regele, dis-de-dimineață, s-a sculat la revărsatul zorilor și în grabă la groapa leilor s-a dus.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בשפרפרא",
+      "gloss": "dis-de-dimineață"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "s-a sculat"
+    },
+    {
+      "surface": "בנגהא",
+      "gloss": "la revărsatul zorilor"
+    },
+    {
+      "surface": "ובהתבהלה",
+      "gloss": "și în grabă"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "la groapa"
+    },
+    {
+      "surface": "די",
+      "gloss": "de"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "s-a dus"
+    }
+  ],
+  "timestamp": "2026-09-04T08:14:14.217860700Z",
+  "model": "glm-5.3"
+}

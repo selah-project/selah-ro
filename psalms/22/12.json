@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Nu te depărta de mine, căci strâmtorarea ⟨este⟩ aproape, căci nu ⟨este⟩ ajutor.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "te depărta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "strâmtorarea"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "apropiate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ajutor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:24.597733441Z",
+  "model": "glm-5.3"
+}

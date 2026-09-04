@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "În carul dintâi cai roșii, iar în carul al doilea cai negri.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "În carul"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "dintâi"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "roșii"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "iar în carul"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "negri"
+    }
+  ],
+  "timestamp": "2026-09-04T07:52:27.127954387Z",
+  "model": "glm-5.3"
+}

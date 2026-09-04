@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a întărit Yahve ⟨את⟩ inima lui Paro, și nu i-a ascultat, după cum vorbise Yahve către Moșe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a întărit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima lui Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a ascultat"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "după cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:50.168648049Z",
+  "model": "glm-5.3"
+}

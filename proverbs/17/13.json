@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Cel ce întoarce răul ⟨în locul⟩ binelui — răul nu se va depărta de casa lui.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Cel ce întoarce"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨în locul⟩"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "binelui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "se va depărta"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "de casa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:02.194577221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "M-au înconjurat ca apele toată ziua, m-au împresurat împreună peste mine.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "m-au înconjurat"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ca apele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "m-au împresurat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:34.272322162Z",
+  "model": "glm-5.3"
+}

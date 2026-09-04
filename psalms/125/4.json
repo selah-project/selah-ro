@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 125,
+  "translation": "Fă bine, Yahve, celor buni și celor drepți în inimile lor.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Fă bine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "celor buni"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "și celor drepți"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "în inimile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:59.829544018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Nu vor locui în țara lui Yahve, și se va întoarce Efraim în Mițraim, și în Așur necurat vor mânca.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vor locui"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "și se va întoarce"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "și în Așur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurat"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:27.517861741Z",
+  "model": "glm-5.3"
+}

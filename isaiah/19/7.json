@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Pajiștile de pe lângă Nil, pe lângă gura Nilului, și tot semănătul Nilului vor seca, vor fi împrăștiate și nu vor mai fi.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "pajiștile"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe lângă"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Nil"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe lângă"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Nilului"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "semănătul"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Nilului"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "vor seca"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "vor fi împrăștiate"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "și nu vor mai fi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:00.140115213Z",
+  "model": "glm-5.3"
+}

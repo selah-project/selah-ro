@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Voi umbla înaintea lui Yahve în țările celor vii.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Voi umbla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "în țările"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "celor vii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:35.314367347Z",
+  "model": "glm-5.3"
+}

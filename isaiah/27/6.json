@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 27:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Cei ce vin vor prinde rădăcini Iaacov, va înmuguri și va înflori Israel, și vor umple fața lumii rod.",
+  "tokens": [
+    {
+      "surface": "הבאים",
+      "gloss": "cei ce vin"
+    },
+    {
+      "surface": "ישרש",
+      "gloss": "vor prinde rădăcini"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "va înmuguri"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "și va înflori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "și vor umple"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumii"
+    },
+    {
+      "surface": "תנובה",
+      "gloss": "rod"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:44.746957738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a spus către poporul său: Iată, poporul fiilor lui Israel este numeros și puternic mai mult decât ⟨noi⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "רב",
+      "gloss": "numeros"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "și puternic"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mai mult decât ⟨noi⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:15.669430969Z",
+  "model": "glm-5.3"
+}

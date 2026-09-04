@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "⟨את⟩ Judecățile mele să le faceți și ⟨את⟩ rânduielile mele să le păziți, ca să umblați în ele; Eu ⟨sunt⟩ Yahve, Elohim vostru.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judecățile mele"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "Judecățile mele"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "să le faceți"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "rânduielile mele"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rânduielile mele"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "să le păziți"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ca să umblați"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:50.324273684Z",
+  "model": "glm-5.3"
+}

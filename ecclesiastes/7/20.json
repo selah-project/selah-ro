@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Căci om nu este drept pe pământ, care să facă binele și să nu păcătuiască.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "om"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "drept"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "păcătuiască"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:23.186251023Z",
+  "model": "glm-5.3"
+}

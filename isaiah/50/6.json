@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Spatele l-am dat celor ce lovesc, și obrajii mei celor ce smulg ⟨părul⟩; fața mea nu am ascuns de ocară și de scuipat.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "spatele"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "l-am dat"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "celor ce lovesc"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "și obrajii mei"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "celor ce smulg"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "am ascuns"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "de ocară"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "și de scuipat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:41.051487752Z",
+  "model": "glm-5.3"
+}

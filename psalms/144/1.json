@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Al lui David. Binecuvântat ⟨este⟩ Yahve, stânca mea, cel ce îmi învață mâinile pentru război, degetele mele pentru luptă.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "cel ce învață"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâinile mele"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "pentru război"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "degetele mele"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pentru luptă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:29.444794299Z",
+  "model": "glm-5.3"
+}

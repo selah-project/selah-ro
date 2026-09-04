@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "atunci îi vei tăia ⟨את⟩ palma; ochiul tău să nu crute.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "atunci vei tăia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palma"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "crute"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ochiul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:15.798618716Z",
+  "model": "glm-5.3"
+}

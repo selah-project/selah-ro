@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a dărâmat ⟨את⟩ casele kedeșimilor care erau în casa lui Yahve, unde femeile țeseau acolo case pentru așeira.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "Și a dărâmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casele kedeșimilor"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "casele"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ale kedeșimilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "femeile"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "țeseau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "case"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "pentru așeira"
+    }
+  ],
+  "timestamp": "2026-09-04T03:34:22.185669029Z",
+  "model": "glm-5.3"
+}

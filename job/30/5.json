@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Din mijloc sunt alungați ⟨ei⟩; strigă după el ca după un hoț.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "גו",
+      "gloss": "mijloc"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "sunt alungați"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "strigă"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "ca după un hoț"
+    }
+  ],
+  "timestamp": "2026-09-04T08:08:32.137018965Z",
+  "model": "glm-5.3"
+}

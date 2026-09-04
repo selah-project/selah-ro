@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și din seminția lui Așer ⟨את⟩ Mișal și ⟨את⟩ pășunile ei, ⟨את⟩ Avdon și ⟨את⟩ pășunile ei.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "și din seminția"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lui Așer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mișal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mișal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pășunile ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile ei"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pășunile ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:25:38.909516919Z",
+  "model": "glm-5.3"
+}

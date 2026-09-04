@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Fiule de om, fă cunoscut ⟨את⟩ Ierușalaim ⟨את⟩ urâciunile ei,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Fiule"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de om"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "fă cunoscut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urâciunile ei"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "urâciunile ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:23:08.793372899Z",
+  "model": "glm-5.3"
+}

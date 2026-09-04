@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Cine cunoaște puterea mâniei tale și, după frica de tine, urgia ta?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "עז",
+      "gloss": "puterea"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mâniei tale"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "și după frica de tine"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "urgia ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:37.530420795Z",
+  "model": "glm-5.3"
+}

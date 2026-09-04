@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "După tot ce îți arăt Eu ⟨את⟩ ție — ⟨את⟩ chipul Locuinței și ⟨את⟩ chipul tuturor uneltelor ei — așa să faceți.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "După tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "arăt"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ție"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipul Locuinței"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "chipul"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Locuinței"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "chipul tuturor uneltelor ei"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "chipul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uneltelor ei"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "să faceți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:48.823488277Z",
+  "model": "glm-5.3"
+}

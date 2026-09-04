@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și s-a jurat împăratul și a spus: Viu ⟨este⟩ Yahve, care a răscumpărat ⟨את⟩ sufletul meu din toată strâmtorarea.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "și s-a jurat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "împăratul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "a răscumpărat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletul meu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din toată"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "strâmtorarea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:29.145762889Z",
+  "model": "glm-5.3"
+}

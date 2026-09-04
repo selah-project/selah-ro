@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și a iubit Iaacov ⟨את⟩ Rahela, și a zis: Te voi sluji șapte ani pe Rahela, fiica ta cea mică.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Și a iubit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahela"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "Te voi sluji"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "pe Rahela"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "fiica ta"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "cea mică"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:25.911799396Z",
+  "model": "glm-5.3"
+}

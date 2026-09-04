@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 95,
+  "translation": "Unde m-au pus la încercare părinții voștri, m-au cercat, deși au văzut lucrarea mea.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "m-au pus la încercare"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "părinții voștri"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "m-au cercat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "deși"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "lucrarea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:50.816115490Z",
+  "model": "glm-5.3"
+}

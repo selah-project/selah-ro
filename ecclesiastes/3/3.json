@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Un ceas de a ucide și un ceas de a tămădui; un ceas de a dărâma și un ceas de a zidi.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Un ceas"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "de a ucide"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un ceas"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "de a tămădui"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un ceas"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "de a dărâma"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un ceas"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "de a zidi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:06.692244937Z",
+  "model": "glm-5.3"
+}

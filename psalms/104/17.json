@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "unde păsările își fac cuiburi; barza are în chiparoși casa ei.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "păsările"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "își fac cuiburi"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "barza"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "în chiparoși"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "casa ei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:23.376399078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și ⟨את⟩ cei ce se închină pe acoperișuri oștirii cerurilor, și ⟨את⟩ cei ce se închină — cei ce jură lui Yahve și jură de Malcam;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cei ce se închină"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "cei ce se închină"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "acoperișurile"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "oștirii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cei ce se închină"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "cei ce se închină"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "cei ce jură"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "și cei ce jură"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "de Malcam"
+    }
+  ],
+  "timestamp": "2026-09-04T04:47:49.062026400Z",
+  "model": "glm-5.3"
+}

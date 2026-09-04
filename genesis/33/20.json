@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a înălțat acolo un altar și l-a numit El Elohei-Israel (El, Elohim al lui Israel).",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Și a înălțat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și l-a numit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:05.514307084Z",
+  "model": "glm-5.3"
+}

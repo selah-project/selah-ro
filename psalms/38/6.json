@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Rănile mele miros urât și putrezesc din pricina nebuniei mele.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "miros urât"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "și putrezesc"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "rănile mele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "nebuniei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:59.678377745Z",
+  "model": "glm-5.3"
+}

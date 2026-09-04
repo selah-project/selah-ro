@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Aruncă gheața ca niște bucăți ⟨de pâine⟩; în fața frigului lui — cine va sta?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Aruncă"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "gheața"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "ca niște bucăți"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "frigului lui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "va sta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:28.200930994Z",
+  "model": "glm-5.3"
+}

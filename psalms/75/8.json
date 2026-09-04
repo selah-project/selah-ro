@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Căci Elohim ⟨este⟩ judecătorul: pe unul îl coboară, și pe altul îl înalță.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "judecătorul"
+    },
+    {
+      "surface": "זה",
+      "gloss": "pe unul"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "îl coboară"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "și pe altul"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "îl înalță"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:27.672708649Z",
+  "model": "glm-5.3"
+}

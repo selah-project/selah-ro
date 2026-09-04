@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Dar dacă nu veți asculta glasul lui Yahve și veți săvârși neascultare față de ⟨את⟩ gura lui Yahve, atunci mâna lui Yahve va fi asupra voastră și asupra părinților voștri.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dar dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "veți asculta"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "și veți săvârși neascultare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura lui Yahve"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "asupra voastră"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "și asupra părinților voștri"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:52.348422637Z",
+  "model": "glm-5.3"
+}

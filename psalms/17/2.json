@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Din fața ta să iasă judecata mea; ochii tăi să vadă dreptatea.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Din fața ta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecata mea"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "să iasă"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ochii tăi"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "dreptatea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:40.303804365Z",
+  "model": "glm-5.3"
+}

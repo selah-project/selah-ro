@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a auzit poporul ⟨את⟩ cuvântul cel rău acesta și au jelit, și nu a pus vreun om podoabele sale pe el.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul cel rău acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "și au jelit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vreun om"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "podoabele sale"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:40.859869896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Un oracol ⟨este⟩ pe buzele regelui; la judecată gura lui nu va trăda.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "un oracol"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "la judecată"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "va trăda"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "gura lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:21.151587169Z",
+  "model": "glm-5.3"
+}

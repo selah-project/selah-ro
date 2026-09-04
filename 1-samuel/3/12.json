@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "În ziua aceea voi ridica asupra lui Eli ⟨את⟩ tot ce am grăit despre casa lui — începând și sfârșind.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "voi ridica"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lui Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce am grăit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "am grăit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "despre"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "החל",
+      "gloss": "începând"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "și sfârșind"
+    }
+  ],
+  "timestamp": "2026-09-04T07:08:40.751698390Z",
+  "model": "glm-5.3"
+}

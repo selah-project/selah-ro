@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Vorbește fiilor lui Israel și le vei spune: Când veți intra în pământul pe care îl dau vouă, pământul va ține Șabat, Șabat pentru Yahve.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și le vei spune"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "veți intra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "îl dau"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "va ține Șabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Șabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:32.370739444Z",
+  "model": "glm-5.3"
+}

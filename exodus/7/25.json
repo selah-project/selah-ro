@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și s-au împlinit șapte zile după ce a lovit Yahve ⟨את⟩ fluviul.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "și s-au împlinit"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fluviul"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "fluviul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:23.260319218Z",
+  "model": "glm-5.3"
+}

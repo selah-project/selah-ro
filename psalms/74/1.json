@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Un mașkil al lui Asaf. Pentru ce, Elohim, ne-ai lepădat pentru totdeauna? fumegă mânia ta asupra oilor pășunii tale!",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Un mașkil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "al lui Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Pentru ce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ne-ai lepădat"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "fumegă"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mânia ta"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "asupra oilor"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "pășunii tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:42.191058834Z",
+  "model": "glm-5.3"
+}

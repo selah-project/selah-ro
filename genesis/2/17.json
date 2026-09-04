@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar din pomul cunoștinței binelui și răului să nu mănânci din el, căci în ziua în care vei mânca din el, muri-vei murind.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "Iar din pomul"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "cunoștinței"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binelui"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "și răului"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mănânci"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "în care vei mânca"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "מות",
+      "gloss": "muri-vei"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "murind"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:01.953362380Z",
+  "model": "glm-5.3"
+}

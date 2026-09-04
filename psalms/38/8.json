@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Căci șalele mele sunt pline de arsură și nu este sănătate în carnea mea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "șalele mele"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sunt pline"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "de arsură"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sănătate"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "în carnea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:59.678604398Z",
+  "model": "glm-5.3"
+}

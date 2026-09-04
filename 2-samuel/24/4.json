@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Dar cuvântul regelui a fost mai tare decât ⟨את⟩ Ioav și decât căpeteniile oștirii; și a ieșit Ioav și căpeteniile oștirii de dinaintea regelui, să numere ⟨את⟩ poporul, ⟨את⟩ Israelul.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a fost mai tare"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "decât"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și decât"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "oștirii"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și a ieșit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "și căpeteniile"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "oștirii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "de dinaintea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "să numere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:13.144442472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 31:7",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Căci așa a vorbit Yahve: Cântați lui Iaacov cu bucurie și veseliți-vă în fruntea neamurilor; faceți să se audă, lăudați și spuneți: Mântuiește, Yahve, ⟨את⟩ poporul tău, ⟨את⟩ rămășița lui Israel!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רנו",
+      "gloss": "Cântați"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "cu bucurie"
+    },
+    {
+      "surface": "וצהלו",
+      "gloss": "și veseliți-vă"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "în fruntea"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "faceți să se audă"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lăudați"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "și spuneți"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Mântuiește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul tău"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rămășița lui Israel"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "rămășița"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:09:33.044537042Z",
+  "model": "glm-5.3"
+}

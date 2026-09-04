@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Dacă te-ai purtat nebunește înălțându-te, și dacă ai pus la cale ⟨rău⟩ — ⟨pune⟩ mâna la gură.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "te-ai purtat nebunește"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "înălțându-te"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "ai pus la cale"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "la gură"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:11.987533826Z",
+  "model": "glm-5.3"
+}

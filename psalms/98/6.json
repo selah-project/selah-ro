@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 98,
+  "translation": "Cu trâmbițe și glas de șofar, strigați înaintea regelui, Yahve!",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Cu trâmbițe"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "și glas de"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "șofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "strigați"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:38.408632874Z",
+  "model": "glm-5.3"
+}

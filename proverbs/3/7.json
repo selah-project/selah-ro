@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Nu fii înțelept în ochii tăi; teme-te ⟨את⟩ de Yahve și abate-te de la rău.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "să fii"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "teme-te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "și abate-te"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "de la rău"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:10.924517430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Fiul unui an era Șaul la domnia lui, și doi ani a domnit peste Israel.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "unui an"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "era Șaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "la domnia lui"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "și doi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a domnit"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:13.770814414Z",
+  "model": "glm-5.3"
+}

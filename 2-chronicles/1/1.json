@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "S-a întărit Șelomo, fiul lui David, peste împărăția sa, și Yahve, Elohimul lui, ⟨era⟩ cu el și l-a înălțat peste măsură.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "S-a întărit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "împărăția sa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "și Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimul lui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "și l-a înălțat"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "peste măsură"
+    }
+  ],
+  "timestamp": "2026-09-04T06:17:08.495266353Z",
+  "model": "glm-5.3"
+}

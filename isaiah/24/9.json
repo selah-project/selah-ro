@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Cu cântec nu vor bea vin; amară este băutura tare pentru cei ce o beau.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "cu cântec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "vor bea"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "e amară"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "băutura tare"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "pentru cei ce o beau"
+    }
+  ],
+  "timestamp": "2026-09-04T03:42:35.348974614Z",
+  "model": "glm-5.3"
+}

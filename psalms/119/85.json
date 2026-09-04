@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Mi-au săpat cei trufași gropi, care nu ⟨sunt⟩ după Tora ta.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "mi-au săpat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "cei trufași"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "gropi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "după Tora ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:56.735349168Z",
+  "model": "glm-5.3"
+}

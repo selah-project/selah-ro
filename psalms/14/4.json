@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Nu oare știu toți făptuitorii de nelegiuire, mâncătorii poporului meu? Au mâncat pâine; pe Yahve nu L-au chemat.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nu oare"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "știu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "făptuitorii"
+    },
+    {
+      "surface": "און",
+      "gloss": "de nelegiuire"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mâncătorii"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "au mâncat"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "L-au chemat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:19.781711584Z",
+  "model": "glm-5.3"
+}

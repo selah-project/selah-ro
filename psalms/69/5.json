@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Mai mulți decât firele de păr ale capului meu sunt cei ce mă urăsc degeaba; s-au întărit cei ce mă nimicesc — vrăjmașii mei pe nedrept; ceea ce nu am răpit, atunci voi întoarce.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "s-au înmulțit (mai mulți)"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "decât firele de păr"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ale capului meu"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "cei ce mă urăsc"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "degeaba"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "s-au întărit"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "cei ce mă nimicesc"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pe nedrept (fals)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "am răpit"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "voi întoarce"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:03.572054070Z",
+  "model": "glm-5.3"
+}

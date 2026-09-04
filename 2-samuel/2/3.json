@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și pe oamenii lui, cei care erau cu el, i-a suit David, fiecare om cu casa lui; și s-au așezat în cetățile lui Hevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Și pe oamenii lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cei care"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "erau cu el"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "i-a suit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare om"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "cu casa lui"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "și s-au așezat"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "în cetățile"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "lui Hevron"
+    }
+  ],
+  "timestamp": "2026-09-04T02:55:03.486848639Z",
+  "model": "glm-5.3"
+}

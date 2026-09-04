@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Chiar și omul păcii mele, în care m-am încrezut, cel ce mânca pâinea mea, și-a înălțat călcâiul împotriva mea.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Chiar și"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "păcii mele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m-am încrezut"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mânca"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "pâinea mea"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "a înălțat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "călcâiul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:47.771623172Z",
+  "model": "glm-5.3"
+}

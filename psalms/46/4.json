@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Vuiesc, spumegă apele lui, se cutremură munții de trufia lui. Sela",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "vuiesc"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "spumegă"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "apele lui"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "se cutremură"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "de trufia lui"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "sela"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:45.823319505Z",
+  "model": "glm-5.3"
+}

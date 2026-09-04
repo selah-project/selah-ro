@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Yahve, în ceruri ⟨este⟩ hesedul tău, credincioșia ta până la nori.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "credincioșia ta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nori"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:01.693272173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Și dacă vine să vadă, vorbește deșertăciune; inima lui adună nelegiuire pentru sine; când iese afară, vorbește.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "deșertăciune"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "vorbește"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "adună"
+    },
+    {
+      "surface": "און",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru sine"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iese"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "vorbește"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:03.099356971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 15:18",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și i-a fost sete foarte, și a strigat către Yahve, și a spus: Tu ai dat în mâna slugii tale ⟨את⟩ izbăvirea cea mare aceasta, și acum voi muri de sete și voi cădea în mâna celor netăiați împrejur.",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "Și i-a fost sete"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a strigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "ai dat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slugii tale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izbăvirea cea mare aceasta"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "izbăvirea"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "voi muri"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "de sete"
+    },
+    {
+      "surface": "ונפלתי",
+      "gloss": "și voi cădea"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "a celor netăiați împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T07:07:41.990431545Z",
+  "model": "glm-5.3"
+}

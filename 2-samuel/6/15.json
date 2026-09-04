@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și David și toată casa lui Israel duceau sus ⟨את⟩ chivotul lui Yahve cu strigăt de veselie și cu sunet de șofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Și David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "duceau sus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul lui Yahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "cu strigăt de veselie"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "și cu sunet"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "de șofar"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:19.171776547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Fericiți ⟨sunt⟩ poporul căruia i-a fost așa; fericiți ⟨sunt⟩ poporul al cărui Elohim ⟨este⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "Fericiți"
+    },
+    {
+      "surface": "הָ֭עָם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "שֶׁכָּ֣כָה",
+      "gloss": "căruia i-a fost așa"
+    },
+    {
+      "surface": "לּ֑וֹ",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אַֽשְׁרֵ֥י",
+      "gloss": "fericiți"
+    },
+    {
+      "surface": "הָ֝עָ֗ם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "שֶׁיֲהוָ֥ה",
+      "gloss": "al cărui ⟨este⟩ Yahve"
+    },
+    {
+      "surface": "אֱלֹהָֽיו",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:30.677287507Z",
+  "model": "glm-5.3"
+}

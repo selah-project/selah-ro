@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Către dirijor, pe Șoșanim, al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Șoșanim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:22.820241083Z",
+  "model": "glm-5.3"
+}

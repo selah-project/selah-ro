@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a zis Yahve: Văzând am văzut ⟨את⟩ nevoia poporului meu care ⟨este⟩ în Mițraim, și ⟨את⟩ strigătul lor am auzit din pricina supraveghetorilor lui, căci cunosc ⟨את⟩ durerile lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Văzând"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevoia poporului meu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nevoia"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "strigătul lor"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "strigătul lor"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "supraveghetorilor lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "cunosc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "durerile lui"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "durerile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:34.489993580Z",
+  "model": "glm-5.3"
+}

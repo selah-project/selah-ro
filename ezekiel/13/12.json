@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și iată, a căzut zidul! Nu vi se va spune oare: Unde este tencuiala pe care ați tencuit-o?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Și iată"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "a căzut"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "zidul"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nu... oare"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "vi se va spune"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "către voi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Unde este"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "tencuiala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "ați tencuit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T04:22:12.024157751Z",
+  "model": "glm-5.3"
+}

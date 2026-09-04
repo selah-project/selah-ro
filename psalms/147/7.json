@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Cântați lui Yahve cu todá (mulțumire), cântați cu chonor (arfă) lui Elohim al nostru.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Cântați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "cu todá (mulțumire)"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cântați cu chonor"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "lui Elohim al nostru"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "cu chonor (arfă)"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:12.067491382Z",
+  "model": "glm-5.3"
+}

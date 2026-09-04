@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Tatăl tău cel dintâi a păcătuit, și tălmacii tăi s-au răzvrătit împotriva mea.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Tatăl tău"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "cel dintâi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a păcătuit"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "și tălmacii tăi"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "s-au răzvrătit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:54.532355804Z",
+  "model": "glm-5.3"
+}

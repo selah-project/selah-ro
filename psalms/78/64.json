@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "cohenii lui au căzut de sabie, și văduvele lui nu au putut să plângă ⟨după ei⟩.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "cohenii lui"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "de sabie"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "au căzut"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "și văduvele lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "au putut să plângă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:03.152153730Z",
+  "model": "glm-5.3"
+}

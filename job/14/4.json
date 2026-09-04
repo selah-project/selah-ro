@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Cine poate da ceva curat din ce este necurat? Niciunul.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "poate da"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ceva curat"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "din ce este necurat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "niciunul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:07:00.123163191Z",
+  "model": "glm-5.3"
+}

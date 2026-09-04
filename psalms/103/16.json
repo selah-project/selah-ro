@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Căci un vânt trece peste el și nu mai este, și locul lui nu îl mai cunoaște.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un vânt"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "trece"
+    },
+    {
+      "surface": "בו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "și nu mai este"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "îl mai cunoaște"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:58.122639617Z",
+  "model": "glm-5.3"
+}

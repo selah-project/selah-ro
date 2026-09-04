@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și o femeie care se va apropia de orice vită ca să se culce cu ⟨את⟩ ea — s-o omori, și ⟨את⟩ pe femeie și ⟨את⟩ vita; morți vor fi omorâți; sângele lor ⟨este⟩ asupra lor.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Și o femeie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "se va apropia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vită"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "ca să se culce"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "cu ⟨את⟩",
+      "marks": "ea (vita)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "s-o omori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe femeie"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "pe femeie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vita"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morți"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "vor fi omorâți"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "sângele lor"
+    },
+    {
+      "surface": "בם",
+      "gloss": "asupra lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:54.050551002Z",
+  "model": "glm-5.3"
+}

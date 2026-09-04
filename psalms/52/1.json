@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Către maiestrul de cor. O învățătură, al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către maiestrul de cor"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "O învățătură"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:08.320128760Z",
+  "model": "glm-5.3"
+}

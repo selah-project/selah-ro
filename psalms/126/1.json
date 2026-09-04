@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 126,
+  "translation": "Cântare a urcărilor. Când a întors Yahve ⟨את⟩ întoarcerea Ționului, am fost ca visătorii.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Când a întors"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "întoarcerea Ționului"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "întoarcerea"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ționului"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "ca visătorii"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:12.630248017Z",
+  "model": "glm-5.3"
+}

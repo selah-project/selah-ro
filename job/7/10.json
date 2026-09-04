@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Nu se mai întoarce în casa lui, iar locul lui nu îl mai cunoaște.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se mai întoarce"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "în casa lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iar nu"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "îl mai cunoaște"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:42.589031761Z",
+  "model": "glm-5.3"
+}

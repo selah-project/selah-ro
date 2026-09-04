@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Toate popoarele, bateți din palme; strigați către Elohim cu glas de biruință!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bateți"
+    },
+    {
+      "surface": "כף",
+      "gloss": "din palme"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "strigați"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "către Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "cu glas"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "de biruință"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:47.916400409Z",
+  "model": "glm-5.3"
+}

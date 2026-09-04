@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a luat Șaul trei mii de oameni aleși din tot Israelul și a mers să caute ⟨את⟩ David și oamenii lui, pe fața stâncilor caprelor sălbatice.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trei"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de oameni"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "aleși"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "să caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "și oamenii lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stâncilor"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "caprelor sălbatice"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:21.784415582Z",
+  "model": "glm-5.3"
+}

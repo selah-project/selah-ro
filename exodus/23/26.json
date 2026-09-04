@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Nu va fi ⟨niciuna⟩ care să piardă pruncul și nici stearpă în pământul tău; ⟨את⟩ numărul zilelor tale îl voi împlini.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "care să piardă pruncul"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "și stearpă"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "în pământul tău"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numărul zilelor tale"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numărul"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "zilelor tale"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "îl voi împlini"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:23.703153202Z",
+  "model": "glm-5.3"
+}

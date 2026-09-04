@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Numai dacă, ascultând, vei asculta de glasul lui Yahve, Elohim al tău, ca să păzești și să faci ⟨את⟩ toată porunca aceasta pe care ți-o poruncesc eu astăzi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ascultând"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "vei asculta"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ca să păzești"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să faci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată porunca aceasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "poruncesc"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:48.700140238Z",
+  "model": "glm-5.3"
+}

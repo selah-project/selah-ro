@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Un mizmor al lui David: Yahve, cine va găsi adăpost în cortul tău? Cine va locui pe muntele tău cel sfânt?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "va găsi adăpost"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "în cortul tău"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "va locui"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pe muntele"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sfânt al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:19.124109247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Dacă ai păcătuit, ce lucrezi ⟨împotriva⟩ lui? Și dacă s-au înmulțit fărădelegile tale, ce faci lui?",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "חָטָאתָ",
+      "gloss": "ai păcătuit"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תִּפְעָל",
+      "gloss": "lucrezi"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וְרַבּוּ",
+      "gloss": "și s-au înmulțit"
+    },
+    {
+      "surface": "פְּשָׁעֶיךָ",
+      "gloss": "fărădelegile tale"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "faci"
+    },
+    {
+      "surface": "לּוֹ",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:08:48.636807148Z",
+  "model": "glm-5.3"
+}

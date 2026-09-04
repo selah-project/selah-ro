@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Va auzi El și îi va smeri, cel ce șade din vechime. Șela. ⟨Cei⟩ care nu au schimbări și nu se tem de Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "va auzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "și îi va smeri"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "cel ce șade"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "din vechime"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Șela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu au"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "schimbări"
+    },
+    {
+      "surface": "למו",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "se tem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:05.669613747Z",
+  "model": "glm-5.3"
+}

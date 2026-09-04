@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Voi întinde ⟨את⟩ mâna mea și voi lovi ⟨את⟩ Mițraim cu toate minunile mele pe care le voi face în mijlocul lui, și după aceea vă va trimite ⟨את⟩ pe voi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Voi întinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna mea"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "și voi lovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mițraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toate"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "minunile mele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "le voi face"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "în mijlocul lui"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "și după"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "vă va trimite"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:02.398275638Z",
+  "model": "glm-5.3"
+}

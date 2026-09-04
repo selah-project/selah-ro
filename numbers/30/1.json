@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a vorbit Moșe către fiii lui Israel: după tot ce a poruncit Yahve ⟨את⟩ lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T06:55:46.123843027Z",
+  "model": "glm-5.3"
+}

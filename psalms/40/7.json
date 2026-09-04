@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Jertfă de măcel și dar de mâncare nu ai voit; urechi ai săpat ⟨pentru⟩ mine; ardere-de-tot și jertfă de păcat nu ai cerut.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Jertfă de măcel"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "și dar de mâncare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ai voit"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "urechi"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ai săpat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pentru⟩ mine"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ardere-de-tot"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "și jertfă de păcat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ai cerut"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:57.834385649Z",
+  "model": "glm-5.3"
+}

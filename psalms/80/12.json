@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Își trimitea ramurile ei până la mare, și până la Râu lăstarii ei.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "își trimitea"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ramurile ei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Râu"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "lăstarii ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:32.851061416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 9:8",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Nu mustra pe batjororitor, ca să nu te urască; mustră pe cel înțelept și te va iubi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תוכח",
+      "gloss": "mustra"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "pe batjororitor"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "ישנאך",
+      "gloss": "te urască"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "mustră"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "pe cel înțelept"
+    },
+    {
+      "surface": "ויאהבך",
+      "gloss": "și te va iubi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:36.469975056Z",
+  "model": "glm-5.3"
+}

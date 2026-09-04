@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 23:18",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Căci cine a stat în sfatul lui Yahve și a văzut și a auzit ⟨את⟩ cuvântul lui? Cine a luat aminte la cuvântul meu și a ascultat?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "a stat"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "în sfatul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "și a auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul lui"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "cuvântul lui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "a luat aminte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "la cuvântul meu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "și a ascultat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:07:13.354929115Z",
+  "model": "glm-5.3"
+}

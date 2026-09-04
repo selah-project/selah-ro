@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Multe dureri are cel răsadăr, dar cel ce se încrede în Yahve, hesed (dragostea-credincioasă) îl va înconjura.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Multe"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "dureri"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "are cel răsadăr"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "dar cel ce se încrede"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (dragostea-credincioasă)"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "îl va înconjura"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:24.195317813Z",
+  "model": "glm-5.3"
+}

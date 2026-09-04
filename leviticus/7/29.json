@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Vorbește fiilor lui Israel, zicând: cel ce aduce ⟨את⟩ jertfa shelamim-ului său către Yahve va aduce ⟨את⟩ darul său către Yahve, din jertfa shelamim-ului său.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "cel ce aduce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa shelamim-ului său"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfa"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "shelamim-ului său"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "va aduce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul său"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "darul său"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "din jertfa"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "shelamim-ului său"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:30.682177187Z",
+  "model": "glm-5.3"
+}

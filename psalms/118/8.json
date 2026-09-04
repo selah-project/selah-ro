@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "Este bine să te adăpostești în Yahve decât să ai încredere în om.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Este bine"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "să te adăpostești"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "decât să ai încredere"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "în om"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:31.162422298Z",
+  "model": "glm-5.3"
+}

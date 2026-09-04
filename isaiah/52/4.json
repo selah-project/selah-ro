@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Căci așa a vorbit Adonai Yahve: în Mițraim a coborât poporul meu la început, ca să locuiască acolo ca străin, iar Așșur fără temei l-a asuprit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a coborât"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "la început"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ca să locuiască ca străin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "iar Așșur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "fără temei"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "l-a asuprit"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:18.691398124Z",
+  "model": "glm-5.3"
+}

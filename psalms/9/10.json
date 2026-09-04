@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și va fi Yahve turn de scăpare pentru cel apăsat, turn de scăpare la vremuri de strâmtorare.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "turn de scăpare"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "pentru cel apăsat"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "turn de scăpare"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "la vremuri"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "de strâmtorare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:09.088851483Z",
+  "model": "glm-5.3"
+}

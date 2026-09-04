@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "În mâna căruia ⟨este⟩ nefeșul a tot ce trăiește și duhul a tot trupul de om.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "al căruia"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "În mâna lui"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeșul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a tot"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ce trăiește"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "și duhul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a tot"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de om"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:09.730343970Z",
+  "model": "glm-5.3"
+}

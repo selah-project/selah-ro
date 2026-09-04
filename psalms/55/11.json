@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Ziua și noaptea o înconjoară pe zidurile ei, și nelegiuire și trudă ⟨sunt⟩ în mijlocul ei.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Ziua"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "și noaptea"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "o înconjoară"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "zidurile ei"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "și nelegiuire"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "și trudă"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "în mijlocul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:34.804650252Z",
+  "model": "glm-5.3"
+}

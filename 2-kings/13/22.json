@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și HazaEl, regele Aramului, apăsa ⟨את⟩ Israelul în toate zilele lui Iehoahaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Și HazaEl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "apăsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "lui Iehoahaz"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:24.135583144Z",
+  "model": "glm-5.3"
+}

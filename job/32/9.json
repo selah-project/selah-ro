@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Nu cei mulți ⟨sunt⟩ înțelepți, și cei vârstnici nu pricep judecata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "cei mulți"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "⟨sunt⟩ înțelepți"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "și cei vârstnici"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "pricep"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    }
+  ],
+  "timestamp": "2026-09-04T05:33:46.180567047Z",
+  "model": "glm-5.3"
+}

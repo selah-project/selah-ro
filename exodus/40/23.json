@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a așezat pe el rândul de pâine înaintea lui Yahve, cum a poruncit Yahve ⟨את⟩ lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "și a așezat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "rândul"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pâine"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:34.944738575Z",
+  "model": "glm-5.3"
+}

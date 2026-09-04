@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Capcană pentru om este să rostească în pripă: „Sfânt!”, și abia după voturi să cerceteze.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "Capcană"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "pentru om"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "să rostească în pripă"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "„Sfânt!”"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "și abia după"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "voturi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "să cerceteze"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:38.460446288Z",
+  "model": "glm-5.3"
+}

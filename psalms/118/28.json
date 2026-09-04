@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "El al meu ești tu, și te voi lăuda; Elohim al meu, pe tine te voi înălța.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El al meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויאודך",
+      "gloss": "și te voi lăuda"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "te voi înălța"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:43.759461454Z",
+  "model": "glm-5.3"
+}

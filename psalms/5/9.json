@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Yahve, călăuzește-mă în neprihanirea ta, din pricina potrivnicilor mei; îndreaptă înaintea mea calea ta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "călăuzește-mă"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "în neprihanirea ta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "potrivnicilor mei"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "îndreaptă"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "calea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:02.685782984Z",
+  "model": "glm-5.3"
+}

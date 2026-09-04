@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "un vis am văzut și m-a cuprins spaima, și gândurile de pe patul meu și vedeniile capului meu m-au înspăimântat.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "un vis"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "și m-a cuprins spaima"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "și gândurile"
+    },
+    {
+      "surface": "על",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "patul meu"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "și vedeniile"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capului meu"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "m-au înspăimântat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:13:58.542731208Z",
+  "model": "glm-5.3"
+}

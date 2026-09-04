@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Rugăciune a celui apăsat, când își pierde puterea, și înaintea lui Yahve își varsă plângerea.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Rugăciune"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "a celui apăsat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "își pierde puterea"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "și înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "își varsă"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "plângerea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:02.790448745Z",
+  "model": "glm-5.3"
+}

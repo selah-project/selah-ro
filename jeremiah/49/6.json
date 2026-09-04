@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Dar după aceasta voi întoarce ⟨את⟩ robia fiilor lui Amon, oracolul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Dar după"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "voi întoarce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robia"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "robia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:17:04.107420811Z",
+  "model": "glm-5.3"
+}

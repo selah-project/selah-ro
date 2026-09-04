@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "⟨את⟩ veșmintele slujbei, ca să slujească în ⟨locul⟩ sfânt, ⟨את⟩ veșmintele sfinte pentru Aharon cohenul, și ⟨את⟩ veșmintele fiilor lui, ca să slujească ca preoți.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veșmintele slujbei"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "veșmintele"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "slujbei"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ca să slujească"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "în ⟨locul⟩ sfânt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veșmintele sfinte"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "veșmintele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfinte"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pentru Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "veșmintele fiilor lui"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "veșmintele"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiilor lui"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ca să slujească ca preoți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:49.695911389Z",
+  "model": "glm-5.3"
+}

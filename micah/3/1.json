@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și am zis: Ascultați, vă rog, capeteniile lui Iaacov și cârmuitorii casei Israel! Nu este oare al vostru să cunoașteți ⟨את⟩ judecata?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ascultați"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vă rog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capeteniile"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "și cârmuitorii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "oare nu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "al vostru"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "a cunoaște"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "judecata"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "judecata"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:18.137857725Z",
+  "model": "glm-5.3"
+}

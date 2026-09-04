@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și ⟨את⟩ pulpa dreaptă s-o dați ca dar de ridicare cohenului, din jertfele shelamim-urilor voastre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pulpa dreaptă"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "pulpa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "dreaptă"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "s-o dați"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ca dar de ridicare"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cohenului"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "din jertfele"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "shelamim-urilor voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:30.683270782Z",
+  "model": "glm-5.3"
+}

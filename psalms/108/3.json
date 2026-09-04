@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Deșteaptă-te, lira și chitara! Eu voi deștepta zorii.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Deșteaptă-te"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "lira"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "și chitara"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "voi deștepta"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zorii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:47.318148179Z",
+  "model": "glm-5.3"
+}

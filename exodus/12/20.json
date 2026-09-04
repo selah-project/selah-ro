@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Tot dospitul să nu-l mâncați; în toate așezările voastre să mâncați mațot (azime).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "dospitul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să-l mâncați"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "așezările voastre"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mațot (azime)"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:16.451448957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Moștenire am căpătat mărturiile tale, pe vecie, căci ele ⟨sunt⟩ bucuria inimii mele.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "moștenire am căpătat"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "mărturiile tale"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "bucuria"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inimii mele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:51.972573801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a fost, la auzirea regelui cuvintele Torei, că și-a sfâșiat ⟨את⟩ hainele lui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "la auzirea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torei"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "că și-a sfâșiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele lui"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:31:29.069948377Z",
+  "model": "glm-5.3"
+}

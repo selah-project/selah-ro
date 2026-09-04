@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și vor cunoaște mițriții că eu sunt Yahve, când îmi voi întinde ⟨את⟩ mâna asupra Mițraimului, și îi voi scoate pe fiii lui Israel din mijlocul lor.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Și vor cunoaște"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mițriții"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "când îmi voi întinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "și îi voi scoate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "din mijlocul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:31.079260042Z",
+  "model": "glm-5.3"
+}

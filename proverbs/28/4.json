@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Cei ce părăsesc Tora laudă pe cel rău, iar cei ce păzesc Tora se războiesc cu ei.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "Cei ce părăsesc"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "laudă"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe cel rău"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "iar cei ce păzesc"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "se războiesc"
+    },
+    {
+      "surface": "בם",
+      "gloss": "cu ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:51.796847881Z",
+  "model": "glm-5.3"
+}

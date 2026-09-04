@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și să scrii pe pietre ⟨את⟩ toate cuvintele Torei acesteia, săpându-le foarte lămurit.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Și să scrii"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "pietrele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele Torei acesteia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torei"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "באר",
+      "gloss": "săpându-le"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "foarte lămurit"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:34.942320364Z",
+  "model": "glm-5.3"
+}

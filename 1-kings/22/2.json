@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a fost în anul al treilea, și a coborât Iehoșafat, regele Iehudei, la regele lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "în anul"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "al treilea"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "și a coborât"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Iehoșafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehudei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:44.254625458Z",
+  "model": "glm-5.3"
+}

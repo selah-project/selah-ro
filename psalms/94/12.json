@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Ferice de omul pe care îl muști, Ya, și din Tora ta îl înveți!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice de"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "îl muști"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ו מ תורת ך",
+      "gloss": "și din Tora ta"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "îl înveți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:41.796016022Z",
+  "model": "glm-5.3"
+}

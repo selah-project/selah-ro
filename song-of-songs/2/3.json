@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Ca un măr între copacii pădurii, așa ⟨este⟩ iubitul meu între fii. La umbra lui am râvnit și m-am așezat, și roada lui este dulce cerului gurii mele.",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "Ca un măr"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "între copacii"
+    },
+    {
+      "surface": "היער",
+      "gloss": "pădurii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "iubitul meu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "La umbra lui"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "am râvnit"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "și m-am așezat"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "și roada lui"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "este dulce"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "cerului gurii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:52.649229286Z",
+  "model": "glm-5.3"
+}

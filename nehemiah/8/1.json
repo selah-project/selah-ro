@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și s-a adunat tot poporul ca un singur om spre piața care ⟨este⟩ înaintea porții apelor, și i-au spus lui Ezra scribului să aducă ⟨את⟩ cartea Torei lui Moșe, pe care a poruncit-o Yahve ⟨את⟩ lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "Și s-a adunat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ca un om"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "singur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "piața"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aperilor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au spus"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "lui Ezra"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "scribului"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "să aducă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cartea Torei lui Moșe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cartea"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit-o"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:03:08.797100171Z",
+  "model": "glm-5.3"
+}

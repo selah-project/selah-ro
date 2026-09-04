@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și le-a spus Ițhac: De ce ați venit la mine — voi, care ⟨את⟩ m-ați urât ⟨את⟩ pe mine ⟨את⟩ și m-ați trimis de la ⟨את⟩ voi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și le-a spus"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ați venit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "⟨את⟩ m-ați urât"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "⟨את⟩ și m-ați trimis"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "de la ⟨את⟩ voi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:04.155671389Z",
+  "model": "glm-5.3"
+}

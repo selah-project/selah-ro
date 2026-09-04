@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și l-am umplut de duhul lui Elohim, în înțelepciune, în pricepere, în cunoștință și în tot felul de meșteșug.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Și l-am umplut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el (Bețalel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "în înțelepciune"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "și în pricepere"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "și în cunoștință"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și în tot felul de"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "meșteșug"
+    }
+  ],
+  "timestamp": "2026-09-04T01:23:31.646633607Z",
+  "model": "glm-5.3"
+}

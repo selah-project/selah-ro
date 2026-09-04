@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a apropiat Moșe ⟨את⟩ judecata lor înaintea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Și a apropiat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "judecata lor"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "judecata lor"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:54:17.421409936Z",
+  "model": "glm-5.3"
+}

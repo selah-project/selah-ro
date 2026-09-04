@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Varsă-ți mânia asupra neamurilor care nu te cunosc și asupra împărățiilor care numele tău nu l-au chemat.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Varsă"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "mânia ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "te cunosc"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "împărățiilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "l-au chemat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:04.582862143Z",
+  "model": "glm-5.3"
+}

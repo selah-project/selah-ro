@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și ⟨את⟩ pe cei ce se întorc de la Yahve, și pe cei ce nu L-au căutat pe Yahve și nu L-au cercetat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe cei ce se întorc"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "cei ce se întorc"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "de la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și cei ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "L-au căutat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "L-au cercetat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:22.940175598Z",
+  "model": "glm-5.3"
+}

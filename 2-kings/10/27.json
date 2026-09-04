@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și au dărâmat ⟨את⟩ stâlpul lui Baal, și au dărâmat ⟨את⟩ casa lui Baal, și l-au făcut latrină până în ziua de azi.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "și au dărâmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpul"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stâlpul"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "lui Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "și au dărâmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "lui Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "și l-au făcut"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "latrină"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "היום",
+      "gloss": "în ziua de azi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:15.347553842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Ridică-Te, Yahve, ieși-i înainte fața lui, doboară-l; scapă nefeșul meu de cel rău ⟨cu⟩ sabia Ta.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ridică-Te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ieși-i înainte"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața lui"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "doboară-l"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "scapă"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefușul meu"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "de cel rău"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sabia Ta"
+    }
+  ],
+  "timestamp": "2026-09-04T09:06:54.987991193Z",
+  "model": "glm-5.3"
+}

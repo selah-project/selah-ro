@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Să fie pururea înaintea lui Yahve, și să taie pomenirea lor de pe pământ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Să fie"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pururea"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "și să taie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de pe pământ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "pomenirea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:32.356539022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a luat David ⟨את⟩ scuturile de aur care erau peste robii lui Hadadezer, și le-a adus la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "scuturile de aur"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "scuturile"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robii"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "lui Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "și i-a adus"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:43.660935818Z",
+  "model": "glm-5.3"
+}

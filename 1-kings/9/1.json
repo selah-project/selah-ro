@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a fost, când a isprăvit Șelomo să construiască ⟨את⟩ casa lui Yahve și ⟨את⟩ casa regelui și ⟨את⟩ tot ce a dorit Șelomo să facă,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "când a isprăvit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "să construiască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Yahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casa regelui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot ce a dorit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "dorința"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a voit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:14:04.772043531Z",
+  "model": "glm-5.3"
+}

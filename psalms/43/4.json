@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și voi intra la altarul lui Elohim, la El, bucuria veseliei mele; și te voi lăuda cu chitara, Elohim, Elohim al meu.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Și voi intra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "bucuria"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "veseliei mele"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "și te voi lăuda"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "cu chitara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:30.982605299Z",
+  "model": "glm-5.3"
+}

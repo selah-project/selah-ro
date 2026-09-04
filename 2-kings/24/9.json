@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a făcut el răul în ochii lui Yahve, după tot ce făcuse tatăl lui.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făcuse"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:57:56.550349347Z",
+  "model": "glm-5.3"
+}

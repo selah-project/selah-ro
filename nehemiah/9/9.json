@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și ai văzut ⟨את⟩ asuprirea părinților noștri în Mițraim, și ⟨את⟩ strigătul lor l-ai auzit lângă Marea de Șuf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Și ai văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asuprirea"
+    },
+    {
+      "surface": "עני",
+      "gloss": "asuprirea"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "părinților noștri"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "strigătul lor"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "strigătul lor"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ai auzit"
+    },
+    {
+      "surface": "על",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Șuf"
+    }
+  ],
+  "timestamp": "2026-09-04T06:02:01.778368229Z",
+  "model": "glm-5.3"
+}

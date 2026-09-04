@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "ca să se povestească în Țion Numele lui Yahve și lauda lui în Ierușalaim —",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "ca să se povestească"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "în Țion"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "și lauda lui"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "în Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:54.822747232Z",
+  "model": "glm-5.3"
+}

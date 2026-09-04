@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Așa a spus Yahve: dacă veți strica legământul meu ⟨את⟩ zilei și legământul meu ⟨את⟩ nopții, ca să nu mai fie zi și noapte la vremea lor,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "veți strica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu zilei"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zilei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "legământul meu nopții"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nopții"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "היות",
+      "gloss": "mai fie"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "zi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "și noapte"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "la vremea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:37:42.023754685Z",
+  "model": "glm-5.3"
+}

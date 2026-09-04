@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "și va zice tatăl fetei către bătrâni: pe fiica mea ⟨את⟩ am dat-o omului acestuia de soție, și el a urât-o;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "și va zice"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "fetei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bătrâni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiica mea"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "fiica mea"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat-o"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de soție"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "și el a urât-o"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:15.788566968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Rătăcește inima mea, spaima mă înspăimântă; amurgul dorinței mele ⟨l⟩-a făcut ⟨să-mi fie⟩ spre cutremur.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "Rătăcește"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "spaima"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mă înspăimântă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amurgul"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "amurgul"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "dorinței mele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "spre cutremur"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:17.356139181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Multe sunt îndurările tale, Yahve; după judecățile tale dă-mi viață.",
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "îndurările tale"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Multe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "după judecățile tale"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "dă-mi viață"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:32.843774957Z",
+  "model": "glm-5.3"
+}

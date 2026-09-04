@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "În sân este aruncat ⟨את⟩ sorțul, și de la Yahve ⟨este⟩ toată hotărârea lui.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "În sân"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "este aruncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sorțul"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "sorțul"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "și de la Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "hotărârea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:05.314644907Z",
+  "model": "glm-5.3"
+}

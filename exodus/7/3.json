@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Iar Eu voi împiétrii ⟨את⟩ inima lui Paro și voi înmulți ⟨את⟩ semnele mele și ⟨את⟩ minunile mele în țara Mițraim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar Eu"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "voi împiétrii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima lui Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "și voi înmulți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semnele mele"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "semnele mele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "minunile mele"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "minunile mele"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T08:46:23.390829583Z",
+  "model": "glm-5.3"
+}

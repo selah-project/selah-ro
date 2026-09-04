@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Păzește ⟨את⟩ ziua Șabatului, ca s-o sfințești, cum ți-a poruncit Yahve, Elohim al tău.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziua Șabatului"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Șabatului"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ca s-o sfințești"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ți-a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:16.297544803Z",
+  "model": "glm-5.3"
+}

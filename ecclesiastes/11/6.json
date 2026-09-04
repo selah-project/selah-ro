@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Dimineața seamănă ⟨את⟩ sămânța ta, și seara nu lăsa să se odihnească mâna ta, căci nu știi care va izbuti: acesta sau acela, și dacă amândouă ⟨vor fi⟩ deopotrivă bune.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Dimineața"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seamănă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sămânța ta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sămânța ta"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "și seara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lasă să se odihnească"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "știi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "care"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "va izbuti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acela"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândouă"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "deopotrivă"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bune"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:35.828689304Z",
+  "model": "glm-5.3"
+}

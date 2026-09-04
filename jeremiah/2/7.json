@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și v-am adus ⟨את⟩ în pământul roditor, ca să mâncați rodul lui și bunătatea lui; și ați intrat și ați pângărit ⟨את⟩ pământul meu, și moștenirea mea ați făcut-o o scârbă.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "Și v-am adus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "roditor"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ca să mâncați"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "rodul lui"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "și bunătatea lui"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "și ați intrat"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "și ați pângărit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul meu"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "pământul meu"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "și moștenirea mea"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "ați făcut-o"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "o scârbă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:57:57.014466834Z",
+  "model": "glm-5.3"
+}

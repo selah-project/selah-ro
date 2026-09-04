@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "S-au scufundat neamurile în groapa pe care au făcut-o; în mreaja pe care au ascuns-o a fost prins piciorul lor.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "S-au scufundat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "în groapa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "pe care au făcut-o"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "în mreaja"
+    },
+    {
+      "surface": "זו",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "au ascuns-o"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "a fost prins"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "piciorul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:51.606058794Z",
+  "model": "glm-5.3"
+}

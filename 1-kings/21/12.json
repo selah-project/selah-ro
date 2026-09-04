@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Au vestit un post și l-au pus ⟨את⟩ Navot în fruntea poporului.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "Au vestit"
+    },
+    {
+      "surface": "צום",
+      "gloss": "un post"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "și l-au pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "în fruntea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:40.726337153Z",
+  "model": "glm-5.3"
+}

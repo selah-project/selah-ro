@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Yahve, Elohim Țevaot, întoarce-ne; fă să lumineze fața ta, și vom fi izbăviți.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "întoarce-ne"
+    },
+    {
+      "surface": "האר",
+      "gloss": "fă să lumineze"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "și vom fi izbăviți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:53.209303576Z",
+  "model": "glm-5.3"
+}

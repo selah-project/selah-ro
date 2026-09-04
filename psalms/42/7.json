@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Elohim al meu, peste mine se cufundă sufletul meu; de aceea te voi pomeni din țara Iardenului și de la Hermonim, de muntele Mițar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "se cufundă"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "te voi pomeni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Iardenului"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "și de la Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "de muntele"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mițar"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:38.402815019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și s-a sculat Iehoșua dis-de-dimineață și a apropiat ⟨את⟩ Israel după semințiile lui; și a fost prinsă seminția lui Iehuda.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "și s-a sculat devreme"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "și a apropiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "după semințiile lui"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "și a fost prinsă"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "seminția"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T02:19:33.738566943Z",
+  "model": "glm-5.3"
+}

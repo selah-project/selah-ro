@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Genunchii mei s-au clătinat de post, și carnea mea a dat greș de grăsime.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "genunchii mei"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "s-au clătinat"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "de post"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "și carnea mea"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "a dat greș"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "de grăsime"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:45.032185553Z",
+  "model": "glm-5.3"
+}

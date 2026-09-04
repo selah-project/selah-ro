@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Și ⟨את⟩ poporul meu îl vor învăța ⟨să deosebească⟩ între sfânt și profan, și între necurat și curat îl vor face să cunoască.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Și ⟨את⟩",
+      "marks": "poporul meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "îl vor învăța"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "și profan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurat"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "și curat"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "îl vor face să cunoască"
+    }
+  ],
+  "timestamp": "2026-09-04T04:35:51.634982927Z",
+  "model": "glm-5.3"
+}

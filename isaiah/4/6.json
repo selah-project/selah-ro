@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și o suca va fi ca umbră ziua împotriva arșiței și ca adăpost și ca ascunziș împotriva vijeliei și împotriva ploii.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Și o suca"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "ca umbră"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "împotriva arșiței"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "și ca adăpost"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "și ca ascunziș"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "împotriva vijeliei"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "și împotriva ploii"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:39.447253917Z",
+  "model": "glm-5.3"
+}

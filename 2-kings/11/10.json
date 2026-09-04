@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a dat cohenul căpeteniilor sutașilor ⟨את⟩ sulițele și ⟨את⟩ scuturile care erau ale regelui David, care ⟨erau⟩ în Casa lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "căpeteniilor"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "sutașilor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sulițele"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "sulițele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "scuturile"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "scuturile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "erau ale regelui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:42.806992256Z",
+  "model": "glm-5.3"
+}

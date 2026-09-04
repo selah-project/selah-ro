@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Voi face ca numele tău să fie pomenit în fiecare neam și neam; de aceea popoarele te vor lăuda în veci și ⟨totdeauna⟩.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "voi pomeni"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "דר",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "și neamul"
+    },
+    {
+      "surface": "על",
+      "gloss": "de aceea"
+    },
+    {
+      "surface": "כן",
+      "gloss": "prin urmare"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "te vor lăuda"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și pururea"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:07.579329185Z",
+  "model": "glm-5.3"
+}

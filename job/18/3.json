@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 18:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "De ce suntem socotiți ⟨ca⟩ dobitoacele și ⟨suntem⟩ necurați în ochii voștri?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "suntem socotiți"
+    },
+    {
+      "surface": "כבהמה",
+      "gloss": "⟨ca⟩ dobitoacele"
+    },
+    {
+      "surface": "נטמינו",
+      "gloss": "⟨suntem⟩ necurați"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "în ochii voștri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:30:56.744643024Z",
+  "model": "glm-5.3"
+}

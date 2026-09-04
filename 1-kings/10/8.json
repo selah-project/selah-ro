@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Fericiți oamenii tăi, fericiți robii tăi, aceștia care stau neîncetat înaintea ta, ascultând ⟨את⟩ înțelepciunea ta.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "fericiți"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "oamenii tăi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "fericiți"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robii tăi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "care stau"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ascultând"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "înțelepciunea ta"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "înțelepciunea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:13:11.147768263Z",
+  "model": "glm-5.3"
+}

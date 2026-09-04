@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "cei zece fii ai lui Haman, fiul lui Hamedata, vrăjmașul iudeilor, i-au ucis; iar la pradă nu și-au întins ⟨את⟩ mâna.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "zece"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "vrăjmașul"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeilor"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "i-au ucis"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "iar la pradă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "au întins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mâna"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:43.860626668Z",
+  "model": "glm-5.3"
+}

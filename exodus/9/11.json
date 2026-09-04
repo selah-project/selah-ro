@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și nu au putut hartumimii să stea înaintea lui Moșe din pricina ulcerului, căci ulcerul era pe hartumimi și pe tot Mițraimul.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "au putut"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "hartumimii"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "să stea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ulcerului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ulcerul"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "pe hartumimi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și pe tot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:50.168495015Z",
+  "model": "glm-5.3"
+}

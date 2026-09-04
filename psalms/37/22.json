@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Căci cei binecuvântați de el vor moșteni ⟨את⟩ pământul, iar cei blestemați de el vor fi tăiați de pe el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "cei binecuvântați de el"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "vor moșteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "iar cei blestemați de el"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "vor fi tăiați"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:42.396781062Z",
+  "model": "glm-5.3"
+}

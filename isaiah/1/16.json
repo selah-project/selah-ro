@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Spălați-vă, curățiți-vă, îndepărtați răul faptelor voastre de dinaintea ochilor mei; încetați să faceți răul,",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "Spălați-vă"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "curățiți-vă"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "îndepărtați"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "faptelor voastre"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "de dinaintea"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochilor mei"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "încetați"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "să faceți răul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:24:17.823850097Z",
+  "model": "glm-5.3"
+}

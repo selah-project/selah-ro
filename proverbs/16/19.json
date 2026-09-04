@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Mai bine este un duh smerit ⟨împreună⟩ cu cei sărmani decât să împartă prada ⟨împreună⟩ cu cei trufași.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mai bine este"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "smerit"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu cei sărmani"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "cu cei sărmani"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "să împartă"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "prada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu cei trufași"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "cu cei trufași"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:40.616662893Z",
+  "model": "glm-5.3"
+}

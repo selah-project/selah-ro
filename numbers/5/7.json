@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și să-și mărturisească ⟨את⟩ păcatul pe care l-au făcut; și să dea înapoi ⟨את⟩ vina în căpetenia ei, și a cincea parte a ei să se adauge peste, și să o dea aceluia față de care a greșit.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "Și să-și mărturisească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "păcatul"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "păcatul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "l-au făcut"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "și să dea înapoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vina"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "vina"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "în căpetenia ei"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "și a cincea parte a ei"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "să se adauge"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "și să o dea"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "aceluia care"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "a greșit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "față de el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:44:25.115466515Z",
+  "model": "glm-5.3"
+}

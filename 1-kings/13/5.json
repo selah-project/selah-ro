@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și altarul s-a rupt și cenușa s-a vărsat de pe altar, ca semnul pe care îl dăduse omul lui Elohim prin cuvântul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "Și altarul"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "s-a rupt"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "și s-a vărsat"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "cenușa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "ca semnul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dăduse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "prin cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:25.420505818Z",
+  "model": "glm-5.3"
+}

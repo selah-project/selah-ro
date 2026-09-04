@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Căci dacă vei asculta cu luare-aminte de glasul lui și vei face tot ce voi grăi, voi fi ⟨את⟩ dușmanul dușmanilor tăi și voi strâmtora ⟨את⟩ pe cei ce te strâmtorează.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "cu luare-aminte"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "vei asculta"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "de glasul lui"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și vei face"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "voi grăi"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "voi fi dușmanul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dușmanilor tăi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dușmanilor tăi"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "și voi strâmtora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cei ce te strâmtorează"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "pe cei ce te strâmtorează"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:09.441845434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Dacă-ți vor zice: «Vino cu ⟨את⟩ noi, să stăm la pândă pentru sânge, să ne ascundem pentru cel nevinovat, fără pricină»,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vor zice"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Vino"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "cu ⟨את⟩ noi"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "să stăm la pândă"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "pentru sânge"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "să ne ascundem"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "pentru cel nevinovat"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "fără pricină"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.565420135Z",
+  "model": "glm-5.3"
+}

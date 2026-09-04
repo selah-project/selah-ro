@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 6:20",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și s-a întors David să binecuvânteze ⟨את⟩ casa lui, și a ieșit Mihal, fiica lui Șaul, în întâmpinarea lui David, și a zis: Cât de prețios a fost astăzi regele lui Israel, care s-a dezgolit astăzi înaintea ochilor slujitoarelor slujitorilor lui, cum se dezgolesc dezgolirile unuia dintre netrebnici!",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "să binecuvânteze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "și a ieșit"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mihal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "în întâmpinarea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cât de"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "prețios a fost"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "s-a dezgolit"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "înaintea ochilor"
+    },
+    {
+      "surface": "אמהות",
+      "gloss": "slujitoarelor"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slujitorilor lui"
+    },
+    {
+      "surface": "כהגלות",
+      "gloss": "cum se dezgolesc"
+    },
+    {
+      "surface": "נגלות",
+      "gloss": "dezgolirile"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unuia dintre"
+    },
+    {
+      "surface": "הרקים",
+      "gloss": "netrebnici"
+    }
+  ],
+  "timestamp": "2026-09-04T02:57:49.961963265Z",
+  "model": "glm-5.3"
+}

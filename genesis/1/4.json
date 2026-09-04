@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a văzut Elohim ⟨את⟩ lumina, că ⟨este⟩ bună; și a despărțit Elohim între lumină și între întuneric.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumina"
+    },
+    {
+      "surface": "האור",
+      "gloss": "lumina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bună"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "și a despărțit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "האור",
+      "gloss": "lumină"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "întuneric"
+    }
+  ],
+  "timestamp": "2026-09-04T09:41:34.983794167Z",
+  "model": "glm-5.3"
+}

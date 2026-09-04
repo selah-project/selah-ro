@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va junghia ⟨את⟩ mielul jertfei de vină, și cohenul va lua din sângele jertfei de vină și va pune pe lobul urechii drepte a celui ce se curățește, și pe degetul mare al mâinii lui celei drepte, și pe degetul mare al piciorului lui celui drept.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Și va junghia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mielul jertfei de vină"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "mielul"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "jertfei de vină"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "și va lua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "din sângele"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "jertfei de vină"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "și va pune"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "lobul"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "urechii"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "a celui ce se curățește"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "drepte"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "degetul mare"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "al mâinii lui"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "celei drepte"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "degetul mare"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "al piciorului lui"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "celui drept"
+    }
+  ],
+  "timestamp": "2026-09-04T01:34:18.914014143Z",
+  "model": "glm-5.3"
+}

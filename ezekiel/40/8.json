@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a măsurat ⟨את⟩ pridvorul porții dinspre casă: o trestie.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Și a măsurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pridvorul porții"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "pridvorul"
+    },
+    {
+      "surface": "השער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "dinspre casă"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "o trestie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-04T04:34:26.703604155Z",
+  "model": "glm-5.3"
+}

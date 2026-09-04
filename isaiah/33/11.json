@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Zămisiți iarbă uscată, nașteți paie; suflarea voastră — foc vă va mistui.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "zămisiți"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "iarbă uscată"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "nașteți"
+    },
+    {
+      "surface": "קש",
+      "gloss": "paie"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "suflarea voastră"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "vă va mistui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:44:28.421874207Z",
+  "model": "glm-5.3"
+}

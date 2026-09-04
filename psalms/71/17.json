@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Elohim, m-ai învățat din tinerețile mele, și până acum vestesc minunile tale.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "m-ai învățat"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "din tinerețile mele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "vestesc"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "minunile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:29.981705959Z",
+  "model": "glm-5.3"
+}

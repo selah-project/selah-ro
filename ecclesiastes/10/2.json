@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Inima înțeleptului ⟨este⟩ la dreapta lui, iar inima nesăbuitului la stânga lui.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțeleptului"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "la dreapta lui"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "iar inima"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nesăbuitului"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "la stânga lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:27.437506864Z",
+  "model": "glm-5.3"
+}

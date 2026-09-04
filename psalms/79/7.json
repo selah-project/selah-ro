@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Căci au mâncat ⟨את⟩ Iaacov, și ⟨את⟩ sălașul lui au pustiit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "au mâncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sălașul lui"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "sălașul lui"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "au pustiit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:04.583016225Z",
+  "model": "glm-5.3"
+}

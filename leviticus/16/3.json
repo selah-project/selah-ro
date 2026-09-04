@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Cu aceasta va intra Aharon în sfântul ⟨loc⟩: cu un taur, fiu de vită, pentru jertfa de păcat, și un berbec pentru arderea de tot.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Cu aceasta"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "va intra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfântul"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "cu un taur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de vită"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pentru jertfa de păcat"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "și un berbec"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "pentru arderea de tot"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:27.434478879Z",
+  "model": "glm-5.3"
+}

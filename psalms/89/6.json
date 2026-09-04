@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Și vor mărturisi cerurile minunile tale, Yahve, chiar și credincioșia ta, în adunarea sfinților.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "Și vor mărturisi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "minunile tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "credincioșia ta"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "în adunarea"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sfinților"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:54.231321352Z",
+  "model": "glm-5.3"
+}

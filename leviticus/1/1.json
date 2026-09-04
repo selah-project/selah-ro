@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a chemat ⟨către⟩ Moșe, și a vorbit Yahve către el, din cortul întâlnirii, zicând:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "și a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "din cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:48.845418533Z",
+  "model": "glm-5.3"
+}

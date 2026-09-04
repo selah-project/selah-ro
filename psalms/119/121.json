@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Am făcut judecată și dreptate; nu mă lăsa asupritorilor mei.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Am făcut"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecată"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "și dreptate"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "mă lăsa"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "asupritorilor mei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:54.089748437Z",
+  "model": "glm-5.3"
+}

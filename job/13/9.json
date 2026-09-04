@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Este oare bine că va cerceta el ⟨את⟩ pe voi? Sau, cum își bate joc cineva de un om, să vă bateți ⟨את⟩ joc de el?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Este oare bine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "va cerceta el"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sau"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "cum își bate joc cineva"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "de un om"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "să vă bateți joc"
+    },
+    {
+      "surface": "בו",
+      "gloss": "de el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:17.015465336Z",
+  "model": "glm-5.3"
+}

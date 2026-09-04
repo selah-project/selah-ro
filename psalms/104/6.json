@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Adâncul l-ai acoperit ca pe o haină; deasupra munților stăteau apele.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Adâncul"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ca pe o haină"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "l-ai acoperit"
+    },
+    {
+      "surface": "על",
+      "gloss": "deasupra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munților"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stăteau"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:20.170810802Z",
+  "model": "glm-5.3"
+}

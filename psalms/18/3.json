@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Yahve — stânca mea și cetățuia mea și scăparea mea; El, al meu, stânca mea, în el mă adăpostesc; scutul meu și cornul izbăvirii mele, întăritura mea.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "și cetățuia mea"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "și scăparea mea"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El, al meu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mă adăpostesc"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "scutul meu"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "și cornul"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "izbăvirii mele"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "întăritura mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:54.146497331Z",
+  "model": "glm-5.3"
+}

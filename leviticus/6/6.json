@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Foc neîncetat va arde pe altar, nu se va stinge.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Foc"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "va arde"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "se va stinge"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:39.915217052Z",
+  "model": "glm-5.3"
+}

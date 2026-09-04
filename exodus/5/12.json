@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și s-a risipit poporul prin toată țara Mițraimului, să adune pleavă pentru paie.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Și s-a risipit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "prin toată"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "să adune"
+    },
+    {
+      "surface": "קש",
+      "gloss": "pleavă"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "pentru paie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:38.586604700Z",
+  "model": "glm-5.3"
+}

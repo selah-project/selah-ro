@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Se va bucura cel drept în Yahve și își va lua scăparea în el, și se vor lăuda toți cei drepți de inimă.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "se va bucura"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "și își va lua scăparea"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "și se vor lăuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de inimă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:36.619645862Z",
+  "model": "glm-5.3"
+}

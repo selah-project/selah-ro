@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Pildele lui Șelomo: un fiu înțelept veselește ⟨pe⟩ tatăl, iar un fiu nebun ⟨este⟩ întristarea mamei lui.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Pildele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "veselește"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "iar un fiu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nebun"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "întristarea"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:58.445100347Z",
+  "model": "glm-5.3"
+}

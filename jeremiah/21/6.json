@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și voi lovi ⟨את⟩ pe locuitorii cetății acesteia, și ⟨את⟩ omul, și ⟨את⟩ dobitoacele — de ciumă mare vor muri.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Și voi lovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locuitorii cetății acesteia"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "dobitoacele"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobitoacele"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "de ciumă"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "vor muri"
+    }
+  ],
+  "timestamp": "2026-09-04T04:06:10.421209014Z",
+  "model": "glm-5.3"
+}

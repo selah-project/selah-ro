@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Peste mine au trecut arderile mâniei tale, spaimele tale m-au stins.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "arderile mâniei tale"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "spaimele tale"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "m-au stins"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:34.272079094Z",
+  "model": "glm-5.3"
+}

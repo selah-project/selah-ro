@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Nu a văzut un om ⟨את⟩ fratele său și nu s-a ridicat un om de sub el trei zile; și pentru toți fiii lui Israel a fost lumină în așezările lor.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fratele său"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "s-a ridicat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "de sub el"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "și pentru toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumină"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "în așezările lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:19.053423029Z",
+  "model": "glm-5.3"
+}

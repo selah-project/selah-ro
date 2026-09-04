@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci de data aceasta eu trimit ⟨את⟩ toate plăgile mele asupra inimii tale și asupra slujitorilor tăi și asupra poporului tău, ca să știi că nu ⟨este⟩ nimeni ca mine în tot pământul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "de data"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "trimite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate plăgile mele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "plăgile mele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "inimii tale"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "și asupra slujitorilor tăi"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "și asupra poporului tău"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "știi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "ca mine"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:58.513021627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "Care și-a adus aminte de noi în smerenia noastră, că în veac ⟨este⟩ hesedul lui",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "în smerenia noastră"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "și-a adus aminte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "de noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:20.819692680Z",
+  "model": "glm-5.3"
+}

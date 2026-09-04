@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și ⟨את⟩ copiii ei nu-i voi îndura, căci fii ai curviei sunt ei.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "copiii ei"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "copiii ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "voi îndura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ai curviei"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sunt ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:37.819457190Z",
+  "model": "glm-5.3"
+}

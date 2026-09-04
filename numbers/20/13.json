@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 20:13",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Acestea sunt apele Meriba, unde s-au certat fiii lui Israel cu Yahve, și ⟨el⟩ s-a sfințit prin ei.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Acestea sunt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apele"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "s-au certat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "și s-a sfințit"
+    },
+    {
+      "surface": "בם",
+      "gloss": "prin ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:50:59.767645682Z",
+  "model": "glm-5.3"
+}

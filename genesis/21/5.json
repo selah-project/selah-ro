@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și Avraham ⟨era⟩ fiu de o sută de ani la nașterea lui ⟨את⟩ Ițhac, fiul lui.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Și Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de o sută"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "la nașterea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ițhac"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:46.035921225Z",
+  "model": "glm-5.3"
+}

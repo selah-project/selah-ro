@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Minciună ⟨este⟩ calul ⟨pentru⟩ izbăvire, și prin mulțimea puterii lui nu va scăpa.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֣קֶר",
+      "gloss": "Minciună"
+    },
+    {
+      "surface": "הַ֭סּוּס",
+      "gloss": "calul"
+    },
+    {
+      "surface": "לִתְשׁוּעָ֑ה",
+      "gloss": "⟨pentru⟩ izbăvire"
+    },
+    {
+      "surface": "וּבְרֹ֥ב",
+      "gloss": "și prin mulțimea"
+    },
+    {
+      "surface": "חֵ֝יל֗וֹ",
+      "gloss": "puterii lui"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יְמַלֵּֽט",
+      "gloss": "va scăpa"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:07.045428216Z",
+  "model": "glm-5.3"
+}

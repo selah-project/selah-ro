@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și cohenul îl va aduce la altar, îi va smulge ⟨את⟩ capul și va face să fumega pe altar; iar sângele lui va fi stors pe peretele altarului.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "și îl va aduce"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "și îi va smulge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capul"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "capul"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "și va face să fumega"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "iar va fi stors"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "peretele"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:16.565352638Z",
+  "model": "glm-5.3"
+}

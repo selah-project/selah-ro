@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Răscumpără, Elohim, ⟨את⟩ Israel din toate strâmtorările lui!",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Răscumpără"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din toate"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "strâmtorările lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:07.332355043Z",
+  "model": "glm-5.3"
+}

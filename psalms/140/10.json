@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Capul celor ce mă înconjoară — osteneala buzelor lor să-i acopere.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "celor ce mă înconjoară"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "osteneala"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "buzelor lor"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "să-i acopere"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:46.322082165Z",
+  "model": "glm-5.3"
+}

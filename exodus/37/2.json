@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "L-a îmbrăcat cu aur curat, pe dinăuntru și pe dinafară, și i-a făcut o cunună de aur de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "L-a îmbrăcat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curat"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "pe dinăuntru"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "și pe dinafară"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cunună"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:53.513665219Z",
+  "model": "glm-5.3"
+}

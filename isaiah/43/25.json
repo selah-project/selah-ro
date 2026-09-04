@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Eu, eu sunt ⟨acela⟩ care șterge fărădelegile tale de dragul meu, și păcatele tale nu le voi mai pomeni.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨acela⟩ sunt"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "care șterge"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "fărădelegile tale"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "de dragul meu"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "și păcatele tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "le voi pomeni"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:54.531826082Z",
+  "model": "glm-5.3"
+}

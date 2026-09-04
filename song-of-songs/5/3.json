@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Mi-am scos ⟨את⟩ tunica mea — cum s-o mai pun? Mi-am spălat ⟨את⟩ picioarele — cum să le murdăresc?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Mi-am scos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunica mea"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "tunica mea"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "cum"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "s-o mai pun"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Mi-am spălat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "picioarele"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "picioarele"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "cum"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "să le murdăresc"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:27.213262411Z",
+  "model": "glm-5.3"
+}

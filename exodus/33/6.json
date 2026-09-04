@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și s-au dezbărat fiii lui Israel de ⟨את⟩ podoabele lor, de la muntele Horev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Și s-au dezbărat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podoabele lor"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "podoabele"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "de la muntele"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horev"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:11.150507267Z",
+  "model": "glm-5.3"
+}

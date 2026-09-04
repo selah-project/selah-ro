@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Cel chibzuit a văzut răul și s-a ascuns, iar cei naivi au trecut mai departe și au fost pedepsiți.",
+  "tokens": [
+    {
+      "surface": "עָרוּם",
+      "gloss": "Cel chibzuit"
+    },
+    {
+      "surface": "רָאָה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "și s-a ascuns"
+    },
+    {
+      "surface": "וּפְתָיִים",
+      "gloss": "iar cei naivi"
+    },
+    {
+      "surface": "עָבְרוּ",
+      "gloss": "au trecut mai departe"
+    },
+    {
+      "surface": "וְנֶעֱנָשׁוּ",
+      "gloss": "și au fost pedepsiți"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:18.390323998Z",
+  "model": "glm-5.3"
+}

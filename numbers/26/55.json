@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Numai prin sorți se va împărți ⟨את⟩ pământul; după numele triburilor părinților lor vor moșteni ei.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "numai"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "prin sorți"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "se va împărți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "după numele"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "triburilor"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "vor moșteni"
+    }
+  ],
+  "timestamp": "2026-09-04T01:53:49.087487037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și omul a pus nevestei sale numele Hava, pentru că ea a fost mama tuturor celor vii.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a pus numele"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nevestei sale"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor celor"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vii"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:14.289402856Z",
+  "model": "glm-5.3"
+}

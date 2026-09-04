@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a fost, pe când erau ⟨ei⟩ pe drum, că a venit vestea la David, zicând: a lovit Avșalom ⟨את⟩ pe toți fiii regelui și nu a rămas dintre ei nici unul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "și vestea"
+    },
+    {
+      "surface": "באה",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți fiii regelui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "a rămas"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dintre ei"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nici unul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:13:57.735434952Z",
+  "model": "glm-5.3"
+}

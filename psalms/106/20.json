@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și au schimbat ⟨את⟩ slava lor în chipul unui bou care mănâncă iarbă.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Și au schimbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slava lor"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "slava lor"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "în chipul"
+    },
+    {
+      "surface": "שור",
+      "gloss": "unui bou"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "care mănâncă"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iarbă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:49.005479399Z",
+  "model": "glm-5.3"
+}

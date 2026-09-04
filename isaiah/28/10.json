@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Căci poruncă după poruncă, poruncă după poruncă, linie după linie, linie după linie, puțin acolo, puțin acolo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "צו",
+      "gloss": "poruncă"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "după poruncă"
+    },
+    {
+      "surface": "צו",
+      "gloss": "poruncă"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "după poruncă"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linie"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "după linie"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linie"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "după linie"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:21.531063194Z",
+  "model": "glm-5.3"
+}

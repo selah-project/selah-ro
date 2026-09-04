@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Căci gura celui rău și gura înșelăciunii s-au deschis împotriva mea; au vorbit ⟨את⟩ cu mine — limbă de minciună.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "celui rău"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "și gura"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "înșelăciunii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "s-au deschis"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "au vorbit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cu mine",
+      "marks": "cu mine"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "limbă"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de minciună"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:18.059676512Z",
+  "model": "glm-5.3"
+}

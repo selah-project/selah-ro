@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și i-a spus Yahve: Căci ⟨voi fi⟩ cu tine, și îi vei lovi ⟨את⟩ Midian ca pe un singur om.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și i-a spus"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "voi fi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "și îi vei lovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ca pe un om"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "singur"
+    }
+  ],
+  "timestamp": "2026-09-04T07:06:00.253842596Z",
+  "model": "glm-5.3"
+}

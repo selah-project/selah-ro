@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a făcut ce este rău în ochii lui Yahve și a mers după păcatele lui Iarovam, fiul lui Nevat, care a făcut pe Israel să păcătuiască ⟨את⟩ Israel; nu s-a abătut de la ele.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ce este rău"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "după"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "păcatele"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "lui Iarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "lui Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a făcut să păcătuiască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סר",
+      "gloss": "s-a abătut"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "de la ele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:22:02.863458959Z",
+  "model": "glm-5.3"
+}

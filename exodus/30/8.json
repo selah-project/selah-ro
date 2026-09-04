@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și când va ridica Aharon ⟨את⟩ candelele între cele două seri, o va face să se ridice fumul: tămâie necurmată înaintea lui Yahve, pentru generațiile voastre.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "Și când va ridica"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "candelele"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "candelele"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "cele două seri"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "o va face să se ridice fumul"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tămâie"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "necurmată"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "pentru generațiile voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:09.004077815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Am zis: „Doar te vei teme de ⟨את⟩ mine, vei primi mustrare, și locuința ei nu va fi nimicită — tot ce am rânduit asupra ei”; dar s-au sculat de dimineață și au stricat toate faptele lor.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Am zis"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "te vei teme"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "de ⟨את⟩ mine",
+      "marks": "mine"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "vei primi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mustrare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "va fi nimicită"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "locuința ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "am rânduit"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "asupra ei"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "dar"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "s-au sculat de dimineață"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "au stricat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "faptele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T09:06:04.292427493Z",
+  "model": "glm-5.3"
+}

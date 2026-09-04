@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Căci ca o femeie părăsită și amărâtă în duh te-a chemat Yahve, și ca o soție din tinerețe când ⟨a fost⟩ lepădată — a spus Elohim al tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "ca o femeie"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "părăsită"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "și amărâtă"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "în duh"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "te-a chemat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "și ca o soție"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "din tinerețe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "a fost lepădată"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T07:30:15.584613515Z",
+  "model": "glm-5.3"
+}

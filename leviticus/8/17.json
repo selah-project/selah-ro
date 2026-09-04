@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Iar ⟨את⟩ vițelul, și ⟨את⟩ pielea lui, și ⟨את⟩ carnea lui, și ⟨את⟩ balega lui le-a ars în foc, afară din tabără, cum a poruncit Yahve ⟨את⟩ lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iar ⟨את⟩",
+      "marks": "vițelul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "vițelul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pielea lui"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "pielea lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "carnea lui"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "carnea lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "balega lui"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "balega lui"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "le-a ars"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "din tabără"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:58.052258292Z",
+  "model": "glm-5.3"
+}

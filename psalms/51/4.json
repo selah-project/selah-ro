@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Înmulțește spălarea mea de nelegiuirea mea și de păcatul meu curăță-mă.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Înmulțește"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "spălarea mea"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "de nelegiuirea mea"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "și de păcatul meu"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "curăță-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:19.671216216Z",
+  "model": "glm-5.3"
+}

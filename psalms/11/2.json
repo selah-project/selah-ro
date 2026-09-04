@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Căci iată, cei răși întind arcul, își pregătesc săgeata pe coardă, ca să tragă în întuneric în cei drepți cu inima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "cei răși"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "întind"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arcul"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "își pregătesc"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "săgeata"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "coardă"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "ca să tragă"
+    },
+    {
+      "surface": "במו",
+      "gloss": "în"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "întuneric"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "în cei drepți"
+    },
+    {
+      "surface": "לב",
+      "gloss": "cu inima"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:41.445016536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și am văzut eu, Daniel, singur ⟨את⟩ vedenia, dar oamenii care erau cu mine nu au văzut ⟨את⟩ vedenia; însă o cutremurare mare a căzut peste ei și au fugit să se ascundă.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "și am văzut"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "singur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vedenia"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "vedenia"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "dar oamenii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vedenia"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "vedenia"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "însă"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "o cutremurare"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "a căzut"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "și au fugit"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "să se ascundă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:53:32.671378058Z",
+  "model": "glm-5.3"
+}

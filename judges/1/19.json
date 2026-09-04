@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a fost Yahve ⟨את⟩ cu Iehuda, și a stăpânit ⟨את⟩ muntele, dar nu a putut stăpâni ⟨את⟩ locuitorii văii, căci aveau care de fier.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ cu",
+      "marks": "Iehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "și a stăpânit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muntele"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "a putut stăpâni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locuitorii văii"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "văii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "care"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "de fier"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aveau"
+    }
+  ],
+  "timestamp": "2026-09-04T07:05:30.577569659Z",
+  "model": "glm-5.3"
+}

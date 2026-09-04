@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Păcătoșii îi urmărește răul, iar ⟨את⟩ drepții îi răsplătește binele.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "păcătoșii"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "urmărește"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "drepții"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "drepții"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "răsplătește"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:28.935277504Z",
+  "model": "glm-5.3"
+}

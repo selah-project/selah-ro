@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și încă am văzut sub soare: în locul judecății, acolo ⟨este⟩ răutatea; și în locul dreptății, acolo ⟨este⟩ răutatea.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "și încă"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "judecății"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "răutatea"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "și în locul"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "dreptății"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "răutatea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:02.797782611Z",
+  "model": "glm-5.3"
+}

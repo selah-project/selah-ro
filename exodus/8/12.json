@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a spus Yahve către Moșe: Spune către Aharon: Întinde ⟨את⟩ toiagul tău și lovește ⟨את⟩ praful pământului, și va fi purici în toată țara Mițraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Spune"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Întinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toiagul tău"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "toiagul tău"
+    },
+    {
+      "surface": "והך",
+      "gloss": "și lovește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praful pământului"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praful"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "purici"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:36.707441052Z",
+  "model": "glm-5.3"
+}

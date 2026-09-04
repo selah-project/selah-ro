@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Vai păstorilor care pierd și risipesc ⟨את⟩ turma pășunii mele, oracolul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "păstorilor"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "care pierd"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "și risipesc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turma"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "turma"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "pășunii mele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:06:04.020688366Z",
+  "model": "glm-5.3"
+}

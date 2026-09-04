@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Să vină rugăciunea mea înaintea ta; după spusul tău scapă-mă.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "să vină"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "după spusul tău"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "scapă-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:47.446413742Z",
+  "model": "glm-5.3"
+}

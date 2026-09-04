@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și va aduce din jertfa shelamim o jertfă de foc lui Yahve: ⟨את⟩ grăsimea care acoperă ⟨את⟩ măruntaiele și ⟨את⟩ toată grăsimea care ⟨este⟩ pe măruntaie.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "și va aduce"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "din jertfa"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "o jertfă de foc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "care acoperă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măruntaiele"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaiele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaie"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:56.202334627Z",
+  "model": "glm-5.3"
+}

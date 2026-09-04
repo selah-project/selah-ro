@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Să poarte munții shalom poporului, și dealurile, în dreptate!",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "să poarte"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "și dealurile"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "în dreptate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:37.384755438Z",
+  "model": "glm-5.3"
+}

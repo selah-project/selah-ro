@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și m-am prosternat înaintea lui Yahve ⟨את⟩ patruzeci de zile și ⟨את⟩ patruzeci de nopți — în care mă prosternasem — căci a spus Yahve să vă nimicească.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "Și m-am prosternat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patruzeci de zile"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de zile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "patruzeci de nopți"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "de nopți"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "mă prosternasem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "să nimicească"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:58.605009248Z",
+  "model": "glm-5.3"
+}

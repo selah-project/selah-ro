@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și să faci veșminte de sfințenie pentru Aharon, fratele tău, pentru slavă și pentru podoabă.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Și să faci"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "veșminte"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "de sfințenie"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pentru Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "pentru slavă"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "și pentru podoabă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:23:06.809860853Z",
+  "model": "glm-5.3"
+}

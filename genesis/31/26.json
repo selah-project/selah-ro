@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a zis Lavan lui Iaacov: Ce ai făcut, că mi-ai furat ⟨את⟩ inima și m-ai dus ⟨את⟩ fiicele mele ca pe robiți cu sabia?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "ויגנב",
+      "gloss": "mi-ai furat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima mea"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "m-ai dus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiicele mele"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "fiicele mele"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "ca pe robiți"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "cu sabia"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:13.743354080Z",
+  "model": "glm-5.3"
+}

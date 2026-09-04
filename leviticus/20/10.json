@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și un om care preacurge ⟨את⟩ cu femeia unui om, care preacurge ⟨את⟩ cu femeia aproapelui său, moarte să fie omorât preacurul și preacurța.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "preacurge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu femeia unui om"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "preacurge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu femeia aproapelui său"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "apropapelui său"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "să fie omorât"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "preacurul"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "și preacurța"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:20.959903869Z",
+  "model": "glm-5.3"
+}

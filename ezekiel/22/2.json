@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iar tu, fiu al omului, vei judeca, vei judeca ⟨את⟩ cetatea sângelor, și o vei face să cunoască ⟨את⟩ toate urâciunile ei?",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "al omului"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "vei judeca"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "vei judeca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea sângelor"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "sângelor"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "și o vei face să cunoască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate urâciunile ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "urâciunile ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:26:19.750747512Z",
+  "model": "glm-5.3"
+}

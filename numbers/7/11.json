@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a spus Yahve către Moșe: câte o căpetenie pe zi — câte o căpetenie pe zi — să aducă ⟨את⟩ darul lor, pentru sfințirea altarului.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "căpetenie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pe zi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "căpetenie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pe zi"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "să aducă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul lor"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "darul lor"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "pentru sfințirea"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:44:17.416388219Z",
+  "model": "glm-5.3"
+}

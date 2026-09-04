@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a zis regele: Aceasta zice: Acesta ⟨este⟩ fiul meu, cel viu, și fiul tău ⟨este⟩ cel mort; și aceasta zice: Nu, ci fiul tău ⟨este⟩ cel mort, și fiul meu ⟨este⟩ cel viu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "zice"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "cel viu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "și fiul tău"
+    },
+    {
+      "surface": "המת",
+      "gloss": "cel mort"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "și aceasta"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "zice"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiul tău"
+    },
+    {
+      "surface": "המת",
+      "gloss": "cel mort"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "și fiul meu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "cel viu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:40.109429191Z",
+  "model": "glm-5.3"
+}

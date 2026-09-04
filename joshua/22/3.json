@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Nu v-ați părăsit ⟨את⟩ frații voștri aceste zile multe, până în ziua aceasta, și ați păzit ⟨את⟩ paza poruncii lui Yahve, Elohim vostru.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "v-ați părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frații voștri"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frații voștri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceste"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "și ați păzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paza poruncii lui Yahve"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "paza"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "poruncii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T02:26:17.596007995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și ⟨את⟩ fiicele voastre va lua ca pregătitoare de miresme, și ca bucătărese, și ca pâitoare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiicele voastre"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "fiicele voastre"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "ca pregătitoare de miresme"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "și ca bucătărese"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "și ca pâitoare"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:12.895447126Z",
+  "model": "glm-5.3"
+}

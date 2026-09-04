@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Căci m-am pizmuit pe cei nechibiuiți, pacea răshăpților o vedeam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "m-am pizmuit"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "pe cei nechibiuiți"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pacea"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "răshăpților"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "o vedeam"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:13.286301025Z",
+  "model": "glm-5.3"
+}

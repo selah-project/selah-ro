@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Sătuii s-au pus în slujbă pentru pâine, iar cei flămânzi au încetat ⟨să flămânzească⟩; până și cea stearpă a născut șapte, iar cea cu mulți copii a slăbit.",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "Sătuii"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "pentru pâine"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "s-au pus în slujbă"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "iar cei flămânzi"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "au încetat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până și"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "cea stearpă"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "iar cea cu mulți"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "copii"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "a slăbit"
+    }
+  ],
+  "timestamp": "2026-09-04T02:38:28.506515612Z",
+  "model": "glm-5.3"
+}

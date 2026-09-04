@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "El va zidi o casă pentru Numele meu și îi voi întări ⟨את⟩ tronul împărăției lui până în veac.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "va zidi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "o casă"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "pentru Numele meu"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "și îi voi întări"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tronul"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronul"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "împărăției lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    }
+  ],
+  "timestamp": "2026-09-04T02:56:57.178117938Z",
+  "model": "glm-5.3"
+}

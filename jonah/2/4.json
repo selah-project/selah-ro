@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "M-ai aruncat în adânc, în inima mărilor, și râul mă înconjura; toate talazurile tale și valurile tale peste mine au trecut.",
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "M-ai aruncat"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "în adânc"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "în inima"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mărilor"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "și râul"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "mă înconjura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "talazurile tale"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "și valurile tale"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:02.542714331Z",
+  "model": "glm-5.3"
+}

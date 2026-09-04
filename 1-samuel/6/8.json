@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și veți lua ⟨את⟩ chivotul lui Yahve și îl veți pune pe căruță, și ⟨את⟩ vasele de aur pe care i le întoarceți lui ca dar de vină le veți pune în cutie, alături de el, și îl veți trimite și va merge.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "Și veți lua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul lui Yahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "și veți pune"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "căruță"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vasele de aur"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vasele"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "îi întoarceți"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ca dar de vină"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "veți pune"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "în cutie"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "alături de el"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "și veți trimite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "și va merge"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:03.387013754Z",
+  "model": "glm-5.3"
+}

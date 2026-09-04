@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Trimiți duhul tău — sunt creați; și înnoiești fața pământului.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Trimiți"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "duhul tău"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "sunt creați"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "și înnoiești"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:28.177138226Z",
+  "model": "glm-5.3"
+}

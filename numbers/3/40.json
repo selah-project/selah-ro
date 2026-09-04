@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 3:40",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus Yahve către Moșe: Numără pe toți întâiul-născut de parte bărbătească dintre fiii lui Israel, de la fiu de o lună și în sus, și ridică ⟨את⟩ numărul numelor lor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Numără"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "întâiul-născut"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "de parte bărbătească"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "al fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "de la fiu de"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "o lună"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "și în sus"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "și ridică"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numărul"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numărul"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "numelor lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:43:04.594195216Z",
+  "model": "glm-5.3"
+}

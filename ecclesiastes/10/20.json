@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Chiar și în cugetul tău pe rege nu blestema, și în odăile dormitorului tău pe bogatul nu blestema, căci pasărea cerurilor va duce ⟨את⟩ glasul, și stăpânul aripilor va vesti cuvântul.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Chiar și"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "în cugetul tău"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "pe rege"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "blestema"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "și în odăile"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "dormitorului tău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "blestema"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "pe bogatul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "va duce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "și stăpânul"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "aripilor"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "va vesti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:36.007611489Z",
+  "model": "glm-5.3"
+}

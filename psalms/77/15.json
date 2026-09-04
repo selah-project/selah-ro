@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Tu ești El ⟨cel ce⟩ face minuni; ai făcut cunoscut printre popoare puterea ta.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ești El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨cel ce⟩ face"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "minuni"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ai făcut cunoscut"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "printre popoare"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "puterea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:22.625849707Z",
+  "model": "glm-5.3"
+}

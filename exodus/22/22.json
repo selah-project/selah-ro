@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă, apăsând, îl veți apăsa ⟨את⟩ pe el — căci dacă, strigând, va striga către mine, auzind voi auzi strigătul lui.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "apăsând"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "îl veți apăsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "strigând"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "va striga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "auzind"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "voi auzi"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "strigătul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:12.953458311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Ce ⟨este⟩ muritorul, de îl amintești, și fiul omului, de îl cercetezi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "muritorul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "îl amintești"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "și fiul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "îl cercetezi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:52:56.645447302Z",
+  "model": "glm-5.3"
+}

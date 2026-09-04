@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Căci neamul și împărăția care nu te vor sluji vor pieri, și neamurile acelea cu totul vor fi pustiate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "și împărăția"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "te vor sluji"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vor pieri"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "și neamurile"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "cu totul"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "vor fi pustiate"
+    }
+  ],
+  "timestamp": "2026-09-04T03:54:49.736170665Z",
+  "model": "glm-5.3"
+}

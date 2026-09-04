@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "și-l va găsi răscumpărătorul sângelui afară de hotarul orașului adăpostului său, și va ucide răscumpărătorul sângelui ⟨את⟩ ucigașul — nu este pentru el vină de sânge.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "și-l va găsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "răscumpărătorul îl găsește pe ucigaș"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "răscumpărătorul"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângelui"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară de"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "hotarul"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "orașului"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "adăpostului său"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "și va ucide"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "răscumpărătorul"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângelui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucigașul"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ucigașul"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vină de sânge"
+    }
+  ],
+  "timestamp": "2026-09-04T01:57:44.911374381Z",
+  "model": "glm-5.3"
+}

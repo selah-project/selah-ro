@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Căci șase zile a făcut Yahve ⟨את⟩ cerurile și ⟨את⟩ pământul, ⟨את⟩ marea și ⟨את⟩ tot ce ⟨este⟩ în ele, și S-a odihnit în ziua a șaptea; de aceea a binecuvântat Yahve ⟨את⟩ ziua de Șabat și a sfințit-o.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "șase"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cerurile"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot ce în ele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "și S-a odihnit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a șaptea"
+    },
+    {
+      "surface": "על",
+      "gloss": "de aceea"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(de aceea)"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "a binecuvântat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziua de Șabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de Șabat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "și a sfințit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:57.771106795Z",
+  "model": "glm-5.3"
+}

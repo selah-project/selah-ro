@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 113,
+  "translation": "cel ce Se coboară să privească în ceruri și pe pământ!",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "cel ce Se coboară"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să privească"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "și pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:59.489460119Z",
+  "model": "glm-5.3"
+}

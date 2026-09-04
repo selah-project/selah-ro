@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Trimite izvoare în văi; între munți ele curg.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Trimite"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "izvoare"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "în văi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munți"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ele curg"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:16.966911180Z",
+  "model": "glm-5.3"
+}

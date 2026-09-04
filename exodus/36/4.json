@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și au venit toți înțelepții care făceau ⟨את⟩ toată lucrarea sfântului, fiecare om de la lucrul lui pe care ei îl făceau.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "înțelepții"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "care făceau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată lucrarea sfântului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfântului"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare om"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "de la lucrul lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "îl făceau"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:19.793308697Z",
+  "model": "glm-5.3"
+}

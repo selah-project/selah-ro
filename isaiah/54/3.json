@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Căci la dreapta și la stânga vei pătrunde, și sămânța ta va moșteni neamurile, iar cetățile pustiate le vor locui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la dreapta"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "și la stânga"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "vei pătrunde"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "și sămânța ta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "va moșteni"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "iar cetățile"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "pustiate"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "le vor locui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:42.550227068Z",
+  "model": "glm-5.3"
+}

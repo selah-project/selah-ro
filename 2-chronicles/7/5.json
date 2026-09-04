@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 7:5",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a jertfit regele Șelomo ⟨את⟩ jertfa vitelor — douăzeci și două de mii — și oilor o sută douăzeci de mii; și au sfințit ⟨את⟩ casa lui Elohim regele și tot poporul.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Și a jertfit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa vitelor"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "vitelor"
+    },
+    {
+      "surface": "עשרim",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "și doi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "și oilor"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "o sută"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "și douăzeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "și au sfințit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:22:11.361451649Z",
+  "model": "glm-5.3"
+}

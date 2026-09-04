@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "Celui care și-a purtat poporul prin pustiu, căci în veac ⟨durează⟩ hesedul lui:",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Celui care și-a purtat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "prin pustiu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:22.506368359Z",
+  "model": "glm-5.3"
+}

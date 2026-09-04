@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și a fost, când au isprăvit de mâncat ⟨את⟩ grâul pe care l-au adus din Mițraim, că tatăl lor le-a zis: Întoarceți-vă, cumpărați-ne puțină hrană.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "au isprăvit"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "de mâncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grâul"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "grâul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "l-au adus"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "că a zis"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tatăl lor"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Întoarceți-vă"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "cumpărați"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-ne"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțină"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrană"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:34.831723955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iar dacă amăgește un om o fecioară care nu ⟨este⟩ logodită și se culcă cu ea, dota s-o doteze el, s-o ia de soție.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "amăgește"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "o fecioară"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "logodită"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "și se culcă"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "cu ea"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dota"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "s-o doteze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "el"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de soție"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:50.557121027Z",
+  "model": "glm-5.3"
+}

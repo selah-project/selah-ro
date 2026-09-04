@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Țara voastră ⟨este⟩ pustie, cetățile voastre arse de foc; pământul vostru — înaintea voastră străinii îl devorează ⟨את⟩ — și ⟨este⟩ pustiu ca o răsturnare de străini.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "țara voastră"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustie"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "cetățile voastre"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "arse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de foc"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "pământul vostru"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "străinii"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "îl devorează"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe el (pământul vostru)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "și pustiu"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "ca o răsturnare"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "de străini"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:26.298622961Z",
+  "model": "glm-5.3"
+}

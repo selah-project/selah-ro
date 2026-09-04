@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și când secerți ⟨את⟩ secerișul pământului vostru, să nu termini marginea ogorului tău la secerat, și spicele căzute ale secerișului tău să nu le aduni: săracului și străinului să le lași ⟨את⟩ pe ele; Eu sunt Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Și când secerți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "secerișul"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "secerișul"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "pământului vostru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "vei termina"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "marginea"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ogorului tău"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "la secerat"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "și spicele căzute"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "secerișului tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "vei aduna"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "săracului"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "și străinului"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "să lași"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:10.453499474Z",
+  "model": "glm-5.3"
+}

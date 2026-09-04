@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "În dreptatea ta mă vei scăpa și mă vei face să scapi; pleacă spre mine urechea ta și mă vei mântui.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "În dreptatea ta"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "mă vei scăpa"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "și mă vei face să scapi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "pleacă"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "spre mine"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "urechea ta"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "și mă vei mântui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:28.796108423Z",
+  "model": "glm-5.3"
+}

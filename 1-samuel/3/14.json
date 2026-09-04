@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și de aceea M-am jurat casei lui Eli: dacă va fi ispășită nelegiuirea casei lui Eli cu jertfă și cu dar de mâncare, până în veac ⟨nu va fi⟩.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Și de aceea"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "M-am jurat"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lui Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "va fi ispășită"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lui Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "cu jertfă"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "și cu dar de mâncare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:21.538139448Z",
+  "model": "glm-5.3"
+}

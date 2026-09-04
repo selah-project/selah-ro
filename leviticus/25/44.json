@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Iar robul tău și roaba ta să fie ale tale de la ⟨את⟩ neamurile care ⟨sunt⟩ în jurul vostru; de la ele veți cumpăra rob și roabă.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Iar robul tău"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "și roaba ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale tale"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "neamurile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "în jurul vostru"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de la ele"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "veți cumpăra"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "și roabă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:15.567412156Z",
+  "model": "glm-5.3"
+}

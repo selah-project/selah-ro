@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Căci nu a disprețuit și nu a urât strâmtorarea celui strâmtorat, și nu Și-a ascuns fața de la el, și la strigătul lui către El a auzit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "a disprețuit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "a urât"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "strâmtorarea"
+    },
+    {
+      "surface": "עני",
+      "gloss": "celui strâmtorat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "Și-a ascuns"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața Sa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de la el"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "și la strigătul lui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către El"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:02.288867736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Toți cei ce mă văd își bat joc de mine, își deschid buza, clatină capul.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toți"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "cei ce mă văd"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "își bat joc"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "își deschid"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "buza"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "clatină"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:01.053581315Z",
+  "model": "glm-5.3"
+}

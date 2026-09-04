@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a rămas însărcinată Sara și i-a născut lui Avraham un fiu la bătrânețea lui, la vremea rânduită despre care vorbise ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Și a rămas însărcinată"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "la bătrănețea lui"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "la vremea rânduită"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "despre care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:09.442551106Z",
+  "model": "glm-5.3"
+}

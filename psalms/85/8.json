@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Arată-ne, Yahve, hesedul tău, și izbăvirea ta dă-o nouă!",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Arată-ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "și izbăvirea ta"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:39.685555733Z",
+  "model": "glm-5.3"
+}

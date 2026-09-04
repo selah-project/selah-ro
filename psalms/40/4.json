@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a pus în gura mea cântare nouă, laudă lui Elohim al nostru; vor vedea mulți și se vor teme și se vor încrede în Yahve.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "în gura mea"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cântare"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "laudă"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "lui Elohim al nostru"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vor vedea"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mulți"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "și se vor teme"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "și se vor încrede"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:59.031849571Z",
+  "model": "glm-5.3"
+}

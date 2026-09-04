@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Cel care răscumpără din prăpastie viața ta, cel care te încununează cu hesed (îndurarea legământului) și cu îndurări,",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Cel care răscumpără"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "din prăpastie"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "viața ta"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "cel care te încununează"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "și îndurări"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:46.519315224Z",
+  "model": "glm-5.3"
+}

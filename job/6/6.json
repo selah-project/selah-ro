@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Se mănâncă un lucru fad fără sare? Sau este vreun gust în sucul de măcriș?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "se mănâncă"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "fad"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "sare"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "gust"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "în sucul"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "de măcriș"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:50.052476635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "Avuție și bogăție ⟨sunt⟩ în casa lui, și dreptatea lui stăruiește pentru vecie.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Avuție"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "și bogăție"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "în casa lui"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "și dreptatea lui"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stăruiește"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pentru vecie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:50.134950415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Vai de cel care zidește un oraș cu sânge și întemeiază o cetate cu nelegiuire!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zidește"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "un oraș"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "cu sânge"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "și întemeiază"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "o cetate"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "cu nelegiuire"
+    }
+  ],
+  "timestamp": "2026-09-04T04:46:08.198234683Z",
+  "model": "glm-5.3"
+}

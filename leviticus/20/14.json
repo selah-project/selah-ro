@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și un bărbat care va lua ⟨את⟩ o femeie și ⟨את⟩ pe mama ei — nelegiuire este; în foc îl vor arde ⟨את⟩ pe el și ⟨את⟩ pe ele, și nu va mai fi nelegiuire în mijlocul vostru.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un bărbat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o femeie"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "o femeie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe mama ei"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "pe mama ei"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "îi vor arde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "bărbatul"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "și ⟨את⟩ pe ele",
+      "marks": "femeia și mama ei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va mai fi"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "în mijlocul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:54.050116205Z",
+  "model": "glm-5.3"
+}

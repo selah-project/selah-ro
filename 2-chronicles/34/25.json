@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 34:25",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Pentru că m-au părăsit și au tămâiat altor dumnezei ca să mă mânie cu toate faptele mâinilor lor, și s-a vărsat mânia mea asupra locului acestuia și nu se va stinge.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Pentru că"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "m-au părăsit"
+    },
+    {
+      "surface": "ויקטירו",
+      "gloss": "și au tămâiat"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "altor dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "străini"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "הכעיסני",
+      "gloss": "mă mânie"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toate"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinilor lor"
+    },
+    {
+      "surface": "ותתך",
+      "gloss": "și s-a vărsat"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "mânia mea"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "asupra locului"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "se va stinge"
+    }
+  ],
+  "timestamp": "2026-09-04T09:17:38.840215852Z",
+  "model": "glm-5.3"
+}

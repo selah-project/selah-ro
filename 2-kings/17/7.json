@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a fost că fiii lui Israel au păcătuit împotriva lui Yahve, ⟨את⟩ Elohim al lor, Cel care i-a suit din țara Mițraimului, de sub mâna lui Paro, regele Mițraimului, și s-au temut de dumnezei alții.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "au păcătuit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "împotriva lui Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim al lor"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "Cel care a suit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i-a suit (pe ei)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sub"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "și s-au temut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "alți"
+    }
+  ],
+  "timestamp": "2026-09-04T07:23:09.479240455Z",
+  "model": "glm-5.3"
+}

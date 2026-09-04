@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iată, cât timp vorbești încă acolo cu regele, eu voi veni după tine și voi întări ⟨את⟩ cuvintele tale.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "cât timp... încă"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "vorbești"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "voi veni"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "după tine"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "și voi întări"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele tale"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "cuvintele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:16:06.222410134Z",
+  "model": "glm-5.3"
+}

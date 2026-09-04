@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și a venit Iosif în casă, și i-au adus ⟨את⟩ darul care era în mâinile lor, în casă, și s-au închinat lui până la pământ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "în casă"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "și au adus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "era în mâinile lor"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "în casă"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "și s-au închinat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "până la pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:01.563078530Z",
+  "model": "glm-5.3"
+}

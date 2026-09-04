@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Veniți, copiilor, ascultați-mă: frica de Yahve vă voi învăța eu pe voi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "copiilor"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ascultați"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mă"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "frica de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "vă voi învăța"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:32.594451711Z",
+  "model": "glm-5.3"
+}

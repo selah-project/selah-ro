@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Mă vei scoate din lațul acesta pe care l-au ascuns pentru mine, căci tu ⟨ești⟩ fortăreața mea.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "mă vei scoate"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "din laț"
+    },
+    {
+      "surface": "זו",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "au ascuns"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "fortăreața mea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:02.485731676Z",
+  "model": "glm-5.3"
+}

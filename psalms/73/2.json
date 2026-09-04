@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Iar eu, aproape ⟨să alunece⟩ picioarele mele, ca ⟨și cum nu ar fi⟩ ⟨erau⟩ pașii mei vărsați.",
+  "tokens": [
+    {
+      "surface": "ואנני",
+      "gloss": ""
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "aproape"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "alunecaseră"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "picioarele mele"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ca nimicul"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "vărsaseră"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "pașii mei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:04.071432031Z",
+  "model": "glm-5.3"
+}

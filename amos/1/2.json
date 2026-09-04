@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a spus Yahve: «De pe Țion va răcni și din Ierușalaim va da glasul său; vor jeli pășunile păstorilor și vârful lui Karmel se va usca».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "De pe Țion"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "va răcni"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "și din Ierușalaim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glasul său"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "vor jeli"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pășunile"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "păstorilor"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "și se va usca"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vârful"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "lui Karmel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:01.075049976Z",
+  "model": "glm-5.3"
+}

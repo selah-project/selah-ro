@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Dă-mi ⟨את⟩ nevestele mele și ⟨את⟩ copiii mei, cu care te-am slujit ⟨cu⟩ ele, și mă voi duce; căci ⟨את⟩ tu știi ⟨את⟩ slujba mea, cu care te-am slujit.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Dă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevestele mele"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "nevestele mele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "copiii mei"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "copiii mei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "te-am slujit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tu"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "cu ele"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "și mă voi duce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "știi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slujba mea"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "slujba mea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "te-am slujit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:41.981448524Z",
+  "model": "glm-5.3"
+}

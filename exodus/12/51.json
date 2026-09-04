@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a fost chiar în ziua aceasta: a scos Yahve ⟨את⟩ fiii lui Israel din pământul Mițraimului, după oștirile lor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "chiar în"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "a scos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "oștirile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:42.590087388Z",
+  "model": "glm-5.3"
+}

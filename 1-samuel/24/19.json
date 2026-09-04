@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și tu ai arătat azi ⟨את⟩ ceea ce ai făcut cu mine — bine; ⟨את⟩ că atunci când m-a închis Yahve în mâna ta, nu m-ai omorât.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Și tu"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ai arătat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu ⟨את⟩ mine"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "că"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "m-a închis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "m-ai omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T07:12:18.767624081Z",
+  "model": "glm-5.3"
+}

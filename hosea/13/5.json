@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Eu te-am cunoscut în pustiu, în țara uscăciunii adânci.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "te-am cunoscut"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "uscăciunii adânci"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:35.163332771Z",
+  "model": "glm-5.3"
+}

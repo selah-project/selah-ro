@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și s-a ridicat Avraham și s-a închinat poporului țării, fiilor lui Het,",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și s-a ridicat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "și s-a închinat"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "חת",
+      "gloss": "lui Het"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:21.552822950Z",
+  "model": "glm-5.3"
+}

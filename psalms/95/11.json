@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 95,
+  "translation": "Pentru care M-am jurat în mânia Mea: dacă vor intra în odihna Mea —!",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "Pentru care"
+    },
+    {
+      "surface": "נִשְׁבַּעְתִּי",
+      "gloss": "M-am jurat"
+    },
+    {
+      "surface": "בְּאַפִּי",
+      "gloss": "în mânia Mea"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יְבֹאוּן",
+      "gloss": "vor intra"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "în"
+    },
+    {
+      "surface": "מְנוּחָתִי",
+      "gloss": "odihna Mea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:36.810019865Z",
+  "model": "glm-5.3"
+}

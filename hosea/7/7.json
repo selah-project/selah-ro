@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Toți s-au încins ca un cuptor și au devorat ⟨את⟩ judecătorii lor; toți regii lor au căzut — nu ⟨este⟩ nimeni care să cheme la mine.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Toți"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "s-au încins"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ca un cuptor"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "și au devorat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "judecătorii lor"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "judecătorii lor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "regii lor"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "au căzut"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "care să cheme"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "printre ei"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:39.146264945Z",
+  "model": "glm-5.3"
+}

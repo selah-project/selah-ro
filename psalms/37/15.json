@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Sabia lor va intra în inima lor, și arcurile lor vor fi frânte.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "sabia lor"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "va intra"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "în inima lor"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "și arcurile lor"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "vor fi frânte"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:08.807769558Z",
+  "model": "glm-5.3"
+}

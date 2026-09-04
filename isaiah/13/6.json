@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Văitați-vă, căci aproape este ziua lui Yahve; ca un prăpăd de la Șadai vine.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Văitați-vă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "aproape"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "ca un prăpăd"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "de la Șadai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vine"
+    }
+  ],
+  "timestamp": "2026-09-04T08:57:59.689213554Z",
+  "model": "glm-5.3"
+}

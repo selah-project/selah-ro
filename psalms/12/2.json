@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Mântuiește, Yahve, căci a încetat cel credincios, căci au pierit cei statornici dintre fiii omului.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Mântuiește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "a încetat"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "cel credincios"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "au pierit"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "cei statornici"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dintre fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:20.927942455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a luat Yahve Elohim ⟨את⟩ omul și l-a așezat în grădina Edenului, ca s-o lucreze și s-o păzească.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "și l-a așezat"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "în grădina"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenului"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ca s-o lucreze"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "și s-o păzească"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:10.290606414Z",
+  "model": "glm-5.3"
+}

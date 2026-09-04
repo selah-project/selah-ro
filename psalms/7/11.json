@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Scutul meu ⟨este⟩ la Elohim, mântuitor al celor drepți cu inima.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "scutul meu"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mântuitor"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "al celor drepți"
+    },
+    {
+      "surface": "לב",
+      "gloss": "cu inima"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:53.948067593Z",
+  "model": "glm-5.3"
+}

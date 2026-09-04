@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 134,
+  "translation": "Să te binecuvânteze Yahve din Țion, făcătorul cerurilor și al pământului!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "să te binecuvânteze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "din Țion"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făcătorul"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "și al pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:15.960684490Z",
+  "model": "glm-5.3"
+}

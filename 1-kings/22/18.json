@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a spus regele lui Israel către Iehoșafat: Nu ți-am spus eu că nu va profeți el despre mine nimic bun, ci rău?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Iehoșafat"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Nu... oare"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ți-am spus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "va profeți"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "despre mine"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nimic bun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ci"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:37.320604200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 142,
+  "translation": "Maskil al lui David, când era în peșteră — o rugăciune.",
+  "tokens": [
+    {
+      "surface": "מַשְׂכִּיל",
+      "gloss": "Maskil (poem didactic)"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "בִּהְיוֹתוֹ",
+      "gloss": "când era"
+    },
+    {
+      "surface": "בַּמְּעָרָה",
+      "gloss": "în peșteră"
+    },
+    {
+      "surface": "תְּפִלָּה",
+      "gloss": "rugăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:50.590180843Z",
+  "model": "glm-5.3"
+}

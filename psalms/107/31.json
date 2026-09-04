@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Să-l laude pe Yahve pentru hesed-ul lui și pentru minunile lui către fiii oamenilor!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "să-l laude"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-ul lui"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "și minunile lui"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "către fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "oamenilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:27.038272413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Cu adevărat, tu ⟨ești⟩ un El care se ascunde, Elohim al lui Israel, mântuitor.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Cu adevărat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "care se ascunde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "al lui Israel"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mântuitor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:51:40.515236530Z",
+  "model": "glm-5.3"
+}

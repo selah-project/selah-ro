@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Să iubești ⟨את⟩ pe Yahve, Elohim al tău, și să păzești paza lui, și hotarele lui, și judecățile lui, și poruncile lui, toate zilele.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Să iubești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "și să păzești"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "paza lui"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "și hotarele lui"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "și judecățile lui"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "și poruncile lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zilele"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:37.238184740Z",
+  "model": "glm-5.3"
+}

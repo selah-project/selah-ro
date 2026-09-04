@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "nu mă da în puterea nefeșului vrăjmașilor mei, căci s-au ridicat împotriva mea martori ai minciunii și un suflător de violență.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "mă da"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "în puterea nefeșului"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "vrăjmașilor mei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "s-au ridicat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "martori"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ai minciunii"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "și un suflător"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violență"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:24.778655476Z",
+  "model": "glm-5.3"
+}

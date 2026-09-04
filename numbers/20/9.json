@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a luat Moșe ⟨את⟩ toiagul dinaintea lui Yahve, cum îi poruncise ⟨el⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toiagul"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "toiagul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dinaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "îi poruncise"
+    }
+  ],
+  "timestamp": "2026-09-04T01:51:02.218349903Z",
+  "model": "glm-5.3"
+}

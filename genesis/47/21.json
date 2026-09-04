@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Iar ⟨את⟩ poporul l-a mutat la orașe, de la marginea hotarului lui Mițraim și până la capătul lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "l-a mutat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "la orașe"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "la orașe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "de la marginea"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hotarului"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "capătul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:11:44.570484652Z",
+  "model": "glm-5.3"
+}

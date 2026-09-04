@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și orice străin să nu mănânce din sfânt; un locuitor ⟨al⟩ cohenului și un simbriaș să nu mănânce din sfânt.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "și orice"
+    },
+    {
+      "surface": "זר",
+      "gloss": "străin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mănânce"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "din sfânt"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "un locuitor"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "cohenului"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "și un simbriaș"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mănânce"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "din sfânt"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:18.230817149Z",
+  "model": "glm-5.3"
+}

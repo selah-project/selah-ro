@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Adu-ți aminte de îndurările tale, Yahve, și de hesed-ul tău ⟨⟨את⟩⟩..., căci din veac ⟨sunt⟩ ele.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Adu-ți aminte"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "de îndurările tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "și de hesed-ul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "din veac"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:08.539918718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Căci iată, au pândit sufletul meu; se adună asupra mea cei puternici — nu ⟨este⟩ răzvrătirea mea și nu ⟨este⟩ păcatul meu, Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "au pândit"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "se adună"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "cei puternici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "răzvrătirea mea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "păcatul meu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:21.880247928Z",
+  "model": "glm-5.3"
+}

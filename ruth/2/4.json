@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și iată, Boaz a venit din Beit-Lehem și a zis secerătorilor: „Yahve ⟨să fie⟩ cu voi!” Iar ei i-au zis: „Să te binecuvânteze Yahve!”",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Și iată"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "secerătorilor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cu voi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Iar ei au zis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "Să te binecuvânteze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:12.849461412Z",
+  "model": "glm-5.3"
+}

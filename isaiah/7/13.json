@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a spus: Ascultați, vă rog, casa lui David: este puțin ⟨pentru⟩ voi să obosiți oameni, căci să obosiți chiar și pe Elohim al meu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ascultați"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vă rog"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "este puțin"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "să obosiți"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "să obosiți"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Elohim al meu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:31.616581221Z",
+  "model": "glm-5.3"
+}

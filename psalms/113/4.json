@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 113,
+  "translation": "Înalt peste toate neamurile este Yahve, peste ceruri ⟨este⟩ slava lui.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Înalt"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "este Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slava lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:33.023698201Z",
+  "model": "glm-5.3"
+}

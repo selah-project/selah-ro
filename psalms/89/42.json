@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "L-au prădat toți cei care trec pe drum, a ajuns ocară pentru vecinii lui.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "L-au prădat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "cei care trec"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a ajuns"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ocară"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "pentru vecinii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:26.659284142Z",
+  "model": "glm-5.3"
+}

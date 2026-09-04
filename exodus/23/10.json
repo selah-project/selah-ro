@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și șase ani vei semăna ⟨את⟩ pământul tău și vei aduna ⟨את⟩ roada lui.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Și șase"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "vei semăna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul tău"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "pământul tău"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "și vei aduna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roada lui"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "roada lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:35.234086303Z",
+  "model": "glm-5.3"
+}

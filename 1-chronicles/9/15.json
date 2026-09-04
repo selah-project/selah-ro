@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "și Bakbakar, Hereș și Galal, și Matania fiul lui Mica, fiul lui Zicri, fiul lui Asaf.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "și Bakbakar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Hereș"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "și Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "și Matania"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "lui Mica"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "lui Zicri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "lui Asaf"
+    }
+  ],
+  "timestamp": "2026-09-04T09:15:10.940702030Z",
+  "model": "glm-5.3"
+}

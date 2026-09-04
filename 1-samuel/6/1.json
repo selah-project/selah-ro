@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a fost chivotul lui Yahve în țara filiștenilor șapte luni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștenilor"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "luni"
+    }
+  ],
+  "timestamp": "2026-09-04T08:53:18.494303828Z",
+  "model": "glm-5.3"
+}

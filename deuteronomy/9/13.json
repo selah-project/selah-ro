@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a spus Yahve către mine, zicând: Am văzut ⟨את⟩ poporul acesta, și iată, un popor tare de ceafă este el.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul acesta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un popor"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tare"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "de ceafă"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:03.348338344Z",
+  "model": "glm-5.3"
+}

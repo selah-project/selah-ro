@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "micah 7:19",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Se va întoarce, se va îndura de noi, va călca în picioare nelegiuirile noastre; și vei arunca în adâncurile mării toate păcatele lor.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Se va întoarce"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "se va îndura de noi"
+    },
+    {
+      "surface": "יכבש",
+      "gloss": "va călca în picioare"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "nelegiuirile noastre"
+    },
+    {
+      "surface": "ותשליך",
+      "gloss": "și vei arunca"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "în adâncurile"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "păcatele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:45:58.647005062Z",
+  "model": "glm-5.3"
+}

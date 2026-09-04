@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Tot partea bărbătească dintre cohanim să o mănânce; în loc sfânt să fie mâncată; sfânt al sfinților ⟨este⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "partea bărbătească"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "dintre cohanim"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "să o mănânce"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în loc"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "să fie mâncată"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "al sfinților"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el este"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:09.531315264Z",
+  "model": "glm-5.3"
+}

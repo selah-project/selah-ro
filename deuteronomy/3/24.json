@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Adonai Yahve, tu ai început să arăți slugii tale ⟨את⟩ mărimea ta și ⟨את⟩ mâna ta cea puternică; căci cine ⟨este⟩ El în ceruri și pe pământ care să facă ca faptele tale și ca puterile tale?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "ai început"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "să arăți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slugii tale"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slugii tale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mărimea ta"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "mărimea ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mâna ta cea puternică"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "cea puternică"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "și pe pământ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "ca faptele tale"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "și ca puterile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:57.783419442Z",
+  "model": "glm-5.3"
+}

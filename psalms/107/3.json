@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "și din țări i-a adunat, de la răsărit și de la apus, de la miazănoapte și de la mare.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "și din țări"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "i-a adunat"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "de la răsărit"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "și de la apus"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "de la miazănoapte"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "și de la mare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:14.363620556Z",
+  "model": "glm-5.3"
+}

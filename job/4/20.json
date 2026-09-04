@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Din dimineață până seara sunt zdrobiți; de nu-i bagă nimeni de seamă, pier pentru totdeauna.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "din dimineață"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "până seara"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "sunt zdrobiți"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "fără ca"
+    },
+    {
+      "surface": "משים",
+      "gloss": "cineva să bage de seamă"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "pier"
+    }
+  ],
+  "timestamp": "2026-09-04T08:06:16.454687133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Căci îl puni ⟨את⟩ binecuvântări pe vecie, îl veseleşti cu bucurie, ⟨את⟩ fața ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "îl pui"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "binecuvântări"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "îl veseleşti"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "cu bucurie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața ta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:23.699030088Z",
+  "model": "glm-5.3"
+}

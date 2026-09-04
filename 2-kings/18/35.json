@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Cine dintre toți dumnezeii țărilor a izbăvit ⟨את⟩ țara lui din mâna mea, ca să izbăvească Yahve ⟨את⟩ Ierușalaimul din mâna mea?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dintre toți"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "țărilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "a izbăvit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara lor"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "țara lor"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "din mâna mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ca"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "să izbăvească"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaimul"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimul"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "din mâna mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:25.783868376Z",
+  "model": "glm-5.3"
+}

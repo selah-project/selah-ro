@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Și în hesedul tău (îndurarea ta) stârpește pe vrăjmașii mei și pierde pe toți cei ce-mi strâng sufletul, căci eu sunt slujitorul tău.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "și în hesedul tău"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "stârpește"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "pe vrăjmașii mei"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "și pierde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "cei ce-mi strâng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sunt slujitorul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:38.843568839Z",
+  "model": "glm-5.3"
+}

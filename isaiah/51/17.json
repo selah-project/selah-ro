@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Deșteaptă-te, deșteaptă-te, ridică-te, Ierușalaim, care ai băut din mâna lui Yahve ⟨את⟩ cupa mâniei lui; ⟨את⟩ potirul, cupa amețelii, l-ai băut, l-ai stors până la fund.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "Deșteaptă-te"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "deșteaptă-te"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ridică-te"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "ai băut"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cupa mâniei lui"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "cupa"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "mâniei lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potirul, cupa amețelii"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "potirul"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "cupa"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "amețelii"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "ai băut"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "ai stors până la fund"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:56.406200533Z",
+  "model": "glm-5.3"
+}

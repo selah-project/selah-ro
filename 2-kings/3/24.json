@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au venit spre tabăra lui Israel, și s-au ridicat israelienii și au lovit ⟨את⟩ Moav, și au fugit ei de la fața lor; și au intrat în ea și au lovit ⟨את⟩ Moav.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Și au venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabăra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "și s-au ridicat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "israelienii"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "și au fugit"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "de la fața lor"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "și au intrat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-09-04T07:20:45.706430801Z",
+  "model": "glm-5.3"
+}

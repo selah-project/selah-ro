@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Mântuiește-mă din gura leului, și din coarnele taurilor sălbatici — m-ai răspuns.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Mântuiește-mă"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "din gura"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leului"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "și din coarnele"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "taurilor sălbatici"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "m-ai răspuns"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:27.402253245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Și am zis: „Doar întunericul mă va împresura, și noaptea ⟨este⟩ lumină în jurul meu.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "și am zis"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întunericul"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "mă va împresura"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "și noaptea"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumină"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "în jurul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:45.353438176Z",
+  "model": "glm-5.3"
+}

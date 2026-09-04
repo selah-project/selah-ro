@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Răzvrătiți ați fost cu Yahve din ziua în care v-am cunoscut ⟨את⟩ pe voi.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "răzvrătiți"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ați fost"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "din ziua"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "în care v-am cunoscut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:02:27.764319601Z",
+  "model": "glm-5.3"
+}

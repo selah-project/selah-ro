@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "ci mâine pe vremea aceasta voi trimite ⟨את⟩ robii mei la tine, și vor scotoci ⟨את⟩ casa ta și ⟨את⟩ casele robilor tăi, și va fi: tot ce place ochilor tăi vor pune în mâna lor și vor lua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨doar⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "pe vremea aceasta"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mâine"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "voi trimite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robii mei"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robii mei"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "și vor scotoci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa ta"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "casa ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casele robilor tăi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "casele"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robilor tăi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "ce place"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ochilor tăi"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "vor pune"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "în mâna lor"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "și vor lua"
+    }
+  ],
+  "timestamp": "2026-09-04T03:20:45.977336066Z",
+  "model": "glm-5.3"
+}

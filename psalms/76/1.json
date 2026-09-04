@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "Către dirijor, cu instrumente cu coarde. Un mizmor al lui Asaf, un cântec.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "cu instrumente cu coarde"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "al lui Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cântec"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:15.437547726Z",
+  "model": "glm-5.3"
+}

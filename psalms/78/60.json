@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și a părăsit locuința din Șilo, cortul pe care ⟨îl⟩ așezase să locuiască printre oameni.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "Și a părăsit"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "locuința"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "din Șilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "așezase să locuiască"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "printre oameni"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:59.796003450Z",
+  "model": "glm-5.3"
+}

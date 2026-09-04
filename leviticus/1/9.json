@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "iar măruntaiele lui și picioarele lui le va spăla în apă, și va face să sfârâie cohenul ⟨את⟩ totul pe altar: ardere-de-tot, ofrandă de foc, mireasmă de odihnă pentru Yahve.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "iar măruntaiele lui"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "și picioarele lui"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "le va spăla"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în apă"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "și va face să sfârâie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "totul"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ardere-de-tot"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofrandă de foc"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mireasmă"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "de odihnă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:49.118087289Z",
+  "model": "glm-5.3"
+}

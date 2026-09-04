@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Cântați-i, cântați-i cu alăută, vorbiți de toate minunile lui!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cântați-i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(-i)"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cântați-i cu alăută"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(-i)"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "vorbiți"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de toate"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "minunile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:09:59.370531614Z",
+  "model": "glm-5.3"
+}

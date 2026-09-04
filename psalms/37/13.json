@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Adonai râde de el, căci vede că ziua lui vine.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "râde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ziua lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:08.807365005Z",
+  "model": "glm-5.3"
+}

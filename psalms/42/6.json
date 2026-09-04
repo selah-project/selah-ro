@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "De ce te cufunzi, sufletul meu, și gemi peste mine? Nădăjduiește în Elohim, căci încă Îl voi lăuda, ⟨pe⟩ mântuirile feței lui.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "te cufunzi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "și gemi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "nădăjduiește"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "în Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "Îl voi lăuda"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mântuirile"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "feței lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:38.402676303Z",
+  "model": "glm-5.3"
+}

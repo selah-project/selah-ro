@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Dacă voiește să se judece cu el, nu îi va răspunde ⟨nicio⟩ întrebare — una dintr-o mie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "voiește"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "să se judece"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "îi va răspunde"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dintr-"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "o mie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:29.502386401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "pe care l-a tăiat cu ⟨את⟩ Avraham și jurământul său către Ițhac,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a tăiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "și jurământul său"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "către Ițhac"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:35.035686656Z",
+  "model": "glm-5.3"
+}

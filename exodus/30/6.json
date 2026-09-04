@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și îl vei pune ⟨את⟩ înaintea perdelei care este peste chivotul mărturiei, înaintea capacului ispășirii care este peste mărturia, unde Mă voi întâlni cu tine acolo.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Și îl vei pune"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(altarul) — îl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "perdelei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mărturiei"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "capacului ispășirii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mărturiei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "Mă voi întâlni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:09.003740734Z",
+  "model": "glm-5.3"
+}

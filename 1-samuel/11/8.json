@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și i-a numărat la Bezek, și au fost fiii Israelului trei sute de mii, iar oamenii Iehudei treizeci de mii.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "și i-a numărat"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "la Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "iar oamenii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehudei"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:31.157834688Z",
+  "model": "glm-5.3"
+}

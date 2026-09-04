@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a făcut Aharon așa: către fața menorei a suit candelele ei, cum a poruncit Yahve ⟨את⟩ lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מול",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menorei"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "a suit"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "candelele ei"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:41.719743037Z",
+  "model": "glm-5.3"
+}

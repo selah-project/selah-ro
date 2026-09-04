@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Dacă jertfa lui este ardere de tot din cireadă, un mascul fără meteahnă să-l aducă; la ușa cortului întâlnirii să-l aducă ⟨את⟩ el, pentru bunăvoința lui, înaintea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ardere de tot"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jertfa lui"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "cireadă"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mascul"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fără meteahnă"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "să-l aducă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ușa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "să-l aducă"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "să-l aducă el"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "pentru bunăvoința lui"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:48.846203055Z",
+  "model": "glm-5.3"
+}

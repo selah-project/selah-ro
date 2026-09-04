@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Taci înaintea lui Yahve și așteaptă-l ⟨cu răbdare⟩; nu te aprinde de cel ce reușește în calea lui, de omul care săvârșește planuri rele.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Taci"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "înaintea lui Yahve"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "și așteaptă-l ⟨cu răbdare⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "te aprinde"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "de cel ce reușește"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "în calea lui"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "de omul"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "care săvârșește"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "planuri rele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:12.318764942Z",
+  "model": "glm-5.3"
+}

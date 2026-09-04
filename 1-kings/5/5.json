@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a locuit Iehuda și Israel în siguranță, fiecare sub vița lui și sub smochinul lui, de la Dan până la Beer-Șeva, toate zilele lui Șelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și a locuit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "și Israel"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "în siguranță"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "vița lui"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "și sub"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "smochinul lui"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "de la Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T03:10:18.401322819Z",
+  "model": "glm-5.3"
+}

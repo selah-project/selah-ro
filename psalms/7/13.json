@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Dacă nu se întoarce, sabia lui o va ascute, arcul lui l-a întins și l-a pregătit.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se întoarce"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sabia lui"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "va ascute"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "arcul lui"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "l-a întins"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "și l-a pregătit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:14.171710441Z",
+  "model": "glm-5.3"
+}

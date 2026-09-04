@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Furia lor ⟨este⟩ după asemănarea furiei șarpelui, ca o viperă surdă care își închide urechea",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "furia"
+    },
+    {
+      "surface": "למו",
+      "gloss": "lor"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "după asemănarea"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "furiei"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "șarpelui"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "o viperă"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "surdă"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "care închide"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "urechea ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:11.636047110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "și ca lumina dimineții răsare soarele — o dimineață fără nori; din strălucire, din ploaie, iarbă din pământ.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "și ca lumina"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineții"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "răsare"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "o dimineață"
+    },
+    {
+      "surface": "לא",
+      "gloss": "fără"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "nori"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "din strălucire"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "din ploaie"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "iarbă"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T03:06:41.675296142Z",
+  "model": "glm-5.3"
+}

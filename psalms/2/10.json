@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și acum, împăraților, pricepeți-vă; lăsați-vă învățați, judecători ai pământului!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "împăraților"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "pricepeți-vă"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "lăsați-vă învățați"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "judecători"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ai pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:02.203119720Z",
+  "model": "glm-5.3"
+}

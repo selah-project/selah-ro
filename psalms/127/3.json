@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 127,
+  "translation": "Iată, o moștenire de la Yahve ⟨sunt⟩ fiii; răsplată, rodul pântecelui.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "moștenire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "răsplată"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "rodul"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "pântecelui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:31.945233460Z",
+  "model": "glm-5.3"
+}

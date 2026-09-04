@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "S-au ridicat toți oamenii viteji, și au luat ⟨את⟩ trupul lui Șaul și ⟨את⟩ trupurile fiilor lui, și le-au adus la Iaveș, și au îngropat ⟨את⟩ oasele lor sub terebintul din Iaveș, și au postit șapte zile.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "S-au ridicat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "viteji"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "și au luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupul lui Șaul"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "trupurile fiilor lui"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "trupurile"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiilor lui"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "și le-au adus"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "la Iaveș"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și au îngropat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oasele lor"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "oasele lor"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "terebintul"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "din Iaveș"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "și au postit"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T06:08:50.872135499Z",
+  "model": "glm-5.3"
+}

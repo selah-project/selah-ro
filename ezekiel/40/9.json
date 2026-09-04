@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a măsurat ⟨את⟩ pridvorul porții: opt coți, iar stâlpii ei: doi coți; și pridvorul porții era spre casă.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Și a măsurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pridvorul porții"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "pridvorul"
+    },
+    {
+      "surface": "השער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "opt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coți"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "iar stâlpii ei"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "doi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coți"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "și pridvorul"
+    },
+    {
+      "surface": "השער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "spre casă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:33:39.046696599Z",
+  "model": "glm-5.3"
+}

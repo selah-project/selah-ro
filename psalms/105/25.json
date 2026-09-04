@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "A întors inima lor să urască pe poporul lui, să uneltească împotriva robilor lui.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "a întors"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "inima lor"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "să urască"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pe poporul lui"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "să uneltească"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "împotriva robilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:38.259015244Z",
+  "model": "glm-5.3"
+}

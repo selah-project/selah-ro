@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Zdrobește, se pleacă, și cad cei nefericiți de puterea lui.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "zdrobește"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "se pleacă"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "și cad"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "de puterea lui"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "cei nefericiți"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:43.538817135Z",
+  "model": "glm-5.3"
+}

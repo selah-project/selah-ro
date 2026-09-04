@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "și va pieri toată casa lui Ahav, și voi stârpi de la Ahav pe urinătorul la perete, și pe cel închis și pe cel lăsat ⟨liber⟩ în Israel.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "și va pieri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "și voi stârpi"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "de la Ahav"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "urinătorul"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "la perete"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "și pe cel închis"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "și pe cel lăsat"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T07:21:17.050834902Z",
+  "model": "glm-5.3"
+}

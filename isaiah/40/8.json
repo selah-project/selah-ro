@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Se usucă iarba, se veștejește floarea, dar cuvântul lui Elohim, al nostru, va rămâne în picioare pentru totdeauna.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "Se usucă"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "iarba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "se veștejește"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "floarea"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dar cuvântul"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lui Elohim, al nostru"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "va rămâne în picioare"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pentru totdeauna"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:49.770987739Z",
+  "model": "glm-5.3"
+}

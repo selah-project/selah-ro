@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Să nu faceți nelegiuire în judecată; să nu cauți fața săracului și să nu cinstiți fața celui mare — cu dreptate să judeci ⟨את⟩ semenul tău.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "faceți"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "în judecată"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "cauți (să nu înalți)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "דל",
+      "gloss": "săracului"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "cinstiți"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "celui mare"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cu dreptate"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "să judeci"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "semenul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:50.799407878Z",
+  "model": "glm-5.3"
+}

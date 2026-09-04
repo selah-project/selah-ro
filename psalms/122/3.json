@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 122,
+  "translation": "Ierușalaim, cea zidită ca o cetate care i s-a închegat laolaltă.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "cea zidită"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "ca o cetate"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "care s-a închegat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "îi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "laolaltă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:07.350878544Z",
+  "model": "glm-5.3"
+}

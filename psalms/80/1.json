@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Căruia se dă în grijă cântarea, pe ⟨melodia⟩ Șoșanim, o mărturie lui Asaf, un psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Căruia se dă în grijă cântarea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "⟨melodia⟩ Șoșanim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "o mărturie"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "lui Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psalm"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:13.179648209Z",
+  "model": "glm-5.3"
+}

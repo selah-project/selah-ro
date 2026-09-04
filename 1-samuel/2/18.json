@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar Șemuel slujea ⟨את⟩ feței lui Yahve, un băiat încins cu un efod din in.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Iar Șemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "slujea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feței"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un băiat"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "încins"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "cu un efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "din in"
+    }
+  ],
+  "timestamp": "2026-09-04T02:39:40.125525910Z",
+  "model": "glm-5.3"
+}

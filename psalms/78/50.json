@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "A netezit un drum pentru mânia lui, nu a cruțat de la moarte viața lor, și viața lor a predat-o ciumei.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "A netezit"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "un drum"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "pentru mânia lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a cruțat"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la moarte"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "viața lor"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "și viața lor"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ciumei"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "a predat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:01.910519797Z",
+  "model": "glm-5.3"
+}

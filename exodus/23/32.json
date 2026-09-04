@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Nu veți încheia ⟨o⟩ legământ cu ei și cu dumnezeii lor.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "veți încheia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "și cu dumnezeii lor"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământ"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:44.899496289Z",
+  "model": "glm-5.3"
+}

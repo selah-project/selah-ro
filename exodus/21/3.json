@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Dacă singur a intrat, singur va ieși; dacă ⟨este⟩ stăpânul unei femei, atunci va ieși și nevasta lui împreună cu el.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "singur"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "a intrat"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "singur"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "va ieși"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "stăpânul"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "unei femei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩ el"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "va ieși și"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nevasta lui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "împreună cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:24.779836308Z",
+  "model": "glm-5.3"
+}

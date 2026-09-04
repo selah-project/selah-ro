@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și sămânța voastră și viile voastre va lua ca dijmă și va da dregătorilor lui și slujitorilor lui.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "și sămânța voastră"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "și viile voastre"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "va lua ca dijmă"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "și va da"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "dregătorilor lui"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "și slujitorilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:12.896805160Z",
+  "model": "glm-5.3"
+}

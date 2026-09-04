@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și acum, vă rog, voi face cunoscut ⟨את⟩ ce eu fac cu via mea: voi înlătura gardul ei și va fi spre a fi devorată; voi dărâma zidul ei și va fi spre calcătură.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "voi face cunoscut"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vă rog"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fac"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "cu via mea"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "voi înlătura"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "gardul ei"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "spre a fi devorată"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "voi dărâma"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "zidul ei"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "spre calcătură"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:00.840096728Z",
+  "model": "glm-5.3"
+}

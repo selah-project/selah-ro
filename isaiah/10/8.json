@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Căci el zice: „Oare nu sunt căpeteniile mele deopotrivă regi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "el zice"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile mele"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "deopotrivă"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "regi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:25:06.722481916Z",
+  "model": "glm-5.3"
+}

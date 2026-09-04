@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "„Iar eu l-am uns pe regele meu, pe Țion, muntele sfânt al meul.”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "am uns"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regele meu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sfânt al meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:32.072571967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 99,
+  "translation": "Yahve domnește — să tremure popoarele; ⟨cel⟩ care șade ⟨pe⟩ heruvimi — să se clatine pământul.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "domnește"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "să tremure"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "șade"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "heruvimi"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "să se clatine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:59.511817395Z",
+  "model": "glm-5.3"
+}

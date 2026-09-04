@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "I-am îndepărtat umărul de sub povară, mâinile lui de la coș ⟨au fost slobozite⟩.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "I-am îndepărtat"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "de sub povară"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "umărul lui"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "mâinile lui"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "de la coș"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "⟨au fost slobozite⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:51.469880406Z",
+  "model": "glm-5.3"
+}

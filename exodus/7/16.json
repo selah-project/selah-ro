@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și îi vei spune: Yahve, Elohim al evreilor, m-a trimis la tine, zicând: Trimite ⟨את⟩ poporul meu, și să mă slujească în pustiu; și iată, nu ai ascultat până acum.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Și vei spune"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "al evreilor"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "m-a trimis"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Trimite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "și să mă slujească"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ai ascultat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "כה",
+      "gloss": "acum"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:35.296929120Z",
+  "model": "glm-5.3"
+}

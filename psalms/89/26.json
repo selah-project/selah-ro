@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Voi pune pe mare mâna lui și peste râuri dreapta lui.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "voi pune"
+    },
+    {
+      "surface": "בים",
+      "gloss": "pe mare"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "și peste râuri"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dreapta lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:17.939906289Z",
+  "model": "glm-5.3"
+}

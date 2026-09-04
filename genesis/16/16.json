@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Iar Avram era fiu de optzeci și șase ani la nașterea lui Ișmael, pe care i l-a născut Hagar lui Avram ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Iar Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu de"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "optzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "și șase"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "la nașterea"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "lui Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ișmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ișmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "lui Avram"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:11.302914144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Mare ⟨este⟩ Yahve și foarte lăudat, și măreției lui nu ⟨este⟩ căutare.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "și lăudat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "și măreției lui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "căutare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:12.178436432Z",
+  "model": "glm-5.3"
+}

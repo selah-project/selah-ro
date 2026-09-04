@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Iată, tânjesc după poruncile tale; în dreptatea ta dă-mi viață.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "tânjesc"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "după poruncile tale"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "în dreptatea ta"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "dă-mi viață"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:51.557550871Z",
+  "model": "glm-5.3"
+}

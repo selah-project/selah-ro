@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Oare, dacă faci bine, ridicare? și dacă nu faci bine, la ușă păcatul stă ghemuit; și către tine ⟨este⟩ dorul lui, și tu vei stăpâni peste el.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Oare"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "faci bine"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ridicare"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "faci bine"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "la ușă"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "păcatul"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "stă ghemuit"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "și către tine"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "dorul lui"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "vei stăpâni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "peste el"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:13.220701151Z",
+  "model": "glm-5.3"
+}

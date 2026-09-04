@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Iar la adunarea ⟨את⟩ adunării veți suna, dar nu veți suna ⟨semnal de⟩ război.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "iar la adunarea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adunării"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "adunării"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "veți suna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "veți suna semnal de război"
+    }
+  ],
+  "timestamp": "2026-09-04T01:46:08.698791268Z",
+  "model": "glm-5.3"
+}

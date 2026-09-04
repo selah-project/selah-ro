@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Pe patul meu, în nopți, l-am căutat pe ⟨את⟩ cel pe care îl iubește sufletul meu; l-am căutat și nu l-am aflat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "patul meu"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "în nopți"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "l-am căutat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cel pe care îl iubește sufletul meu"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "pe care îl iubește"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "l-am căutat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "l-am aflat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:05.703184255Z",
+  "model": "glm-5.3"
+}

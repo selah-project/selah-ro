@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Frica de ⟨את⟩ Yahve să aibă cei sfinți ⟨ai lui⟩, că celor care se tem de el nu le lipsește nimic.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "să se teamă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "cei sfinți ai lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "lipsă"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "celor care se tem de el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:32.594194605Z",
+  "model": "glm-5.3"
+}

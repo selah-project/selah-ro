@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "În amurg, spre seara zilei, în întunericul nopții și în beznă.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "În amurg"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "spre seara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zilei"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "în întunericul"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nopții"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "și în beznă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:53.843977031Z",
+  "model": "glm-5.3"
+}

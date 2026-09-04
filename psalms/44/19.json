@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Nu s-a întors înapoi inima noastră, și nu s-au abătut pașii noștri de la cărarea ta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "înapoi"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "inima noastră"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "și s-a abătut"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "pașii noștri"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de la"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "cărarea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:05.669944422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Și a ars ⟨את⟩ casa lui Yahve și ⟨את⟩ casa regelui, iar ⟨את⟩ toate casele Ierușalaimului și ⟨את⟩ casa oricărui om mare le-a ars în foc.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "Și a ars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Yahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casa regelui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "toate casele Ierușalaimului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "casele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casa oricărui om mare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oricărui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "omului mare"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "le-a ars"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    }
+  ],
+  "timestamp": "2026-09-04T04:19:11.804450323Z",
+  "model": "glm-5.3"
+}

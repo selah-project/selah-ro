@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Cel ce își acoperă fărădelegile nu va propăși, dar cel ce mărturisește și le părăsește va afla îndurare.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "Cel ce acoperă"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "fărădelegile lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "va propăși"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "dar cel ce mărturisește"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "și le părăsește"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "va afla îndurare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:19.975719452Z",
+  "model": "glm-5.3"
+}

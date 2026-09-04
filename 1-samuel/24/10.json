@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a spus David lui Șaul: pentru ce asculți ⟨את⟩ cuvintele omului, zicând: iată, David caută răul tău?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pentru ce"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "asculți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "răul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:14.890304893Z",
+  "model": "glm-5.3"
+}

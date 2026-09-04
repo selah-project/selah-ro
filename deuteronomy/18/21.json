@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și dacă vei zice în inima ta: „Cum vom cunoaște ⟨את⟩ cuvântul pe care nu l-a grăit Yahve?”",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "vei zice"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "în inima ta"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "vom cunoaște"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "l-a grăit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:08:07.922388980Z",
+  "model": "glm-5.3"
+}

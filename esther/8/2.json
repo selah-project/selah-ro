@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și regele a luat inelul-semnătură pe care îl retrăsese de la Haman și l-a dat lui Mordehai, iar Ester l-a pus pe Mordehai peste casa lui Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inelul-semnătură"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "inelul-semnătură al lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "îl retrăsese"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "de la Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "și l-a dat"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "lui Mordehai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "iar l-a pus"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordehai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "lui Haman"
+    }
+  ],
+  "timestamp": "2026-09-04T09:13:55.854252586Z",
+  "model": "glm-5.3"
+}

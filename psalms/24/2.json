@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Căci ⟨el⟩ peste mări a întemeiat-o și peste râuri a întărit-o.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mări"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "a întemeiat-o"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "râuri"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "a întărit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:39.023825708Z",
+  "model": "glm-5.3"
+}

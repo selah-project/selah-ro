@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Iar Eu ⟨sunt⟩ Yahve, Elohim al tău, din țara lui Mițraim; iarăși te voi așeza în corturi, ca în zilele sărbătorii.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Iar Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lui Mițraim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iarăși"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "te voi așeza"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "în corturi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ca zilele"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sărbătorii"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:17.932952883Z",
+  "model": "glm-5.3"
+}

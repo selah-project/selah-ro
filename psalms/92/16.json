@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "ca să vestească că drept ⟨este⟩ Yahve, stânca mea, și nu ⟨este⟩ nedreptate în el.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ca să vestească"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "drept"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "nedreptate"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:55.191119002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și să slujiți ⟨את⟩ lui Yahve, Elohimul vostru, și ⟨el⟩ va binecuvânta ⟨את⟩ pâinea ta și ⟨את⟩ apele tale, și voi îndepărta boala din mijlocul tău.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "și să slujiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "și va binecuvânta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pâinea ta"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "pâinea ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "apele tale"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "apele tale"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "și voi îndepărta"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "boala"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "din mijlocul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:23.702816820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "În zadar i-am lovit ⟨את⟩ fiii voștri — mustrare nu au primit; sabia voastră i-a mâncat pe profeții voștri, ca un leu prăpăditor.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "În zadar"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "i-am lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii voștri"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "fiii voștri"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mustrare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "au primit"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "a mâncat"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "sabia voastră"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "profeții voștri"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ca un leu"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "prăpăditor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:57:40.131056989Z",
+  "model": "glm-5.3"
+}

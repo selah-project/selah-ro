@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Un rege prin judecată întărește pământul, și omul darurilor îl dărâmă.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "un rege"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "prin judecată"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "întărește"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și omul"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "darurilor"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "îl dărâmă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:17.506699738Z",
+  "model": "glm-5.3"
+}

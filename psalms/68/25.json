@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Au văzut căile tale, Elohim, căile lui El, regele meu, în sfințenie.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Au văzut"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "căile tale"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "căile"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lui El, al meu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regele meu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "în sfințenie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:08.257295293Z",
+  "model": "glm-5.3"
+}

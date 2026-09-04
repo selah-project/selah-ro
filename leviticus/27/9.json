@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și dacă ⟨este⟩ o vită din care se aduce dar de jertfă lui Yahve, tot ce se dă din ea lui Yahve va fi sfânt.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vită"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "din care"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "se aduce"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "din ea"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "dar de jertfă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "se dă"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din ea"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:35.880267102Z",
+  "model": "glm-5.3"
+}

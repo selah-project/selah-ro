@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și au zis: Ca o desfrânată să facă el ⟨את⟩ sora noastră?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "ca o desfrânată"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "să facă el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora noastră"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "sora noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:11.999343995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "s-au curățit cohanii și leviții și au curățit ⟨את⟩ poporul și ⟨את⟩ porțile și ⟨את⟩ zidul",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "s-au curățit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohanii"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "și leviții"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "și au curățit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "porțile"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "porțile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "zidul"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "zidul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:03:35.981357095Z",
+  "model": "glm-5.3"
+}

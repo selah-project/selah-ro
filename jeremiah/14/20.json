@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Am cunoscut, Yahve, nelegiuirea noastră, vina părinților noștri, căci am greșit față de tine.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "am cunoscut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "nelegiuirea noastră"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vina"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "părinților noștri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "am greșit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "față de tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:04:10.665100603Z",
+  "model": "glm-5.3"
+}

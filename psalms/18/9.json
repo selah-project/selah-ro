@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "S-a ridicat fum în nările lui și foc din gura lui devorează; tăciuni s-au aprins din el.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "s-a ridicat"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "fum"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "în nările lui"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "și foc"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "din gura lui"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "devorează"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "tăciuni"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "s-au aprins"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:20.498695533Z",
+  "model": "glm-5.3"
+}

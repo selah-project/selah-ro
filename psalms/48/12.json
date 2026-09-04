@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Să se veselească muntele Țion, să se bucure fiicele lui Iehuda, pentru judecățile tale!",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Să se veselească"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "să se bucure"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiicele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:12.937639391Z",
+  "model": "glm-5.3"
+}

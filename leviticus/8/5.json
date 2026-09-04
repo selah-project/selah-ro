@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a spus Moșe către adunare: Acesta este cuvântul pe care l-a poruncit Yahve să se facă.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să se facă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:44.110747091Z",
+  "model": "glm-5.3"
+}

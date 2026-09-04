@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "capre două sute și țapi douăzeci, oi mie două sute și berbeci douăzeci,",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "capre"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "două sute"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "și țapi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "oi mie"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "două sute"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "și berbeci"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:27.896076245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și cel ce-l mănâncă nelegiuirea sa o va purta, căci ⟨את⟩ sfințenia lui Yahve a pângărit-o; și sufletul acela va fi nimicit din poporul său.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Și cel ce-l mânâncă"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "nelegiuirea sa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va purta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfințenia lui Yahve"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfințenia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "a pângărit"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "și va fi nimicit"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "din poporul său"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:17.721833282Z",
+  "model": "glm-5.3"
+}

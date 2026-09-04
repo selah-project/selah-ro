@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "I-ai spulberat ca pe un torent; ca un somn au fost; dimineața, ca iarba, trece.",
+  "tokens": [
+    {
+      "surface": "זְ֭רַמְתָּם",
+      "gloss": "i-ai spulberat"
+    },
+    {
+      "surface": "שֵׁנָ֣ה",
+      "gloss": "un somn"
+    },
+    {
+      "surface": "יִהְי֑וּ",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "בַּ֝בֹּ֗קֶר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "כֶּחָצִ֥יר",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "יַחֲלֹֽף",
+      "gloss": "trece"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:02.696252033Z",
+  "model": "glm-5.3"
+}

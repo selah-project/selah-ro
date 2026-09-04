@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și i-a născut fii: ⟨את⟩ Yeush, și ⟨את⟩ Șemaria, și ⟨את⟩ Zahan.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Și a născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șemaria"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Șemaria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Zahan"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:21:12.303700080Z",
+  "model": "glm-5.3"
+}

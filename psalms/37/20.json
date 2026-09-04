@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Căci rășății vor pieri, și vrăjmașii lui Yahve, ca grăsimea berbecilor, se vor sfârși; în fum se vor sfârși.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rășății"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vor pieri"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "și vrăjmașii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "ca grăsimea"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "berbecilor"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "se vor sfârși"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "în fum"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "se vor sfârși"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:42.476726270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Du-te și spune-i lui Hizkiahu: Așa a vorbit Yahve, Elohim al lui David, tatăl tău: am auzit ⟨את⟩ rugăciunea ta, am văzut ⟨את⟩ lacrimile tale; iată-mă, voi adăuga peste zilele tale cincisprezece ani.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Du-te"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și spune-i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rugăciunea ta"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "rugăciunea ta"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lacrimile tale"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "lacrimile tale"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată-mă"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "voi adăuga"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "zilele tale"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:23.953402890Z",
+  "model": "glm-5.3"
+}

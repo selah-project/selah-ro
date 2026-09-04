@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a făcut Yahve după cuvântul lui Moșe, și au murit broaștele din case, din curți și din câmpuri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "și au murit"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "broaștele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "case"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "curți"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "și din"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "câmpuri"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:36.706710667Z",
+  "model": "glm-5.3"
+}

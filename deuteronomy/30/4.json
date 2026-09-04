@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Chiar dacă te va izgoni ⟨ceva⟩ la marginea cerurilor, de acolo te va aduna Yahve, Elohimul tău, și de acolo te va lua.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Chiar dacă"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "cel izgonit al tău"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "la marginea"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "te va aduna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "și de acolo"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "te va lua"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:58.801880788Z",
+  "model": "glm-5.3"
+}

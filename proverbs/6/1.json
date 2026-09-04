@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Fiul meu, dacă te-ai făcut chezaș pentru prietenul tău, dacă ți-ai lovit palmele pentru un străin —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiul meu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "te-ai făcut chezaș"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "pentru prietenul tău"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "ai lovit"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "pentru un străin"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "palmele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:30.652598899Z",
+  "model": "glm-5.3"
+}

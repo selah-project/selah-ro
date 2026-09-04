@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a spus Yahve peștelui, și peștele l-a vărsat ⟨את⟩ Iona spre uscat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "peștelui"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "și l-a vărsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Iona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "uscat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:43:32.586331934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și materialele au fost destule pentru toată lucrarea, s-o facă ⟨את⟩, și a rămas peste.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "și materialele"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "דים",
+      "gloss": "destule"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru toată"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ o",
+      "marks": "lucrarea"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "și a rămas peste"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:19.480623710Z",
+  "model": "glm-5.3"
+}

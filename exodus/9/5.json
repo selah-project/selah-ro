@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a pus Yahve un termen, zicând: Mâine va face Yahve lucrul acesta în țară.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "un termen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Mâine"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:11.963194341Z",
+  "model": "glm-5.3"
+}

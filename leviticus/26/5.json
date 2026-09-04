@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și vă va ajunge treieratul ⟨את⟩ culesul viilor, și culesul viilor va ajunge ⟨את⟩ semănatul; și veți mânca pâinea voastră până la săturare și veți locui în siguranță în pământul vostru.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "și vă va ajunge"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "treieratul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "culesul viilor"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "culesul viilor"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "și culesul viilor"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "va ajunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semănatul"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semănatul"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "și veți mânca"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "pâinea voastră"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "până la săturare"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "și veți locui"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "în siguranță"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "în pământul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:33.138472802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Hur a zămislit ⟨את⟩ Uri, și Uri a zămislit ⟨את⟩ Bețalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Și Hur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a zămislit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "și Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a zămislit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bețalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Bețalel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:26.642080021Z",
+  "model": "glm-5.3"
+}

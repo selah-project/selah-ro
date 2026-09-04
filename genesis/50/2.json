@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Și a poruncit Iosif ⟨את⟩ robilor săi, ⟨את⟩ doctorilor, să îmbălsămeze ⟨את⟩ tatăl său; și au îmbălsămat doctorii ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Și a poruncit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robilor săi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "robilor săi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doctorilor"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "doctorilor"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "să îmbălsămeze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl său"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "și au îmbălsămat"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "doctorii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:52.408577612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a răspuns Iov ⟨את⟩ Yahve și a zis:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    }
+  ],
+  "timestamp": "2026-09-04T05:36:35.560343827Z",
+  "model": "glm-5.3"
+}

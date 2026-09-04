@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Iar dacă va sfinți ⟨את⟩ câmpul cumpărat de el, care nu este dintre câmpurile stăpânirii lui, lui Yahve —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "câmp"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "câmp"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "cumpărat de el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "dintre câmpurile"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "stăpânirii lui"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "va sfinți"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:18.307081810Z",
+  "model": "glm-5.3"
+}

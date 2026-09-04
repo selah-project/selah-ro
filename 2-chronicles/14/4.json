@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a îndepărtat din toate cetățile lui Iehuda înălțimile ⟨את⟩ și idolii-soarelui ⟨את⟩, și împărăția a fost liniștită înaintea lui.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "și a îndepărtat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din toate"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "înălțimile"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "înălțimile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "idolii-soarelui"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "idolii-soarelui"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "și a fost liniștită"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:16:31.543103050Z",
+  "model": "glm-5.3"
+}

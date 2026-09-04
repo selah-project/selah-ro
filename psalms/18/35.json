@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Îmi învață mâinile pentru război și au întins un arc de aramă brațele mele.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "îmi învață"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâinile"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pentru război"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "și au întins"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "un arc"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "de aramă"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "brațele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:37.655313682Z",
+  "model": "glm-5.3"
+}

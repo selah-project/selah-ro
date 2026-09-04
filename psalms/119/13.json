@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Cu buzele mele am povestit toate hotărârile gurii tale.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "cu buzele mele"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "am povestit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hotărârile"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gurii tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:18.078250418Z",
+  "model": "glm-5.3"
+}

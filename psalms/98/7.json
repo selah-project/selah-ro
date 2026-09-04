@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 98,
+  "translation": "Să vuiască marea și tot ce o umple, lumea și cei ce locuiesc în ea.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "să vuiască"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "și tot ce o umple"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "și cei ce locuiesc"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:26.232724657Z",
+  "model": "glm-5.3"
+}

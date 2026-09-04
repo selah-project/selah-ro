@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Ai iubit răul mai mult decât binele, minciuna mai mult decât a vorbi dreptate. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Ai iubit"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "mai mult decât binele"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciuna"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a vorbi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:56.848125802Z",
+  "model": "glm-5.3"
+}

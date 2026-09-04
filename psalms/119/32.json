@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Pe calea poruncilor tale voi alerga, căci tu îmi lărgești inima.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "pe calea"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncilor tale"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "voi alerga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "îmi lărgești"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:11.929933234Z",
+  "model": "glm-5.3"
+}

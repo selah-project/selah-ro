@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 110,
+  "translation": "Un mizmor al lui David. Oracolul lui Yahve către stăpânul meu: „Șezi la dreapta mea, până ce îți pun vrăjmașii ⟨את⟩ ca scaun de picioare ⟨את⟩ al tău.”",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "către stăpânul meu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "șezi"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "la dreapta mea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "îți pun"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vrăjmașii"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "scaun de picioare"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "pentru picioarele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:49.688860649Z",
+  "model": "glm-5.3"
+}

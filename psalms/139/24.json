@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "și vezi dacă ⟨este⟩ o cale dureroasă în mine, și călăuzește-mă pe calea veșnică.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "și vezi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "o cale"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "dureroasă"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "și călăuzește-mă"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe calea"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnică"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:02.044258009Z",
+  "model": "glm-5.3"
+}

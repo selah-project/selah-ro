@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Te lăudăm, Elohim, te lăudăm, și aproape ⟨este⟩ numele tău; ⟨ei⟩ povestesc minunile tale.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Te lăudăm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pe tine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "te lăudăm"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "și aproape"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "povestesc"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "minunile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:39.923135679Z",
+  "model": "glm-5.3"
+}

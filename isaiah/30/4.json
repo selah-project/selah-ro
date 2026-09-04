@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Căci căpeteniile lui erau în Țoan, și solii lui au ajuns la Hanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "în Țoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "căpeteniile lui"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "și solii lui"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "la Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "au ajuns"
+    }
+  ],
+  "timestamp": "2026-09-04T03:45:50.751071133Z",
+  "model": "glm-5.3"
+}

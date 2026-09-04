@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Și i-a trimis ⟨את⟩ frații săi, și au plecat, și le-a spus lor: nu vă zvârcoliți pe drum.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frații săi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au plecat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "vă zvârcoliți"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:27.233613540Z",
+  "model": "glm-5.3"
+}

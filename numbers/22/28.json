@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a deschis Yahve ⟨את⟩ gura iapei, și a spus către Bilam: Ce ți-am făcut, de m-ai lovit de trei ori?",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "și a deschis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "iapei"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "către Bilam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ți-am făcut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "m-ai lovit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "de"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trei"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ori"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:16.850201285Z",
+  "model": "glm-5.3"
+}

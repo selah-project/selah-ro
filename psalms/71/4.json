@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Elohim al meu, scape-mă din mâna răufăcătorului, din palma celui nelegiuit și asupritor.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "scape-mă"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răufăcătorului"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "din palma"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "celui nelegiuit"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "și asupritorului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:28.796388230Z",
+  "model": "glm-5.3"
+}

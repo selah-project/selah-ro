@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a țintuit ⟨את⟩ fața lui și a ținut-o până l-a rușinat, și a plâns omul lui Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Și a țintuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața lui"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața lui"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și a ținut-o"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בש",
+      "gloss": "l-a rușinat"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "și a plâns"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:41.116848192Z",
+  "model": "glm-5.3"
+}

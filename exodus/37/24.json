@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Un talant de aur curat a făcut-o, și ⟨את⟩ toate uneltele ei.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Un talant"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut-o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "(sfeșnicul — pronumele o)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "uneltele ei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:47:06.313330820Z",
+  "model": "glm-5.3"
+}

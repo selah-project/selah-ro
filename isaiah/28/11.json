@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Căci cu buze de batjocură și cu limbă străină va vorbi către poporul acesta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "cu de batjocură"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "buză"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "și cu limbă"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "străină"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "va vorbi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:21.531242981Z",
+  "model": "glm-5.3"
+}

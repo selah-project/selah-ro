@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și s-a umplut țara lui de argint și de aur, și nu este capăt comorilor lui; și s-a umplut țara lui de cai, și nu este capăt carelelor lui.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "și s-a umplut"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "țara lui"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de argint"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "și de aur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "capăt"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "comorilor lui"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "și s-a umplut"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "țara lui"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "de cai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "capăt"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "carelelor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:23:38.901471576Z",
+  "model": "glm-5.3"
+}

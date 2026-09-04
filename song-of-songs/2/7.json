@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "V-am pus ⟨את⟩ ⟨să⟩ jurați, fiice ale Ierușalaimului, pe gazele sau pe căprioarele câmpului: să nu treziți și să nu sculați ⟨את⟩ dragostea, până când ⟨ea⟩ va voi.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "V-am pus să jurați"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi (fiice ale Ierușalaimului)"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiice"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ale Ierușalaimului"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "pe gazele"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "pe căprioarele"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpului"
+    },
+    {
+      "surface": "אם",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "treziți"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "sculați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dragostea"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "dragostea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până când"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "va voi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:35.718004797Z",
+  "model": "glm-5.3"
+}

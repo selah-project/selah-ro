@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 141,
+  "translation": "Ca unul care despică și sfărâmă pământul, sunt risipite oasele noastre la gura lui Șeol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "cel care despică"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "și sfărâmă"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "sunt risipite"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "oasele noastre"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "la gura"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șeol"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:31.929567888Z",
+  "model": "glm-5.3"
+}

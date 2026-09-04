@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Omul, stăpânul țării, a vorbit cu ⟨את⟩ noi aspru și ne-a pus ca iscoade ⟨את⟩ ale țării.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Omul"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stăpânul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "cu ⟨את⟩ noi"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "aspru"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și ne-a pus"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "pe noi"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "ca iscoade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țării"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ale țării"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:36.540085861Z",
+  "model": "glm-5.3"
+}

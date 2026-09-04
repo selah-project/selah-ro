@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "M-am lăsat căutat de cei ce nu întrebau, m-am lăsat aflat de cei ce nu mă căutau; am zis: Iată-mă, iată-mă, către un neam ce nu chema numele meu.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "m-am lăsat căutat"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "de cei ce nu"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "întrebau"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "m-am lăsat aflat"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "de cei ce nu"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "mă căutau"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată-mă"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată-mă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chema"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "numele meu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:57:23.654314660Z",
+  "model": "glm-5.3"
+}

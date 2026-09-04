@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Ne vinzi pe poporul tău fără preț și nu sporești nimic din prețul lor.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "vinzi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "fără"
+    },
+    {
+      "surface": "הון",
+      "gloss": "preț"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "sporești"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "din prețul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:59.046216738Z",
+  "model": "glm-5.3"
+}

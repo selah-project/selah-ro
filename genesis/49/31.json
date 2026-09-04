@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Acolo au îngropat ⟨את⟩ Avraham și ⟨את⟩ Sara, soția lui; acolo au îngropat ⟨את⟩ Ițhac și ⟨את⟩ Rivca, soția lui; și acolo am îngropat-o ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שָׁ֣מָּה",
+      "gloss": "Acolo"
+    },
+    {
+      "surface": "קָֽבְר֞וּ",
+      "gloss": "au îngropat"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָ֗ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "și ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שָׂרָ֣ה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אִשְׁתּ֔וֹ",
+      "gloss": "soția lui"
+    },
+    {
+      "surface": "שָׁ֚מָּה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "קָבְר֣וּ",
+      "gloss": "au îngropat"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Ițhac"
+    },
+    {
+      "surface": "יִצְחָ֔ק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Rivca"
+    },
+    {
+      "surface": "רִבְקָ֣ה",
+      "gloss": "Rivca"
+    },
+    {
+      "surface": "אִשְׁתּ֑וֹ",
+      "gloss": "soția lui"
+    },
+    {
+      "surface": "וְשָׁ֥מָּה",
+      "gloss": "și acolo"
+    },
+    {
+      "surface": "קָבַ֖רְתִּי",
+      "gloss": "am îngropat-o"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לֵאָֽה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:43.694092357Z",
+  "model": "glm-5.3"
+}

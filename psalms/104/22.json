@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Răsare soarele — se strâng și în culcușurile lor se culcă.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "Răsare"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "se strâng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și în"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "culcușurile lor"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "se culcă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:42.988123732Z",
+  "model": "glm-5.3"
+}

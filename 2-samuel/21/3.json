@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a zis David către ghibeonieni: ce să fac pentru voi și cu ce să împac, și binecuvântați ⟨את⟩ moștenirea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "ghibeonienii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "să fac"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "și cu ce"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "să împac"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "și binecuvântați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moștenirea"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "moștenirea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:55:11.401302560Z",
+  "model": "glm-5.3"
+}

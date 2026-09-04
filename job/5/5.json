@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Pe al cărui seceriș îl mănâncă cel flămând, și până dintre spini este luat, și cei însetați înghit avutul lor.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "al cărui"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "secerișul lui"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "cel flămând"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mănâncă"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și până"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "dintre spini"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "este luat"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "și înghit"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "cei însetați"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "avutul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:16.595225837Z",
+  "model": "glm-5.3"
+}

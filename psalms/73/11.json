@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Și zic: Cum ar ști El, și este cunoaștere la El Elion?",
+  "tokens": [
+    {
+      "surface": "וְֽאָמְר֗וּ",
+      "gloss": "Și zic"
+    },
+    {
+      "surface": "אֵיכָ֥ךָ יָדַֽע אֵ֑ל",
+      "gloss": "Cum ar ști El"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וְיֵ֖שׁ",
+      "gloss": "și este"
+    },
+    {
+      "surface": "דֵּעָ֣ה",
+      "gloss": "cunoaștere"
+    },
+    {
+      "surface": "בְּעֶלְיֽוֹן",
+      "gloss": "la El Elion"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:01.371548820Z",
+  "model": "glm-5.3"
+}

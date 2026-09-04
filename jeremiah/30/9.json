@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Vor sluji ⟨את⟩ Yahve, Elohim al lor, și ⟨את⟩ pe David, regele lor, pe care îl voi ridica pentru ei.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Vor sluji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim al lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "regele lor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "voi ridica"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pentru ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:36:33.519193846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Pleacă urechea, Elohim, la rugăciunea mea, și nu te ascunde de cererea mea.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Pleacă urechea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "te ascunzi"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "de cererea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:17.168240041Z",
+  "model": "glm-5.3"
+}

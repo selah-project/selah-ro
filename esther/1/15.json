@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "«După dat, ce să i se facă reginei Vaști, pentru că nu a făcut ⟨את⟩ porunca regelui Ahașveroș prin mâna eunucilor?»",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "După dat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să se facă"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "reginei"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaști"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porunca"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahașveroș"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunucilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:09.743046865Z",
+  "model": "glm-5.3"
+}

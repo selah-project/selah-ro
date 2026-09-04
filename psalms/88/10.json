@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Ochiul meu s-a stins de suferința mea; te-am strigat, Yahve, în fiecare zi, îți întind palmele spre tine.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ochiul meu"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "s-a stins"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de"
+    },
+    {
+      "surface": "עני",
+      "gloss": "suferința mea"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "te-am strigat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în fiecare"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "îți întind"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "spre tine"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palmele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:19.010509425Z",
+  "model": "glm-5.3"
+}

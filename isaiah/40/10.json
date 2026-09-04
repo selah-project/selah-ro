@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Iată, Adonai Yahve vine cu putere și brațul lui stăpânește pentru el; iată, răsplata lui ⟨este⟩ cu ⟨את⟩ el și lucrarea lui înaintea feței lui.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "cu putere"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "și brațul lui"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "stăpânește"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "răsplata lui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "cu el"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "și lucrarea lui"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea feței lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:54.965601910Z",
+  "model": "glm-5.3"
+}

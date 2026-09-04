@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și te-am spălat cu apă, și te-am stropit de sângele tău ⟨de pe tine⟩, și te-am uns cu untdelemn.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "și te-am spălat"
+    },
+    {
+      "surface": "במים",
+      "gloss": "cu apă"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "și te-am stropit"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "sângele tău"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "de pe tine"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "și te-am uns"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "cu untdelemn"
+    }
+  ],
+  "timestamp": "2026-09-04T04:23:21.087174571Z",
+  "model": "glm-5.3"
+}

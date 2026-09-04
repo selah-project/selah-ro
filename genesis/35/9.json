@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și s-a arătat Elohim lui Iaacov din nou, la venirea lui din Padan-Aram, și l-a binecuvântat ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și s-a arătat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "din nou"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "la venirea lui"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "din Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și l-a binecuvântat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:54.557066455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "De lungimea drumului tău te-ai istovit, dar nu ai zis: «Nu mai e nădejde»; viața mâinii tale ai aflat, de aceea nu te-ai îmbolnăvit.",
+  "tokens": [
+    {
+      "surface": "בְּרֹב",
+      "gloss": "de mulțimea"
+    },
+    {
+      "surface": "דַּרְכֵּךְ",
+      "gloss": "drumului tău"
+    },
+    {
+      "surface": "יָגַעַתְּ",
+      "gloss": "te-ai istovit"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אָמַרְתְּ",
+      "gloss": "ai zis"
+    },
+    {
+      "surface": "נוֹאָשׁ",
+      "gloss": "«nu mai e nădejde»"
+    },
+    {
+      "surface": "חַיַּת",
+      "gloss": "viața"
+    },
+    {
+      "surface": "יָדֵךְ",
+      "gloss": "mâinii tale"
+    },
+    {
+      "surface": "מָצָאתְ",
+      "gloss": "ai aflat"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "de"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חָלִית",
+      "gloss": "te-ai îmbolnăvit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:31:16.626497873Z",
+  "model": "glm-5.3"
+}

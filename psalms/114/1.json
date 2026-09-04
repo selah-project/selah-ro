@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 114,
+  "translation": "La ieșirea lui Israel din Mițraim, casa lui Iaacov de la un popor de limbă străină,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "La ieșirea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la un popor"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "de limbă străină"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:02.192874464Z",
+  "model": "glm-5.3"
+}

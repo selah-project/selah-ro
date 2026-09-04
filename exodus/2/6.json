@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a deschis și l-a văzut, ⟨את⟩ copilul — și iată un prunc plângând — și i-a fost milă de el și a spus: dintre copiii evreilor ⟨este⟩ acesta.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "Și a deschis"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "și l-a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copilul"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un prunc"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "plângând"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "și i-a fost milă"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "dintre copiii"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "evreilor"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:37.257064568Z",
+  "model": "glm-5.3"
+}

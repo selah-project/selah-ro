@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Vai de țara fășâitului de aripi, care este dincolo de râurile lui Kuș!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de țara"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "fășâitului"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "de aripi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "este dincolo"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "de râurile"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "lui Kuș"
+    }
+  ],
+  "timestamp": "2026-09-04T09:00:19.245477482Z",
+  "model": "glm-5.3"
+}

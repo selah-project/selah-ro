@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "El a construit ⟨את⟩ poarta de sus a Casei lui Yahve, și pe zidul Ofelului a construit din belșug.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a construit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poarta de sus a Casei lui Yahve"
+    },
+    {
+      "surface": "שער",
+      "gloss": "poarta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "de sus"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "și pe zidul"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofelului"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a construit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "din belșug"
+    }
+  ],
+  "timestamp": "2026-09-04T06:26:53.734481130Z",
+  "model": "glm-5.3"
+}

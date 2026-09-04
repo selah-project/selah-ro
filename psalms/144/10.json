@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Care dă izbândă regilor, care îl scoate pe David, slujitorul lui, de la sabie rea.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Care dă"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "izbândă"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "regilor"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "care scoate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slujitorul lui"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "de la sabie"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:44.324199693Z",
+  "model": "glm-5.3"
+}

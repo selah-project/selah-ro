@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Către dirijor, pe ⟨instrumentul numit⟩ Ghitit, al lui Asaf",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Ghitit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "al lui Asaf"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:52.785829959Z",
+  "model": "glm-5.3"
+}

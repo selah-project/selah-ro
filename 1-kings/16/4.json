@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Pe cel ce moare al lui Bașa în cetate îl vor mânca câinii, iar pe cel ce moare al lui în câmp îl vor mânca păsările cerurilor.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "cel ce moare"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "al lui Bașa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "câinii"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "iar cel ce moare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "al lui"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "păsările"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:06.070641987Z",
+  "model": "glm-5.3"
+}

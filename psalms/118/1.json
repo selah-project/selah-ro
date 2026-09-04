@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "Mărturisiți lui Yahve, căci ⟨este⟩ bun, căci în veac ⟨durează⟩ hesedul lui.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mărturisiți"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:38.303545921Z",
+  "model": "glm-5.3"
+}

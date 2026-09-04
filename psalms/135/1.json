@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Lăudați pe Ya, lăudați ⟨את⟩ numele lui Yahve, lăudați, slugile lui Yahve!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "pe Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lăudați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui Yahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lăudați"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:53.633686498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a spus Șaul: aruncați ⟨sorții⟩ între mine și între Ionatan, fiul meu. Și a fost prins Ionatan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "aruncați"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Ionatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "și a fost prins"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Ionatan"
+    }
+  ],
+  "timestamp": "2026-09-04T02:45:22.842706172Z",
+  "model": "glm-5.3"
+}

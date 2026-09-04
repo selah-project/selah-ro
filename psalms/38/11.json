@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Inima mea bate năvalnic, puterea mea m-a părăsit, și chiar lumina ochilor mei — nici ea nu ⟨este⟩ ⟨את⟩ cu mine.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "bate năvalnic"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "m-a părăsit"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "și lumina"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochilor mei"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cu mine",
+      "marks": "lumina ochilor mei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:08.965149506Z",
+  "model": "glm-5.3"
+}

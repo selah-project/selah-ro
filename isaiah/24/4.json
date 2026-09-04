@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Tânguiește și se ofilește pământul, se mâhnește și se ofilește lumea; se mâhnesc înălțimile poporului pământului.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "tânguiește"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "se ofilește"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "se mâhnește"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "se ofilește"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "se mâhnesc"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "înălțimile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:21.178196440Z",
+  "model": "glm-5.3"
+}

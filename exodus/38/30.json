@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a făcut din ea ⟨את⟩ temeliile intrării Cortului Întâlnirii, și ⟨את⟩ altarul de aramă, și ⟨את⟩ grătarul de aramă care este al lui, și ⟨את⟩ toate uneltele altarului.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "בה",
+      "gloss": "din ea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temeliile"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "temeliile"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "intrării"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "altarul de aramă"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "de aramă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "grătarul de aramă"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "grătarul"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "de aramă"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לו",
+      "gloss": "este al lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele altarului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "uneltele"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:02.409418248Z",
+  "model": "glm-5.3"
+}

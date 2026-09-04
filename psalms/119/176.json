@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Am rătăcit ca o oaie pierdută; caută pe slujitorul tău, căci poruncile tale nu le-am uitat.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "Am rătăcit"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "ca o oaie"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pierdută"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "pe slujitorul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "le-am uitat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:35.280431335Z",
+  "model": "glm-5.3"
+}

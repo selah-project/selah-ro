@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a fost, când a născut Rahel ⟨את⟩ Iosif, că Iaacov a zis către Lavan: Trimite-mă, și mă voi duce la locul meu și la țara mea.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iosif"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Trimite-mă"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "și mă voi duce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "locul meu"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "și la țara mea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:41.980959104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și să-i lăsați cu viață ⟨את⟩ tatălui meu și ⟨את⟩ mamei mele și ⟨את⟩ fraților mei și ⟨את⟩ surorilor mele și ⟨את⟩ tuturor celor ce sunt ai lor, și să scăpați ⟨את⟩ sufletele noastre de la moarte.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "și să-i lăsați cu viață"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatălui meu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatălui meu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mamei mele"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamei mele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fraților mei"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fraților mei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "surorilor mele"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "surorilor mele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tuturor celor ce sunt ai lor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sunt ai lor"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "și să scăpați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletele noastre"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "sufletele noastre"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la moarte"
+    }
+  ],
+  "timestamp": "2026-09-04T02:16:58.743087699Z",
+  "model": "glm-5.3"
+}

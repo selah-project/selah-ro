@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 2:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "El ascunde pentru cei drepți statornicia ⟨את⟩; scut celor care umblă în nevinovăție.",
+  "tokens": [
+    {
+      "surface": "וצפן",
+      "gloss": "ascunde"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "pentru cei drepți"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "statornicia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "statornicia"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "scut"
+    },
+    {
+      "surface": "להלכי",
+      "gloss": "celor care umblă în"
+    },
+    {
+      "surface": "תם",
+      "gloss": "nevinovăție"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:41.194784974Z",
+  "model": "glm-5.3"
+}

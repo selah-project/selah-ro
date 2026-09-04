@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 31:13",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Iar tu vorbește cu fiii lui Israel, zicând: numai Șabaturile mele să le păziți, căci semn este între mine și între voi, pentru neamurile voastre, ca să știți că eu sunt Yahve, cel ce vă sfințește.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "אך",
+      "gloss": "numai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șabaturile mele"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Șabaturile mele"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "să păziți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אות",
+      "gloss": "semn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "și între voi"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "pentru neamurile voastre"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ca să știți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "cel ce vă sfințește"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:35.130723896Z",
+  "model": "glm-5.3"
+}

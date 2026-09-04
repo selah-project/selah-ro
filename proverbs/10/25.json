@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Ca trecerea vârtejului de vânt, și cel rău nu mai este; iar cel drept ⟨este⟩ temelie veșnică.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "Ca trecerea"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "vârtejului de vânt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu mai este"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "iar cel drept"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "temelie"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnică"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:47.213171780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "și vi se va istovi în zadar puterea și pământul vostru nu-și va da ⟨את⟩ roada lui și pomul pământului nu își va da roada lui.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "și vi se va istovi"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "în zadar"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "puterea voastră"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "pământul vostru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roada lui"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "roada lui"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "și pomul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "roada lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:53.911158069Z",
+  "model": "glm-5.3"
+}

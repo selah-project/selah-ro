@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "și să asculți de glasul lui Yahve, Elohim al tău, și să păzești ⟨את⟩ poruncile lui și ⟨את⟩ hotărârile lui, pe care ți le poruncesc eu astăzi.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "și să asculți"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și să păzești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poruncile lui"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "poruncile lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hotărârile lui"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hotărârile lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ți le poruncesc"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:27.010910824Z",
+  "model": "glm-5.3"
+}

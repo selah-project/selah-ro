@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Căci drept este cuvântul lui Yahve, și toată lucrarea lui ⟨este⟩ în credincioșie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "drept"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "lucrarea lui"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "în credincioșie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:59.869813650Z",
+  "model": "glm-5.3"
+}

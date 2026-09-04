@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Vor veni și vor vesti dreptatea lui unui popor care se va naște, căci a făcut ⟨aceasta⟩.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Vor veni"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "și vor vesti"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "dreptatea lui"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "unui popor"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "care se va naște"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:01.255772743Z",
+  "model": "glm-5.3"
+}

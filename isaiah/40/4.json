@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Valea toată va fi înălțată, și muntele și dealul se vor pleca, și locul strâmb va fi ⟨prefăcut⟩ în câmpie, și colinele sterpe în vale.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "valea"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "va fi înălțată"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "și dealul"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "se vor pleca"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "locul strâmb"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "în câmpie"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "și colinele sterpe"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "în vale"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:58.342988584Z",
+  "model": "glm-5.3"
+}

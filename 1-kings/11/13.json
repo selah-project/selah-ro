@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Numai că ⟨את⟩ toată împărăția nu o voi rupe; un trib voi da fiului tău, pentru David, slujitorul meu, și pentru Ierușalaim, pe care l-am ales.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Numai că"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată împărăția"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "voi rupe"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "trib"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "voi da"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "fiului tău"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slujitorul meu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "și pentru"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "l-am ales"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:04.002001424Z",
+  "model": "glm-5.3"
+}

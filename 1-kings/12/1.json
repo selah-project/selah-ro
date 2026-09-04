@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și s-a dus Rehavam la Șechem, căci la Șechem venise tot Israelul ca să-l facă rege ⟨את⟩ pe el.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "și s-a dus"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Șechem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "la Șechem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ca să-l facă rege"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "el (pe Rehavam)"
+    }
+  ],
+  "timestamp": "2026-09-04T10:11:21.654497865Z",
+  "model": "glm-5.3"
+}

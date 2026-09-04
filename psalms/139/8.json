@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Dacă mă ridic la ceruri — acolo ⟨ești⟩ tu; și dacă îmi întind așternutul în Șeol, iată-te.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "mă ridic"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "la ceruri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ⟨ești⟩"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "și îmi întind așernutul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "în Șeol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "iată-te"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:41.316124145Z",
+  "model": "glm-5.3"
+}

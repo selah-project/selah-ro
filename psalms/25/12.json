@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Cine este omul acesta care se teme de Yahve? El îl va învăța în calea pe care o va alege.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se teme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "îl va învăța"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "în calea"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "pe care o va alege"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:01.450491492Z",
+  "model": "glm-5.3"
+}

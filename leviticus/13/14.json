@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Dar în ziua în care se va vedea în el carne vie, va fi necurat.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "dar în ziua"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "se va vedea"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vie"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "va fi necurat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:56.519333242Z",
+  "model": "glm-5.3"
+}

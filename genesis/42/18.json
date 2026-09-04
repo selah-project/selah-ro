@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și le-a spus lor Iosif în ziua a treia: aceasta faceți și veți trăi — ⟨את⟩ Elohim eu mă tem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a treia"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "faceți"
+    },
+    {
+      "surface": "ויחיו",
+      "gloss": "și veți trăi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mă tem"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:30.107340328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 120,
+  "translation": "Cântare a urcărilor. Către Yahve, în strâmtorarea mea, am strigat, și el m-a răspuns.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "în strâmtorarea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mea"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "am strigat"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "și el m-a răspuns"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:06.658519804Z",
+  "model": "glm-5.3"
+}

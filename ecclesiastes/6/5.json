@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Chiar și soarele nu l-a văzut și nu l-a cunoscut; mai multă odihnă are acesta decât acela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "l-a cunoscut"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "odihnă"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "are acesta"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "decât acela"
+    }
+  ],
+  "timestamp": "2026-09-04T10:14:30.408393722Z",
+  "model": "glm-5.3"
+}

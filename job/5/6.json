@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căci din țărână nu iese nelegiuirea, și din pământ nu răsare osteneala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iese"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "din țărână"
+    },
+    {
+      "surface": "און",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "și din pământ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "răsare"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "osteneala"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:16.595521500Z",
+  "model": "glm-5.3"
+}

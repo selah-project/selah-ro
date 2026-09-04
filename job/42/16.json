@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "A trăit Iiov după aceasta o sută și patruzeci de ani, și a văzut ⟨את⟩ fiii săi și ⟨את⟩ fiii fiilor săi, patru generații.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A trăit"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "o sută"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "și patruzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii săi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii săi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii fiilor săi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiilor săi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "patru"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "generații"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:45.193367270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "David a binecuvântat ⟨את⟩ Yahve înaintea ochilor întregii adunări, și David a zis: Binecuvântat ești tu, Yahve, Elohim al lui Israel, părintele nostru, de la veac și până în veac.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "a binecuvântat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "înaintea ochilor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregii"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "adunării"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "părintele nostru"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "de la veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    }
+  ],
+  "timestamp": "2026-09-04T06:16:22.253826147Z",
+  "model": "glm-5.3"
+}

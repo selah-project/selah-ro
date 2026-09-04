@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "A trimis cuvântul său și i-a vindecat și i-a scăpat din prăpăsturile lor",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "A trimis"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "cuvântul său"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "și i-a vindecat"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "și i-a scăpat"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "din prăpăsturile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:30.738171916Z",
+  "model": "glm-5.3"
+}

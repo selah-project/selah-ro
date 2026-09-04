@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și au suit și au iscodit ⟨את⟩ țara, de la pustiul Tsin până la Rehov, la intrarea în Hamat.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "au suit"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "au iscodit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "de la pustiul"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "la intrarea"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:50:08.649555560Z",
+  "model": "glm-5.3"
+}

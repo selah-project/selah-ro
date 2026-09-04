@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Iar darnicul sfătuiește fapte de dărnicie și el pentru faptele de dărnicie se va ridica.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "Iar darnicul"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "fapte de dărnicie"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "sfătuiește"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "faptele de dărnicie"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se va ridica"
+    }
+  ],
+  "timestamp": "2026-09-04T03:45:38.285975622Z",
+  "model": "glm-5.3"
+}

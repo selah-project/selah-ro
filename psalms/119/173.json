@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Să fie mâna ta spre a mă ajuta, căci rânduielile tale le-am ales.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Să fie"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "spre a mă ajuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "rânduielile tale"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "le-am ales"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:35.279826809Z",
+  "model": "glm-5.3"
+}

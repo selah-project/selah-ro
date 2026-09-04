@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și acestea sunt judecățile pe care le vei pune înaintea lor.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "judecățile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "vei pune"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "înaintea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:24.779315530Z",
+  "model": "glm-5.3"
+}

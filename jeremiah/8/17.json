@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Căci iată, eu trimit printre voi șerpi, vipere, care nu au descântec, și vă vor mușca, — oracolul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată, eu"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "trimit"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "printre voi"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "șerpi"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "vipere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "au"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "descântec"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "și vă vor mușca"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "— oracolul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:02:00.271328373Z",
+  "model": "glm-5.3"
+}

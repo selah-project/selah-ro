@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Când am tăcut, au îmbătrânit oasele mele, în urletul meu toată ziua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "am tăcut"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "au îmbătrânit"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "oasele mele"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "în urletul meu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:08.706271818Z",
+  "model": "glm-5.3"
+}

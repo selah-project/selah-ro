@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ruth 3:11",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și acum, fiica mea, nu te teme; tot ce vei spune îți voi face, căci știe tot poarta poporului meu că ești femeie de vrednicie ⟨tu⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "fiica mea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "vei spune"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "îți voi face"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "știe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שער",
+      "gloss": "poarta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ești femeie"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de vrednicie"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu",
+      "marks": "tu (pronume, H859 — nu semnul את)"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:43.387250843Z",
+  "model": "glm-5.3"
+}

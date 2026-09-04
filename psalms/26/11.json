@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Iar eu voi merge în nevinovăția mea; răscumpără-mă și îndură-Te de mine!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "în nevinovăția mea"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "voi merge"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "răscumpără-mă"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "și îndură-Te de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:16.463552494Z",
+  "model": "glm-5.3"
+}

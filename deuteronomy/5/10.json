@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "și făcând hesed (îndurare) la mii, celor ce mă iubesc și celor ce păzesc poruncile mele.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "și făcând"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "la mii"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "celor ce mă iubesc"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "și celor ce păzesc"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "poruncile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:16.297077877Z",
+  "model": "glm-5.3"
+}

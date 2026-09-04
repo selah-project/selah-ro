@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Yahve îl cercetează pe cel drept, iar pe cel rău și pe iubitorul vărsării de sânge îl urăște sufletul lui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pe cel drept"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "îl cercetează"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "iar pe cel rău"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "și pe iubitorul"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vărsării de sânge"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "urăște"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:21.831637458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și mi-am ațintit ⟨את⟩ fața către Adonai, Elohim, ca să caut rugăciune și cereri de îndurare, cu post și sac și cenușă.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Și mi-am ațintit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ca să caut"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "rugăciune"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "și cereri de îndurare"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "cu post"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "și sac"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "și cenușă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:52:56.809098764Z",
+  "model": "glm-5.3"
+}

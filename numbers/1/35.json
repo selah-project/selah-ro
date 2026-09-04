@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cei numărați ai lor, pentru seminția lui Menașe: două și treizeci ⟨de⟩ mii și două sute.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Cei numărați ai lor"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pentru seminția"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "lui Menașe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "două"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "și treizeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mii"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "și două sute"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:50.409869270Z",
+  "model": "glm-5.3"
+}

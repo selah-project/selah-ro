@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "să treacă împărăția din casa lui Șaul și să ridice ⟨את⟩ tronul lui David peste Israel și peste Iehuda, de la Dan și până la Beer-Șeba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "să treacă"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "și să ridice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tronul lui David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "de la Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeba"
+    }
+  ],
+  "timestamp": "2026-09-04T02:54:04.695780456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "El-ul meu, El-ul meu, pentru ce m-ai părăsit? ⟨Ești⟩ departe de ajutorul meu, ⟨departe de⟩ cuvintele răgetului meu.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El-ul meu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ul meu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pentru ce"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "m-ai părăsit"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "⟨Ești⟩ departe"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "de ajutorul meu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "răgetului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:23.872057838Z",
+  "model": "glm-5.3"
+}

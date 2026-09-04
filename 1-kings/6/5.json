@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a zidit pe peretele casei o anexă de jur împrejur, ⟨את⟩ pereții casei de jur împrejur, pentru Heihal și pentru Devir; și a făcut încăperi laterale de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Și a zidit"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "peretele"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "o anexă"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pereții casei"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "pereții"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "pentru Heihal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "și pentru Devir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "încăperi laterale"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T08:55:43.919214626Z",
+  "model": "glm-5.3"
+}

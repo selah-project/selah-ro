@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Au cerut, și a adus prepelițe, și cu pâinea cerurilor i-a săturat.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "au cerut"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a adus"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "prepelițe"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "și cu pâinea"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "i-a săturat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:38.445672415Z",
+  "model": "glm-5.3"
+}

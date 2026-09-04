@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Picură pășunile pustiului, și colinele se încing de bucurie.",
+  "tokens": [
+    {
+      "surface": "יִ֭רְעֲפוּ",
+      "gloss": "picură"
+    },
+    {
+      "surface": "נְא֣וֹת",
+      "gloss": "pășunile"
+    },
+    {
+      "surface": "מִדְבָּ֑ר",
+      "gloss": "pustiului"
+    },
+    {
+      "surface": "וְ֝גִ֗יל",
+      "gloss": "și bucurie"
+    },
+    {
+      "surface": "גְּבָע֥וֹת",
+      "gloss": "colinele"
+    },
+    {
+      "surface": "תַּחְגֹּֽרְנָה",
+      "gloss": "se încing"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:51.241879895Z",
+  "model": "glm-5.3"
+}

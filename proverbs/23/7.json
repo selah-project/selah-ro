@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Căci cum socotește în sufletul lui, așa este el: «Mănâncă și bea» îți va spune, dar inima lui nu este cu tine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "cum"
+    },
+    {
+      "surface": "שער",
+      "gloss": "socotește"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "în sufletul lui"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Mănâncă"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "și bea"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "va spune"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "dar inima lui"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicidecum"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:02.856917260Z",
+  "model": "glm-5.3"
+}

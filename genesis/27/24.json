@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a spus: Tu ești acesta, fiul meu, Esav? Și el a spus: Eu sunt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și el a spus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu sunt"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:26.700240213Z",
+  "model": "glm-5.3"
+}

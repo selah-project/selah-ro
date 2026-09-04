@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Binecuvântați sunteți voi de Yahve, făcătorul cerurilor și al pământului.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Binecuvântați"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făcătorul"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "și al pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:32.189586788Z",
+  "model": "glm-5.3"
+}

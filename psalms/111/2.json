@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 111,
+  "translation": "Mari sunt lucrările lui Yahve, cercetate de toți cei ce le doresc.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Mari"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "sunt lucrările"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "cercetate"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de toți"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "cei ce le doresc"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:04.585299138Z",
+  "model": "glm-5.3"
+}

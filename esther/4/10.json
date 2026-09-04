@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a vorbit Estera lui Hatah și l-a însărcinat ⟨să spună⟩ către Mordehai:",
+  "tokens": [
+    {
+      "surface": "ויאמר... ותאמר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estera"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "lui Hatah"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "și l-a însărcinat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:29.372579806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a făcut Moșe după cum poruncise Yahve ⟨את⟩ de el; și s-a adunat adunarea la intrarea cortului întâlnirii.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "după cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe Moșe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "și s-a adunat"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "intrarea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:28.795089823Z",
+  "model": "glm-5.3"
+}

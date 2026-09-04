@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "ci să-ți aduci aminte de ⟨את⟩ Yahve, Elohim al tău, căci el este cel care îți dă putere să faci avere, ca să întemeieze ⟨את⟩ legământul său pe care l-a jurat părinților tăi, ca în ziua aceasta.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "și să-ți aduci aminte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "cel care dă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "כח",
+      "gloss": "putere"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să faci"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "avere"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "întemeieze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul său"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "legământul său"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a jurat"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "părinților tăi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ca în ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:07.928318133Z",
+  "model": "glm-5.3"
+}

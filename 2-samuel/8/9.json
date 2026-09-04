@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a auzit Toi, regele Hamatului, că a lovit David ⟨את⟩ toată oastea lui Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată oastea lui Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "oastea"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "lui Hadadezer"
+    }
+  ],
+  "timestamp": "2026-09-04T02:57:10.108155583Z",
+  "model": "glm-5.3"
+}

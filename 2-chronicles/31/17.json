@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "și ⟨את⟩ înscrierea în neamuri a cohanimilor, după casa părinților lor, și leviții de la vârsta de douăzeci de ani și mai sus, în slujbele lor, în cetele lor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "înscrierea în neamuri a cohanimilor"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "înscrierea în neamuri"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohanimilor"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "după casa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "și leviții"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "de la vârsta de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "și mai sus"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "în slujbele lor"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "în cetele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:30:52.926224649Z",
+  "model": "glm-5.3"
+}

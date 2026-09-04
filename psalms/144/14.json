@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Boii noștri sunt puternici la muncă; nu este străpungere, și nu este ieșire, și nu este țipăt în piețele noastre.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "boii noștri"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "sunt puternici la muncă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "străpungere"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "ieșire"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "țipăt"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "în piețele noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:50.997444655Z",
+  "model": "glm-5.3"
+}

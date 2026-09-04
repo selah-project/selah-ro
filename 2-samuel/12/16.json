@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și l-a căutat David pe ⟨את⟩ Elohim pentru copil, și a rânduit David un post, și a intrat și a rămas peste noapte și s-a culcat la pământ.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Și l-a căutat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "pe ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "copil"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "și a rânduit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "un post"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "și a intrat"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "și a rămas peste noapte"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "și s-a culcat"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "la pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:56.836835483Z",
+  "model": "glm-5.3"
+}

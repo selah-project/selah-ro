@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Când strig eu, răspunde-mi, Elohim al dreptății mele; în strâmtorare mi-ai făcut loc larg; fie-mi har și ascultă rugăciunea mea.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Când strig eu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "răspunde-mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "dreptății mele"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "în strâmtorare"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "mi-ai făcut loc larg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fie-mi har"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "și ascultă"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:48.761605190Z",
+  "model": "glm-5.3"
+}

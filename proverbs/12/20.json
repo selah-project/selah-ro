@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Înșelăciune ⟨este⟩ în inima celor care urzesc răul, și pentru cei care sfătuiesc pacea ⟨este⟩ bucurie.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "Înșelăciune"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "în inima"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "celor care urzesc"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "și pentru cei care sfătuiesc"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pacea"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:23.329135801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Toți au dat înapoi, împreună s-au făcut netrebnici; nu ⟨este⟩ cine să facă bine, nu, nici măcar unul.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Toți"
+    },
+    {
+      "surface": "סג",
+      "gloss": "au dat înapoi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "s-au făcut netrebnici"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nici măcar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:52.672253125Z",
+  "model": "glm-5.3"
+}

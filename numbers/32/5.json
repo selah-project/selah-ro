@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și au zis: dacă am aflat har în ochii tăi, să se dea ⟨את⟩ țara aceasta robilor tăi, în stăpânire; nu ne trece ⟨את⟩ Iardenul.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "am aflat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "har"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "să se dea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "robilor tăi"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "în stăpânire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "ne trece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iardenul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:55:17.629246072Z",
+  "model": "glm-5.3"
+}

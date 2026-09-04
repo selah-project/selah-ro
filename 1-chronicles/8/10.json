@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "și ⟨את⟩ Ieuț, și ⟨את⟩ Șachia și ⟨את⟩ Mirma. Aceștia sunt fiii lui, capi ai caselor-părinților.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Ieuț"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Ieuț"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șachia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Șachia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Mirma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ai caselor-părinților"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:17.752278648Z",
+  "model": "glm-5.3"
+}

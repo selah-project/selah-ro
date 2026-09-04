@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Un om sărac care apasă pe sărmani ⟨este⟩ ca o ploaie spulberătoare, și nu ⟨este⟩ pâine.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Un om"
+    },
+    {
+      "surface": "רש",
+      "gloss": "sărac"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "care apasă"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "pe sărmani"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ca o ploaie"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "spulberătoare"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:51.796692820Z",
+  "model": "glm-5.3"
+}

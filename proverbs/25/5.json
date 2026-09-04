@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Îndepărtează-l pe cel rău dinaintea regelui, și se va întări prin țedeq tronul lui.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "Îndepărtează"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe cel rău"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dinaintea"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "și se va întări"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "prin țedeq (dreptate)"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tronul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:10:01.752106089Z",
+  "model": "glm-5.3"
+}

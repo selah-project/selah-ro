@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a trimis Iehoșua ⟨את⟩ poporul, și au mers fiii lui Israel, fiecare la moștenirea lui, ca să stăpânească ⟨את⟩ țara.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a trimis"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au mers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "la moștenirea lui"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ca să stăpânească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:12.925457695Z",
+  "model": "glm-5.3"
+}

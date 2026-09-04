@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Dar tu ⟨ești⟩ Același, și anii tăi nu se vor sfârși.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dar tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Același"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "și anii tăi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "se vor sfârși"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:15.508672670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Tot ce nu are înotătoare și solzi în ape — spurcăciune este pentru voi.",
+  "tokens": [
+    {
+      "surface": "כֹּל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "nu are"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "lui"
+    },
+    {
+      "surface": "סְנַפִּיר",
+      "gloss": "înotătoare"
+    },
+    {
+      "surface": "וְקַשְׂקֶשֶׂת",
+      "gloss": "și solzi"
+    },
+    {
+      "surface": "בַּמָּיִם",
+      "gloss": "în ape"
+    },
+    {
+      "surface": "שֶׁקֶץ",
+      "gloss": "spurcăciune"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "este"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:56.247665808Z",
+  "model": "glm-5.3"
+}

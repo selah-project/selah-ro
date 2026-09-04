@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Este vreun lucru despre care să se spună: Iată, acesta este nou? Deja a fost în veacurile care au fost înaintea noastră.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Este"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vreun lucru"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "să se spună"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Deja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "לעולמים",
+      "gloss": "în veacurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "היה",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "înaintea noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T09:26:14.093740205Z",
+  "model": "glm-5.3"
+}

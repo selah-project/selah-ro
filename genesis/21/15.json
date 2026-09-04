@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și s-au isprăvit apele din burduf, și ea a aruncat copilul ⟨את⟩ sub unul dintre tufișuri.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Și s-au isprăvit"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "burduf"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "și ea a aruncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copilul"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul dintre"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "tufișuri"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:27.210435863Z",
+  "model": "glm-5.3"
+}

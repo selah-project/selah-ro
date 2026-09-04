@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și voi da ⟨את⟩ casa lui Ahav ca pe casa lui Iarovam fiul lui Nevat și ca pe casa lui Bașa fiul lui Ahiia.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "și voi da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Ahav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "lui Ahav"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ca pe casa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "lui Iarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "lui Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "și ca pe casa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "lui Bașa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "lui Ahiia"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:28.380623491Z",
+  "model": "glm-5.3"
+}

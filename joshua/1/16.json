@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și au răspuns ⟨את⟩ lui Iehoșua, zicând: Tot ce ne-ai poruncit vom face, și la orice loc unde ne vei trimite vom merge.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Și au răspuns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehoșua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "lui Iehoșua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "ne-ai poruncit"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vom face"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "loc unde"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ne vei trimite"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "vom merge"
+    }
+  ],
+  "timestamp": "2026-09-04T02:17:04.006537529Z",
+  "model": "glm-5.3"
+}

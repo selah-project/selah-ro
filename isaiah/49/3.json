@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Și mi-a zis: „Robul meu ești tu, Israel, în care mă voi preaslăvi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și mi-a zis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robul meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "mă voi preaslăvi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:30:50.149257996Z",
+  "model": "glm-5.3"
+}

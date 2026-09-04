@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și să facă ⟨את⟩ efodul: aur, albastru și purpură, vierme-de-șni și in răsucit, lucrare de meșter-țesător.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Și să facă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodul"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodul"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "albastru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "și purpură"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "vierme"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de șni (carmezin)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "și in"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "răsucit"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrare"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "de meșter-țesător"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:28.277528626Z",
+  "model": "glm-5.3"
+}

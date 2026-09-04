@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Am auzit ⟨את⟩ ce au spus navii, cei ce prorocesc în numele meu minciună, zicând: Am visat, am visat!",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce au spus navii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "au spus"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "navii"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "cei ce prorocesc"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "în numele meu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "am visat"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "am visat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:36:24.002253087Z",
+  "model": "glm-5.3"
+}

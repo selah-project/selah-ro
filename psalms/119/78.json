@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Să fie rușinați cei aroganți, căci cu minciună m-au strâmbat; eu cuget la poruncile tale.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "să fie rușinați"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "cei aroganți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "cu minciună"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "m-au strâmbat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "cuget"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "la poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:03.517451096Z",
+  "model": "glm-5.3"
+}

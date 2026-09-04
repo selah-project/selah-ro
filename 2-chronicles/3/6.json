@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a placat ⟨את⟩ casa cu piatră prețioasă, pentru podoabă; iar aurul era aur din Parvaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Și a placat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "piatră"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "prețioasă"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "pentru podoabă"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "iar aurul"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "din Parvaim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:18:42.533341281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Îi vei pune ca un cuptor de foc la vremea feței tale: Yahve îi va înghiți în mânia lui, și focul îi va mistui.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "îi vei pune"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ca un cuptor"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de foc"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "la vremea"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "feței tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "în mânia lui"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "îi va înghiți"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "și îi va mistui"
+    },
+    {
+      "surface": "אש",
+      "gloss": "focul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:59.046020081Z",
+  "model": "glm-5.3"
+}

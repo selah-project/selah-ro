@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 82,
+  "translation": "Ridică-Te, Elohim, judecă pământul, căci Tu vei moșteni în toate neamurile.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ridică-Te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "judecă"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "vei moșteni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:25.809149673Z",
+  "model": "glm-5.3"
+}

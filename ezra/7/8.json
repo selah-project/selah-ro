@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a ajuns la Ierușalaim în luna a cincea — ea ⟨este⟩ anul al șaptelea al regelui.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a ajuns"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Ierușalaim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "în luna"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "a cincea"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "anul"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "al șaptelea"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:56:57.583633559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Pune nelegiuire peste nelegiuirea lor, și să nu intre în dreptatea ta.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Pune"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "nelegiuirea lor"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "intre"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "în dreptatea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:18.582929452Z",
+  "model": "glm-5.3"
+}

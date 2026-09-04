@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Că zi și noapte s-a îngreunat peste mine mâna ta, vigoarea mea s-a prefăcut în uscăciunea verii. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "zi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "și noapte"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "s-a îngreunat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "s-a prefăcut"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "vigoarea mea"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "în uscăciunea"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "verii"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:08.706435469Z",
+  "model": "glm-5.3"
+}

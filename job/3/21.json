@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "care așteaptă moartea, și ea nu ⟨vine⟩, și sapă după ea mai mult decât după comorile ascunse.",
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "care așteaptă"
+    },
+    {
+      "surface": "למות",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "și ea nu ⟨vine⟩"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "și sapă după ea"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "decât comorile ascunse"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:35.857193840Z",
+  "model": "glm-5.3"
+}

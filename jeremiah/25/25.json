@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "și ⟨את⟩ pe toți regii lui Zimri, și ⟨את⟩ pe toți regii lui Elam, și ⟨את⟩ pe toți regii lui Madai",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți regii lui Zimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "lui Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți regii lui Elam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "lui Elam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți regii lui Madai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "lui Madai"
+    }
+  ],
+  "timestamp": "2026-09-04T04:07:30.294702232Z",
+  "model": "glm-5.3"
+}

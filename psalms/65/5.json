@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Fericiți sunt cei pe care îi alegi și îi apropii ⟨pe tine⟩, să locuiască în curțile tale; ne săturăm de bunătatea casei tale, ⟨de⟩ sfântul tău templu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Fericiți"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "alegi"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "și apropie"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "să locuiască"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "curțile tale"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "ne săturăm"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "de bunătatea"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "casei tale"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "templului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:08.213394367Z",
+  "model": "glm-5.3"
+}

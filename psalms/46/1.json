@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Către dirijor, al fiilor lui Korah, pe glasuri de femei, o cântare",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "al fiilor"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "lui Korah"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "glasuri de femei"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "o cântare"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:26.820927012Z",
+  "model": "glm-5.3"
+}

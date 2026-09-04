@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Întoarce-mi bucuria izbăvirii tale și cu duh binevoitor sprijină-mă.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Întoarce"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "bucuria"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "a izbăvirii tale"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "și cu duh"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "binevoitor"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "sprijină-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:23.674810547Z",
+  "model": "glm-5.3"
+}

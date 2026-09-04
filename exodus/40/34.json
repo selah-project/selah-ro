@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a acoperit norul ⟨את⟩ Cortul Întâlnirii, și slava lui Yahve a umplut ⟨את⟩ Mișkanul.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "Și a acoperit"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "norul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cortul"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "și slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a umplut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mișkanul"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mișkanul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:45:42.342948621Z",
+  "model": "glm-5.3"
+}

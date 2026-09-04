@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și au venit toți bătrânii lui Israel, și au ridicat cohenii ⟨את⟩ chivotul.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Și au venit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "și au ridicat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "chivotul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:18:05.396668121Z",
+  "model": "glm-5.3"
+}

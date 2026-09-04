@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a trimis Izevel un sol către Eliiahu, zicând: Așa să facă dumnezeii și așa să mai adauge, că la vremea aceasta, mâine, îți voi pune ⟨את⟩ viața ta ca viața unuia dintre ei.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "un sol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliiahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "יעעשון",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "și așa"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "să mai adauge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "la vremea aceasta"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mâine"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "îți voi pune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața ta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "viața ta"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "ca viața"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unuia"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dintre ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:58.311062145Z",
+  "model": "glm-5.3"
+}

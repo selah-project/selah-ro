@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Chiar și Yahve va da ce este bun, și pământul nostru își va da rodul lui.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ce este bun"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "și pământul nostru"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "rodul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:14.950843412Z",
+  "model": "glm-5.3"
+}

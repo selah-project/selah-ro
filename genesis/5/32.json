@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și era Noach fiu de cinci sute de ani, și a născut Noach ⟨את⟩ Șem, ⟨את⟩ Cham și ⟨את⟩ Iefet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și era"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "de cinci"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Șem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Iefet"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:13.649971727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Șabat al odihnei depline ⟨este⟩ el pentru voi, și vă veți smeri ⟨את⟩ sufletele voastre — hotărâre veșnică.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Șabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "al odihnei depline"
+    },
+    {
+      "surface": "היא",
+      "gloss": "el ⟨este⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "și vă veți smeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletele voastre"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "sufletele voastre"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "hotărâre"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnică"
+    }
+  ],
+  "timestamp": "2026-09-04T06:48:39.728131849Z",
+  "model": "glm-5.3"
+}

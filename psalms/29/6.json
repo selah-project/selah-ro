@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "și îi face să sară ca pe un vițel — ⟨pe⟩ Liban, și Șirion ca un fiu de tauri sălbatici.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "și îi face să sară"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "vițel"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Liban"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "și Șirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "de tauri sălbatici"
+    }
+  ],
+  "timestamp": "2026-09-04T09:23:55.384711047Z",
+  "model": "glm-5.3"
+}

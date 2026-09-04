@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Iar numele celuilalt ⟨era⟩ Eliezer, căci Elohim al tatălui meu ⟨a fost⟩ în ajutorul meu și m-a scăpat de sabia lui Paro.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Iar numele"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "celuilalt"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatălui meu"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "în ajutorul meu"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "și m-a scăpat"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "de sabia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:14.871562901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Căci până și ca mărăcinii împletiți și, odată cu băutura lor, îmbătați — vor fi mâncați ca paiele uscate deplin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "mărăcinii"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "împletiți"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "și cu băutura lor"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "îmbătați"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "vor fi mâncați"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ca paiele"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "uscate"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "deplin"
+    }
+  ],
+  "timestamp": "2026-09-04T04:45:36.747785366Z",
+  "model": "glm-5.3"
+}

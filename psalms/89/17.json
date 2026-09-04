@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "În numele tău exultă toată ziua, și în dreptatea ta se înalță.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "în numele tău"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "exultă"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "și în dreptatea ta"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "se înalță"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:01.420556610Z",
+  "model": "glm-5.3"
+}

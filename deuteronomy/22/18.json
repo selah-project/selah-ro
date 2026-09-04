@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "și vor lua bătrânii orașului acela ⟨את⟩ omul și îl vor pedepsi ⟨את⟩ pe el.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "și vor lua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "orașului"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "și îl vor pedepsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:24.796875483Z",
+  "model": "glm-5.3"
+}

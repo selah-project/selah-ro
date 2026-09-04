@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Domnul meu a întrebat ⟨את⟩ robii săi, zicând: Aveți tată sau frate?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Domnul meu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "a întrebat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robii săi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "robii săi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Aveți"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨voi⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tată"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אח",
+      "gloss": "frate"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:22.148927582Z",
+  "model": "glm-5.3"
+}

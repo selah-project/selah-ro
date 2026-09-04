@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a venit regele din Damesc, și a văzut regele ⟨את⟩ altarul, și s-a apropiat regele de altar, și a adus ⟨ofrandă⟩ pe el.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "din Damesc"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "și s-a apropiat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și a adus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:38.832363331Z",
+  "model": "glm-5.3"
+}

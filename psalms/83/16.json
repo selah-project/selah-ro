@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Așa urmărește-i cu vijelia ta și cu furtuna ta înspăimântă-i.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "urmărește-i"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "cu vijelia ta"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "și cu furtuna ta"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "înspăimântă-i"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:41.384515776Z",
+  "model": "glm-5.3"
+}

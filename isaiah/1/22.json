@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Argintul tău a ajuns zgură, vinul tău amestecat cu apă.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "Argintul tău"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a ajuns"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "zgură"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "vinul tău"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "amestecat"
+    },
+    {
+      "surface": "במים",
+      "gloss": "cu apă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:23:39.418964570Z",
+  "model": "glm-5.3"
+}

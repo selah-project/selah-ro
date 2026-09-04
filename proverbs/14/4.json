@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Fără boi, ieslea ⟨este⟩ curată, și rod mult ⟨vine⟩ prin puterea taurului.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Fără"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "boi"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ieslea"
+    },
+    {
+      "surface": "בר",
+      "gloss": "curată"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "și mult"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "rod"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "prin puterea"
+    },
+    {
+      "surface": "שור",
+      "gloss": "taurului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:56.822817582Z",
+  "model": "glm-5.3"
+}

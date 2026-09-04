@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a spus Eliyahu către tot poporul: Apropiați-vă de mine! Și s-a apropiat tot poporul de el, și a dres altarul lui Yahve, cel dărâmat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "către tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Apropiați-vă"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Și s-a apropiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "și a dres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul lui Yahve"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "cel dărâmat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:28.425960362Z",
+  "model": "glm-5.3"
+}

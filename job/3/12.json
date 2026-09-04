@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "De ce m-au întâmpinat genunchi și sâni, ca să sug?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "m-au întâmpinat"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "genunchi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "și ⟨de ce⟩"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "sâni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ca"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "să sug"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:32.038143723Z",
+  "model": "glm-5.3"
+}

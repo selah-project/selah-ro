@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Idolii neamurilor ⟨sunt⟩ argint și aur, lucrare a mâinilor omului.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Idolii"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "și aur"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrare"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "a mâinilor"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:58.664095929Z",
+  "model": "glm-5.3"
+}

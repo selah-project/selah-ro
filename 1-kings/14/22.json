@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a făcut Yahuda răul în ochii lui Yahve, și au stârnit gelozia ⟨את⟩ lui mai mult decât tot ce au făcut părinții lor, prin păcatele lor pe care le-au săvârșit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "și au stârnit gelozia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mai mult decât tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "părinții lor"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "prin păcatele lor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "le-au săvârșit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:17:37.230729972Z",
+  "model": "glm-5.3"
+}

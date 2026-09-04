@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "De ce îți retragi mâna, și dreapta ta, din mijlocul sânului tău? Nimicește ⟨i-i⟩!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "îți retragi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "și dreapta ta"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "din mijlocul"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "sânului tău"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "Nimicește ⟨i-i⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:24.236814114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Iată, izvorăsc cu gura lor săbii, pe buzele lor — căci cine aude?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "izvorăsc"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "cu gura lor"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "săbii"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "pe buzele lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aude"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:31.074430328Z",
+  "model": "glm-5.3"
+}

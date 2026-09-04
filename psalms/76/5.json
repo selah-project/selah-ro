@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "Strălucitor ești tu, măreț, decât munții prăzii.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Strălucitor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "măreț"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "decât munții"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "prăzii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:30.719472075Z",
+  "model": "glm-5.3"
+}

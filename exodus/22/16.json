@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "De va voi-refuza să refuze tatăl ei s-o dea lui, argint să cântărească, după dota fecioarelor.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "De"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "voi-refuza"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "să refuze"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "tatăl ei"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "s-o dea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "să cântărească"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "după dota"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "fecioarelor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:50.557369472Z",
+  "model": "glm-5.3"
+}

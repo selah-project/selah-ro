@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "A făcut ⟨את⟩ curtea, spre latura de miazăzi, spre sud: perdelele curții ⟨erau⟩ din in răsucit, o sută de coți.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "curtea"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curtea"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "spre latura"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "de miazăzi"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "spre sud"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "perdelele"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curții"
+    },
+    {
+      "surface": "שש",
+      "gloss": "din in"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "răsucit"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "o sută"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "de coți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:45:51.631465813Z",
+  "model": "glm-5.3"
+}

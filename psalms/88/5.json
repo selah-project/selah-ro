@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Am fost numărat printre cei ce coboară în groapă, am fost ca un bărbat fără vlagă.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "am fost numărat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "printre"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "cei ce coboară"
+    },
+    {
+      "surface": "בור",
+      "gloss": "în groapă"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "ca un bărbat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "fără"
+    },
+    {
+      "surface": "איל",
+      "gloss": "vlagă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:05.804124236Z",
+  "model": "glm-5.3"
+}

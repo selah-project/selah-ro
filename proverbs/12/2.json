@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Cel bun scoate favoare de la Yahve, dar pe omul de uneltiri ⟨El⟩ îl va osândi.",
+  "tokens": [
+    {
+      "surface": "ט֗וֹב",
+      "gloss": "cel bun"
+    },
+    {
+      "surface": "יָפִ֣יק",
+      "gloss": "scoate"
+    },
+    {
+      "surface": "רָ֭צוֹן",
+      "gloss": "favoare"
+    },
+    {
+      "surface": "מֵיְהוָ֑ה",
+      "gloss": "de la Yahve"
+    },
+    {
+      "surface": "וְאִ֖ישׁ",
+      "gloss": "dar omul"
+    },
+    {
+      "surface": "מְזִמּ֣וֹת",
+      "gloss": "de uneltiri"
+    },
+    {
+      "surface": "יַרְשִֽׁיעַ",
+      "gloss": "va osândi"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:03.849215211Z",
+  "model": "glm-5.3"
+}

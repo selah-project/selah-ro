@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Prindeți-ne vulpile, vulpile mici, care strică viile, căci viile noastre sunt în floare!",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "prindeți"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-ne"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "vulpile"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "vulpile"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "mici"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "care strică"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "viile"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "căci viile noastre"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "sunt în floare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:42.632818491Z",
+  "model": "glm-5.3"
+}

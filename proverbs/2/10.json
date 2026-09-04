@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci va intra înțelepciunea în inima ta, iar cunoașterea va fi plăcută sufletului tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "va intra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "în inima ta"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "iar cunoașterea"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "sufletului tău"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "va fi plăcută"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:44.193035426Z",
+  "model": "glm-5.3"
+}

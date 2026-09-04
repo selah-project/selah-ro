@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 137,
+  "translation": "Fiică a Babilonului, cea jefuită! Ferice de cel ce îți va răsplăti ⟨את⟩ răsplata ta, cum ne-ai făcut nouă!",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Fiică"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "a Babilonului"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "cea jefuită"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice de"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "cel ce îți va răsplăti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "răsplata ta"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "răsplata ta"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "cum ai făcut"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:17.775288385Z",
+  "model": "glm-5.3"
+}

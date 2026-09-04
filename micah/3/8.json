@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Însă eu sunt plin de putere, ⟨את⟩ ruah Yahve, și de judecată și de vitejie, ca să vestesc lui Iaacov răzvrătirea lui și lui Israel păcatul lui.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Însă"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "sunt plin"
+    },
+    {
+      "surface": "כח",
+      "gloss": "de putere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah Yahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și de judecată"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "și de vitejie"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ca să vestesc"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "răzvrătirea lui"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "și lui Israel"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "păcatul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:43.468280035Z",
+  "model": "glm-5.3"
+}

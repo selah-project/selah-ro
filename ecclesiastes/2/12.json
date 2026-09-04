@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și m-am întors eu să privesc înțelepciunea și nebunia și prostia — căci ce ⟨este⟩ omul care va veni după rege, ⟨את⟩ acela care de mult i s-a făcut?",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Și m-am întors"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să privesc"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "și nebunia"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "și prostia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "care va veni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "de mult"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "i s-a făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:01.494562454Z",
+  "model": "glm-5.3"
+}

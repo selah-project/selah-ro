@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Binecuvântat ⟨este⟩ Yahve, Elohim al lui Israel, de la veșnicie și până la veșnicie. Amin și amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "de la veșnicie"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "veșnicie"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "și amin"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:37.826149240Z",
+  "model": "glm-5.3"
+}

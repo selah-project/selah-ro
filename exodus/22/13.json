@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și dacă cere un om ⟨ceva⟩ de la aproapele său și se frânge sau moare — stăpânul său nefiind cu el — negreșit va plăti despăgubire.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "cere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapele său"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "și se frânge"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "מת",
+      "gloss": "moare"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "stăpânul său"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nefiind"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "negreșit despăgubire"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va plăti"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:17.818646992Z",
+  "model": "glm-5.3"
+}

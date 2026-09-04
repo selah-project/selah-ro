@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "tot așa M-am întors și am hotărât în zilele acestea să fac bine ⟨את⟩ Ierușalaimului și ⟨את⟩ casei lui Iehuda: nu vă temeți!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "tot așa"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "M-am întors"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "am hotărât"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "să fac bine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaimului"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casei lui Iehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vă temeți"
+    }
+  ],
+  "timestamp": "2026-09-04T04:49:58.331237815Z",
+  "model": "glm-5.3"
+}

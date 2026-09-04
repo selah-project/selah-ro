@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Îndură-Te de mine, Yahve, căci strâmtorat sunt; s-a stins de amărăciune ochiul meu, sufletul meu și trupul meu.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Îndură-Te de mine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "צר",
+      "gloss": "strâmtorat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "s-a stins"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "de amărăciune"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochiul meu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "și trupul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:34.804303238Z",
+  "model": "glm-5.3"
+}

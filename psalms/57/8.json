@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Gata ⟨este⟩ inima mea, Elohim, gata ⟨este⟩ inima mea; voi cânta și voi cânta cu laude.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "și voi cânta cu laude"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:09.061597344Z",
+  "model": "glm-5.3"
+}

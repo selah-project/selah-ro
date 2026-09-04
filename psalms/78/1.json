@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Maskil al lui Asaf. Dați ascultare, poporul meu, Torei mele; plecați urechile voastre la cuvintele gurii mele.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "al lui Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Dați ascultare"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torei mele"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "plecați"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "urechile voastre"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "la cuvintele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gurii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:59.857623894Z",
+  "model": "glm-5.3"
+}

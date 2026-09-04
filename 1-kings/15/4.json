@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Căci de dragul lui David a dat Yahve, Elohim al său, lui o lampă în Ierușalaim, ca să ridice ⟨את⟩ fiul lui după el și ca să întărească ⟨את⟩ Ierușalaimul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "למען",
+      "gloss": "de dragul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim al său"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "o lampă"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "în Ierușalaim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ca să ridice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul lui"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "și ca să întărească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaimul"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:37.837245060Z",
+  "model": "glm-5.3"
+}

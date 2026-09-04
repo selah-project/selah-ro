@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a spus Yahve către Iehoșua: Nu te teme de ei, căci în mâna ta i-am dat; nu va sta un om dintre ei înaintea ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "i-am dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "va sta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dintre ei"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "înaintea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:20:34.697505673Z",
+  "model": "glm-5.3"
+}

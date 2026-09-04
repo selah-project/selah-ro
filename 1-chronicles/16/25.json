@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Căci mare ⟨este⟩ Yahve și vrednic de laudă foarte, și înfricoșător ⟨este⟩ el peste toți dumnezeii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "și vrednic de laudă"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "și înfricoșător"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezeii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:10:40.523938881Z",
+  "model": "glm-5.3"
+}

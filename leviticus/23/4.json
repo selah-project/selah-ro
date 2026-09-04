@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Acestea sunt sărbătorile hotărâte ale lui Yahve, adunări sfinte, pe care le veți chema ⟨את⟩ la vremea lor hotărată.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Acestea"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "sărbătorile hotărâte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "adunări"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfinte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "le veți chema"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "la vremea lor hotărată"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "la vremea lor hotărată"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:09.901067078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și va jupui ⟨את⟩ arderea-de-tot și o va tăia ⟨את⟩ în bucățile ei.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "Și va jupui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea-de-tot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea-de-tot"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "și o va tăia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ o"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "în bucățile ei"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:32.644662921Z",
+  "model": "glm-5.3"
+}

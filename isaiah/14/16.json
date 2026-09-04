@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Cei ce te văc se uită la tine, la tine își îndreaptă gândul: „Acesta este omul care a zguduit pământul, care a cutremurat împărățiile?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Cei ce te văc"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "se uită"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "își îndreaptă gândul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Acesta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "este omul"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "care a zguduit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "care a cutremurat"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "împărățiile"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:11.065830518Z",
+  "model": "glm-5.3"
+}

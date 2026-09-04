@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Prin tine îi împungem pe vrăjmașii noștri; în numele tău călcăm în picioare pe cei ce se ridică împotriva noastră.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "prin tine"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "vrăjmașii noștri"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "îi împungem"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "în numele tău"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "călcăm în picioare"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "pe cei ce se ridică împotriva noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:35.741549266Z",
+  "model": "glm-5.3"
+}

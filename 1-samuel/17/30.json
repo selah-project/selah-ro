@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "S-a întors de lângă el către ⟨cel aflat în fața⟩ altuia și a vorbit după cuvântul acesta, și i-au răspuns oamenii un cuvânt, ca după cuvântul cel dintâi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "S-a întors"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "de lângă el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מול",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altuia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a vorbit"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "și i-au răspuns"
+    },
+    {
+      "surface": "העם",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ca după cuvântul"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "cel dintâi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:10:01.867665347Z",
+  "model": "glm-5.3"
+}

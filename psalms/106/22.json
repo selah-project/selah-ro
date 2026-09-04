@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "minuni în țara lui Ham, fapte înfricoșătoare la marea Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "minuni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "חם",
+      "gloss": "lui Ham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "fapte înfricoșătoare"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:50.632282066Z",
+  "model": "glm-5.3"
+}

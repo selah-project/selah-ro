@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Căci înainte ca să cunoască copilul să zică „tatăl meu” și „mama mea”, va ridica ⟨את⟩ avutul lui Damesec și ⟨את⟩ prada lui Șomron, înaintea regelui Așur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "înainte ca"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "să cunoască"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "să zică"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "și mama mea"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va ridica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avutul lui Damesec"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "avutul"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "lui Damesec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "prada lui Șomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "prada"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "lui Șomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:11.322079861Z",
+  "model": "glm-5.3"
+}

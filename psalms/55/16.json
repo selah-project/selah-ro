@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Pustiiri asupra lor! Să coboare de vii în Șeol, căci rele sunt în locuința lor, în mijlocul lor.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Pustiiri"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "asupra lor"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "Să coboare"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "în Șeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "de vii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "rele"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "în locuința lor"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "în mijlocul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:34.767181835Z",
+  "model": "glm-5.3"
+}

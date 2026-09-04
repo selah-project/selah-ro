@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Se ia din el lemn ca să se facă vreo lucrare? Sau iau ⟨ei⟩ din el un țăruș ca să atârne pe el vreun vas?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "Se ia?"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lemn"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ca să se facă"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "vreo lucrare"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Sau"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "iau"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "un țăruș"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "ca să atârne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vreun"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vas"
+    }
+  ],
+  "timestamp": "2026-09-04T04:23:14.455390718Z",
+  "model": "glm-5.3"
+}

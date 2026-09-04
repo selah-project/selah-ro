@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Nelegiuirea o urzește el pe patul lui; se așază pe un drum nu bun; răul nu-l disprețuiește.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "urzește"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "patul lui"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "se așază"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "drum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "disprețuiește"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:01.693054949Z",
+  "model": "glm-5.3"
+}

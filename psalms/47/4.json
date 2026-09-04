@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Va supune popoarele sub noi și națiunile sub picioarele noastre.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Va supune"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "sub noi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "și națiunile"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "picioarele noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:42.133239470Z",
+  "model": "glm-5.3"
+}

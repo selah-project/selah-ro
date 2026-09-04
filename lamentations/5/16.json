@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "A căzut coroana capului nostru — vai, acum ⟨pentru⟩ noi, căci am păcătuit!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "a căzut"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "coroana"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "capului nostru"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "vai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "acum"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "am păcătuit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:11:10.312475028Z",
+  "model": "glm-5.3"
+}

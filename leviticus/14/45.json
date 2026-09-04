@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va dărâma ⟨את⟩ casa, ⟨את⟩ pietrele ei și ⟨את⟩ lemnele ei, și ⟨את⟩ tot praful casei, și va scoate afară, în afara cetății, la un loc necurat.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "Și va dărâma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pietrele ei"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "pietrele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lemnele ei"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "lemnele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot praful casei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praful"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "și va scoate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "afara cetății"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un loc"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:58.740231351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Căci un om, orice om care blesteamă ⟨את⟩ pe tatăl său și ⟨את⟩ pe mama sa, moarte să fie omorât; pe tatăl său și pe mama sa i-a blestemat: sângele lui ⟨este⟩ asupra lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oricare om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "blesteamă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tatăl său"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "pe tatăl său"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe mama sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "pe mama sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "să fie omorât"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "pe tatăl său"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "și pe mama sa"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "i-a blestemat"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "asupra lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:20.959567346Z",
+  "model": "glm-5.3"
+}

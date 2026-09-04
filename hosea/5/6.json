@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Cu oile lor și cu boii lor vor merge să caute ⟨את⟩ pe Yahve, dar nu-l vor găsi; s-a retras de la ei.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "cu oile lor"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "și cu boii lor"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vor merge"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "să caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "vor găsi"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "s-a retras"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de la ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:54.938060181Z",
+  "model": "glm-5.3"
+}

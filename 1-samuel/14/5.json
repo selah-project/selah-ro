@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Pintenul unuia ⟨era⟩ mal stâncos la miazănoapte, în fața lui Mițmaș, iar celălalt la miazăzi, în fața lui Geva.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "Pintenul"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unuia"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "mal stâncos"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "la miazănoapte"
+    },
+    {
+      "surface": "מול",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "lui Mițmaș"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "iar celălalt"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "la miazăzi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "lui Geva"
+    }
+  ],
+  "timestamp": "2026-09-04T02:44:06.242678697Z",
+  "model": "glm-5.3"
+}

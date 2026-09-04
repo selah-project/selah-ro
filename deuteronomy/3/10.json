@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "toate orașele câmpiei, și tot Gileadul, și tot Bașanul, până la Salha și Edrei — orașele împărăției lui Og în Bașan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "orașele"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "câmpiei"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bașanul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "și Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "orașele"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "împărăției"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "lui Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "în Bașan"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:27.355249063Z",
+  "model": "glm-5.3"
+}

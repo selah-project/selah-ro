@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Mizmor, cântec pentru initierea casei, al lui David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cântec"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "pentru initierea"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:18.571300832Z",
+  "model": "glm-5.3"
+}

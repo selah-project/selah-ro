@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a pus Moșe ⟨את⟩ mâțăturile înaintea lui Yahve, în cortul mărturiei.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâțăturile"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "mâțăturile"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "în cortul"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mărturiei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:49:17.720309743Z",
+  "model": "glm-5.3"
+}

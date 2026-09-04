@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a spus David către tânărul care-i vestea lui: De unde ești tu? Și el a spus: Fiu al unui om ger (străin), amalecit, sunt eu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tânărul"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "care vestea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אי",
+      "gloss": "de"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "unde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "al unui om"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ger (străin)"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amalecit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt eu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:13:39.046635411Z",
+  "model": "glm-5.3"
+}

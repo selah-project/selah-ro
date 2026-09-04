@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a ridicat Bilam ⟨את⟩ ochii lui și a văzut ⟨את⟩ Israel așezat după semințiile lui, și a fost peste el duhul lui Elohim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Și a ridicat"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii lui"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochii lui"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "așezat"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "după semințiile lui"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:53:17.336950028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Păzește-mă ca pe lumina ochiului, fiica ochiului; la umbra aripilor tale mă vei ascunde.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Păzește-mă"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "ca pe lumina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochiului"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "la umbra"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "aripilor tale"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "mă vei ascunde"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:55.642214967Z",
+  "model": "glm-5.3"
+}

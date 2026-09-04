@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și ⟨את⟩ Patrusim și ⟨את⟩ Kasluhim, dintre care au ieșit de acolo Filiștii, și ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Kasluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dintre care"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "au ieșit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filiștii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:34.647167997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Să nu zică în inima lor: „Hea, dorința noastră!” — să nu zică: „L-am înghițit!”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zică"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "în inima lor"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "dorința noastră"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zică"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "l-am înghițit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:11.144280513Z",
+  "model": "glm-5.3"
+}

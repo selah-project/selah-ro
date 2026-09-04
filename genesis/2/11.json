@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Numele unuia ⟨este⟩ Pișon: el este cel care înconjoară ⟨את⟩ toată țara Havila, unde este aurul.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unuia"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pișon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "cel care înconjoară"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată țara Havila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "este"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "aurul"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:44.122395186Z",
+  "model": "glm-5.3"
+}

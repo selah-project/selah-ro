@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 131,
+  "translation": "Cântare a urcărilor, a lui David. Yahve, nu s-a semețit inima mea și nu s-au înălțat ochii mei, și nu am umblat în lucruri mari și în minuni ⟨peste⟩ mine.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a lui David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "s-a semețit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "s-au înălțat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "am umblat"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "în lucruri mari"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "și în minuni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨peste⟩ mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:27.583082359Z",
+  "model": "glm-5.3"
+}

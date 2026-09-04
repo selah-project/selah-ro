@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "S-au spaimântat, nu mai răspund — cuvintele s-au depărtat de la ei.",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "s-au spaimântat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "răspund"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "s-au depărtat"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de la ei"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "cuvintele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:34:16.523488019Z",
+  "model": "glm-5.3"
+}

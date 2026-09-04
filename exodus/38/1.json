@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a făcut ⟨את⟩ altarul arderii-de-tot din lemne de salcâm: cinci coți lungimea lui și cinci coți lățimea lui — pătrat — și trei coți înălțimea lui.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul arderii-de-tot"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-de-tot"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "din lemne"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "de salcâm"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coți"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lungimea lui"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "și cinci"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coți"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lățimea lui"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pătrat"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "și trei"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coți"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "înălțimea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:15.249596976Z",
+  "model": "glm-5.3"
+}

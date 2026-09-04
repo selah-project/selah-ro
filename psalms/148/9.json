@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Munții și toate dealurile, pomii cu rod și toți cedrii.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Munții"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toate"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dealurile"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pomii"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "cu rod"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toți"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:40.488043268Z",
+  "model": "glm-5.3"
+}

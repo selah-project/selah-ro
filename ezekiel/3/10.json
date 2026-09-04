@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și mi-a spus: fiul omului, ⟨את⟩ toate cuvintele mele pe care le voi grăi către tine ia în inima ta și cu urechile tale auzi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele mele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele mele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "voi grăi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ia"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "în inima ta"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "și cu urechile tale"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "auzi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:40:48.977786767Z",
+  "model": "glm-5.3"
+}

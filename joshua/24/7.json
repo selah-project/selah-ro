@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 24:7",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și au strigat către Yahve, și ⟨el⟩ a pus întuneric între voi și între mițriți, și a adus ⟨את⟩ marea peste ei și i-a acoperit, și au văzut ochii voștri ⟨את⟩ ceea ce am făcut în Mițraim, și ați locuit în pustie zile multe.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Și au strigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "מאפל",
+      "gloss": "întuneric"
+    },
+    {
+      "surface": "ביניכם",
+      "gloss": "între voi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mițriți"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a adus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "și i-a acoperit"
+    },
+    {
+      "surface": "ותראינה",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ochii voștri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce am făcut în Mițraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "și ați locuit"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:39.393084190Z",
+  "model": "glm-5.3"
+}

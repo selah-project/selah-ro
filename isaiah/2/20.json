@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "În ziua aceea va arunca omul ⟨את⟩ idolii lui de argint și ⟨את⟩ idolii lui de aur, pe care i-au făcut lui ca să se închine, cârtițelor și liliecilor.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "va arunca"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolii lui de argint"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "idolii"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "lui de argint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "idolii lui de aur"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "idolii"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "lui de aur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ca să se închine"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "cârtițelor"
+    },
+    {
+      "surface": "פרות",
+      "gloss": ""
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "și liliecilor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:24:32.840625168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Iată, eu pun ⟨את⟩ Ierușalaim pahar de amețeală pentru toate popoarele dimprejur; și chiar ⟨את⟩ Iehuda va fi în straja împotriva Ierușalaimului.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "סף",
+      "gloss": "pahar"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "de amețeală"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru toate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dimprejur"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "în strajă"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:03.420489539Z",
+  "model": "glm-5.3"
+}

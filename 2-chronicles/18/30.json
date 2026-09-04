@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Iar regele Aramului poruncise ⟨את⟩ căpeteniile carelor de luptă care erau cu el, zicând: „Să nu luptați cu ⟨את⟩ cel mic nici cu ⟨את⟩ cel mare, ci numai cu ⟨את⟩ regele lui Israel de unul singur.”",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Iar regele"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "căpeteniile carelor de luptă"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "carelor de luptă"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לו",
+      "gloss": "erau cu el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "luptați"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "cel mic"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "cel mic"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "cel mare"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "cel mare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "decât"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "regele lui Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "de unul singur"
+    }
+  ],
+  "timestamp": "2026-09-04T06:24:46.644213040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Canaanitul de la răsărit și de la apus, și Emoritul, și Hititul, și Perizitul, și Ievusitul în munte, și Hivitul sub Hermon, în țara Mițpa",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Canaanitul"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "de la răsărit"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "și de la apus"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "și Emoritul"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "și Hititul"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "și Perizitul"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "și Ievusitul"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în munte"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "și Hivitul"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mițpa"
+    }
+  ],
+  "timestamp": "2026-09-04T07:02:55.181608813Z",
+  "model": "glm-5.3"
+}

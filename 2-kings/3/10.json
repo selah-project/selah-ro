@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus regele Israelului: Vai! Căci a chemat Yahve ⟨את⟩ pe cei trei regilor aceștia, să-i dea în mâna Moavului.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Vai!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a chemat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "pe cei trei"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "regi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "să-i dea"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei — în mâna Moavului"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:23:30.070997202Z",
+  "model": "glm-5.3"
+}

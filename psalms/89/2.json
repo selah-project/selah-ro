@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Hesed-ul lui Yahve voi cânta pentru totdeauna; din neam în neam voi face cunoscută credincioșia ta cu gura mea.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed-ul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "voi face cunoscută"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "credincioșia ta"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "cu gura mea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:46.723364462Z",
+  "model": "glm-5.3"
+}

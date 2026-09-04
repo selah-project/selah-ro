@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Se sprijină pe casa lui și nu va sta în picioare; se agață de ea și nu se va ridica.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Se sprijină"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "va sta în picioare"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "se agață"
+    },
+    {
+      "surface": "בו",
+      "gloss": "de ea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se va ridica"
+    }
+  ],
+  "timestamp": "2026-09-04T08:06:31.821361512Z",
+  "model": "glm-5.3"
+}

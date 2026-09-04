@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Să numărăm drept zilele noastre — fă-ne să cunoaștem — și vom aduce inima la înțelepciune.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "Să numărăm"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "zilele noastre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "drept"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "fă-ne să cunoaștem"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "și vom aduce"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la înțelepciune"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:37.530566496Z",
+  "model": "glm-5.3"
+}

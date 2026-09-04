@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Când se înmulțesc cei răi, se înmulțește răzvrătirea, iar cei drepți vor privi prăbușirea lor.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Când se înmulțesc"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "se înmulțește"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "răzvrătirea"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "iar cei drepți"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "prăbușirea lor"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vor privi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:05.313175877Z",
+  "model": "glm-5.3"
+}

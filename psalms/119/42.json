@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "și voi răspunde un cuvânt celui ce mă ocărăște, căci m-am încrezut în cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "și voi răspunde"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "celui ce mă ocărăște"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m-am încrezut"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "în cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:53.797564894Z",
+  "model": "glm-5.3"
+}

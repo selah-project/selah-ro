@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Dacă sunt cuvinte, răspunde-mi; vorbește, căci doresc să te îndreptățesc.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יש",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "răspunde-mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbește"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "doresc"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "să te îndreptățesc"
+    }
+  ],
+  "timestamp": "2026-09-04T08:08:43.011067710Z",
+  "model": "glm-5.3"
+}

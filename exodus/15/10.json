@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Ai suflat cu vântul tău — i-a acoperit marea; s-au scufundat ca plumbul în apele cele puternice.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "ai suflat"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "cu vântul tău"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "i-a acoperit"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "s-au scufundat"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "ca plumbul"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în apele"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "cele puternice"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:55.377406386Z",
+  "model": "glm-5.3"
+}

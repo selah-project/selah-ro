@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a întins Moșe ⟨את⟩ mâna sa peste ceruri și a fost întuneric gros în tot pământul Mițraimului trei zile.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Și a întins"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întuneric"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "gros"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:19.053236329Z",
+  "model": "glm-5.3"
+}

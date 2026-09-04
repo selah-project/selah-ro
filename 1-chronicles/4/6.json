@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și Naara i-a născut ⟨את⟩ Ahuzam, și ⟨את⟩ Hefer, și ⟨את⟩ Temeni, și ⟨את⟩ Ahaștari; aceștia sunt fiii lui Naara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Și a născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Hefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Ahaștari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ahaștari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "lui Naara"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:06.594607117Z",
+  "model": "glm-5.3"
+}

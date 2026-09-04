@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "S-au ghebuit, s-au încovoiat împreună; nu au putut să scape povara — și sufletul lor a mers în robie.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "s-au ghebuit"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "s-au încovoiat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "au putut"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "să scape"
+    },
+    {
+      "surface": "משא",
+      "gloss": "povara"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "sufletul lor"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "în robie"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "a mers"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:44.201617315Z",
+  "model": "glm-5.3"
+}

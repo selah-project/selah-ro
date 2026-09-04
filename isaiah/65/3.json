@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Poporul care ⟨את⟩ mă întărâtă la mânie necontenit înaintea feței mele, care jertfesc în grădini și ard tămâie pe cărămizi.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "care mă întărâtă la mâine"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mă"
+    },
+    {
+      "surface": "על",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței mele"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "necontenit"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "jertfesc"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "în grădini"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "și ard tămâie"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "cărămizi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:57:23.654746665Z",
+  "model": "glm-5.3"
+}

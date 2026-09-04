@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 6:29",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și am fiert ⟨את⟩ fiul meu și l-am mâncat; și i-am zis în ziua următoare: Dă ⟨את⟩ fiul tău și să-l mâncăm; dar ea a ascuns ⟨את⟩ fiul ei.",
+  "tokens": [
+    {
+      "surface": "ונבשל",
+      "gloss": "și am fiert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul meu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "ונאכלהו",
+      "gloss": "și l-am mâncat"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "și am zis"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "către ea"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "următoare"
+    },
+    {
+      "surface": "תני",
+      "gloss": "dă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul tău"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiul tău"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "și să-l mâncăm"
+    },
+    {
+      "surface": "ותחבא",
+      "gloss": "și a ascuns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul ei"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:39.775954642Z",
+  "model": "glm-5.3"
+}

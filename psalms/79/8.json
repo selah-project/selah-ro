@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Nu-ți aminti nouă nelegiuirile cele dintâi; grăbește — să ne întâmpine îndurările tale, căci am sărăcit foarte.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "adu-ți aminte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "nelegiuirile"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "cele dintâi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "grăbește"
+    },
+    {
+      "surface": "יקדדמונו",
+      "gloss": "să ne întâmpine"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "îndurările tale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "am sărăcit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:04.583144185Z",
+  "model": "glm-5.3"
+}

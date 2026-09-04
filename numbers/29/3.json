@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și darul lor de mâncare: făină deasă frământată în untdelemn, trei zecimi pentru taur și două zecimi pentru berbec.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "Și darul lor de mâncare"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "făină deasă"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "frământată"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "în untdelemn"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "zecimi"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "pentru taur"
+    },
+    {
+      "surface": "שני",
+      "gloss": "două"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "zecimi"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "pentru berbec"
+    }
+  ],
+  "timestamp": "2026-09-04T01:54:48.331567695Z",
+  "model": "glm-5.3"
+}

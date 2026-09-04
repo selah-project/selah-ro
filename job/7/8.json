@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Nu mă va mai vedea ochiul celui ce mă vede; ochii tăi ⟨sunt⟩ asupra mea, și eu nu mai sunt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "mă va mai vedea"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochiul"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "celui ce mă vede"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ochii tăi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "și eu nu mai sunt"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:30.953536129Z",
+  "model": "glm-5.3"
+}

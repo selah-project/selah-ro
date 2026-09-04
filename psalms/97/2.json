@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Nor și întuneric adânc ⟨sunt⟩ în jurul lui; dreptatea și judecata ⟨sunt⟩ așezarea scaunului lui de domnie.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "nor"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "și întuneric adânc"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "în jurul lui"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și judecata"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "așezarea"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "a scaunului lui de domnie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:04.696333460Z",
+  "model": "glm-5.3"
+}

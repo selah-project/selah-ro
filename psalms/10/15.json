@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Rupe brațul celui rău și al nelegiuitului; caută-i nelegiuirea lui — nu se va mai găsi deloc.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Rupe"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "brațul"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "celui rău"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "și nelegiuitului"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "nelegiuirea lui"
+    },
+    {
+      "surface": "בל",
+      "gloss": "deloc"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nu se va mai găsi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:11.941441922Z",
+  "model": "glm-5.3"
+}

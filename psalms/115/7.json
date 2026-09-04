@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Mâinile lor — și nu pipăiesc; picioarele lor — și nu umblă; nu vorbesc ei în gitul lor.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "Mâinile lor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "pipăiesc"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "picioarele lor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "umblă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "vorbesc"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "în gitul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:10.729110652Z",
+  "model": "glm-5.3"
+}

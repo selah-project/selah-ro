@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a zidit Moșe un altar și a chemat numele lui Yahve-Nisi (Yahve stindardul meu).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Și a zidit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:44.567354352Z",
+  "model": "glm-5.3"
+}

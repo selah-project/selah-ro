@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Duhul lui Yahve a vorbit în mine, și cuvântul lui ⟨este⟩ pe limba mea.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Duhul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "și cuvântul lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "limba mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:06:41.674950328Z",
+  "model": "glm-5.3"
+}

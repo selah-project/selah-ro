@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și au zis ei: Minciună! Spune, te rugăm, ⟨nouă⟩! Și a spus el: Așa și așa a vorbit ⟨el⟩ către mine, zicând: Așa vorbește Yahve: Te-am uns ca rege peste Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "spune"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rugăm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨nouă⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "așa"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "și așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "vorbește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "te-am uns"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ca rege"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:28.381714852Z",
+  "model": "glm-5.3"
+}

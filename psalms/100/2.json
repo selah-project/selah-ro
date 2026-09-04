@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 100,
+  "translation": "Slujiți ⟨את⟩ Yahve cu bucurie; intrați înaintea lui cu cântare de laudă.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Slujiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "cu bucurie"
+    },
+    {
+      "surface": "באו",
+      "gloss": "intrați"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "cu cântare de laudă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:59.863820409Z",
+  "model": "glm-5.3"
+}

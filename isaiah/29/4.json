@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și smerită, din pământ vei grăi, și din praf îți va coborî cuvântul; și va fi ca un ob glasul tău din pământ, și din praf va șopti cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "Și smerită"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământ"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "vei grăi"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "și din praf"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "îți va coborî"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "ca un ob"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "glasul tău"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "și din praf"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "תצפצצף",
+      "gloss": "va șopti"
+    }
+  ],
+  "timestamp": "2026-09-04T03:45:10.775102424Z",
+  "model": "glm-5.3"
+}

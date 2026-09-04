@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Să-l laude cerurile și pământul, mările și tot ce se târăște în ele.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "să-l laude"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "și pământul"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mările"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ce se târăște"
+    },
+    {
+      "surface": "בם",
+      "gloss": "în ele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:16.529969954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Iar tu vei îndepărta sângele nevinovat din mijlocul tău, când vei face ce este drept în ochii lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "vei îndepărta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "din mijlocul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ce este drept"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:59:51.492990591Z",
+  "model": "glm-5.3"
+}

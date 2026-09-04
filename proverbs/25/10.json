@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "ca nu cumva cel ce aude să te facă de rușine, și bârfa ta să nu se mai întoarcă.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "să te facă de rușine"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "cel ce aude"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "și bârfa ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "să se mai întoarcă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:46.068311256Z",
+  "model": "glm-5.3"
+}

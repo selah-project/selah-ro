@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Nu este amintire celor dinainte, și nici celor de după aceea, care vor fi, nu le va fi amintire cu cei care vor fi la urmă.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nu este"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "amintire"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "celor dinainte"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și nici"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "celor de după aceea"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "care vor fi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "amintire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "cei care vor fi"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "la urmă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:26.369782323Z",
+  "model": "glm-5.3"
+}

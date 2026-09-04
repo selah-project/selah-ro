@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și ți-am spus: trimite ⟨את⟩ fiul meu, ca să mă slujească, iar tu ai refuzat să-l trimiți; iată, eu voi ucide ⟨את⟩ fiul tău, întâiul tău născut.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și ți-am spus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "trimite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul meu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ca să mă slujească"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "iar tu ai refuzat"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "să-l trimiti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "voi ucide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul tău"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiul tău"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "întâiul tău născut"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:51.915647261Z",
+  "model": "glm-5.3"
+}

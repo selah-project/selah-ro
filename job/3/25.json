@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Căci de o spaimă m-am înspăimântat, și a venit asupra mea, și ce m-am temut vine la mine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "de o spaimă"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "m-am înspăimântat"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "și a venit asupra mea"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și ce"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "m-am temut"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:27.652646914Z",
+  "model": "glm-5.3"
+}

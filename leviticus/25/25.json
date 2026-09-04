@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Dacă sărăcește fratele tău și vinde din moștenirea lui, și vine răscumpărătorul lui — rudeniul cel apropiat lui — și răscumpără ⟨את⟩ vânzarea fratelui său,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "sărăcește"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "și vinde"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "din moștenirea lui"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "și vine"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "răscumpărătorul lui"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "rudeniul cel apropiat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "și răscumpără"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vânzarea"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "vânzarea"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratelui său"
+    }
+  ],
+  "timestamp": "2026-09-04T06:49:48.068979774Z",
+  "model": "glm-5.3"
+}

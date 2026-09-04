@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Înaintea lui vor îngenunchea cei din pustiu, și dușmanii lui praful vor linge.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "Înaintea lui"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "vor îngenunchea"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "cei din pustiu"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "și dușmanii lui"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praful"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "vor linge"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:14.292602102Z",
+  "model": "glm-5.3"
+}

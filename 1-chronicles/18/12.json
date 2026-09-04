@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și Avșai, fiul Țeruei, a lovit ⟨את⟩ Edom în Valea Sării — optsprezece mii.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Și Avșai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Țeruei"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "în Valea"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Sării"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "opt"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:04.015415539Z",
+  "model": "glm-5.3"
+}

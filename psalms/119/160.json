@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Capul cuvântului tău este adevărul, și pentru totdeauna fiecare hotărâre a dreptății tale.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Capul"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "cuvântului tău"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "este adevărul"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "și pentru totdeauna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hotărâre"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "a dreptății tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:02.437074242Z",
+  "model": "glm-5.3"
+}

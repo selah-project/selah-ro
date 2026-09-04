@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Numai carnea cu nefesul ei — sângele ei — să nu mâncați.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "cu nefesul ei"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:59.528697113Z",
+  "model": "glm-5.3"
+}

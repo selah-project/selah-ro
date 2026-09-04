@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Să vorbești cu el și să pui ⟨את⟩ cuvintele în gura lui, iar Eu voi fi cu gura ta și cu gura lui, și vă voi învăța ⟨את⟩ pe voi ⟨את⟩ ce veți face.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "să vorbești"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "în gura lui"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "iar Eu"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "voi fi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gura ta"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "gura lui"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "și vă voi învăța"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce veți face"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "veți face"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:16.589469066Z",
+  "model": "glm-5.3"
+}

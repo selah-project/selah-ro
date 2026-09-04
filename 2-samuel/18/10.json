@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a văzut un om oarecare și a vestit lui Ioav, și a zis: Iată, l-am văzut ⟨את⟩ pe Avșalom atârnat de terebint.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oarecare"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "și a vestit"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "lui Ioav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Avșalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "pe Avșalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "atârnat"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "de terebint"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:04.173300980Z",
+  "model": "glm-5.3"
+}

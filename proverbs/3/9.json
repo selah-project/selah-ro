@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Cinstește ⟨את⟩ Yahve din avuția ta și din cele dintâi ale întregii tale roade.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Cinstește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "din avuția ta"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "și din cele dintâi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ale întregii"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "tale roade"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:59.314124571Z",
+  "model": "glm-5.3"
+}

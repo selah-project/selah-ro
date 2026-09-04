@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Iar tatăl vostru s-a jucat cu mine și a schimbat ⟨את⟩ simbria mea de zece ori, și nu a îngăduit Elohim să facă rău cu mine.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Iar tatăl vostru"
+    },
+    {
+      "surface": "התל",
+      "gloss": "s-a jucat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "și a schimbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simbria mea"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "simbria mea"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "de zece"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "ori"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "a îngăduit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "să facă rău"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:48.365995552Z",
+  "model": "glm-5.3"
+}

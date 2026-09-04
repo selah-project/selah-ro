@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Să nu clevtești un slujitor ⟨pe⟩ lângă stăpânul său, ca nu cumva să te blesteme și să porți vina.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "clevtești"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "un slujitor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "stăpânul său"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "să te blesteme"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "și să porți vina"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:44.938285917Z",
+  "model": "glm-5.3"
+}

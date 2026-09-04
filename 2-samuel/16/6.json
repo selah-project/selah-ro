@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "și a aruncat cu pietre în David și ⟨את⟩ pe toți slugile regelui David; și tot poporul și toți vitejii ⟨erau⟩ la dreapta lui și la stânga lui.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "și a aruncat"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "cu pietre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți slugile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toți"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "vitejii"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "la dreapta lui"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "și la stânga lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:01:42.849563502Z",
+  "model": "glm-5.3"
+}

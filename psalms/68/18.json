@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Carele lui Elohim sunt douăzeci de mii, mii peste mii; Adonai ⟨este⟩ în mijlocul lor, ca ⟨la⟩ Sinai, în ⟨locul⟩ sfânt.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "carele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "sunt douăzeci de mii"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mii peste mii"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "⟨de îngeri⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "în mijlocul lor"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ca ⟨la⟩ Sinai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "în ⟨locul⟩ sfânt"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:00.318571073Z",
+  "model": "glm-5.3"
+}

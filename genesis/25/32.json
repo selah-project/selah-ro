@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a zis Esav: «Iată, eu merg să mor, și la ce îmi este mie acest drept de întâi-născut?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "merg"
+    },
+    {
+      "surface": "למות",
+      "gloss": "să mor"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "și la ce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acest"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi este mie"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "drept de întâi-născut"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:00.053825638Z",
+  "model": "glm-5.3"
+}

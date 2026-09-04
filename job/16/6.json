@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Dacă vorbesc, durerea mea nu se stăpânește; și dacă mă opresc — ce se duce de la mine?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "vorbesc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "se stăpânește"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "durerea mea"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "și mă opresc"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "se duce"
+    }
+  ],
+  "timestamp": "2026-09-04T05:30:47.282813635Z",
+  "model": "glm-5.3"
+}

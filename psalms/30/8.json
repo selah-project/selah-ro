@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Yahve, în bunăvoința ta ai făcut ⟨să stea⟩ muntele meu ⟨ca⟩ întăritură; ți-ai ascuns fața — am fost înspăimântat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "în bunăvoința ta"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ai făcut ⟨să stea⟩"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "muntelui meu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "înăritură"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "ai ascuns"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "înspăimântat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:57.561068403Z",
+  "model": "glm-5.3"
+}

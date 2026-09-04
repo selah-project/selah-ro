@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și să nu pângărească sămânța lui în poporul lui, căci eu sunt Yahve, care îl sfințesc.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și să nu"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "pângărească"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sămânța lui"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "în poporul lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "care îl sfințesc"
+    }
+  ],
+  "timestamp": "2026-09-04T06:49:47.261369249Z",
+  "model": "glm-5.3"
+}

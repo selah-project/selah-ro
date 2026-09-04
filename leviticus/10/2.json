@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a ieșit foc dinaintea lui Yahve și i-a mistuit ⟨את⟩ lor, și au murit înaintea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dinaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "și i-a mistuit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ lor",
+      "marks": "pe Nadab și Avihu — pe Nadav și Avihu"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "și au murit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:10.514722277Z",
+  "model": "glm-5.3"
+}

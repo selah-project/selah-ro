@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 43:22",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și în ziua a doua vei aduce aproape un țap din capre, fără meteahnă, pentru păcat, și vor curăți ⟨את⟩ altarul, cum au curățit cu taurul.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Și în ziua"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a doua"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "vei aduce aproape"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "un țap"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "din capre"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fără meteahnă"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pentru păcat"
+    },
+    {
+      "surface": "וחטאו",
+      "gloss": "și vor curăți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "au curățit"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "cu taurul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:35:33.541389121Z",
+  "model": "glm-5.3"
+}

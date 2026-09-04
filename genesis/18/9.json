@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și au zis către el: Unde ⟨este⟩ Sara, femeia ta? Iar el a zis: Iată, în cort.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "איה",
+      "gloss": "unde"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "femeia ta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "iar el a zis"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "în cort"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:53.579406388Z",
+  "model": "glm-5.3"
+}

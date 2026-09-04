@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Înaintea lui s-a cutremurat pământul, s-au cutremurat cerurile; soarele și luna s-au întunecat, și stelele și-au strâns lumina lor.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "Înaintea lui"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "s-a cutremurat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "s-au cutremurat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "și luna"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "s-au întunecat"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "și stelele"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "și-au strâns"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "lumina lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:00.177764505Z",
+  "model": "glm-5.3"
+}

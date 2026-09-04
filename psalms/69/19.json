@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Apropie-te de sufletul meu, scapă-l; din pricina vrăjmașilor mei izbăvește-mă.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Apropie-te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "scapă-l (răscumpără-l)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vrăjmașilor mei"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "izbăvește-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:26.175280499Z",
+  "model": "glm-5.3"
+}

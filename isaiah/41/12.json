@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Îi vei căuta și nu îi vei găsi: oamenii gâlcevilor tale vor fi ca ⟨și cum nu ar fi⟩ și ca un nimic oamenii războiului tău.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "îi vei căuta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "îi vei găsi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "gâlcevilor tale"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ca ⟨și cum nu ar fi⟩"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "și ca un nimic"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "războiului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:12.917257471Z",
+  "model": "glm-5.3"
+}

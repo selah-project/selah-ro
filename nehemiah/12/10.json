@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "și Ieșua a născut ⟨את⟩ Ioiakim, și Ioiakim a născut ⟨את⟩ Eliașiv, și Eliașiv ⟨את⟩ Ioiada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "și Ieșua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioiakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Ioiakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "și Ioiakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliașiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eliașiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "și Eliașiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioiada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Ioiada"
+    }
+  ],
+  "timestamp": "2026-09-04T06:03:28.285443520Z",
+  "model": "glm-5.3"
+}

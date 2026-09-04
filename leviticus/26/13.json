@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Eu ⟨sunt⟩ Yahve, Elohim al vostru, care v-am scos ⟨את⟩ pe voi din pământul Mițraim, de a fi lor robi; și am frânt barele jugului vostru și v-am purtat ⟨את⟩ pe voi drepți.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "v-am scos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "din pământul Mițraim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "de a fi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robi"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "și am frânt"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "barele"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jugului vostru"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "și v-am purtat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "drepți"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "drepți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:50:46.817226966Z",
+  "model": "glm-5.3"
+}

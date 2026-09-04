@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Așteptând am așteptat pe Yahve, și ⟨el⟩ a înclinat către mine și a auzit strigătul meu.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Așteptând"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "am așteptat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "și a înclinat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "și a auzit"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "strigătul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:05.978130006Z",
+  "model": "glm-5.3"
+}

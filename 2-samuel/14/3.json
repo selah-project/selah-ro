@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și vei intra la rege și îi vei vorbi cuvântul acesta. Și a pus Ioav ⟨את⟩ cuvintele în gura ei.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "și vei intra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "și vei vorbi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ca cuvântul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "în gura ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:00:42.715490526Z",
+  "model": "glm-5.3"
+}

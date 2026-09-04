@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Când te-am pomenit pe patul meu, în veghile nopții cuget la tine.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "când"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "te-am pomenit"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "patul meu"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "în veghile nopții"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "cuget"
+    },
+    {
+      "surface": "בך",
+      "gloss": "la tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:24.483540180Z",
+  "model": "glm-5.3"
+}

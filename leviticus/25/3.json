@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Șase ani îți vei semăna ogorul, și șase ani îți vei tăia via, și vei aduna ⟨את⟩ roada ei;",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Șase"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "îți vei semăna"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ogorul"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "și șase"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "îți vei tăia"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "via"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "și vei aduna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roada ei"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "roada ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:32.370934108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și veți păzi ⟨את⟩ așezămintele mele și ⟨את⟩ judecățile mele, pe care le va face omul și va trăi în ele; eu sunt Yahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Și veți păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "așezămintele mele"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "așezămintele mele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "judecățile mele"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecățile mele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "le va face"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "și va trăi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:04.406758216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "Până voi găsi un loc pentru Yahve, locuințe pentru Puternicul lui Iaacov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "voi găsi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un loc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "locuințe"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "pentru Puternicul"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:43.739249475Z",
+  "model": "glm-5.3"
+}

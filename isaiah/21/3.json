@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "De aceea s-au umplut coapsele mele de zvâcneli, durerile m-au apucat ca durerile celei ce naște; m-am încovoiat la auzire, m-am tulburat la vedere.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "De"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "s-au umplut"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "coapsele mele"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "de zvâcneli"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "durerile"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "m-au apucat"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "ca durerile"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "celei ce naște"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "m-am încovoiat"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "la auzire"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "m-am tulburat"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "la vedere"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:17.355967915Z",
+  "model": "glm-5.3"
+}

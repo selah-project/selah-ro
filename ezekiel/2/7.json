@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și vei vorbi ⟨את⟩ cuvintele mele către ei — de vor auzi sau de se vor opri — căci casă de răzvrătire ⟨sunt⟩ ei.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Și vei vorbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele mele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele mele"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "אם",
+      "gloss": "de"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "vor auzi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sau de"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "se vor opri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "de răzvrătire"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sunt ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:19:35.371877122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Sufletul răului dorește răul; aproapelui său nu i se arată îndurare în ochii lui.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Sufletul"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răului"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "dorește"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "i se arată îndurare"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapelui său"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:33.262522287Z",
+  "model": "glm-5.3"
+}

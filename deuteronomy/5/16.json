@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Cinstește ⟨את⟩ pe tatăl tău și ⟨את⟩ pe mama ta, cum ți-a poruncit Yahve, Elohim al tău, pentru ca să ți se lungască zilele și pentru ca să-ți fie bine pe pământul pe care ți-l dă Yahve, Elohim al tău.",
+  "tokens": [
+    {
+      "surface": "כַּבֵּ֤ד",
+      "gloss": "Cinstește"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl tău"
+    },
+    {
+      "surface": "אָבִ֨יךָ֙",
+      "gloss": "pe tatăl tău"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mama ta"
+    },
+    {
+      "surface": "אִמֶּ֔ךָ",
+      "gloss": "pe mama ta"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צִוְּךָ֖",
+      "gloss": "ți-a poruncit"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֱלֹהֶ֑יךָ",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "pentru ca"
+    },
+    {
+      "surface": "יַאֲרִיכֻ֣ן",
+      "gloss": "să ți se lungifice"
+    },
+    {
+      "surface": "יָמֶ֗יךָ",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "וּלְמַ֨עַן֙",
+      "gloss": "și pentru ca"
+    },
+    {
+      "surface": "יִיטַ֣ב",
+      "gloss": "să-ți fie bine"
+    },
+    {
+      "surface": "לָ֔ךְ",
+      "gloss": "ție"
+    },
+    {
+      "surface": "עַ֚ל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הָאֲדָמָ֔ה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "ți-l dă"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:12.328254149Z",
+  "model": "glm-5.3"
+}

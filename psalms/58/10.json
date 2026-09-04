@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Înainte ca oalele voastre să simtă spinul, ca pe cel verde, ca pe cel aprins, îl va lua în vârtej.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "înainte ca"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "să simtă"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "oalele voastre"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "spinul"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "חי",
+      "gloss": "cel verde"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "cel aprins"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "îl va lua în vârtej"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:50.503252211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "El ⟨este⟩ Yahve, Elohimul nostru; în toată ṭṭṭpământul ṭṭṭsunt judecățile lui",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "judecățile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:39.403496483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Atunci fața regelui s-a schimbat și gândurile lui l-au înspăimântat; încheieturile șoldurilor lui i-au slăbit și genunchii lui unul de altul se izbeau.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "fața lui"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "s-a schimbat"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "și gândurile lui"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "l-au înspăimântat"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "și încheieturile"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "șoldurilor lui"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "i-au slăbit"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "și genunchii lui"
+    },
+    {
+      "surface": "דא",
+      "gloss": "unul"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "de altul"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "se izbeau"
+    }
+  ],
+  "timestamp": "2026-09-04T05:50:38.678242221Z",
+  "model": "glm-5.3"
+}

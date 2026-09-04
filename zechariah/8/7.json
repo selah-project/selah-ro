@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Așa a spus Yahve Țevaot: iată, îi izbăvesc pe ai Mei popor din țara răsăritului și din țara apusului soarelui.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "izbăvesc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul Meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul Meu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "răsăritului"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "și din țara"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "apusului"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarelui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:49:39.485760721Z",
+  "model": "glm-5.3"
+}

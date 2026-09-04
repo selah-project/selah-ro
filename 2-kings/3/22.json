@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și s-au sculat dis-de-dimineață, și când a răsărit soarele peste ape, au văzut moabiții din fața lor ⟨את⟩ apele roșii ca sângele.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Și s-au sculat dis-de-dimineață"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "și soarele"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "a răsărit"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moabiții"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "din fața lor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apele"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "roșii"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "ca sângele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:20:50.100148900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Și vor zidi case și vor locui ⟨în ele⟩, și vor sădi vii și vor mânca rodul lor.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "și vor zidi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "case"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "și vor locui"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "și vor sădi"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vii"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "și vor mânca"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "rodul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T09:01:05.531588993Z",
+  "model": "glm-5.3"
+}

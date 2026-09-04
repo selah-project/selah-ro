@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "și tot înțeleptul de inimă dintre voi să vină și să facă ⟨את⟩ tot ce a poruncit Yahve:",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțeleptul"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de inimă"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "dintre voi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "să vină"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "și să facă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:33.847833936Z",
+  "model": "glm-5.3"
+}

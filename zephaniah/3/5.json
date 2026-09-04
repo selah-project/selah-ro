@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Yahve ⟨este⟩ drept în mijlocul ei, nu va face strâmbătate; dimineața, dimineața judecata lui o dă la lumină, nu lipsește, și nelegiuitul nu cunoaște rușine.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "drept"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "în mijlocul ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "strâmbătate"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "judecata lui"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "la lumină"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "lipsește"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nelegiuitul"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "rușine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:51:38.965506958Z",
+  "model": "glm-5.3"
+}

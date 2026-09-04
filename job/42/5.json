@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "La auzul urechii te-am auzit, iar acum ochiul meu te-a văzut.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "La auzul"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "urechii"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "te-am auzit"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "iar acum"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochiul meu"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "te-a văzut"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:15.189128674Z",
+  "model": "glm-5.3"
+}

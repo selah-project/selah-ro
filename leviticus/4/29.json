@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și își va sprijini ⟨את⟩ mâna pe capul jertfei de păcat, și va înjunghia ⟨את⟩ jertfa de păcat în locul arderii-de Tot.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "și își va sprijini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfei de păcat"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "și va înjunghia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa de păcat"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfa de păcat"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-de Tot"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:06.043267916Z",
+  "model": "glm-5.3"
+}

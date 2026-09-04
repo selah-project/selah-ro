@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Blestemă ei, iar tu binecuvântează; s-au ridicat și au fost rușinați, iar slujitorul tău se va bucura.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Blestemă"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iar tu"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "binecuvântează"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "s-au ridicat"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "au fost rușinați"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "iar slujitorul tău"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se va bucura"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:36.447482510Z",
+  "model": "glm-5.3"
+}

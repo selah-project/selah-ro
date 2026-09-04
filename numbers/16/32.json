@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și s-a deschis pământul ⟨את⟩ gura lui și i-a înghițit ⟨את⟩ pe ei și ⟨את⟩ casele lor și ⟨את⟩ toți oamenii care erau ai lui Korah și ⟨את⟩ tot avutul.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "Și s-a deschis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura lui"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gura lui"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "și i-a înghițit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casele lor"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "casele lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toți oamenii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "ai lui Korah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot avutul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "avutul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:50:14.557966508Z",
+  "model": "glm-5.3"
+}

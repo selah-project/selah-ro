@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Căci tu m-ai scos din pântec, m-ai făcut să mă încredințez pe sânii maicii mele.",
+  "tokens": [
+    {
+      "surface": "כִֽי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "m-ai scos"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "din pântec"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "m-ai făcut să mă încredințez"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sânii"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "maicii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:24.597470467Z",
+  "model": "glm-5.3"
+}

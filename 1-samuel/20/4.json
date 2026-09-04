@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a zis Yehonatan către David: ce va zice sufletul tău și voi face ⟨aceea⟩ pentru tine?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "va zice"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sufletul tău"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "și voi face"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:10:47.724167547Z",
+  "model": "glm-5.3"
+}

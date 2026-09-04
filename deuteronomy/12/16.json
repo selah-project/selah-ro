@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Numai sângele să nu-l mâncați; pe pământ îl veți turna ca apa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "îl vei turna"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ca apa"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:01.425111099Z",
+  "model": "glm-5.3"
+}

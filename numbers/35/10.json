@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Vorbește către fiii lui Israel și le vei spune: când veți trece ⟨את⟩ Iardenul, către pământul Chenaan —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și vei spune"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "veți trece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iardenul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenul"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "către pământul"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:56:22.713493522Z",
+  "model": "glm-5.3"
+}

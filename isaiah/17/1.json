@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Povara Damașecului: iată, Damașec este îndepărtat de a fi cetate și va fi o grămadă de ruine.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Povara"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damașecului"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damașec"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "este îndepărtat"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "de a fi cetate"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "o grămadă"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "de ruine"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:54.601906136Z",
+  "model": "glm-5.3"
+}

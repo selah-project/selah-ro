@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și mi s-a părut foarte rău, și am aruncat ⟨את⟩ toate uneltele casei lui Tovia afară, afară din încăpere.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Și mi s-a părut rău"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "și am aruncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate uneltele casei lui Tovia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "uneltele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "lui Tovia"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "încăpere"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:22.583720286Z",
+  "model": "glm-5.3"
+}

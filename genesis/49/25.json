@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "De la El al tatălui tău — și El te va ajuta — și ⟨את⟩ Șadai, și El te va binecuvânta cu binecuvântările cerurilor de sus, cu binecuvântările tehomului care zace dedesubt, binecuvântări de sâni și de pântece.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "de la El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "al tatălui tău"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "și te va ajuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șadai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Șadai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "și te va binecuvânta"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "cu binecuvântările"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sus"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "binecuvântările"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehomului"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "care zace"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dedesubt"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "binecuvântări"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "de sâni"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "și de pântece"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:34.835844198Z",
+  "model": "glm-5.3"
+}

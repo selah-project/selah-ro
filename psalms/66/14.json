@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "pe care le-au deschis buzele mele și a grăit gura mea în strâmtorarea mea.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "au deschis"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele mele"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "și a grăit"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura mea"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "în strâmtorarea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:37.969068616Z",
+  "model": "glm-5.3"
+}

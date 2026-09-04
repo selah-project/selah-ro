@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Yahve se va lupta pentru voi, iar voi veți tăcea.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "se va lupta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "iar voi"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "veți tăcea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:49.016334430Z",
+  "model": "glm-5.3"
+}

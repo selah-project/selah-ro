@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Ochiul tău să nu-l cruțe pe el, și vei stârpi sângele celui nevinovat din Israel, și ⟨va fi⟩ bine ție.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "să cruțe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ochiul tău"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "și vei stârpi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "celui nevinovat"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "din Israel"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "și bine"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:08:25.266298981Z",
+  "model": "glm-5.3"
+}

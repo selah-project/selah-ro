@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Să fac voia ta, Elohimul meu, am voit, și Tora ta ⟨este⟩ înăuntrul măruntaielor mele.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "să fac"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "voia ta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul meu"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "am voit"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "și Tora ta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "înăuntrul"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "măruntaielor mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:07.098771416Z",
+  "model": "glm-5.3"
+}

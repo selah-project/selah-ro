@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și au îndepărtat ⟨את⟩ dumnezeii străini din mijlocul lor și au slujit ⟨את⟩ lui Yahve; și i s-a scurtat sufletul de necazul lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Și au îndepărtat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dumnezeii străini"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "străini"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "din mijlocul lor"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "și au slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "și i s-a scurtat"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "de necazul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:32:21.491819906Z",
+  "model": "glm-5.3"
+}

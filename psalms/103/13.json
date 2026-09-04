@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Cum se îndură un tată de fii, așa se îndură Yahve de cei ce se tem de el.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Cum se îndură"
+    },
+    {
+      "surface": "אב",
+      "gloss": "un tată"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "așa se îndură"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "cei ce se tem de el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:58.104426187Z",
+  "model": "glm-5.3"
+}

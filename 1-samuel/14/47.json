@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-samuel 14:47",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Iar Șaul a luat împărăția peste Israel și s-a luptat împrejur împotriva tuturor vrăjmașilor săi: cu Moav, cu fiii lui Amon, cu Edom, cu regii Țovei și cu filiștii; și oriunde s-ar fi întors, i-a pedepsit.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Iar Șaul"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "și s-a luptat"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "împrejur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "împotriva tuturor"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vrăjmașilor săi"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "cu Moav"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "cu fiii"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "lui Amon"
+    },
+    {
+      "surface": "ובאדום",
+      "gloss": "cu Edom"
+    },
+    {
+      "surface": "ובמלכי",
+      "gloss": "cu regii"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Țovei"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "și cu filiștii"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și oriunde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "către care"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "s-ar fi întors"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "i-a pedepsit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:01.683233225Z",
+  "model": "glm-5.3"
+}

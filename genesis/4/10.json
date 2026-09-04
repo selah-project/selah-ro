@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a spus: „Ce ai făcut? Glasul sângelor fratelui tău strigă către mine din pământ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Glasul"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sângelor"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratelui tău"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "strigă"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T06:32:59.652710745Z",
+  "model": "glm-5.3"
+}

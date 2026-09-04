@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și s-au apropiat zilele lui David de moarte, și a poruncit ⟨את⟩ Șelomo, fiul său, zicând:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Și s-au apropiat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "de moarte"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "și a poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul său"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T07:16:43.823608504Z",
+  "model": "glm-5.3"
+}

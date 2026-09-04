@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Mă voi bucura și mă voi veseli de hesed-ul tău (îndurarea credincioasă), care ai văzut ⟨את⟩ suferința mea, ai cunoscut strâmtorările sufletului meu.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Mă voi bucura"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "și mă voi veseli"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "de hesed-ul tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ai văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suferința mea"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "suferința mea"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ai cunoscut"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "strâmtorările"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:58.227983862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Ferește-te de rău și fă binele, caută pacea și urmărește-o.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Ferește-te"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "de rău"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și fă"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pacea"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "și urmărește-o"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:44.467232291Z",
+  "model": "glm-5.3"
+}

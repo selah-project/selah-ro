@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Ferice de omul căruia Yahve nu-i socotește fărădelegea și în al cărui duh nu este vicleșug.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de omul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "socotește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "îi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fărădelegea"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "în duhul lui"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "vicleșug"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:08.706102649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și chiar, cu adevărat, ea este sora mea, fiica tatălui meu, doar că nu fiica mamei mele; și a devenit soția mea.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "cu adevărat"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sora mea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatălui meu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamei mele"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "și a devenit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "…"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "soția mea"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:43.019880688Z",
+  "model": "glm-5.3"
+}

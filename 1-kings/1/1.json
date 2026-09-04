@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iar împăratul David îmbătrânise, înaintat în zile, și îl acopereau cu haine, dar nu se mai încălzea.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Iar împăratul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "îmbătrânise"
+    },
+    {
+      "surface": "בא",
+      "gloss": "înaintat"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "în zile"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "și îl acopereau"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "cu haine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "se încălzea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:47.256473193Z",
+  "model": "glm-5.3"
+}

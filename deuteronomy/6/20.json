@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Când te va întreba fiul tău mâine, zicând: Ce înseamnă mărturiile și legile și hotărârile pe care le-a poruncit Yahve, Elohim al nostru, ⟨את⟩ vouă?",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "יִשְׁאָלְךָ֥",
+      "gloss": "te va întreba"
+    },
+    {
+      "surface": "בִנְךָ֛",
+      "gloss": "fiul tău"
+    },
+    {
+      "surface": "מָחָ֖ר",
+      "gloss": "mâine"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "הָעֵדֹ֗ת",
+      "gloss": "mărturiile"
+    },
+    {
+      "surface": "וְהַֽחֻקִּים֙",
+      "gloss": "și legile"
+    },
+    {
+      "surface": "וְהַמִּשְׁפָּטִ֔ים",
+      "gloss": "și hotărârile"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צִוָּ֛ה",
+      "gloss": "le-a poruncit"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֱלֹהֵ֖ינוּ",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "אֶתְכֶֽם",
+      "gloss": "⟨את⟩ vouă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:39.769767368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 124,
+  "translation": "Atunci apele ne-ar fi potopit, torentul ar fi trecut peste sufletul nostru.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ne-ar fi potopit"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "torentul"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ar fi trecut"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sufletul nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:05.889619361Z",
+  "model": "glm-5.3"
+}

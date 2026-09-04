@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și i-a lovit ⟨את⟩-i regele lui Bavel, și i-a omorât la Rivla, în țara lui Hamat; și a fost surghiunit Iehuda de pe pământul lui.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "și i-a lovit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-i",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "lui Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "și i-a omorât"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "la Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "lui Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "și a fost surghiunit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "pământul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:58:21.951029081Z",
+  "model": "glm-5.3"
+}

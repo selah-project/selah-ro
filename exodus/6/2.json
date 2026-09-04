@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a grăit Elohim către Moșe și i-a spus: „Eu ⟨sunt⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a grăit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și i-a spus"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:34.981618481Z",
+  "model": "glm-5.3"
+}

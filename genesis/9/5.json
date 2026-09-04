@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și chiar ⟨את⟩ sângele vostru, pentru viețile voastre, voi cere; din mâna oricărei viețuitoare îl voi cere; și din mâna omului, din mâna omului, fratele lui, voi cere ⟨את⟩ viața omului.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Și chiar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele vostru"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "sângele vostru"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "pentru viețile voastre"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "voi cere"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oricărei"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "viețuitoare"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "îl voi cere"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "și din mâna"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "voi cere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața omului"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "viața"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:10.177547735Z",
+  "model": "glm-5.3"
+}

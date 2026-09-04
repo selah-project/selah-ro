@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Iar ⟨את⟩ câmpul cetății și ⟨את⟩ curțile ei le-au dat lui Kalev, fiul lui Yefune.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "câmpul"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "câmpul"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "curțile ei"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "curțile ei"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "le-au dat"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "lui Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "lui Yefune"
+    }
+  ],
+  "timestamp": "2026-09-04T06:07:17.070255455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Elohim din ceruri a privit de sus peste fiii omului, să vadă dacă ⟨este⟩ un înțelept care caută ⟨את⟩ pe Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "din ceruri"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "a privit de sus"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "היש",
+      "gloss": "dacă ⟨este⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un înțelept"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "care caută"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:52.672123489Z",
+  "model": "glm-5.3"
+}

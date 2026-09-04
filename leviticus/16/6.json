@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și va aduce Aharon ⟨את⟩ vițelul jertfei de păcat, care este al lui, și va ispăși pentru sine și pentru casa lui.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "și va aduce"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vițelul jertfei de păcat"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vițel"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "al jertfei de păcat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לו",
+      "gloss": "este al lui"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "și va ispăși"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pentru sine"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "și pentru"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:31.235403375Z",
+  "model": "glm-5.3"
+}

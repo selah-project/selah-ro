@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "⟨את⟩ totul am văzut în zilele hevelului meu: este un drept care piere în dreptatea lui, și este un rău care trăiește mult în răutatea lui.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "totul"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hevelului meu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "un drept"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "care piere"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "în dreptatea lui"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "și este"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "un rău"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "care trăiește mult"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "în răutatea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:06.471128944Z",
+  "model": "glm-5.3"
+}

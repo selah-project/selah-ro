@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "De aceea nu ne vom teme la schimbarea pământului și la clătinarea munților în inima mărilor,",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "ne vom teme"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "la schimbarea"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "și la clătinarea"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munților"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "în inima"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mărilor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:45.823068964Z",
+  "model": "glm-5.3"
+}

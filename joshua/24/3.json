@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și am luat ⟨את⟩ tatăl vostru, ⟨את⟩ Avraham, de dincolo de râu, și l-am purtat prin toată țara Chenaan, și i-am înmulțit sămânța și i-am dat ⟨את⟩ Ițhac.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Și am luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl vostru"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "tatăl vostru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "de dincolo de"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "râu"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "și l-am purtat"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ îl"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "prin toată"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "și i-am înmulțit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sămânța lui"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sămânța lui"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "și i-am dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "îi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ițhac"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    }
+  ],
+  "timestamp": "2026-09-04T07:04:49.388832921Z",
+  "model": "glm-5.3"
+}

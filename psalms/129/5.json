@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 129,
+  "translation": "Să fie dați de rușine și să dea înapoi toți cei ce urăsc pe Țion.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "să fie dați de rușine"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "și să dea înapoi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "înapoi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "cei ce urăsc"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:26.813583056Z",
+  "model": "glm-5.3"
+}

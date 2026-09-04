@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Îl vor da pe seama sabiei; parte de șacali vor fi.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "Îl vor da"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seama"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "parte"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "de șacali"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vor fi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:47.927790779Z",
+  "model": "glm-5.3"
+}

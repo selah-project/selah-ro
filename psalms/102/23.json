@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Când se adună popoarele laolaltă și împărățiile, ca să slujească ⟨את⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "Când se adună"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "laolaltă"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "și împărățiile"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ca să slujească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:15.654963518Z",
+  "model": "glm-5.3"
+}

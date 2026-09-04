@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Căci omul nu este în casa lui, a plecat pe un drum depărtat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "în casa lui"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a plecat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "depărtat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:29.655819602Z",
+  "model": "glm-5.3"
+}

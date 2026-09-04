@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și fiii lui Kehat ⟨sunt⟩ Amram, Ițhar, Hevron și Uziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Și fiii"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "lui Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "și Ițhar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "și Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "și Uziel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:45.104144524Z",
+  "model": "glm-5.3"
+}

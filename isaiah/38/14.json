@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Ca un cocostârc, ca o rândunică, așa ciripesc; gem ca un porumbel; slăbesc ochii mei către înălțime: Adonai, strâmtorare ⟨este⟩ peste mine, fii chezașul meu.",
+  "tokens": [
+    {
+      "surface": "כסוס",
+      "gloss": "ca un cocostârc"
+    },
+    {
+      "surface": "עגור",
+      "gloss": "o rândunică"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אצפצף",
+      "gloss": "ciripesc"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "gem"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "ca un porumbel"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "slăbesc"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "către înălțime"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשקה",
+      "gloss": "strâmtorare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "fii chezașul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:00.663302091Z",
+  "model": "glm-5.3"
+}

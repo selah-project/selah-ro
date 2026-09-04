@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Au întins cei răi o cursă pentru mine, dar de poruncile tale nu m-am abătut.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "au întins"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "o cursă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "dar de poruncile tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "m-am abătut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:51.972419439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 125,
+  "translation": "Iar pe cei ce se abat pe căile lor strâmbe, pe aceia îi va duce Yahve cu ⟨את⟩ făptuitorii fărădelegii. Pace peste Israel!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Iar pe cei ce se abat"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "pe căile lor strâmbe"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "îi va duce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "făptuitorii fărădelegii"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "făptuitorii"
+    },
+    {
+      "surface": "האון",
+      "gloss": "fărădelegii"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Pace"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:10.879364882Z",
+  "model": "glm-5.3"
+}

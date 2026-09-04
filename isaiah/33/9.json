@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "A jălit, a tânguit pământul; s-a rușinat Levanon, s-a veștejit; a ajuns Șaronul ca pustiul, și s-au clătinat Bașan și Carmel.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "a jălit"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "a tânguit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "s-a rușinat"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "s-a veștejit"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a ajuns"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Șaronul"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "ca pustiul"
+    },
+    {
+      "surface": "וונער",
+      "gloss": "și s-au clătinat"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bașan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "și Carmel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:44:28.421471537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 24:8",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "ca să ridice mânia, să răzbune răzbunare — am pus ⟨את⟩ sângele ei pe stâncă goală, ca să nu fie acoperit.",
+  "tokens": [
+    {
+      "surface": "להעלות",
+      "gloss": "ca să ridice"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "לנקם",
+      "gloss": "ca să răzbune"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "răzbunare"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele ei"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "sângele ei"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "goală"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "stâncă"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "הכסות",
+      "gloss": "fie acoperit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:27:50.224136241Z",
+  "model": "glm-5.3"
+}

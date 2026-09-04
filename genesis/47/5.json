@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Și a spus Paro către Iosif, zicând: Tatăl tău și frații tăi au venit la tine —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "și frații tăi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:19.661727568Z",
+  "model": "glm-5.3"
+}

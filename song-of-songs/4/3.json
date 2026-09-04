@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Ca un fir de roșu aprins buzele tale, și grăirile tale ⟨sunt⟩ frumoase; ca o felie de rodie tâmpla ta, dincolo de vălul tău.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "ca un fir"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de roșu aprins"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "buzele tale"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "și grăirile tale"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "frumoase"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "ca o felie"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "de rodie"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "tâmpla ta"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "dincolo de"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "vălul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:33.081165670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Acolo plutesc corăbii; Liviathan — pe acesta l-ai făcut să se joace în el.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Acolo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "corăbii"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "plutesc"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Liviathan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "pe acesta"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "l-ai făcut"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "să se joace"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:28.388583889Z",
+  "model": "glm-5.3"
+}

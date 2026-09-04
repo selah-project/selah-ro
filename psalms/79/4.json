@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Am ajuns ocară vecinilor noștri, batjocură și râs celor din jurul nostru.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Am ajuns"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ocară"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "vecinilor noștri"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "batjocură"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "și râs"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "celor din jurul nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:24.259201513Z",
+  "model": "glm-5.3"
+}

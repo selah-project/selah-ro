@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și s-a pângărit pământul, și Eu am cercat nelegiuirea lui asupra lui, și a vărsat pământul ⟨את⟩ locuitorii lui.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "și s-a pângărit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "și am cercat"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "nelegiuirea lui"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "asupra lui"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "și a vărsat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locuitorii lui"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "locuitorii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:06.038241936Z",
+  "model": "glm-5.3"
+}

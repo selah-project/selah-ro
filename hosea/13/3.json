@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "De aceea vor fi ca norul de dimineață, ca roua de cu noapte care dispare de timpuriu, ca pleava vântuită de la arie și ca fumul prin fereastră.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "De aceea"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "ca norul"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de dimineață"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "ca roua"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "de timpuriu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "care dispare"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ca pleava"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "vântuită"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "de la arie"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "și ca fumul"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "prin fereastră"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:49.963013135Z",
+  "model": "glm-5.3"
+}

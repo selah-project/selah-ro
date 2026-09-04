@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și Kuș a născut ⟨את⟩ Nimrod; el a început să fie viteaz pe pământ.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Și Kuș"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "החל",
+      "gloss": "a început"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "viteaz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:34.646739556Z",
+  "model": "glm-5.3"
+}

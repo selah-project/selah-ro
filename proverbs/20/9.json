@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Cine poate spune: Mi-am curățit inima, sunt curat de păcatul meu?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יֹ֭אמַר",
+      "gloss": "poate spune"
+    },
+    {
+      "surface": "זִכִּ֣יתִי",
+      "gloss": "Mi-am curățit"
+    },
+    {
+      "surface": "לִבִּ֑י",
+      "gloss": "inima"
+    },
+    {
+      "surface": "טָ֝הַ֗רְתִּי",
+      "gloss": "sunt curat"
+    },
+    {
+      "surface": "מֵחַטָּאתִֽי",
+      "gloss": "de păcatul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:59.076806434Z",
+  "model": "glm-5.3"
+}

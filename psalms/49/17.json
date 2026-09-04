@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Nu te teme când se îmbogățește un om, când sporește slava casei lui.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "se îmbogățește"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "sporește"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:39.898661346Z",
+  "model": "glm-5.3"
+}

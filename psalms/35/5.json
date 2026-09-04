@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Să fie ca pleava înaintea vântului, și solul lui Yahve să-i împingă.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ca pleava"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vântului"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "și solul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "să-i împingă"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:27.830852776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a scris Mordehai ⟨את⟩ cuvintele acestea și a trimis scrisori către toți iudeii care erau în toate provinciile regelui Ahașveroș, cei apropiați și cei departe,",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Și a scris"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele acestea"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "scrisori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "provinciile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahașveroș"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "cei apropiați"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "și cei departe"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:21.295847845Z",
+  "model": "glm-5.3"
+}

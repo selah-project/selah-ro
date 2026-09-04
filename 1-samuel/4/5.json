@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a fost, la venirea arcei legământului lui Yahve în tabără, că a răcnit tot Israelul o strigătare mare, și s-a cutremurat pământul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "la venirea"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arcei"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabără"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "a răcnit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "o strigătare"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "și s-a cutremurat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:10.605636337Z",
+  "model": "glm-5.3"
+}

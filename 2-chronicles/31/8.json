@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și au venit Iehezchia și căpeteniile și au văzut ⟨את⟩ grămezile, și au binecuvântat ⟨את⟩ Yahve și ⟨את⟩ poporul său, Israel.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Iehezchia"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "și căpeteniile"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grămezile"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "grămezile"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "și au binecuvântat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poporul său, Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:29:10.914210732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 129,
+  "translation": "De care nu își umple mâna secerătorul, nici brațul legătorului de snopi.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "de care nu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "își umple"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "secerătorul"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "nici brațul"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "legătorului de snopi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:26.813992640Z",
+  "model": "glm-5.3"
+}

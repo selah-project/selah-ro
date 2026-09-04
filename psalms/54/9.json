@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Căci din toată strâmtorarea m-a scos, iar pe vrăjmașii mei i-a văzut ochiul meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din toată"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "strâmtorarea"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "m-a scos"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "iar pe vrăjmașii mei"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "i-a văzut"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochiul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:37.434709536Z",
+  "model": "glm-5.3"
+}

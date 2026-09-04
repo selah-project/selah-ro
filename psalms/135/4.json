@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Căci lui Iaacov l-a ales pe sine Ya, Israel ca avuția sa deosebită.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "l-a ales"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pe sine"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "ca avuția sa deosebită"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:53.634299407Z",
+  "model": "glm-5.3"
+}

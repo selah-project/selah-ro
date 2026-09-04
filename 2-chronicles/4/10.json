@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și ⟨את⟩ marea a așezat din umărul drept, spre răsărit, în fața sudului.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a așezat"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "din umărul"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "drept"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "spre răsărit"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sudului"
+    }
+  ],
+  "timestamp": "2026-09-04T06:18:14.031817386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Și vor zidi fiii străinului zidurile tale, și regii lor te vor sluji, căci în mânia mea te-am lovit, și în bunăvoința mea ți-am avut milă.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Și vor zidi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străinului"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "zidurile tale"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "și regii lor"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "te vor sluji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "în mânia mea"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "te-am lovit"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "și în bunăvoința mea"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "ți-am avut milă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:54:49.735772047Z",
+  "model": "glm-5.3"
+}

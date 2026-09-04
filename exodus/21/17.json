@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și cine blestemă pe tatăl său și pe mama sa, moartea să fie omorât.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Și cine blestemă"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "pe tatăl său"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "și pe mama sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "să fie omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:15.690086570Z",
+  "model": "glm-5.3"
+}

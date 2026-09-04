@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Și a spus Israel către Iosef: să mor de data aceasta, după ce am văzut ⟨את⟩ fața ta, că încă ești viu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "să mor"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "de data aceasta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața ta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "încă"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ești viu"
+    }
+  ],
+  "timestamp": "2026-09-04T01:11:07.496771421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a mai așteptat încă șapte zile, altele, și a adăugat să trimită ⟨את⟩ porumbița din arcă.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Și a mai așteptat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altele"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "și a adăugat"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "să trimită"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porumbița"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "porumbița"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arcă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:24.166701760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Ce ⟨este cu⟩ voi, că zdrobiți poporul meu și fețele săracilor le măcinați? Oracolul Adonai Yahve Țevaot.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "Ce ⟨este cu⟩ voi"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "zdrobiți"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "și fețele"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "săracilor"
+    },
+    {
+      "surface": "תטחנu",
+      "gloss": "le măcinați"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Oracolul"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:44.471413128Z",
+  "model": "glm-5.3"
+}

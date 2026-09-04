@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Căci mare până la ceruri ⟨este⟩ hesedul tău, și până la nori adevărul tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nori"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "adevărul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:38.726301198Z",
+  "model": "glm-5.3"
+}

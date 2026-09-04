@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și s-a înălțat Elohim de la el, în locul unde vorbise cu ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "și s-a înălțat"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "de la el"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:06:24.899718279Z",
+  "model": "glm-5.3"
+}

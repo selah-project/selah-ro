@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Ferice de neamul al cărui Elohim ⟨este⟩ Yahve, poporul pe care l-a ales de moștenire a lui!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ferice de"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "al cărui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "l-a ales"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "de moștenire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:21.474725335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Ca nu cumva să sfâșie, ca un leu, sufletul meu, frângându-l, și ⟨nu⟩ ⟨este⟩ izbăvitor.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "să sfâșie"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ca un leu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "frângând"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și ⟨nu⟩ ⟨este⟩"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "izbăvitor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:01.785216296Z",
+  "model": "glm-5.3"
+}

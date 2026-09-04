@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "A auzit și s-a bucurat Țion, și s-au veselit fiicele lui Iehuda, din pricina judecăților tale, Yahve.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "A auzit"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "și s-a bucurat"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "și s-au veselit"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiicele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecăților tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:19.277490084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Cuvintele gurii lui ⟨sunt⟩ stricăciune și înșelăciune; a încetat să înțeleagă, să facă binele.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Cuvintele"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "gurii lui"
+    },
+    {
+      "surface": "און",
+      "gloss": "stricăciune"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "și înșelăciune"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "a încetat"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "să înțeleagă"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "să facă binele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:56.853705605Z",
+  "model": "glm-5.3"
+}

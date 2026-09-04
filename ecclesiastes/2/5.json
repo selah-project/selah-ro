@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Mi-am făcut grădini și parcuri, și am sădit în ele pomi de orice fruct.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "mi-am făcut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "grădini"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "și parcuri"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "și am sădit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pomi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruct"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:57.909269118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 141,
+  "translation": "Să se așeze rugăciunea mea ca tămâia înaintea ta, ridicarea palmelor mele ca darul de seară.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "să se așeze"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ca tămâia"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ridicarea"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "palmelor mele"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "darul"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "de seară"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:09.931596056Z",
+  "model": "glm-5.3"
+}

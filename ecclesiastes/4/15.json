@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Am văzut ⟨את⟩ toți cei vii, care umblă sub soare, cu copilul al doilea, care va sta în locul lui.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți cei vii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "cei vii"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "care umblă"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "השני",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "va sta"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:11:56.322271562Z",
+  "model": "glm-5.3"
+}

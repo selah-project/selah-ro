@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și Chenaan a născut ⟨את⟩ Țidon, întâiul născut al său, și ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Și Chenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Țidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Țidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "întâiul născut al său"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:34.446452364Z",
+  "model": "glm-5.3"
+}

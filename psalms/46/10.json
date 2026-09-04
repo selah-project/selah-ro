@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Face să înceteze războaiele până la capătul pământului; frânge arcul, taie sulța, carele le arde în foc.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Face să înceteze"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "războaiele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "capătul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arcul"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "frânge"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "taie"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sulța"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "carele"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "arde"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:54.369872347Z",
+  "model": "glm-5.3"
+}

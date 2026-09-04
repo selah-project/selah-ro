@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Cel care umblă întru nevinovăție, săvârșește dreptatea și grăiește adevărul în inima lui.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Cel care umblă"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "întru nevinovăție"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "și săvârșește"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "și grăiește"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevărul"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "în inima lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:19.124349590Z",
+  "model": "glm-5.3"
+}

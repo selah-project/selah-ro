@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Și au mâncat vacile slabe și urâte ⟨את⟩ cele șapte vaci dintâi, cele grase.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Și au mâncat"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "vacile"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "slabe"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "și urâte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cele șapte vaci dintâi, cele grase"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "vaci"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "dintâi"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "grase"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:25.489483199Z",
+  "model": "glm-5.3"
+}

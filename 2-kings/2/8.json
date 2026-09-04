@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a luat Eliiahu ⟨את⟩ mantaua lui și a împăturit-o și a lovit ⟨את⟩ apele, și s-au despărțit încoace și încolo, și au trecut amândoi pe uscat.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliiahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantaua lui"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "mantaua lui"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "și a împăturit-o"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apele"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "și s-au despărțit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "încoace"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și încolo"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "și au trecut"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "pe uscat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:23:18.532447230Z",
+  "model": "glm-5.3"
+}

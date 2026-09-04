@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "⟨את⟩ hotărârile tale voi păzi; nu mă părăsi până la foarte!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hotărârile tale"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotărârile tale"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "voi păzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "mă părăsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:55.873305178Z",
+  "model": "glm-5.3"
+}

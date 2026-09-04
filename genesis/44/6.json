@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Și i-a ajuns din urmă și a vorbit către ei ⟨את⟩ cuvintele acestea.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "și i-a ajuns din urmă"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "și a vorbit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele acestea"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:53.936348437Z",
+  "model": "glm-5.3"
+}

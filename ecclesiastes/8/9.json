@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "⟨את⟩ toate acestea am văzut, și am dat ⟨את⟩ inima mea la toată fapta care se face sub soare: un timp când stăpânește omul peste om, spre răul lui.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "și am dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima mea"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "la toată"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "fapta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "se face"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un timp"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "stăpânește"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "peste om"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "spre răul"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:07.317587233Z",
+  "model": "glm-5.3"
+}

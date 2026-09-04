@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și s-au semețit și au făcut urâciune înaintea mea, și le-am îndepărtat ⟨את⟩ cum am văzut.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "Și s-au semețit"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "și au făcut"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "urâciune"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "și le-am îndepărtat"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ le",
+      "marks": "le (Sodoma și fiicele ei)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    }
+  ],
+  "timestamp": "2026-09-04T07:42:22.671934644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și ⟨את⟩ fiecare corb, după felul lui",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiecare corb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "corb"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "după felul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:09.573437346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Când privesc cerurile tale, lucrarea degetelor tale, luna și stelele pe care le-ai așezat,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "privesc"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "cerurile tale"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "degetelor tale"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "luna"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "și stelele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "le-ai așezat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:01.148995271Z",
+  "model": "glm-5.3"
+}

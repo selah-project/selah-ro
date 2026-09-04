@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Chiar dacă își vor crește ⟨את⟩ fiii lor, îi voi lipsi de copii, fără să rămână om; căci vai lor la plecarea mea de la ei!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chiar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "își vor crește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lor"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiii lor"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "îi voi lipsi de copii"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "fără să rămână om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "vai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "la plecarea mea"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "de la ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:45.172230109Z",
+  "model": "glm-5.3"
+}

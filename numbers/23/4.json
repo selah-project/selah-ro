@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și s-a ivit Elohim către Bilam, și el I-a spus: ⟨את⟩ cele șapte altare le-am așezat și am ridicat câte un taur și câte un berbec ⟨pe fiecare⟩ altar.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Și s-a ivit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către El"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cele șapte altare"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "cele șapte"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "le-am așezat"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "și am ridicat"
+    },
+    {
+      "surface": "פר",
+      "gloss": "un taur"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "și un berbec"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "pe altar"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:36.650698460Z",
+  "model": "glm-5.3"
+}

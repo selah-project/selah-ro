@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Dacă îl înghite cineva din locul lui, și ⟨locul⟩ îl tăgăduiește ⟨zicând⟩: nu te-am văzut.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "îl înghite"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "din locul lui"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "și va tăgădui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "îl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "te-am văzut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:59.301314115Z",
+  "model": "glm-5.3"
+}

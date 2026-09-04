@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 40:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Iată, rogu-te, Behemot, pe care l-am făcut împreună cu tine: iarba, ca boul, mănâncă.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rogu-te"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "Behemot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "(l-)am făcut"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "împreună cu tine"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "iarba"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "ca boul"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mănâncă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:36:35.563823185Z",
+  "model": "glm-5.3"
+}

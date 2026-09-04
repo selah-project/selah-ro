@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Cheamă-Mă în ziua strâmtorării: te voi scoate din strâmtorare și Mă vei cinsti.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "cheamă-Mă"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "strâmtorării"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "te voi scoate din strâmtorare"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "și Mă vei cinsti"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:59.472023462Z",
+  "model": "glm-5.3"
+}

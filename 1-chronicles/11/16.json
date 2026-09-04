@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "iar David era atunci în fortăreață, și garnizoana filistenilor era atunci la Beit-Lehem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "iar David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "în fortăreață"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "și garnizoana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenilor"
+    },
+    {
+      "surface": "אז",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "la Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-04T06:08:36.623001825Z",
+  "model": "glm-5.3"
+}

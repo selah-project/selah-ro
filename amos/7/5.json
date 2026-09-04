@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și am zis: Adonai Yahve, încetează, te rog! Cine va ridica pe Iaacov? Căci el este mic.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "încetează"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "va ridica"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "pe Iaacov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mic"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:52.514318880Z",
+  "model": "glm-5.3"
+}

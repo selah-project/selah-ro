@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 141,
+  "translation": "Să mă lovească cel drept ⟨cu⟩ hesed (îndurare) și să mă mustre; untdelemn de cap — să nu-l refuze capul meu, căci încă și rugăciunea mea ⟨este⟩ în relele lor.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "să mă lovească"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "și să mă mustre"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemn"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de cap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יני",
+      "gloss": "refuze"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capul meu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "și rugăciunea mea"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "în relele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:31.929143916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a trimis soli către Ahav, regele lui Israel, în cetate.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "soli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "în cetate"
+    }
+  ],
+  "timestamp": "2026-09-04T03:20:47.668044557Z",
+  "model": "glm-5.3"
+}

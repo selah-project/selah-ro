@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "și vinul veselește inima omului muritor, să facă fața să strălucească de la untdelemn, și pâinea inima omului muritor o sprijină.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "și vinul"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "veselește"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "omului muritor"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "să facă să strălucească"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fața"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "de la untdelemn"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "și pâinea"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "omului muritor"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "o sprijină"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:46.013618240Z",
+  "model": "glm-5.3"
+}

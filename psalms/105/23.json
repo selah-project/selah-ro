@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Și a venit Israel în Mițraim, și Iaacov a pribegit în țara lui Ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "și Iaacov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "a pribegit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "חם",
+      "gloss": "lui Ham"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:01.715654638Z",
+  "model": "glm-5.3"
+}

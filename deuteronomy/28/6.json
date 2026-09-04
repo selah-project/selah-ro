@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Binecuvântat ⟨să fii⟩ tu la venirea ta, și binecuvântat ⟨să fii⟩ tu la ieșirea ta.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "la venirea ta"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "și binecuvântat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "la ieșirea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:07.636999496Z",
+  "model": "glm-5.3"
+}

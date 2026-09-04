@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "și ⟨את⟩ cu noi să locuiți, și pământul să fie înaintea voastră; locuiți și târgoviți-vă în el și luați-vă stăpânire în el.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "și ⟨את⟩ cu noi",
+      "marks": "locuirea"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "să locuiți"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "și pământul"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "locuiți"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "și târgoviți-vă în el"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "și luați-vă stăpânire"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:42.778674797Z",
+  "model": "glm-5.3"
+}

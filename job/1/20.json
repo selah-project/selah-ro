@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și s-a ridicat Iov și și-a sfâșiat ⟨את⟩ mantia sa și și-a ras ⟨את⟩ capul său și a căzut la pământ și s-a închinat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și s-a ridicat"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "și și-a sfâșiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantia sa"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "mantia sa"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "și și-a ras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capul său"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "capul său"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "și a căzut"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "la pământ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "și s-a închinat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:01.638215254Z",
+  "model": "glm-5.3"
+}

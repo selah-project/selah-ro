@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va lua cohenul ⟨את⟩ mielul jertfei de vină și ⟨את⟩ logul de untdelemn, și le va legăna cohenul, legănare, înaintea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Și va lua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mielul jertfei de vină"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "mielul"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "al jertfei de vină"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "logul de untdelemn"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logul"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "de untdelemn"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "și le va legăna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "cohenul"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "legănare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:34:07.516947860Z",
+  "model": "glm-5.3"
+}

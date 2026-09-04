@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Dacă va spăla Adonai ⟨את⟩ murdăria fiicelor Ționului și ⟨את⟩ sângele Ierușalaimului va îndepărta din mijlocul ei — cu duhul judecății și cu duhul arderii.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "va spăla"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murdăria fiicelor Ționului"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "murdăria"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiicelor"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ționului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sângele Ierușalaimului"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "va îndepărta"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "din mijlocul ei"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "cu duhul"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecății"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "și cu duhul"
+    },
+    {
+      "surface": "בער",
+      "gloss": "arderii"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:38.498471102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Dar cuvântul regelui a fost tare asupra lui Ioab, și a ieșit Ioab și a străbătut tot Israelul, și a venit la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "dar cuvântul"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "a fost tare"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "lui Ioab"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și a ieșit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "și a străbătut"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:14.529043217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a trimis Moșe să iscodească ⟨את⟩ Iazer, și au cucerit satele ei, și a dezmoștenit ⟨את⟩ Emori, cel care ⟨era⟩ acolo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "să iscodească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Iazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "și au cucerit"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "satele ei"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "și a dezmoștenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel care"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T06:54:35.283771262Z",
+  "model": "glm-5.3"
+}

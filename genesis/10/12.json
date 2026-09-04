@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "și ⟨את⟩ Resen, între Ninive și între Celah — aceasta este cetatea cea mare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Celah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "cea mare"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:49.636465477Z",
+  "model": "glm-5.3"
+}

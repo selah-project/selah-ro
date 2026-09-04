@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Ce câștig are omul din toată truda lui cu care se trudește sub soare?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "câștig"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "are omul"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "din toată"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "truda lui"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "cu care se trudește"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:05.819206362Z",
+  "model": "glm-5.3"
+}

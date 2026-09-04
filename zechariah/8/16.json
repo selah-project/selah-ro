@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Acestea sunt cuvintele pe care să le faceți: vorbiți adevăr unul ⟨את⟩ cu aproapele său, adevăr și judecată a păcii judecați în porțile voastre.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Acestea"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "să le faceți"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "vorbiți"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevăr"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ cu",
+      "marks": "prepoziție „cu” (H854), nu marcă de obiect direct"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapele său"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevăr"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și judecată"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "a păcii"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "judecați"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "în porțile voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T04:49:58.331408382Z",
+  "model": "glm-5.3"
+}

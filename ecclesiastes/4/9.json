@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Tovim — mai buni sunt cei doi decât unul, pentru că este lor o răsplată bună pentru osteneala lor.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "mai buni sunt"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "cei doi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "decât"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "o răsplată"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bună"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "pentru osteneala lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:53.721513874Z",
+  "model": "glm-5.3"
+}

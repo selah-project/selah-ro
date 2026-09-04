@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a făcut ⟨את⟩ bazinul de aramă și ⟨את⟩ piciorul lui de aramă, din oglinzile femeilor care slujeau la intrarea Cortului Întâlnirii.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bazinul"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "bazinul"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "de aramă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "piciorul lui"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "piciorul lui"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "de aramă"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "din oglinzile"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "femeilor care slujeau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "slujeau"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la intrarea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:03.808900145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "În ziua aceea să fie mâncat; să nu lăsați nimic de la el până dimineața: eu ⟨sunt⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "să fie mâncat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "lăsați"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nimic de la el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:49:08.658342715Z",
+  "model": "glm-5.3"
+}

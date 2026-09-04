@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și să ungi ⟨את⟩ bazinul și ⟨את⟩ temeliera lui, și să-l sfințești ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "și să ungi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bazinul"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bazinul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "temeliera lui"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "temeliera lui"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "și să sfințești"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "bazinul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:46.167552717Z",
+  "model": "glm-5.3"
+}

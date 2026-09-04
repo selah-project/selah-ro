@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și au venit păstorii și le-au alungat, iar Moșe s-a sculat și le-a salvat, și a adăpat ⟨את⟩ turma lor.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "păstorii"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "și le-au alungat"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "s-a sculat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "și le-a salvat"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "și a adăpat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turma lor"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "turma lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:02.206712767Z",
+  "model": "glm-5.3"
+}

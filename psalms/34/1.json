@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Al lui David, când și-a schimbat purtarea ⟨את⟩ înaintea lui Avimeleh, și l-a alungat și a plecat.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "când și-a schimbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "purtarea"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "purtarea lui"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "și l-a alungat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a plecat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:47.813496995Z",
+  "model": "glm-5.3"
+}

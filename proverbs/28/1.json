@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Fuge cel rău și nu ⟨este⟩ urmăritor, iar cei drepți ca un pui de leu se încred.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "Fuge"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "urmăritor"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "iar cei drepți"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "ca un pui de leu"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "se încred"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:51.796255578Z",
+  "model": "glm-5.3"
+}

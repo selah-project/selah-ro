@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Yahve dă putere poporului său, Yahve binecuvântează ⟨את⟩ poporul său cu pace.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "putere"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "poporului său"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "binecuvântează"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul său"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "cu pace"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:12.979136583Z",
+  "model": "glm-5.3"
+}

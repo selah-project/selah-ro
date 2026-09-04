@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "I s-au spus lui Rivka ⟨את⟩ cuvintele lui Esav, fiul ei cel mare; și a trimis și l-a chemat pe Iaacov, fiul ei cel mic, și i-a zis: Iată, Esav, fratele tău, se mângâie cu tine în gând, ca să te omoare.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "și s-a spus"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "lui Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ei cel mare"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "și l-a chemat"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "pe Iaacov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ei cel mic"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și i-a zis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "se mângâie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "ca să te omoare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:32.699482565Z",
+  "model": "glm-5.3"
+}

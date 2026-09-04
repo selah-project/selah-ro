@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Cel ce merge în dreptatea lui se teme de Yahve, iar cel strâmb în căile lui îl disprețuiește.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Cel ce merge"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "în dreptatea lui"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se teme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "iar cel strâmb"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "în căile lui"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "îl disprețuiește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:56.822329630Z",
+  "model": "glm-5.3"
+}

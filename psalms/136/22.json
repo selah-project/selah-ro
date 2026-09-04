@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "moștenire lui Israel, slujitorul lui, că în veac ⟨este⟩ hesedul lui",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "moștenire"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slujitorul lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:20.819562205Z",
+  "model": "glm-5.3"
+}

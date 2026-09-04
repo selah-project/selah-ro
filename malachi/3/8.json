@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Va fura un om ⟨את⟩ pe Elohim? Căci voi Mă furați ⟨את⟩ pe Mine. Și ați zis: Cu ce Te-am furat? Cu zeciuiala și cu darul de înălțare.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Va fura"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un om"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "pe Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "Mă furați"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Mine",
+      "marks": "Mine"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "și ați zis"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Cu ce"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "Te-am furat"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "zeciuiala"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "și darul de înălțare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:25.840237409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a zis: Ia săgețile. Și le-a luat. Și a zis regelui lui Israel: Lovește pământul! Și a lovit de trei ori și s-a oprit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "săgețile"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și le-a luat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Lovește"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trei"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ori"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "și s-a oprit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:01.035076222Z",
+  "model": "glm-5.3"
+}

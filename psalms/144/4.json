@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Omul, ca un abur se aseamănă; zilele lui, ca o umbră care trece.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Omul"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ca un abur"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "se aseamănă"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "zilele lui"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ca o umbră"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "care trece"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:29.445581686Z",
+  "model": "glm-5.3"
+}

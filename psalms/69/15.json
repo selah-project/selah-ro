@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Scoate-mă din tină, ca să nu mă scufund; să fiu smuls de cei ce mă urăsc și din adâncurile apelor.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "scoate-mă"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "din tină"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "să mă scufund"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "să fiu smuls"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "de cei ce mă urăsc"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "și din adâncurile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apelor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:07.112185171Z",
+  "model": "glm-5.3"
+}

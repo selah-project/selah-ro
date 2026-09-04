@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Voi spune către El, stânca mea: De ce m-ai uitat? De ce merg posomorât sub strivirea dușmanului?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Voi spune"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "către El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "m-ai uitat"
+    },
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "merg posomorât"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "merg"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sub strivirea"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dușmanului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:17.506254205Z",
+  "model": "glm-5.3"
+}

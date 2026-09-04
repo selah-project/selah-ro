@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 141,
+  "translation": "Căci către tine, Yahve, Adonai, ⟨sunt⟩ ochii mei; în tine m-am adăpostit; nu dezgoli sufletul meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m-am adăpostit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תער",
+      "gloss": "dezgoli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:31.929713939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Eu ⟨zic⟩: gura regelui păzește-o, și din pricina jurământului lui Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "păzește-o"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "jurământului"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T08:11:45.015359459Z",
+  "model": "glm-5.3"
+}

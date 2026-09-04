@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Iar frații mei care s-au suit cu mine au topit ⟨את⟩ inima poporului, dar eu am mers deplin după Yahve, Elohimul meu.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "Iar frații"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "s-au suit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "au topit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima poporului"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dar eu"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "am mers deplin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T02:22:06.854060316Z",
+  "model": "glm-5.3"
+}

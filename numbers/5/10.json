@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și omul ⟨את⟩ lucrurile lui sfinte — ale lui vor fi; ce dă omul cohenului, al lui va fi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și omul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrurile lui sfinte"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "lucrurile lui sfinte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cohenului"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:43:24.879374045Z",
+  "model": "glm-5.3"
+}

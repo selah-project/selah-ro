@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă în spargere va fi găsit hoțul și va fi lovit și va muri, nu este pentru el vina de sânge.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "în spargere"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "va fi găsit"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "hoțul"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "și va fi lovit"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "și va muri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "vina de sânge"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:25.074669784Z",
+  "model": "glm-5.3"
+}

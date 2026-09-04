@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Nu am șezut cu oameni deșărți și cu cei ascunși nu voi intra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "am șezut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "deșărți"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "cei ascunși"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "voi intra"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:09.564575020Z",
+  "model": "glm-5.3"
+}

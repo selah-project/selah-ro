@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă stăpânul său ⟨este⟩ cu el, nu va plăti; dacă este un simbriaș, a venit cu plata lui.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "stăpânul său"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va plăti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "un simbriaș"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "cu plata lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:17.818944122Z",
+  "model": "glm-5.3"
+}

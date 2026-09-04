@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și să dărâmați ⟨את⟩ altarele lor și să sfărâmați ⟨את⟩ stâlpii lor, și așerimii lor să-i ardeți în foc, și idolii dumnezeilor lor să-i doborâți, și să pierdeți ⟨את⟩ numele lor din locul acela.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "și să dărâmați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarele lor"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "altarele lor"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "și să sfărâmați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpii lor"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "stâlpii lor"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "și așerimii lor"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "să-i ardeți"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "și idolii"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dumnezeilor lor"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "să-i doborâți"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "și să pierdeți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lor"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "numele lor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:39.299638396Z",
+  "model": "glm-5.3"
+}

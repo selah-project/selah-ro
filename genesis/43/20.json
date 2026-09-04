@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și au zis: te rugăm, domnul meu, am coborât într-adevăr la început să cumpărăm mâncare.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "בי",
+      "gloss": "te rugăm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "domnul meu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "într-adevăr"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "am coborât"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "la început"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "să cumpărăm"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mâncare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:43.286543290Z",
+  "model": "glm-5.3"
+}

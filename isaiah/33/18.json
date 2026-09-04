@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Inima ta va cugeta groaza: unde este scribul? Unde este cel care cântărește? Unde este cel care a numărat ⟨את⟩ turnurile?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "inima ta"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "va cugeta"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "groaza"
+    },
+    {
+      "surface": "איה",
+      "gloss": "unde este"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "scribul"
+    },
+    {
+      "surface": "איה",
+      "gloss": "unde este"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "cel care cântărește"
+    },
+    {
+      "surface": "איה",
+      "gloss": "unde este"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cel care a numărat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turnurile"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "turnurile"
+    }
+  ],
+  "timestamp": "2026-09-04T03:45:22.771183351Z",
+  "model": "glm-5.3"
+}

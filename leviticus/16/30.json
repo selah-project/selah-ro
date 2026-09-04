@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Căci în ziua aceasta se va face ispășire peste voi, ca să vă curețe ⟨את⟩ pe voi de toate păcatele voastre; înaintea lui Yahve veți fi curați.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "se va face ispășire"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ca să vă curețe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toate"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "păcatele voastre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "veți fi curați"
+    }
+  ],
+  "timestamp": "2026-09-04T06:48:03.878871717Z",
+  "model": "glm-5.3"
+}

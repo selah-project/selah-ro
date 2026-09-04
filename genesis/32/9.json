@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a zis: Dacă vine Esav la o tabără și o lovește, atunci tabăra care rămâne va fi pentru scăpare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabăra"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "și o lovește"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabăra"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "care rămâne"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "pentru scăpare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:59.340409855Z",
+  "model": "glm-5.3"
+}

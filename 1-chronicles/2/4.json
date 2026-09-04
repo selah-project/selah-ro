@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Tamar, nora lui, i-a născut ⟨את⟩ Pereț și ⟨את⟩ Zerah. Toți fiii lui Iehuda: cinci.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Și Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "nora lui"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pereț"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereț"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Zerah"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinci"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:16.947966540Z",
+  "model": "glm-5.3"
+}

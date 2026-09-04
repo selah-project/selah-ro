@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și am ridicat ⟨את⟩ ochii mei și am văzut, și iată un om îmbrăcat în in, și coapsele lui încinse cu aur din Ofaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "și am ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii mei"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "și am văzut"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "îmbrăcat"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "în in"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "și coapsele lui"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "încinse"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "cu aur"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "din Ofaz"
+    }
+  ],
+  "timestamp": "2026-09-04T05:53:32.670843659Z",
+  "model": "glm-5.3"
+}

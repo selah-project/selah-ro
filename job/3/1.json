@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "După aceasta a deschis Iov ⟨את⟩ gura lui și a blestemat ⟨את⟩ ziua lui.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "După"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a deschis"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura lui"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "gura lui"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "și a blestemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziua lui"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ziua lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:45.180279280Z",
+  "model": "glm-5.3"
+}

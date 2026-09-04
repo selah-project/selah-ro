@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Ascultă, Elohim, glasul meu în jeluirea mea; de spaima vrăjmașului păzește-mi viața.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "în jeluirea mea"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "de spaima"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vrăjmașului"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "păzește"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "viața mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:10.434213138Z",
+  "model": "glm-5.3"
+}

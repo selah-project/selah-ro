@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Nu asupra jertfelor tale te voi mustra, și arderile tale de tot ⟨sunt⟩ înaintea mea neîncetat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "jertfelor tale"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "te voi mustra"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "și arderile tale de tot"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:32.309305115Z",
+  "model": "glm-5.3"
+}

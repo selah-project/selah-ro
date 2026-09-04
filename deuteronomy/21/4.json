@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "și vor coborî bătrânii orașului acela ⟨את⟩ vițeaua la un pârâu neostoit, care nu se lucrează în el și nu se seamănă, și îi vor frânge gâtul acolo ⟨את⟩ vițeaua în pârâu.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "și vor coborî"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "orașului"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vițeaua"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vițeaua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "un pârâu"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "neostoit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "se lucrează"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "se seamănă"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "și îi vor frânge gâtul"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vițeaua"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vițeaua"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "în pârâu"
+    }
+  ],
+  "timestamp": "2026-09-04T02:09:28.625513789Z",
+  "model": "glm-5.3"
+}

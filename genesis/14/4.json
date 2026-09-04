@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Douăsprezece ani au slujit ⟨את⟩ Kedarlaomer, iar în al treisprezecelea an s-au răsculat.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Două"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "au slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "iar în al trei"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sprezecelea"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "s-au răsculat"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:44.324985138Z",
+  "model": "glm-5.3"
+}

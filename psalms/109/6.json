@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Pune peste el un răufăcător, și un pârâș să stea la dreapta lui.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Pune"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "un răufăcător"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "și un pârâș"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "să stea"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dreapta lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:53.984266718Z",
+  "model": "glm-5.3"
+}

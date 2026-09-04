@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Dacă mușcă șarpele fără descântec, nu ⟨este⟩ câștig pentru stăpânul limbii.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "mușcă"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "șarpele"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "fără"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "descântec"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "câștig"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "pentru stăpânul"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "limbii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:47.864422213Z",
+  "model": "glm-5.3"
+}

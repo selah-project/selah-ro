@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Cel strâmb la inimă nu va găsi binele, și cel întors în limba lui va cădea în rău.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "Cel strâmb"
+    },
+    {
+      "surface": "לב",
+      "gloss": "la inimă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "va găsi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "și cel întors"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "în limba lui"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "va cădea"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "în rău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:04.199458694Z",
+  "model": "glm-5.3"
+}

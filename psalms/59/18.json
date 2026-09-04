@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Tăria mea — către tine voi cânta cu instrumente, căci Elohim este turnul meu de scăpare, Elohim hesed-ului meu.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Tăria mea"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "voi cânta cu instrumente"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "turnul meu de scăpare"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesed-ului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:19.011567643Z",
+  "model": "glm-5.3"
+}

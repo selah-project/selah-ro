@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și El Șadai (El Atotputernicul) să te binecuvânteze ⟨את⟩ tine, și să te facă roditor, și să te înmulțească, și să fii adunare de popoare.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Și El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Șadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "să binecuvânteze"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tine",
+      "marks": "să te binecuvânteze pe tine"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "și să te facă roditor"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "și să te înmulțească"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "și să fii"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "adunare de"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:25.721639447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și își va scoate ⟨את⟩ hainele sale și va îmbrăca haine altele, și va scoate ⟨את⟩ cenușa afară din tabără, la un loc curat.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Și va dezbrăca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele sale"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele sale"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "și va îmbrăca"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "haine"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altele"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "și va scoate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cenușa"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "cenușa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "din tabără"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "loc"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:17.609551701Z",
+  "model": "glm-5.3"
+}

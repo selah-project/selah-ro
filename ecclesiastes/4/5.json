@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Nebunul își strânge ⟨את⟩ mâinile lui și mănâncă ⟨את⟩ carnea lui.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Nebunul"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "își strânge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lui"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinile lui"
+    },
+    {
+      "surface": "ו אכל",
+      "gloss": "și mănâncă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carnea lui"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "carnea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:35.499948396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Yahve, nu mă mustra în mânia ta și în furia ta nu mă pedepsi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "în mânia ta"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "mă mustra"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "și în furia ta"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "mă pedepsi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:58.686704980Z",
+  "model": "glm-5.3"
+}

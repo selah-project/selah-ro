@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Vezi, eu pun înaintea voastră astăzi binecuvântarea și blestemul.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "binecuvântarea"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "și blestemul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:36.552424892Z",
+  "model": "glm-5.3"
+}

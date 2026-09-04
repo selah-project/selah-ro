@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "căci sufletul lui, în viața lui, își dă binecuvântare, și te vor lăuda, pentru că îți faci bine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul lui"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "în viața lui"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "dă binecuvântare"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "și te vor lăuda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "îți faci bine"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:39.899022455Z",
+  "model": "glm-5.3"
+}

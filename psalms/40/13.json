@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Căci m-au înconjurat rele fără de număr; m-au ajuns fărădelegile mele și nu am putut să văd; s-au înmulțit mai mult decât părul capului meu, și inima mea m-a părăsit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "m-au înconjurat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "rele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "אין",
+      "gloss": "fără de"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "număr"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "m-au ajuns"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "fărădelegile mele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "am putut"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să văd"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "s-au înmulțit"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "decât părul"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capului meu"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "și inima mea"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "m-a părăsit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:25.314552896Z",
+  "model": "glm-5.3"
+}

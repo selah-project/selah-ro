@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 133,
+  "translation": "Cântarea urcărilor, a lui David. Iată, ce bun și ce plăcut: șederea fraților, chiar laolaltă.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântarea"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "urcărilor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a lui David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "și ce"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "plăcut"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "șederea"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "fraților"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "laolaltă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:38.016048057Z",
+  "model": "glm-5.3"
+}

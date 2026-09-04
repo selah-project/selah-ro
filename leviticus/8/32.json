@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Iar ce rămâne din carne și din pâine, în foc să ardeți.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "Iar ce rămâne"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "din carne"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "și din pâine"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "să ardeți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:51.205530401Z",
+  "model": "glm-5.3"
+}

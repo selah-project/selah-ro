@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Iubitorul de argint nu se satură de argint, și cine iubește belșugul nu ⟨se satură⟩ de venit; chiar și aceasta este deșertăciune.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "iubitorul"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de argint"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se satură"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de argint"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iubește"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "belșugul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "de venit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "este deșertăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T08:11:45.549396348Z",
+  "model": "glm-5.3"
+}

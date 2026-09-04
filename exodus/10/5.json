@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și vor acoperi ⟨את⟩ fața pământului, și nu se va putea vedea ⟨את⟩ pământul; și vor mânca ⟨את⟩ rămășița scăpată, cea lăsată vouă de la grindină, și vor mânca ⟨את⟩ tot pomul care crește pentru voi din câmp.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "Și vor acoperi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața pământului"
+    },
+    {
+      "surface": "עין",
+      "gloss": "fața"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "se va putea"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "vedea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "și vor mânca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rămășița scăpată"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "rămășița"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "scăpată"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "cea lăsată"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grindină"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "și vor mânca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot pomul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pomul"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "care crește"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmp"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:17.506320293Z",
+  "model": "glm-5.3"
+}

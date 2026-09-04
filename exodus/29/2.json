@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "și pâine azimă, și turte azime amestecate cu untdelemn, și turtițe azime unse cu untdelemn; din floarea de grâu le vei face ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "și pâine"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "azimă"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "și turte"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "azime"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "amestecate"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "cu untdelemn"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "și turtițe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "azime"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "unse"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "cu untdelemn"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "floarea (de făină)"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "de grâu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le vei face (turtele și turtițele)"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:00.686784760Z",
+  "model": "glm-5.3"
+}

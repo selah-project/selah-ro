@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Fii îndurător cu mine, Yahve, căci sunt sleit; vindecă-mă, Yahve, căci mi s-au cutremurat oasele.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fii îndurător cu mine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "sunt sleit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "vindecă-mă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "s-au cutremurat"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "oasele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:34.874129940Z",
+  "model": "glm-5.3"
+}

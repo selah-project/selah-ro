@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Voi vindeca răzvrătirea lor, îi voi iubi de bunăvoie, căci s-a întors mânia mea de la el.",
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "Voi vindeca"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "răzvrătirea lor"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "îi voi iubi"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "de bunăvoie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mânia mea"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de la el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:13.409192043Z",
+  "model": "glm-5.3"
+}

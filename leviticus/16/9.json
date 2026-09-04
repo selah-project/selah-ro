@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și va aduce Aharon ⟨את⟩ țapul asupra căruia a ieșit sorțul pentru Yahve, și îl va face jertfă de păcat.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Și va aduce"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țapul"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "țapul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asupra căruia"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a ieșit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "asupra lui"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "sorțul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "și îl va face"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jertfă de păcat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:30.303583278Z",
+  "model": "glm-5.3"
+}

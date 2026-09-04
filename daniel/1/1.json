@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "În anul al treilea al domniei lui Iehoiakim, regele lui Iuda, a venit Nevucadnețar, regele lui Bavel, la Ierușalaim și a împresurat-o pe ea.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "În anul"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "al treilea"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "al domniei"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "lui Iehoiakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevucadnețar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "lui Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Ierușalaim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "și a împresurat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pe ea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:39.102263828Z",
+  "model": "glm-5.3"
+}

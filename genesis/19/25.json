@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a răsturnat ⟨את⟩ cetățile acestea, și ⟨את⟩ toată câmpia, și ⟨את⟩ pe toți locuitorii cetăților, și védoarea pământului.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Și a răsturnat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetățile acestea"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "האל",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată câmpia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "câmpia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți locuitorii cetăților"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "cetăților"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "și védoarea"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:02.755925804Z",
+  "model": "glm-5.3"
+}

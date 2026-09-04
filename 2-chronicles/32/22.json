@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a mântuit Yahve ⟨את⟩ Iehizchiahu și ⟨את⟩ locuitorii Ierușalaimului din mâna lui Sanherib, regele Așșurului, și din mâna tuturor, și i-a păstorit de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Și a mântuit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehizchiahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Iehizchiahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "locuitorii"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "lui Sanherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așșurului"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "și din mâna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "și i-a păstorit"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T09:17:12.634267694Z",
+  "model": "glm-5.3"
+}

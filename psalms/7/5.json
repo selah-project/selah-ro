@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Dacă am răsplătit cu rău pe cel ce era în pace cu mine, și l-am smuls ⟨pe⟩ prigonitorul meu fără pricină —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "am răsplătit"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "pe cel ce era în pace cu mine"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cu rău"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "și l-am smuls"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "prigonitorul meu"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "fără pricină"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:48.806906519Z",
+  "model": "glm-5.3"
+}

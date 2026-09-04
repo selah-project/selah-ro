@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Nu va cerceta oare Elohim aceasta? Căci el cunoaște tainele inimii.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nu ... oare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "va cerceta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "tainelor"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inimii"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:22.548734667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Voi spune către Yahve: «Adăpostul meu și fortăreața mea, Elohim al meu, în el mă încred.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Voi spune"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "Adăpostul meu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "și fortăreața mea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "mă încred"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:21.043485679Z",
+  "model": "glm-5.3"
+}

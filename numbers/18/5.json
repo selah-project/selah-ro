@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și veți păzi ⟨את⟩ paza lucrurilor sfinte și ⟨את⟩ paza altarului, și nu va mai fi mânie peste fiii lui Israel.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Și veți păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paza"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "paza"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "lucrurilor sfinte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "paza"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "paza"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarului"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va mai fi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "mânie"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:50:20.372314427Z",
+  "model": "glm-5.3"
+}

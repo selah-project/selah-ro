@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și au zis pomii smochinului: Vino, tu să domnești peste noi!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "pomii"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "smochinului"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Vino"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "să domnești"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:00.780135629Z",
+  "model": "glm-5.3"
+}

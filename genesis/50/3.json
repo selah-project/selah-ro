@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Și i s-au împlinit patruzeci de zile, căci așa se împlineau zilele îmbălsămaților; și au plâns ⟨את⟩ pe el egiptenii șaptezeci de zile.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "s-au împlinit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "îi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "se împlineau"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "îmbălsămaților"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "și au plâns"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egiptenii"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "șaptezeci"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T08:46:20.174828871Z",
+  "model": "glm-5.3"
+}

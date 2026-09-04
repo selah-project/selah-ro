@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Dați lui Yahve slava numelui său; închinați-vă lui Yahve în strălucirea sfințeniei.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Dați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numelui său"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "închinați-vă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "în strălucirea"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfințeniei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:59.269985395Z",
+  "model": "glm-5.3"
+}

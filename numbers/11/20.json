@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "ci până la o lună de zile, până când va ieși din nările voastre și va fi pentru voi drept scârbă, pentru că ați disprețuit ⟨את⟩ Yahve, care este în mijlocul vostru, și ați plâns înaintea lui, zicând: Pentru ce aceasta, că am ieșit din Mițraim?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "o lună"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de zile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până când"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "va ieși"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "din nările voastre"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "drept scârbă"
+    },
+    {
+      "surface": "יען",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "ați disprețuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "este în mijlocul vostru"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "și ați plâns"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Pentru ce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "am ieșit"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:53:26.421537186Z",
+  "model": "glm-5.3"
+}

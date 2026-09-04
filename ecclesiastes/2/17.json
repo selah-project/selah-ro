@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și am urât ⟨את⟩ viața, căci rău este pentru mine lucrul care se face sub soare, căci totul este deșertăciune și goană după vânt.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Și am urât"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "viața"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "care se face"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșertăciune"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "și goană după"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vânt"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:29.269724925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "sămânță a lui Avraham, slujitorul lui, fii ai lui Iaacov, aleșii lui",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "sămânță"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "a lui Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slujitorul lui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii ai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "aleșii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:39.403319980Z",
+  "model": "glm-5.3"
+}

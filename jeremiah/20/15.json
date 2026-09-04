@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Blestemat omul care a vestit ⟨את⟩ tatălui meu, zicând: s-a născut ție un fiu bărbat, bucurându-l cu bucurie.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Blestemat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "a vestit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatălui meu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatălui meu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "s-a născut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bărbat"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "bucurând"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "bucurându-l"
+    }
+  ],
+  "timestamp": "2026-09-04T04:04:53.192862550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și veți păzi ⟨את⟩ așezămintele mele și le veți face ⟨את⟩ pe ele; Eu ⟨sunt⟩ Yahve, Cel ce vă sfințește.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Și veți păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "așezămintele mele"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "așezămintele mele"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "și le veți face"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Cel ce vă sfințește"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:18.069007722Z",
+  "model": "glm-5.3"
+}

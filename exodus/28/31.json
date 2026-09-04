@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și vei face ⟨את⟩ mantia efodului, în întregime din țesătură albastră-violet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Și vei face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantia efodului"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mantia"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodului"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "în întregime"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "albastră-violet"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:12.147151613Z",
+  "model": "glm-5.3"
+}

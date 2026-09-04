@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "și ⟨את⟩ cele zece temelii, și ⟨את⟩ cele zece căzi de spălat de pe temelii",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "temeliile"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "temeliile"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zece"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "căzile de spălat"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "căzile de spălat"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zece"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "temelii"
+    }
+  ],
+  "timestamp": "2026-09-04T03:10:10.392328982Z",
+  "model": "glm-5.3"
+}

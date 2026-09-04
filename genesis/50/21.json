@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Iar acum, să nu vă temeți: eu vă voi hrăni ⟨את⟩ pe voi și ⟨את⟩ pruncii voștri. Și i-a mângâiat și a vorbit pe inima lor.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Iar acum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vă temeți"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "vă voi hrăni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pruncii voștri"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "pruncii voștri"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "și i-a mângâiat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ pe ei"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "și a vorbit"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "inima lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:07.018048870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și la o casă de ospăț să nu intri, ca să șezi ⟨cu⟩ ei, să mănânci și să bei.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Și la o casă"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "de ospăț"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "intri"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ca să șezi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "să mănânci"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "și să bei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:34:23.041439207Z",
+  "model": "glm-5.3"
+}

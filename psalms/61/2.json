@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 61,
+  "translation": "Ascultă, Elohim, strigătul meu; ia aminte la rugăciunea mea.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "strigătul meu"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ia aminte"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:00.313533718Z",
+  "model": "glm-5.3"
+}

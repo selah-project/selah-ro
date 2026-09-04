@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și te voi logodi mie în credincioșie, și mă vei cunoaște ⟨את⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "și te voi logodi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "în credincioșie"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "și mă vei cunoaște"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:50.367941583Z",
+  "model": "glm-5.3"
+}

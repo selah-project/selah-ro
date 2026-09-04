@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și chiar Eu am auzit ⟨את⟩ ge mailor fiilor lui Israel, pe care Mițraim ⟨את⟩ îi pune să lucreze, și Mi-am amintit ⟨את⟩ legământului Meu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și chiar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ge mailor"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "ge mailor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "îi pune să lucreze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ îi"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "și Mi-am amintit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământului Meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământului Meu"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:38.833277497Z",
+  "model": "glm-5.3"
+}

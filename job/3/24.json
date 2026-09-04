@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Căci înainte de pâinea mea vine suspinul meu, și ca apele se varsă mugetele mele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înainte de"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "pâinea mea"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "suspinul meu"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "și se varsă"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ca apele"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mugetele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:35.857855990Z",
+  "model": "glm-5.3"
+}

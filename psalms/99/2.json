@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 99,
+  "translation": "Yahve ⟨este⟩ mare în Țion, și înalt ⟨este⟩ el peste toate popoarele.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "în Țion"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "și înalt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:59.512119623Z",
+  "model": "glm-5.3"
+}

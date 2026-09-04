@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Calea nebunului ⟨este⟩ dreaptă în ochii lui, iar cel ce ascultă de sfat ⟨este⟩ înțelept.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Calea"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nebunului"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dreaptă"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "iar cel ce ascultă"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "de sfat"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:37.162175640Z",
+  "model": "glm-5.3"
+}

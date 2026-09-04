@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Iar ei nu au știut că au fost auziți de Iosif, căci tălmaciul ⟨era⟩ între ei.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Iar ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "au știut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "au fost auziți de"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tălmaciul"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "era între ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:18.587711057Z",
+  "model": "glm-5.3"
+}

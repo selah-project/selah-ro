@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Un glas care zice: Strigă! Și ⟨el⟩ a zis: Ce să strig? Tot carul ⟨este⟩ iarbă, și tot hesedul lui ⟨este⟩ ca floarea câmpului.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Un glas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "care zice"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Strigă"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "să strig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carul"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "este iarbă"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ca floarea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:49.770678665Z",
+  "model": "glm-5.3"
+}

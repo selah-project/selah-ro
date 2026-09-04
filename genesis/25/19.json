@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și acestea sunt nașterile lui Ițhac, fiul lui Avraham: Avraham a născut ⟨את⟩ Ițhac.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și aceștea"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "sunt nașterile"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "lui Ițhac"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ițhac"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:13.691193190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci orice bocanc al celui ce calcă cu zgomot și veșmânt rostogolit în sânge — vor fi spre ardere, hrană de foc.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "bocanc"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "al celui ce calcă"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "cu zgomot"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "și veșmânt"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "rostogolit"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "în sânge"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "vor fi"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "spre ardere"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "hrană"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de foc"
+    }
+  ],
+  "timestamp": "2026-09-04T07:25:27.395658658Z",
+  "model": "glm-5.3"
+}

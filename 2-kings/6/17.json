@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 6:17",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și s-a rugat Elișa și a spus: Yahve, deschide, te rog, ⟨את⟩ ochii lui și să vadă. Și a deschis Yahve ⟨את⟩ ochii tânărului, și a văzut, și iată muntele plin de cai și care de foc în jurul lui Elișa.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "Și s-a rugat"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elișa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "deschide"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii lui"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochii lui"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "și să vadă"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "și a deschis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii tânărului"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tânărului"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plin"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "de cai"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "și care"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de foc"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "în jurul"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "lui Elișa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:46.501856466Z",
+  "model": "glm-5.3"
+}

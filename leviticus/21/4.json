@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "să nu se pângărească ⟨ca⟩ baal între poporul lui, ca să se profaneze.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se pângărească"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨ca⟩ baal (stăpân\/soț)"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "între poporul lui"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "ca să se profaneze"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:36.595822796Z",
+  "model": "glm-5.3"
+}

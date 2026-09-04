@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Cunosc fiecare pasăre a munților și ce mișună pe câmp ⟨este⟩ cu mine.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Cunosc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pasăre"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a munților"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "și ce mișună"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "pe câmp"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:28.383402888Z",
+  "model": "glm-5.3"
+}

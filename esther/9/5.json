@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "I-au lovit iudeii pe toți dușmanii lor cu lovitura sabiei și cu măcel și cu pierzanie, și au făcut celor care îi urau după voia lor.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "i-au lovit"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeii"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "dușmanii lor"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "cu lovitura"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "și cu măcel"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "și cu pierzanie"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "și au făcut"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "celor care îi urau"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "după voia lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:47:20.048790765Z",
+  "model": "glm-5.3"
+}

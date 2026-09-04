@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și un om care se culcă ⟨את⟩ cu femeia tatălui său, golățenia tatălui său a descoperit-o: moarte să fie omorâți amândoi; sângele lor ⟨este⟩ asupra lor.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "se culcă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu femeia tatălui său"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "cu femeia"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "golățenia"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "a descoperit-o"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "să fie omorâți"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "sângele lor"
+    },
+    {
+      "surface": "בם",
+      "gloss": "asupra lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:20.960118020Z",
+  "model": "glm-5.3"
+}

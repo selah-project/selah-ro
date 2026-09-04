@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iată, cel îngâmfat — nu ⟨este⟩ dreaptă sufletul lui în el; iar cel drept prin credincioșia lui va trăi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "cel îngâmfat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "dreaptă"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul lui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "iar cel drept"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "prin credincioșia lui"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "va trăi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:46:53.189809694Z",
+  "model": "glm-5.3"
+}

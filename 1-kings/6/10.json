@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a zidit ⟨את⟩ anexa peste toată casa, de cinci coți înălțimea ei, și a prins ⟨את⟩ casa cu lemne de cedri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Și a zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anexa"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "anexa"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coți"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "înălțimea ei"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "și a prins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "cu lemne de"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedri"
+    }
+  ],
+  "timestamp": "2026-09-04T03:10:30.338855734Z",
+  "model": "glm-5.3"
+}

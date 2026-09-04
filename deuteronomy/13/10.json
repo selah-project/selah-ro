@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Căci omorând să-l omori — mâna ta să fie în el cea dintâi, ca să-l omori, și mâana totului poporului în cea de pe urmă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "omorând"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "să-l omori"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "în cea dintâi"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ca să-l omoare"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "și mâna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "totului"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "în cea de pe urmă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:20.468447167Z",
+  "model": "glm-5.3"
+}

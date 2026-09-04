@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și ⟨i s-a⟩ vestit lui David, și a adunat ⟨את⟩ tot Israelul, și a trecut ⟨את⟩ Iordanul, și a venit la Helam; și a înșiruit Aram bătălia înaintea lui David, și s-au luptat cu el.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "și ⟨i s-a⟩ vestit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "și a adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot Israelul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "și a trecut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordanul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanul"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "la Helam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "și a înșiruit bătălia"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "și s-au luptat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:41.275188974Z",
+  "model": "glm-5.3"
+}

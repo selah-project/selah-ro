@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Aproape este Yahve de toți cei ce-l cheamă, de toți cei ce-l cheamă pe el în adevăr.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Aproape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de toți"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "cei ce-l cheamă"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de toți"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cei ce"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "îl cheamă pe el"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "în adevăr"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:05.751128393Z",
+  "model": "glm-5.3"
+}

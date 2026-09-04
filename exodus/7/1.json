@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "A spus Yahve către Moșe: Vezi, te-am pus ca un Elohim pentru Paro, iar Aharon, fratele tău, va fi naviul tău.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "te-am pus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ca un Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "pentru Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iar Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "naviul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:50.410250189Z",
+  "model": "glm-5.3"
+}

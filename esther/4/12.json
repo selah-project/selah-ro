@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și i-au spus lui Mordehai ⟨את⟩ cuvintele Esterei.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Și i-au spus"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "lui Mordehai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:29.373047501Z",
+  "model": "glm-5.3"
+}

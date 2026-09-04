@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Căci peste ceruri ⟨este⟩ mare hesedul tău (îndurarea ta), și până la nori adevărul tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "peste"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nori"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "adevărul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:55.059028131Z",
+  "model": "glm-5.3"
+}

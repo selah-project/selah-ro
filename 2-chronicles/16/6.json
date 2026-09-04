@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Iar Asa, regele, a luat ⟨את⟩ tot Iuda, și au ridicat ⟨את⟩ pietrele Ramei și ⟨את⟩ lemnul ei, pe care le clădise Bașa, și a clădit cu ele ⟨את⟩ Gheba și ⟨את⟩ Mițpa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Iar Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot Iuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iuda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "și au ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pietrele Ramei"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pietrele"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lemnul ei"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "lemnul ei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "clădise"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bașa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "și a clădit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "cu ele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gheba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Mițpa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mițpa"
+    }
+  ],
+  "timestamp": "2026-09-04T06:24:29.722736596Z",
+  "model": "glm-5.3"
+}

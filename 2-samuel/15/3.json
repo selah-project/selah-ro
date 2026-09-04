@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și zicea către el Avșalom: Iată, pricina ta ⟨este⟩ bună și dreaptă, și un ascultător nu este pentru tine de la ⟨את⟩ rege.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și zicea"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "pricina ta"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bun(ă)"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "și dreaptă"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "și un ascultător"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "rege"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rege"
+    }
+  ],
+  "timestamp": "2026-09-04T03:01:52.624520187Z",
+  "model": "glm-5.3"
+}

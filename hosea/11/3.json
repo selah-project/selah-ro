@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și Eu i-am învățat pe Efraim să meargă, îi luam pe brațele lui, și nu au știut că Eu i-am vindecat.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Și Eu"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "i-am învățat să meargă"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "pe Efraim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "îi luam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "brațele lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "au știut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "i-am vindecat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:20.057577372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "L-am căutat pe Yahve, și ⟨el⟩ m-a răspuns, și din toate spaimele mele m-a scos.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "L-am căutat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "și m-a răspuns"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "și din toate"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "spaimele mele"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "m-a scos"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:26.003478799Z",
+  "model": "glm-5.3"
+}

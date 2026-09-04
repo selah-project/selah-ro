@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și va arde cohenul ⟨את⟩ partea ei de aducere-aminte, din grunjii ei și din untdelemnul ei, peste toată tămâia ei — jertfă de foc lui Yahve.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Și va arde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "partea ei de aducere-aminte"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "partea ei de aducere-aminte"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "din grunjii ei"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "și din untdelemnul ei"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "tămâia ei"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jertfă de foc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:25.659489695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Să fie pustiți din pricina rușinii lor cei care îmi zic: „Aha, aha!”",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Să fie pustiți"
+    },
+    {
+      "surface": "על",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨răsplata⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "rușinii lor"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "cei care zic"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "„Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha!”"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:25.315094909Z",
+  "model": "glm-5.3"
+}

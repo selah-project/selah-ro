@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Numai El ⟨este⟩ stânca mea și izbăvirea mea, înălțimea mea: nu voi fi clintit.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "numai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stânca mea"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "și izbăvirea mea"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "înălțimea mea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "voi fi clintit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:53.763839301Z",
+  "model": "glm-5.3"
+}

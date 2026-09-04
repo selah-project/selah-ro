@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și de sabia ta vei trăi, și ⟨את⟩ fratele tău vei sluji; și va fi, când te vei ridica, că jugul lui vei sfărâma de pe ceafa ta.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "și de"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sabia ta"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "vei trăi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fratele tău"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "vei sluji"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "te vei ridica"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "vei sfărâma"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "jugul lui"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ceafa ta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:53.725836828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Șovău vorbi fiecare ⟨את⟩ semenul său, buze netede, cu inimă și inimă vorbesc.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "șovău"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vorbi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semenul său"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "semenul său"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "buze"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "neteDE"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "cu inimă"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "și inimă"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vorbesc"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:05.571057427Z",
+  "model": "glm-5.3"
+}

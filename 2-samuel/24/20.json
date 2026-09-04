@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a privit Aravna și a văzut ⟨את⟩ regele și ⟨את⟩ slujitorii lui venind către el; și a ieșit Aravna și s-a închinat regelui, cu fața la pământ.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "și a privit"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "slujitorii lui"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slujitorii lui"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "venind"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și a ieșit"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "și s-a închinat"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "fața"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "la pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:11.842234202Z",
+  "model": "glm-5.3"
+}

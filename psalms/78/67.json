@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și a lepădat cortul lui Iosif, iar seminției lui Efraim nu i-a ales-o.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Și a lepădat"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "iar seminției"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "lui Efraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a ales-o"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:44.842361647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "și nu se socotea cu ⟨את⟩ oamenii cărora li se dădea ⟨את⟩ argintul în mână, ca să-l dea celor care făceau lucrarea, căci în credincioșie lucrau ei.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "se socotea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cărora"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "li se dădea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argintul"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintul"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mâna lor"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ca să dea"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "celor care făceau"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "în credincioșie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "lucrau"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:34.872744595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Și toate coarnele celor răi voi tăia, se vor înălța coarnele celui drept.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Și toate"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "coarnele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "voi tăia"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "se vor înălța"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "coarnele"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "celui drept"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:56.138710721Z",
+  "model": "glm-5.3"
+}

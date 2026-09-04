@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "O dată a vorbit Elohim, de două ori aceasta am auzit: că tăria este a lui Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "O dată"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "de două ori"
+    },
+    {
+      "surface": "זו",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tăria"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "este a lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:59.573801387Z",
+  "model": "glm-5.3"
+}

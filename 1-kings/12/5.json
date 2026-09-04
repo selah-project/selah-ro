@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și le-a spus: Mergeți ⟨încă⟩ trei zile și întoarceți-vă la mine. Și a mers poporul.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și le-a spus"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "la ei"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mergeți"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨încă⟩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "și întoarceți-vă"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:31.573633455Z",
+  "model": "glm-5.3"
+}

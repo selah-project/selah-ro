@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "E sfărâmată cetatea haosului; e închisă fiecare casă, fără intrare.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "e sfărâmată"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "haosului"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "e închisă"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casă"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "fără intrare"
+    }
+  ],
+  "timestamp": "2026-09-04T03:42:35.349219220Z",
+  "model": "glm-5.3"
+}

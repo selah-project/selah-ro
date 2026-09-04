@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Ouă de viperă au crăpat și pânză de păianjen țes; cel ce mănâncă din ouăle lor moare, și ce se sparge se crapă într-o aspidă.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "Ouă"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "de viperă"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "au crăpat"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "și pânză"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "de păianjen"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "țes"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "cel ce mănâncă"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "din ouăle lor"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "moare"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "și ce se sparge"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "se crapă"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "aspidă"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:55.541432034Z",
+  "model": "glm-5.3"
+}

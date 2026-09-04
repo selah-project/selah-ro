@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Căci al meu ⟨este⟩ tot animalul pădurii, dobitoacele pe munții cu mii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לי",
+      "gloss": "al meu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "animalul"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pădurii"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "dobitoacele"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "pe munții"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "cu mii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:28.383273113Z",
+  "model": "glm-5.3"
+}

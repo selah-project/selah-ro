@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Au dat ⟨את⟩ trupurile moarte ale robilor tăi ca hrană păsărilor cerurilor, carnea credincioșilor tăi fiarelor pământului.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Au dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupurile moarte ale robilor tăi"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "trupurile moarte"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ale robilor tăi"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ca hrană"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "păsărilor"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "credincioșilor tăi"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "fiarelor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:24.258936792Z",
+  "model": "glm-5.3"
+}

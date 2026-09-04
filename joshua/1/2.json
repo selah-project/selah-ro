@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Moșe, robul meu, a murit; și acum scoală-te, treci ⟨את⟩ Iordanul acesta, tu și tot poporul acesta, către pământul pe care îl dau lor, fiilor lui Israel.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robul meu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a murit"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "קום",
+      "gloss": "scoală-te"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "treci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordanul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "îl dau"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:17:36.033853391Z",
+  "model": "glm-5.3"
+}

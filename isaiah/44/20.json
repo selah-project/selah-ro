@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Paște cenușă, o inimă înșelată; l-a abătut ea pe el, și nu-și va scăpa ⟨את⟩ sufletul său, și nu va zice: Oare nu este minciună în dreapta mea?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Paște"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "cenușă"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "înșelată"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "l-a abătut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "va scăpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletul său"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul său"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "va zice"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "în dreapta mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:51:37.562686880Z",
+  "model": "glm-5.3"
+}

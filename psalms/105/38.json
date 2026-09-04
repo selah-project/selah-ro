@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "S-a bucurat Mițraim la ieșirea lor, căci căzuse spaima lor peste ei.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "s-a bucurat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "la ieșirea lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "căzuse"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "spaima lor"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:38.445293146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Bine ai făcut ⟨את⟩ cu slujitorul tău, Yahve, după cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bine"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "după cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:39.498319291Z",
+  "model": "glm-5.3"
+}

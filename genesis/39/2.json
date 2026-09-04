@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Și a fost Yahve ⟨את⟩ Iosef, și a fost un om care izbutea, și a fost în casa stăpânului său, mițrianul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "care izbutea"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "stăpânului său"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "mițrianul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:24.626116050Z",
+  "model": "glm-5.3"
+}

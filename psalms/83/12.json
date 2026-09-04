@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Fă-i pe fruntașii lor ca Orev și ca Zeev, și ca Zevah și ca Țalmuna — toți căpeteniile lor!",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Fă"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "pe fruntașii lor"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "ca Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "și ca Zeev"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "și ca Zevah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "și ca Țalmuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "căpeteniile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:33.040852828Z",
+  "model": "glm-5.3"
+}

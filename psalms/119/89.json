@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Pentru totdeauna, Yahve, cuvântul tău stă așezat în ceruri.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Pentru totdeauna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stă așezat"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:11.343234994Z",
+  "model": "glm-5.3"
+}

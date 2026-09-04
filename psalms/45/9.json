@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Smirnă, aloe și casie — toate hainele tale; din palate de fildeș instrumentele cu coarde te-au desfătat.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Smirnă"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "și aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "și casie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "hainele tale"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "palate de"
+    },
+    {
+      "surface": "שן",
+      "gloss": "fildeș"
+    },
+    {
+      "surface": "מני",
+      "gloss": "instrumentele cu coarde"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "te-au desfătat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:12.245570614Z",
+  "model": "glm-5.3"
+}

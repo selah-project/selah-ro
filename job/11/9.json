@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Mai lungă decât pământul ⟨este⟩ măsura ei, și mai lată decât marea.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "mai lungă"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "decât pământul"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "măsura ei"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "și mai lată"
+    },
+    {
+      "surface": "מני",
+      "gloss": "decât"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:23.550723929Z",
+  "model": "glm-5.3"
+}

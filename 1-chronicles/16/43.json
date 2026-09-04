@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și s-au dus toți oamenii, fiecare la casa lui; iar David s-a întors să binecuvânteze ⟨את⟩ casa lui.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Și s-au dus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "העם",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "la casa lui"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "iar s-a întors"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "să binecuvânteze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:12:25.613221795Z",
+  "model": "glm-5.3"
+}

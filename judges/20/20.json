@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și au ieșit bărbații lui Israel la bătălie împotriva lui Binyamin, și s-au rânduit în linie de bătaie cu ⟨את⟩ ei, bărbații lui Israel, pentru bătălie, spre Ghiba.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "și au ieșit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bărbații"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "la bătălie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "lui Binyamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "și s-au rânduit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "cu ⟨את⟩ ei",
+      "marks": "ei — bărbații lui Binyamin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bărbații"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pentru bătălie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Ghiba"
+    }
+  ],
+  "timestamp": "2026-09-04T07:08:25.639717551Z",
+  "model": "glm-5.3"
+}

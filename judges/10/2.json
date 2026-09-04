@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a judecat ⟨את⟩ Israelul douăzeci și trei de ani; apoi a murit și a fost îngropat în Șamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "și a judecat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "și trei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "și a fost îngropat"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "în Șamir"
+    }
+  ],
+  "timestamp": "2026-09-04T02:33:07.859010260Z",
+  "model": "glm-5.3"
+}

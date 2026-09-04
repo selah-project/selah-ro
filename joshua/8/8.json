@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și va fi: când veți prinde ⟨את⟩ cetatea, veți da cetatea ⟨את⟩ focului; după cuvântul lui Yahve veți face. Vedeți: v-am poruncit ⟨את⟩ pe voi.”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "când veți prinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "veți da focului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "באש",
+      "gloss": "cu foc"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "veți face"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Vedeți"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "am poruncit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:19:29.961499224Z",
+  "model": "glm-5.3"
+}

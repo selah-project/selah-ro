@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și Kuș l-a născut ⟨את⟩ Nimrod; el a început să fie puternic pe pământ.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Și Kuș"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "pe Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "החל",
+      "gloss": "a început"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "puternic"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:07.950520085Z",
+  "model": "glm-5.3"
+}

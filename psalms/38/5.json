@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Căci fărădelegile mele au trecut peste capul meu; ca o povară grea apasă ele peste mine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "fărădelegile mele"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "peste capul meu"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "ca o povară"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "grea"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "apasă ele"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "peste mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:59.678186434Z",
+  "model": "glm-5.3"
+}

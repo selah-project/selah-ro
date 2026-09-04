@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a adunat din nou David ⟨את⟩ tuturor aleșilor din Israel, treizeci de mii.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Și a adunat din nou"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "din nou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuturor aleșilor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "aleșilor"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "din Israel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:15.334747959Z",
+  "model": "glm-5.3"
+}

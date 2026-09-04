@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a ieșit regele lui Israel și a lovit ⟨את⟩ caii și ⟨את⟩ carele, și a lovit pe aramei cu o lovire mare.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caii"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "caii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "carele"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "carele"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "pe aramei"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "cu o lovire"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T03:20:08.710138739Z",
+  "model": "glm-5.3"
+}

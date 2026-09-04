@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Tu cunoști șederea mea și scularea mea; înțelegi gândul meu de departe.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "cunoști"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "șederea mea"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "și scularea mea"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "înțelegi"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "gândul meu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "de departe"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:51.785120967Z",
+  "model": "glm-5.3"
+}

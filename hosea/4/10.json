@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și vor mânca și nu se vor sătura; s-au desfrânat și nu se vor înmulți, căci ⟨את⟩ Yahve l-au părăsit, ca să păzească.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Și vor mânca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "se vor sătura"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "s-au desfrânat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "se vor înmulți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "l-au părăsit"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ca să păzească"
+    }
+  ],
+  "timestamp": "2026-09-04T09:04:57.385090471Z",
+  "model": "glm-5.3"
+}

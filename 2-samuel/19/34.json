@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a zis regele către Barzillai: tu treci ⟨את⟩ cu mine, și eu te voi hrăni ⟨את⟩ pe tine cu mine la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "treci"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cu mine"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "și te voi hrăni"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "pe tine"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "la Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T03:05:07.336779443Z",
+  "model": "glm-5.3"
+}

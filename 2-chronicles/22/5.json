@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 22:5",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "De asemenea, după sfatul lor a mers, și s-a dus cu ⟨את⟩ Iehoram, fiul lui Ahav, regele lui Israel, la război împotriva lui Hazael, regele lui Aram, la Ramot-Ghilad; și au lovit arameii ⟨את⟩ Ioram.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "De asemenea"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "după sfatul lor"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a mers"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și s-a dus"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "Iehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Iehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "lui Ahav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "la război"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "lui Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "lui Aram"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "la Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ghilad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "arameii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Ioram"
+    }
+  ],
+  "timestamp": "2026-09-04T06:26:55.136182489Z",
+  "model": "glm-5.3"
+}

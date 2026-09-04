@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Să fie cetățuia lor pustiită; în corturile lor să nu fie locuitor.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Să fie"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "cetățuia lor"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "pustiită"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "în corturile lor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "locuitor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:18.582674859Z",
+  "model": "glm-5.3"
+}

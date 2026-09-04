@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Unsprezece zile ⟨de drum⟩ de la Horev, pe drumul muntelui Seir, până la Cadeș-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Un-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zile"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "de la Horev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntelui"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Cadeș-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:20.331057307Z",
+  "model": "glm-5.3"
+}

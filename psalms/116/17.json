@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Ție îți voi aduce jertfă de mulțumire și în Numele lui Yahve voi chema.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ție"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "voi aduce jertfă"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfă"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "de mulțumire"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "și în Numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "voi chema"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:00.653965991Z",
+  "model": "glm-5.3"
+}

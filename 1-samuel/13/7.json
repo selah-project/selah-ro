@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și evrei au trecut ⟨את⟩ Iordanul, țara lui Gad și Ghiladul; iar Șaul era încă la Ghilgal, și tot poporul tremura după el.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Și evrei"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordanul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "și Ghiladul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "iar Șaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "încă"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "la Ghilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "tremura"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:03.419245428Z",
+  "model": "glm-5.3"
+}

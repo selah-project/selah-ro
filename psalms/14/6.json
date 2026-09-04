@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Sfatul săracului voi rușina ⟨ei⟩, căci Yahve ⟨este⟩ adăpostul lui.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Sfatul"
+    },
+    {
+      "surface": "עני",
+      "gloss": "săracului"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "voi rușina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "adăpostul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:52:52.438071243Z",
+  "model": "glm-5.3"
+}

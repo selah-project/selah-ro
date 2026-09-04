@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Cât de multe sunt lucrările tale, Yahve! Pe toate cu înțelepciune le-ai făcut; plină este pământul de dobândirea ta.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cât de"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "multe sunt"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "lucrările tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "pe toate"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "cu înțelepciune"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "le-ai făcut"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plină este"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "de dobândirea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:42.990660294Z",
+  "model": "glm-5.3"
+}

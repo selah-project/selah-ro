@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Toată splendoarea fiicei regelui ⟨este⟩ înlăuntru; din broderii cu aur ⟨este⟩ haina ei.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toată"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "splendoarea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "înăuntru"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "din broderii cu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "haina ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:05.516322612Z",
+  "model": "glm-5.3"
+}

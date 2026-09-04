@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "M-au împresurat funiile morții, și torentele fărădelegii m-au înspăimântat.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "m-au împresurat"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "funiile"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "și torentele"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ale fărădelegii"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "m-au înspăimântat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:30.427755903Z",
+  "model": "glm-5.3"
+}

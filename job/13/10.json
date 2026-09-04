@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Fără îndoială ⟨את⟩ va mustra el pe voi, dacă în ascuns ridicați fața ⟨cu părtinire⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Fără îndoială"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "va mustra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "în ascuns"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fața"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "ridicați"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:17.016607963Z",
+  "model": "glm-5.3"
+}

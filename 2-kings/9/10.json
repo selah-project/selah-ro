@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "și ⟨את⟩ Izevel o vor mânca câinii în porțiunea lui Iezreel, și nu va fi cine să îngroape. Și a deschis ușa și a fugit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "o vor mânca"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "câinii"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "în porțiunea"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "lui Iezreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu va fi"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "să îngroape"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "și a deschis"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ușa"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "și a fugit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:28.381038173Z",
+  "model": "glm-5.3"
+}

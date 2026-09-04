@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Ridică-Te, Yahve, în mânia Ta, înalță-Te împotriva pornirilor prigonitorilor mei și trezește-Te către mine: judecata ai poruncit-o.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ridică-Te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "în mânia Ta"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "înalță-Te"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "împotriva pornirilor"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "prigonitorilor mei"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "și trezește-Te"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ai poruncit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:48.807405576Z",
+  "model": "glm-5.3"
+}

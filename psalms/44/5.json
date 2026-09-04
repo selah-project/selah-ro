@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Tu ești regele meu, Elohim; poruncește izbânzi lui Iaacov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ești"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regele meu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncește"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "izbânzi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:35.741264989Z",
+  "model": "glm-5.3"
+}

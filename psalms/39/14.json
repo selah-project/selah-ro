@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Întoarce ⟨privirea⟩ de la mine și mă voi înviora, înainte să merg și să nu mai fiu.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Întoarce"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "și mă voi înviora"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "înainte să"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "merg"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "și să nu mai fiu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:31.156564122Z",
+  "model": "glm-5.3"
+}

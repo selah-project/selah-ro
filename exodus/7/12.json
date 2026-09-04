@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și au aruncat fiecare ⟨את⟩ toiagul său, și au fost de șerpi; și a înghițit toiagul lui Aharon ⟨את⟩ toiagurile lor.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Și au aruncat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "toiagul său"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "de șerpi"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "și a înghițit"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "toiagul"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toiagurile lor"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "toiagurile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:44.712861288Z",
+  "model": "glm-5.3"
+}

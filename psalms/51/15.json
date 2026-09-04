@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Pe cei răzvrătiți voi învăța căile tale și păcătoșii la tine se vor întoarce.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "voi învăța"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "pe cei răzvrătiți"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "căile tale"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "și păcătoșii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "se vor întoarce"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:23.674976433Z",
+  "model": "glm-5.3"
+}

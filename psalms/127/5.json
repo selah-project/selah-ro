@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 127,
+  "translation": "Ferice de omul care a umplut ⟨את⟩ tolba lui cu ei: nu se vor rușina, căci vor vorbi ⟨את⟩ dușmanilor în poartă.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Ferice de"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "care"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "a umplut"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tolba lui"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "tolba lui"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "se vor rușina"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יְדַבְּר֖וּ",
+      "gloss": "vor vorbi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dușmani"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "dușmani"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "în poartă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:14.245578330Z",
+  "model": "glm-5.3"
+}

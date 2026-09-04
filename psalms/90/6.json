@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Dimineața înflorește și trece; spre seară se taie și se usucă.",
+  "tokens": [
+    {
+      "surface": "בַּ֭בֹּקֶר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "יָצִ֣יץ",
+      "gloss": "înflorește"
+    },
+    {
+      "surface": "וְחָלָ֑ף",
+      "gloss": "și trece"
+    },
+    {
+      "surface": "לָ֝עֶ֗רֶב",
+      "gloss": "spre seară"
+    },
+    {
+      "surface": "יְמוֹלֵ֥ל",
+      "gloss": "se taie"
+    },
+    {
+      "surface": "וְיָבֵֽשׁ",
+      "gloss": "și se usucă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:02.696622781Z",
+  "model": "glm-5.3"
+}

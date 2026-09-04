@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar dacă jertfa ta ⟨este⟩ un dar de mâncare pe plită, făină de soi amestecată cu untdelemn, azimă va fi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dar de mâncare"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "plită"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "jertfa ta"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "făină de soi"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "amestecată"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "cu untdelemn"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "azimă"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:14.004024880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a întins ⟨את⟩ cortul peste Locuință, și a pus ⟨את⟩ acoperișul cortului peste el, pe deasupra, cum a poruncit Yahve ⟨את⟩ lui Moșe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Și a întins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cortul"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Locuința"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acoperișul cortului"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "acoperișul"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "pe deasupra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:13.103293171Z",
+  "model": "glm-5.3"
+}

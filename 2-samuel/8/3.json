@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a lovit David ⟨את⟩ Hadadezer, fiul lui Rehov, regele Țovei, când mergea el să-și întoarcă mâna la Râu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Și a lovit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lui Rehov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Țovei"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "când mergea el"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "să-și întoarcă"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "la Râu"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:06.564971103Z",
+  "model": "glm-5.3"
+}

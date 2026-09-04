@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a ieșit Ioav de la David și a trimis soli după Avner, și l-au adus înapoi de la puțul Sira — iar David nu a știut.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "soli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "și i-au adus înapoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "Avner"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "de la puțul"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Sira"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "iar David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a știut"
+    }
+  ],
+  "timestamp": "2026-09-04T02:55:02.705921514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "S-a întors Iehoșua în vremea aceea și a cucerit ⟨את⟩ Hațor, iar pe regele ei l-a lovit cu sabia, căci Hațor odinioară era capul tuturor împărățiilor acestora.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "în vremea"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "și a cucerit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hațor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hațor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "regele ei"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "regele ei"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "cu sabia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hațor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "odinioară"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "împărățiilor"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestora"
+    }
+  ],
+  "timestamp": "2026-09-04T02:21:36.215084527Z",
+  "model": "glm-5.3"
+}

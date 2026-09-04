@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Să tragă în ascuns în cel fără de prihană; pe neașteptate îl vor săgeta și nu se tem.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "să tragă"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "în ascuns"
+    },
+    {
+      "surface": "תם",
+      "gloss": "pe cel fără de prihană"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "pe neașteptate"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "îl vor săgeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "se tem"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:24.638806313Z",
+  "model": "glm-5.3"
+}

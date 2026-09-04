@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Elasa l-a născut ⟨את⟩ Sismai, și Sismai l-a născut ⟨את⟩ Șalum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Și Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "l-a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "și Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "l-a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șalum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Șalum"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:56.395627436Z",
+  "model": "glm-5.3"
+}

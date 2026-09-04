@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Fericiți cei ce păzesc judecata, cei ce fac dreptatea în tot timpul!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Fericiți"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "cei ce păzesc"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cei ce fac"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "timpul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:45.425169059Z",
+  "model": "glm-5.3"
+}

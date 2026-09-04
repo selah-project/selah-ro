@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Neagră ⟨sunt⟩ eu, și frumoasă, fiicele lui Ierușalaim, ca corturile lui Chedar, ca pânzele lui Șelomo.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "Neagră"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "și frumoasă"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiicele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "lui Ierușalaim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "ca corturile"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Chedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "ca pânzele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:02.942307476Z",
+  "model": "glm-5.3"
+}

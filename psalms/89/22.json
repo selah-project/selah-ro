@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "pe care mâna mea va fi întărită ⟨cu⟩ el, și brațul meu îl va întări.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "va fi întărită"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨cu⟩ el"
+    },
+    {
+      "surface": "אף",
+      "gloss": "și"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "brațul meu"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "îl va întări"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:04.416493061Z",
+  "model": "glm-5.3"
+}

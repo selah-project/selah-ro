@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Am văzut ⟨את⟩ ocuparea pe care a dat-o Elohim fiilor omului, ca să se ocupe cu ea.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ocuparea"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ocuparea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat-o"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ca să se ocupe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cu ea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:51.448988109Z",
+  "model": "glm-5.3"
+}

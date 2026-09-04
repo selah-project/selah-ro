@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "și ⟨את⟩ fratele vostru cel mic să-l aduceți la mine, și se vor adeveri cuvintele voastre, și nu veți muri. Și au făcut așa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fratele voastre cel mic"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "fratele vostru"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "cel mic"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "să-l aduceți"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "și se vor adeveri"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "cuvintele voastre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "veți muri"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "și au făcut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:30.107618809Z",
+  "model": "glm-5.3"
+}

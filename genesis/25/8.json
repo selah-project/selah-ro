@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a expirat și a murit Avraham la bătrânețe bună, bătrân și sătul de zile, și a fost adunat la poporul lui.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Și a expirat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "la bătrânețe"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bună"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bătrân"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "și sătul de zile"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "și a fost adunat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "poporul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:35.704362601Z",
+  "model": "glm-5.3"
+}

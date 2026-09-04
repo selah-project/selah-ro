@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și i-au apăsat vrăjmașii lor, și au fost smeriți sub mâna lor.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "Și i-au apăsat"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "vrăjmașii lor"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "și au fost smeriți"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mâna lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:17.228810714Z",
+  "model": "glm-5.3"
+}

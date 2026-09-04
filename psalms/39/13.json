@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 39:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Ascultă rugăciunea mea, Yahve, și strigătul meu ia-l în ureche, la lacrimile mele nu tăcea, căci străin sunt eu cu tine, locuitor ca toți părinții mei.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "și strigătul meu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ia-l în ureche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "lacrimile mele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tăcea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גר",
+      "gloss": "străin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "locuitor"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ca toți"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "părinții mei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:31.156353114Z",
+  "model": "glm-5.3"
+}

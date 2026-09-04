@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Voi deschide în pilde gura mea, voi vărsa enigme din vechime.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Voi deschide"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "în pilde"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura mea"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "voi vărsa"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "enigme"
+    },
+    {
+      "surface": "מני",
+      "gloss": "din"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "vechime"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:59.857867101Z",
+  "model": "glm-5.3"
+}

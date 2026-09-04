@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Căci asuprirea scoate din minți pe înțelept, și darul pierde ⟨את⟩ inima — mita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "asuprirea"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "scoate din minți"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "pe înțelept"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "și pierde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "mita"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:00.787232160Z",
+  "model": "glm-5.3"
+}

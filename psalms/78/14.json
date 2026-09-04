@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și i-a călăuzit ziua cu norul, și toată noaptea cu o lumină de foc.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Și i-a călăuzit"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "cu norul"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "באור",
+      "gloss": "cu o lumină"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de foc"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:46.028358337Z",
+  "model": "glm-5.3"
+}

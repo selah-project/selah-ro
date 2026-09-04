@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Elohim, un cântec nou voi cânta ție, pe nabal cu zece strune voi cânta ție.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un cântec"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nou"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "pe nabal"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "cu zece strune"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:44.323900678Z",
+  "model": "glm-5.3"
+}

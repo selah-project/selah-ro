@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Nu cu părinții noștri a încheiat Yahve ⟨את⟩ legământul acesta, ci ⟨את⟩ cu noi — noi, aceștia, aici, azi, toți vii.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ cu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "părinții noștri"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a încheiat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ cu noi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "toți"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vii"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:33.212695038Z",
+  "model": "glm-5.3"
+}

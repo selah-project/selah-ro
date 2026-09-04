@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 130,
+  "translation": "Adonai, auzi glasul meu! Să fie urechile tale cu luare-aminte la glasul cererilor mele!",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "auzi"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "urechile tale"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "cu luare-aminte"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "la glasul"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "cererilor mele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:32.405928258Z",
+  "model": "glm-5.3"
+}

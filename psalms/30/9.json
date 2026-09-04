@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Către tine, Yahve, strig, și către Adonai mă rog îndurat.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Către tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "strig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și către"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mă rog îndurat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:04.738089259Z",
+  "model": "glm-5.3"
+}

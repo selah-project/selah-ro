@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Cel care acoperă cerurile cu nori, Cel care pregătește pământului ploaie, Cel care face să răsară iarbă pe munți.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Cel care acoperă"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "cu nori"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "Cel care pregătește"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ploaie"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "Cel care face să răsară"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pe munți"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "iarbă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:12.067653567Z",
+  "model": "glm-5.3"
+}

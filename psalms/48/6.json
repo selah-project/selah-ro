@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Ei au văzut ⟨aceasta⟩, așa s-au mirat, s-au înspăimântat, au fugit în grabă.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "s-au mirat"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "s-au înspăimântat"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "au fugit în grabă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:01.437921875Z",
+  "model": "glm-5.3"
+}

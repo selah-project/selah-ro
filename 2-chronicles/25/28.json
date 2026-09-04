@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și l-au dus pe cai și l-au îngropat ⟨את⟩ cu părinții lui în cetatea lui Iehuda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "și l-au dus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și l-au îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el (sufixul -ו)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții lui"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetatea"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T09:17:14.522178312Z",
+  "model": "glm-5.3"
+}

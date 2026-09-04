@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Sărman sunt eu și pe moarte din tinerețe; am purtat spaimele tale — mă prăbușesc.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Sărman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "și pe moarte"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "din tinerețe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "am purtat"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "spaimele tale"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "mă prăbușesc"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:56.423631029Z",
+  "model": "glm-5.3"
+}

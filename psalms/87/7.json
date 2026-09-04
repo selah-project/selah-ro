@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 87,
+  "translation": "Și cântăreții ca cei ce cântă din flaut ⟨vor zice⟩: toate izvoarele mele ⟨sunt⟩ în tine.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "și cântăreții"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "ca cei ce cântă din flaut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "izvoarele mele"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:38.110856271Z",
+  "model": "glm-5.3"
+}

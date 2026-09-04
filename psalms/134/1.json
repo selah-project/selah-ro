@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 134,
+  "translation": "Cântare a urcărilor. Iată, binecuvântați ⟨את⟩ Yahve, toți robii lui Yahve, cei ce stau ⟨i⟩n casa lui Yahve ⟨i⟩n nopți!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "binecuvântați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "cei ce stau"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "în nopți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:15.960345382Z",
+  "model": "glm-5.3"
+}

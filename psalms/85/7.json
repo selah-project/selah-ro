@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Oare nu tu te vei întoarce, ca să ne dai din nou viață, și poporul tău să se bucure în tine?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "te vei întoarce"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ne vei da viață"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "și poporul tău"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se va bucura"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:39.685440556Z",
+  "model": "glm-5.3"
+}

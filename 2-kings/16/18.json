@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și ⟨את⟩ acoperișul Șabatului pe care îl construiseră în casă, și ⟨את⟩ intrarea regelui cea din afară, le-a mutat din Casa lui Yahve, din pricina regelui Așur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Și ⟨את⟩",
+      "marks": "acoperișul Șabatului"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "acoperișul"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Șabatului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "îl construiseră"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "intrarea regelui"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "intrarea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "cea din afară"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "le-a mutat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:26.678863947Z",
+  "model": "glm-5.3"
+}

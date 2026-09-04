@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Când a venit Iaacov în Mițraim și au strigat părinții voștri către Yahve, atunci Yahve a trimis ⟨את⟩ Moșe și ⟨את⟩ Aharon, și i-au scos ⟨את⟩ pe părinții voștri din Mițraim și i-au așezat în locul acesta.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Când"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "și au strigat"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "părinții voștri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "atunci a trimis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "și i-au scos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "părinții voștri"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "părinții voștri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "și i-au așezat"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:25.850460243Z",
+  "model": "glm-5.3"
+}

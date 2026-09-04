@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și nu l-a cunoscut, căci mâinile lui erau ca mâinile lui Esav, fratele lui, păroase; și l-a binecuvântat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "l-a cunoscut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinile lui"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "ca mâinile"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "păroase"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "și l-a binecuvântat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:26.700029066Z",
+  "model": "glm-5.3"
+}

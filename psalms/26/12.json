@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Piciorul meu a stat în loc drept; în adunări Îl voi binecuvânta pe Yahve.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Piciorul meu"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "a stat"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "în loc drept"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "în adunări"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "Îl voi binecuvânta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:16.463673748Z",
+  "model": "glm-5.3"
+}

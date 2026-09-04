@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și aceștia erau căpeteniile care erau ale lui: Azariahu, fiul lui Țadok, cohenul.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și aceștia"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לו",
+      "gloss": "erau ale lui"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azariahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "lui Țadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:09:21.689982891Z",
+  "model": "glm-5.3"
+}

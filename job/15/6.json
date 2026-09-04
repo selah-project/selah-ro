@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Gura ta te socoate vinovat, și nu eu, și buzele tale mărturisesc împotriva ta.",
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "te socoate vinovat"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gura ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "și buzele tale"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mărturisesc"
+    },
+    {
+      "surface": "בך",
+      "gloss": "împotriva ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:30:27.868470473Z",
+  "model": "glm-5.3"
+}

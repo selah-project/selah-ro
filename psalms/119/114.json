@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Adăpostul meu și scutul meu ⟨ești⟩ tu; la cuvântul tău am nădăjduit.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "adăpostul meu"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "și scutul meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "la cuvântul tău"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "am nădăjduit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:55.618307140Z",
+  "model": "glm-5.3"
+}

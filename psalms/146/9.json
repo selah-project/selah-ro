@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 146,
+  "translation": "Yahve păzește ⟨את⟩ străinii, pe orfan și pe văduvă îi sprijină, iar calea rășăiților o strâmbă.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "păzește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "străinii"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "străinii"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "pe orfan"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "și pe văduvă"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "îi sprijină"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "iar calea"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rășăiților"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "o strâmbă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:57.091086803Z",
+  "model": "glm-5.3"
+}

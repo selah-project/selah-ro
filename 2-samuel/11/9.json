@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și s-a culcat Uria la ușa casei regelui ⟨את⟩ cu toți slujitorii stăpânului său, și nu a coborât la casa lui.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Și s-a culcat"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la ușa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cu toți slujitorii stăpânului său"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cu toți"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slujitorii"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "stăpânului său"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a coborât"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:42.366260598Z",
+  "model": "glm-5.3"
+}

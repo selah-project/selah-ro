@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a făcut pentru casă ferestre cu deschideri înguste, închise.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pentru casă"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "ferestre"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "cu deschideri înguste"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "închise"
+    }
+  ],
+  "timestamp": "2026-09-04T03:10:38.140375550Z",
+  "model": "glm-5.3"
+}

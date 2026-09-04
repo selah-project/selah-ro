@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "și adunarea neamurilor te va înconjura, și peste ea, la înălțime, întoarce-Te.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "și adunarea"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "te va înconjura"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "și peste ea"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "la înălțime"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "întoarce-Te"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:48.807574256Z",
+  "model": "glm-5.3"
+}

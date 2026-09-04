@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Nu ⟨este⟩ regele mântuit prin mulțime de oștire; viteazul nu va fi scăpat prin mulțime de putere.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "⟨este⟩ mântuit"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "prin mulțime de"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "oștire"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "viteazul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "va fi scăpat"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "prin mulțime de"
+    },
+    {
+      "surface": "כח",
+      "gloss": "putere"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:18.223385994Z",
+  "model": "glm-5.3"
+}

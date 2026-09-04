@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 101,
+  "translation": "Voi fi înțelept în calea desăvârșită — când vei veni la mine? Voi umbla în integritatea inimii mele, în mijlocul casei mele.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "voi fi înțelept"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "în calea"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "desăvârșită"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vei veni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "voi umbla"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "în integritatea"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inimii mele"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "casei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:41.698392235Z",
+  "model": "glm-5.3"
+}

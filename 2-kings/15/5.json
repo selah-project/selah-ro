@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și l-a lovit Yahve ⟨את⟩ regele, și a fost lepros până în ziua morții lui, și a locuit în casa izolării; iar Iotam, fiul regelui, era peste casă, judecând ⟨את⟩ poporul țării.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Și l-a lovit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "lepros"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "morții lui"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a locuit"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "izolării"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "iar Iotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casă"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "judecând"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:03.050205358Z",
+  "model": "glm-5.3"
+}

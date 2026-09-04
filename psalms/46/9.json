@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Veniți, priviți faptele lui Yahve, care a pus pustiiri pe pământ.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "priviți"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "pustiiri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:54.369610001Z",
+  "model": "glm-5.3"
+}

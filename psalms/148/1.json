@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Halelu-Ya! Lăudați ⟨את⟩ Yahve din ceruri, lăudați-l în înălțimi!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Halelu-Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lăudați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "în înălțimi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:54.559552199Z",
+  "model": "glm-5.3"
+}

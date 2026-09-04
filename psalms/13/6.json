@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Iar eu în hesedul tău m-am încredințat, se va bucura inima mea în izbăvirea ta, voi cânta lui Yahve, căci a răsplătit peste mine.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "în hesedul tău"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m-am încredințat"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "se va bucura"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "în izbăvirea ta"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "a răsplătit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:33.848192148Z",
+  "model": "glm-5.3"
+}

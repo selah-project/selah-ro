@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Căci în ziua aceea vor lepăda fiecare idolii lui de argint și idolii lui de aur, pe care vi le-au făcut vouă mâinile voastre — un păcat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "vor lepăda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "idolii"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "lui de argint"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "și idolii"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "lui de aur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "mâinile voastre"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "un păcat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:45:40.086695240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și să aduci ⟨את⟩ masa și să așezi ⟨את⟩ așezarea ei, și să aduci ⟨את⟩ sfeșnicul și să faci să urcă ⟨את⟩ candelele lui.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "și să aduci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "și să așezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "așezarea ei"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "așezarea ei"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "și să aduci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfeșnicul"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sfeșnicul"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "și să faci să urcă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "candelele lui"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "candelele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:21.373200020Z",
+  "model": "glm-5.3"
+}

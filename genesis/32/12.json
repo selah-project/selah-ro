@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Scoate-mă, te rog, din mâna fratelui meu, din mâna lui Esav, căci mă tem ⟨את⟩ de el, ca nu cumva să vină și să mă lovească, mama împreună cu copiii.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Scoate-mă"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratelui meu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mă tem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "să vină"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "și să mă lovească"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "על",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "copiii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:59.341057759Z",
+  "model": "glm-5.3"
+}

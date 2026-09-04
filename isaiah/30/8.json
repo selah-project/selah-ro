@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Acum vino, scrie-o pe o tăbliță cu ⟨את⟩ ei și pecetluiește-o într-o carte, ca să fie pentru ziua de apoi, ca mărturie ⟨până⟩ în veac, până în veșnicie.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Acum"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "vino"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "scrie-o"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "o tăbliță"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei — sau «înaintea lor» (H854)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și în"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "o carte"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "pecetluiește-o"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ca să fie"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pentru ziua"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "de apoi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ca mărturie în"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnicie"
+    }
+  ],
+  "timestamp": "2026-09-04T07:27:14.215601953Z",
+  "model": "glm-5.3"
+}

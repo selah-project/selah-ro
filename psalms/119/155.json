@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Departe de cei răi ⟨este⟩ izbăvirea, căci hotarele tale nu le-au căutat.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Departe"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "de cei răi"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "izbăvirea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotarele tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "le-au căutat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:32.843646718Z",
+  "model": "glm-5.3"
+}

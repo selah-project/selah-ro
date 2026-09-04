@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "Cel rău va vedea și se va mânia; dinții lui va scrâșni și se va topi; pofta celor răi va pieri.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Cel rău"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "va vedea"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "și se va mânia"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dinții lui"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "va scrâșni"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "și se va topi"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "poftei"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "va pieri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:23.261448724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Atunci și-a întors ⟨את⟩ fața sa către perete și s-a rugat către Yahve, zicând:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Atunci și-a întors"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "peretele"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "și s-a rugat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T07:22:32.433417480Z",
+  "model": "glm-5.3"
+}

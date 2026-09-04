@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iată, Adonai o va deposeda, și va lovi în mare puterea ei, și ea în foc va fi mistuită.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יורשנה",
+      "gloss": "o va deposeda"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "și va lovi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "în mare"
+    },
+    {
+      "surface": "חילה",
+      "gloss": "puterea ei",
+      "marks": "puterea ei"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "și ea"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "va fi mistuită"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.569577253Z",
+  "model": "glm-5.3"
+}

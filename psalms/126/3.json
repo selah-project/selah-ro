@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 126,
+  "translation": "A făcut mari lucruri Yahve împreună cu noi; am fost veseli.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "a făcut mari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "lucruri"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "împreună cu noi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "veseli"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:20.744023075Z",
+  "model": "glm-5.3"
+}

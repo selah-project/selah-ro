@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și au spus oamenii lui David către el: Iată, noi ⟨suntem⟩ aici în Iehuda înfricoșați, și cu atât mai mult dacă vom merge la Ceila, către taberele filistenilor!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "au spus"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "în Iehuda"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "înfricoșați"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "și cu atât"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mai mult"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "vom merge"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "la Ceila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "taberele"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ale filistenilor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:25.414450286Z",
+  "model": "glm-5.3"
+}

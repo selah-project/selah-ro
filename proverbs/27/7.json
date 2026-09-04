@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Sufletul sătul calcă în picioare fagurele de miere, și pentru sufletul flămând tot ce e amar este dulce.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sătul"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "calcă în picioare"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "fagurele de miere"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "și sufletul"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "flămând"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ce e amar"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "este dulce"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:35.721737813Z",
+  "model": "glm-5.3"
+}

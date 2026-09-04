@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Elohim, nu te depărta de mine; Elohim al meu, grăbește-te în ajutorul meu!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "te depărta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "în ajutorul meu"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "grăbește-te"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:02.267881284Z",
+  "model": "glm-5.3"
+}

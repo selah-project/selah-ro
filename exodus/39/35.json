@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "⟨את⟩ chivotul mărturiei și ⟨את⟩ barele lui și ⟨את⟩ capacul ispășirii.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mărturiei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "barele"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "barele lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "capacul"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "capacul ispășirii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:36.798852528Z",
+  "model": "glm-5.3"
+}

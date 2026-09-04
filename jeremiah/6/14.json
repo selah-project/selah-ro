@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și au vindecat ⟨את⟩ fractura poporului meu în chip ușor, zicând: «Pace, pace!» — și nu este pace.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "Și au vindecat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fractura poporului meu"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "fractura"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "chip ușor"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Pace"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    }
+  ],
+  "timestamp": "2026-09-04T04:00:05.179877733Z",
+  "model": "glm-5.3"
+}

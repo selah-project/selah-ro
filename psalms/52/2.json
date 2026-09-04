@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Când a venit Doeg edomitul și a vestit ⟨את⟩ lui Șaul și i-a spus: A venit David la casa lui Ahimeleh.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Când a venit"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomitul"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "și a vestit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Șaul"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și i-a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "בא",
+      "gloss": "A venit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "lui Ahimeleh"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:08.320373225Z",
+  "model": "glm-5.3"
+}

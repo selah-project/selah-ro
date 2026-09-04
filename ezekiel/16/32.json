@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Femeia care preacurvește — în locul bărbatului ei primește ⟨את⟩ străini.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "Femeia"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "care preacurvește"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "bărbatului ei"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "primește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "străini"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "străini"
+    }
+  ],
+  "timestamp": "2026-09-04T04:23:34.477358553Z",
+  "model": "glm-5.3"
+}

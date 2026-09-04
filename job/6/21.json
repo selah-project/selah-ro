@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Căci acum ați fost ⟨ca nimicul⟩; vedeți groaza și v-ați temut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ați fost"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ca nimicul⟩"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vedeți"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "groaza"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "și v-ați temut"
+    }
+  ],
+  "timestamp": "2026-09-04T08:06:35.113900837Z",
+  "model": "glm-5.3"
+}

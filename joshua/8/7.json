@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Iar voi vă veți ridica din ascunziș și veți stăpâni ⟨את⟩ cetatea, și o va da Yahve, Elohimul vostru, în mâna voastră.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Iar voi"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "vă veți ridica"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "din ascunziș"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "veți stăpâni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "și o va da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim, al vostru"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "în mâna voastră"
+    }
+  ],
+  "timestamp": "2026-09-04T02:19:29.961328657Z",
+  "model": "glm-5.3"
+}

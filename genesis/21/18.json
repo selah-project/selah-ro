@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Ridică-te, ridică ⟨את⟩ copilul și ține ⟨את⟩ mâna ta pe el, căci într-un neam mare îl voi face.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Ridică-te"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "ridică"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "copilul"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "și ține"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna ta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "într-un neam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "îl voi face"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:15.568913221Z",
+  "model": "glm-5.3"
+}

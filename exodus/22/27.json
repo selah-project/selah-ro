@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Pe Elohim nu-l vei defăima, și pe un căpetenie în poporul tău nu-l vei blestema.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Pe Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "vei defăima"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "și pe un căpetenie"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "în poporul tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "vei blestema"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:54.697831889Z",
+  "model": "glm-5.3"
+}

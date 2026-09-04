@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Pentru faptul că nu au ieșit înaintea voastră cu pâine și cu apă în drum, la ieșirea voastră din Mițraim, și pentru că au plătit împotriva ta ⟨את⟩ pe Bilam, fiul lui Beor, din Ptor Aram-Naharaim, să te blesteme.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "faptul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "au ieșit înainte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voastră"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "cu pâine"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "și cu apă"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "în drum"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "la ieșirea voastră"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și pentru că"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "au plătit"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "împotriva ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "pe Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "lui Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "din Ptor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "să te blesteme"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:51.949773348Z",
+  "model": "glm-5.3"
+}

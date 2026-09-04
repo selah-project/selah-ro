@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și au murmurat în corturile lor, nu au ascultat de glasul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "și au murmurat"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "în corturile lor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "au ascultat"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:05.065684337Z",
+  "model": "glm-5.3"
+}

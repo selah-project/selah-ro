@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și s-a așezat sora lui de departe, ca să afle ce se va face cu el.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "Și s-a așezat"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sora lui"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "de departe"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ca să afle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se va face"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:32.162843238Z",
+  "model": "glm-5.3"
+}

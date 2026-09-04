@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "S-a făcut cunoscut Yahve: judecată a făcut; în lucrul mâinilor lui este prins în laț cel rău. Higaion. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "S-a făcut cunoscut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecată"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "în lucrul"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "mâinilor lui"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "este prins în laț"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:57.626140345Z",
+  "model": "glm-5.3"
+}

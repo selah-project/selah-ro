@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Vine Elohim al nostru și nu va tăcea: foc înaintea lui mistuie, și în jurul lui e foarte furtunos.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Vine"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "va tăcea"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mistuie"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "și în jurul lui"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "e furtunos"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:56.029283641Z",
+  "model": "glm-5.3"
+}

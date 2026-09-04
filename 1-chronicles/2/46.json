@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Eifa, concubina lui Kalev, a născut ⟨את⟩ Haran și ⟨את⟩ Moța și ⟨את⟩ Gazez; și Haran a zămislit ⟨את⟩ Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Și Eifa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "concubina"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "lui Kalev"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Moța"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Moța"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "și Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a zămislit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:11.897287465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Căci cei ce fac răul vor fi tăiați de pe pământ, iar cei ce așteaptă ⟨את⟩ Yahve — aceia vor moșteni țara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "cei ce fac răul"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "vor fi tăiați"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "iar cei ce așteaptă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "aceia"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "vor moșteni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:00.709953739Z",
+  "model": "glm-5.3"
+}

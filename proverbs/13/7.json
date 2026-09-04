@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Este cineva ⟨care⟩ se face bogat și nu are nimic; cineva se face sărac și ⟨totuși⟩ are avere multă.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "este cineva"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "se face bogat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu are"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nimic"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "se face sărac"
+    },
+    {
+      "surface": "והון",
+      "gloss": "și avere"
+    },
+    {
+      "surface": "רב",
+      "gloss": "multă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:05.523073076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și i-a spus ei trimisul lui Yahve: Înmulțind voi înmulți ⟨את⟩ sămânța ta și nu va putea fi numărată de mulțime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "trimisul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Înmulțind"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "voi înmulți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sămânța ta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sămânța ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "va putea fi numărată"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "de mulțime"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:16.633799929Z",
+  "model": "glm-5.3"
+}

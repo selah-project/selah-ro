@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Oracolul răzvrătirii răufăcătorului ⟨este⟩ în mijlocul inimii mele: nu ⟨este⟩ spaimă de Elohim înaintea ochilor lui.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Oracolul"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "răzvrătirii"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "răufăcătorului"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inimii mele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "spaimă"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:56.853428453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a fost că, când a început omul să se înmulțească pe fața pământului, și fiice s-au născut ⟨lor⟩,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că, când"
+    },
+    {
+      "surface": "החל",
+      "gloss": "a început"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "să se înmulțească"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "și fiice"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "s-au născut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨lor⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:16.675980018Z",
+  "model": "glm-5.3"
+}

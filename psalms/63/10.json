@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Iar ei caută pentru prăpăd sufletul meu; vor intra în adâncimile pământului.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "iar ei"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "pentru prăpăd"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "caută"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vor intra"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "în adâncimile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:47.927675462Z",
+  "model": "glm-5.3"
+}

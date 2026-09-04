@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Să trăiască sufletul meu și să te laude, și judecățile tale să mă ajute.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "Să trăiască"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "și să te laude"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "și judecățile tale"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "să mă ajute"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:35.280313573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și l-au prins ⟨את⟩ pe rege și l-au suit ⟨את⟩ el la regele Bavelului, la Rivla, și au vorbit cu ⟨את⟩ el judecată.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "și l-au prins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe rege"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "și l-au suit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelului"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "la Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "și au vorbit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecată"
+    }
+  ],
+  "timestamp": "2026-09-04T03:34:41.213744843Z",
+  "model": "glm-5.3"
+}

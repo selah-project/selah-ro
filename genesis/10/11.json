@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Din țara aceea a ieșit Așur și a zidit ⟨את⟩ Ninive, și ⟨את⟩ Rehobot-Ir, și ⟨את⟩ Celah,",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Din"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a ieșit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "și a zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Rehobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Celah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Celah"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:49.636253351Z",
+  "model": "glm-5.3"
+}

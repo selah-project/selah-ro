@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Dacă fiii lui vor părăsi Tora mea și în judecățile mele nu vor merge,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "vor părăsi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora mea"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "și în judecățile mele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "vor merge"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:25.790779538Z",
+  "model": "glm-5.3"
+}

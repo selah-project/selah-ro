@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Ai rupt legământul slujitorului tău, ai pângărit ⟨până⟩ la pământ cununa lui.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "Ai rupt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorului tău"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ai pângărit"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "la pământ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "cununa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:28.272542221Z",
+  "model": "glm-5.3"
+}

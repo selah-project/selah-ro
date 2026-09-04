@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a văzut Sara ⟨את⟩ fiul Hagarei, mitrițeanca, pe care i l-a născut lui Avraham, jucându-se (râzând).",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagarei"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "mitrițeanca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i l-a născut"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "jucându-se (râzând)"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:32.266197348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Ferice de poporul care cunoaște strigătul de triumf! Yahve, în lumina feței tale ei umblă.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "care cunoaște"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "strigătul de triumf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "în lumina"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "feței tale"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ei umblă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:52.557684313Z",
+  "model": "glm-5.3"
+}

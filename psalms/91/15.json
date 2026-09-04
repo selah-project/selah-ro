@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Mă va chema și îi voi răspunde; cu el ⟨sunt⟩ eu în strâmtorare, îl voi izbăvi și îl voi cinsti.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Mă va chema"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "și îi voi răspunde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "în strâmtorare"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "îl voi izbăvi"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "și îl voi cinsti"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:00.488656272Z",
+  "model": "glm-5.3"
+}

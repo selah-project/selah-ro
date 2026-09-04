@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a spus: Nu eu am tulburat ⟨את⟩ Israel, ci tu și casa tatălui tău, când ați părăsit ⟨את⟩ poruncile lui Yahve și ai mers după Baali.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "am tulburat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "numai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "și casa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "când ați părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poruncile"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "și ai mers"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalii"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:41.631595110Z",
+  "model": "glm-5.3"
+}

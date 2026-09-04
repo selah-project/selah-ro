@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Iar eu îmi voi pune ⟨את⟩ fața ⟨mea⟩ împotriva omului acela și îl voi nimici ⟨את⟩ din mijlocul poporului lui, pentru că din sămânța lui a dat lui Moloh, ca să pângărească ⟨את⟩ sanctuarul meu și să profaneze ⟨את⟩ numele sfințeniei mele.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "îmi voi pune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața mea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "împotriva omului"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "și îl voi nimici"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (sufix -ו)"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "din mijlocul"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporului lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "din sămânța lui"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lui Moloh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "pângărească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanctuarul meu"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "sanctuarul meu"
+    },
+    {
+      "surface": "ו לחלל",
+      "gloss": "și să profaneze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sfințeniei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:11.304082381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "și ⟨את⟩ pe toți regii Arabiei și ⟨את⟩ pe toți regii amestecaților care locuiesc în pustiu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți regii Arabiei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabiei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți regii amestecaților"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "amestecaților"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "care locuiesc"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:06:43.737981765Z",
+  "model": "glm-5.3"
+}

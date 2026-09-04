@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 122,
+  "translation": "Fie pace în zidurile tale, liniște în cetățile tale de scaun!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Fie"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "în zidurile tale"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "liniște"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "în cetățurile tale de scaun"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:57.401684938Z",
+  "model": "glm-5.3"
+}

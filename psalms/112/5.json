@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "Bun ⟨este⟩ omul care arată îndurare și dă cu împrumut; își rânduiește treburile sale cu judecată.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "care arată îndurare"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "și dă cu împrumut"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "își rânduiește"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "treburile sale"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "cu judecată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:02.579195916Z",
+  "model": "glm-5.3"
+}

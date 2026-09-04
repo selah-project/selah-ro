@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "S-a lipit sufletul meu de tine; pe mine mă sprijină dreapta ta.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "S-a lipit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "după tine"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pe mine"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "mă sprijină"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:47.927389718Z",
+  "model": "glm-5.3"
+}

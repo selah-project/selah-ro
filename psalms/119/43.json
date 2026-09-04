@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Și nu smulge cu totul din gura mea cuvântul de adevăr, căci la judecățile tale am nădăjduit.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "smulge"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "din gura mea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "de adevăr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cu totul"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(de mult)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "la judecățile tale"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "am nădăjduit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:53.797740Z",
+  "model": "glm-5.3"
+}

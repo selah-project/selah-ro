@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și să păzească ⟨את⟩ paza Cortului Întâlnirii și ⟨את⟩ paza Locului Sfânt, și paza fiilor lui Aharon, frații lor, pentru slujba Casei lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "și să păzească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paza Cortului Întâlnirii"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "paza"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "paza Locului Sfânt"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "paza"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Locului Sfânt"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "și paza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "frații lor"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "pentru slujba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:21:07.607171413Z",
+  "model": "glm-5.3"
+}

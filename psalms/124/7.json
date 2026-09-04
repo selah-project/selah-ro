@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 124,
+  "translation": "Nefeșul nostru, ca o pasăre, a scăpat din lațul vânătorilor; lațul s-a frânt, și noi am scăpat.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeșul nostru"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ca o pasăre"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "a scăpat"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "din lațul"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "vânătorilor"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "lațul"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "s-a frânt"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "și noi"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "am scăpat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:32.617043591Z",
+  "model": "glm-5.3"
+}

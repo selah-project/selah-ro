@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 9:32",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci nu ⟨este⟩ un om ca mine, ca să-I răspund ⟨Lui⟩, să venim împreună la judecată.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "ca mine"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "ca să-I răspund"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "să venim"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "la judecată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:54.325587074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "A venit Șmuël la Șaul, și i-a spus Șaul: Binecuvântat ești tu de Yahve; am înfăptuit ⟨את⟩ cuvântul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A venit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "am înfăptuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:29.703133729Z",
+  "model": "glm-5.3"
+}

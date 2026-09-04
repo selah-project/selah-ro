@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 18:29",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Căci tu vei aprinde candela mea; Yahve, Elohim al meu, va lumina întunericul meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "vei aprinde"
+    },
+    {
+      "surface": "נרי",
+      "gloss": "candela mea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "va lumina"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "întunericul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:22.975869236Z",
+  "model": "glm-5.3"
+}

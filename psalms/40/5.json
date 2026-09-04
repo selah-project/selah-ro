@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Ferice de omul care a pus pe Yahve ca încrederea lui și nu s-a întors spre cei aroganți și spre cei care se abat la minciună!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "de omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ca încrederea lui"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "cei aroganți"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "și cei care se abat"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "la minciună"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:23.034835779Z",
+  "model": "glm-5.3"
+}

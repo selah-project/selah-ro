@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "A spus ⟨Paro⟩ către ei: așa să fie Yahve cu voi, cum vă trimit ⟨את⟩ pe voi și ⟨את⟩ pe copiii voștri; vedeți, căci rău ⟨este⟩ înaintea fețelor voastre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cu voi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "vă trimit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe copiii voștri"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "copiii voștri"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vedeți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rău"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "fețelor voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:40.182601414Z",
+  "model": "glm-5.3"
+}

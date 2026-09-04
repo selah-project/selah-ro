@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a fost, când au intrat în Șomron, că a spus Elișa: Yahve, deschide ⟨את⟩ ochii acestora și să vadă. Și a deschis Yahve ⟨את⟩ ochii lor, și au văzut, și iată ⟨erau⟩ în mijlocul Șomronului.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "când au intrat ei"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "în Șomron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "că a spus"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elișa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "deschide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii acestora"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestora"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "și să vadă"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "Și a deschis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii lor"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ochii lor"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Șomronului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:46.502974998Z",
+  "model": "glm-5.3"
+}

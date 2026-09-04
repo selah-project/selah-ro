@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Ca apa m-am vărsat și s-au desfăcut toate oasele mele; inima mea a fost ca ceara, topită în mijlocul măruntaielor mele.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "ca apa"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "m-am vărsat"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "și s-au desfăcut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "oasele mele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ca ceara"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "topită"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "măruntaielor mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:34.842340800Z",
+  "model": "glm-5.3"
+}

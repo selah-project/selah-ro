@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Adu-ți-aminte de minunile lui pe care le-a făcut, de semnele lui și de judecățile gurii lui",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "adu-ți-aminte"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "de minunile lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "le-a făcut"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "de semnele lui"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "și de judecățile"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "gurii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:39.403058682Z",
+  "model": "glm-5.3"
+}

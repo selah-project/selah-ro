@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Puțin câte puțin îi voi goni de la fața ta, până când vei rodi și vei moșteni ⟨את⟩ pământul.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Puțin"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "câte puțin"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "îi voi goni"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "de la fața ta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până când"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨cănd⟩"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "vei rodi"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "și vei moșteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:44.899038233Z",
+  "model": "glm-5.3"
+}

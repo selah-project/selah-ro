@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Și nu este cine să cheme numele tău, cine să se trezească să se țină de tine, căci ți-ai ascuns fața de la noi și ne-ai topit în mâna nelegiuirilor noastre.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "cine să cheme"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "cine să se trezească"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "să se țină"
+    },
+    {
+      "surface": "בך",
+      "gloss": "de tine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "ai ascuns"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de la noi"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "și ne-ai topit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "nelegiuirilor noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T07:31:19.798563079Z",
+  "model": "glm-5.3"
+}

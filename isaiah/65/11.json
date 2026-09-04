@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Iar voi, cei ce părăsesc pe Yahve, cei ce uită ⟨את⟩ muntele sfânt al meu, cei ce întind pentru Gad o masă și umplu pentru Meni un amestec de vin.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Iar voi"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "cei ce părăsesc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "cei ce uită"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muntele"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sfânt al meu"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "cei ce întind"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "pentru Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "o masă"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "și umplu"
+    },
+    {
+      "surface": "למני",
+      "gloss": "pentru Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "un amestec de vin"
+    }
+  ],
+  "timestamp": "2026-09-04T07:31:39.102263333Z",
+  "model": "glm-5.3"
+}

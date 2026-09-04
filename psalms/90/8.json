@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Ai pus nelegiuirile noastre înaintea ta, cele ascunse ale noastre, la lumina feței tale.",
+  "tokens": [
+    {
+      "surface": "שַׁתָּ",
+      "gloss": "ai pus"
+    },
+    {
+      "surface": "עֲוֺנֹתֵֽינוּ",
+      "gloss": "nelegiuirile noastre"
+    },
+    {
+      "surface": "לְנֶגְדֶּ֑ךָ",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "עֲלֻמֵ֥נוּ",
+      "gloss": "cele ascunse ale noastre"
+    },
+    {
+      "surface": "לִמְא֥וֹר",
+      "gloss": "la lumina"
+    },
+    {
+      "surface": "פָּנֶֽיךָ",
+      "gloss": "feței tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:02.697189659Z",
+  "model": "glm-5.3"
+}

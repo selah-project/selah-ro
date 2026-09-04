@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și să nu sui pe trepte spre altarul meu, ca să nu ți se descopere golăciunea pe el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și să nu"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "sui"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "pe trepte"
+    },
+    {
+      "surface": "על",
+      "gloss": "spre"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "altarul meu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "se descopere"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "golăciunea ta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:34.722618248Z",
+  "model": "glm-5.3"
+}

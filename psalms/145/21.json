@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Laudul lui Yahve va vorbi gura mea, și toată carnea va binecuvânta numele sfințeniei lui, în veac și în veci de veci.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "Laudul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "va vorbi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura mea"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și va binecuvânta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfințeniei lui"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și în veci de veci"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:25.787224780Z",
+  "model": "glm-5.3"
+}

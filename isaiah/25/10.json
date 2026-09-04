@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Căci pe muntele acesta se va odihni mâna lui Yahve, și va fi călcat Moab sub el, cum se calcă paiele în apa gunoiștii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "se va odihni"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pe muntele"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "și va fi călcat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sub el"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "cum se calcă"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "paiele"
+    },
+    {
+      "surface": "במי",
+      "gloss": "în apa"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "gunoiștii"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:01.206742986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "Yahve ⟨este⟩ pentru mine — nu mă tem: ce-mi poate face omul?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mă tem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "poate face"
+    },
+    {
+      "surface": "לי",
+      "gloss": " mie"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:31.162105822Z",
+  "model": "glm-5.3"
+}

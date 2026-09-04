@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și acum se va înălța capul meu peste vrăjmașii mei dimprejurul meu; voi aduce în cortul lui jertfe de strigăt de bucurie; voi cânta și voi cânta cu instrumente către Yahve.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "se va înălța"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capul meu"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "dimprejurul meu"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "voi aduce jertfe"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "în cortul lui"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "jertfe de"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "strigăt de bucurie"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "și voi cânta cu instrumente"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:44.263801762Z",
+  "model": "glm-5.3"
+}

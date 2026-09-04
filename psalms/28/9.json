@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Mântuiește ⟨את⟩ poporul tău și binecuvântează ⟨את⟩ moștenirea ta, și paște-i, și poartă-i până în veac.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Mântuiește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul tău"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "și binecuvântează"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moștenirea ta"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "moștenirea ta"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "și paște-i"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "și poartă-i"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "veac"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:01.330583222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 61,
+  "translation": "De la capătul pământului către tine strig; când se învăluie inima mea, spre stânca care se ridică mai sus decât mine mă povățuiești.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "De la capătul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "strig"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "când se învăluie"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "spre stânca"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "care se ridică mai sus"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "decât mine"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "mă povățuiești"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:00.313652249Z",
+  "model": "glm-5.3"
+}

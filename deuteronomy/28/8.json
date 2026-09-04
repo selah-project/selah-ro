@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Va porunci Yahve ⟨את⟩ binecuvântarea cu tine ⟨את⟩ în hambarele tale și în tot la întinderea mâinii tale, și te va binecuvânta în pământul pe care Yahve, Elohim al tău, ți-l dă ție.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "Va porunci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cu tine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binecuvântarea"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "binecuvântarea"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "în hambarele tale"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și în tot"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "la întinderea"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâinii tale"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "și te va binecuvânta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:07.637481161Z",
+  "model": "glm-5.3"
+}

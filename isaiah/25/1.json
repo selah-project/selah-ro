@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Yahve, Elohim al meu, tu ⟨ești⟩; te voi înălța, voi lăuda numele tău, că ai făcut minuni, sfaturi din vechime, cu credincioșie și adevăr.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "te voi înălța"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "voi lăuda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "minuni"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "sfaturi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "din vechime"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "cu credincioșie"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "adevăr"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:52.309289925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Am văzut ⟨את⟩ pământul, și iată: pustiu și gol; și către ceruri, și nu ⟨este⟩ lumina lor.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "pustiu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "și gol"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și către"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "lumina lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:58:37.132334020Z",
+  "model": "glm-5.3"
+}

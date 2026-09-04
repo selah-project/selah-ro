@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Căci robii Mei sunt ⟨ei⟩, pe care i-am scos ⟨את⟩ din țara Mițraimului; nu se vor vinde cu vânzare de rob.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robii Mei"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sunt ⟨ei⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "i-am scos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei (i-am scos)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "se vor vinde"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "cu vânzare"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "de rob"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:15.567092047Z",
+  "model": "glm-5.3"
+}

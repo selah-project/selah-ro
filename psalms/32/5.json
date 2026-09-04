@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Păcatul meu îți voi face cunoscut, și fărădelegea mea nu am ascuns-o. Am zis: voi mărturisi lui Yahve fărădelegile mele, și tu ai purtat vina păcatului meu. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "păcatul meu"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "îți voi face cunoscut"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "și fărădelegea mea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "am ascuns"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "voi mărturisi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "despre"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "fărădelegile mele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ai purtat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vina"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "păcatului meu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:26.967131207Z",
+  "model": "glm-5.3"
+}

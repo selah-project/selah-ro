@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Căci nu am locuit într-o casă din ziua în care am suit ⟨את⟩ pe fiii lui Israel din Mițraim și până în ziua aceasta, și am fost umblând într-un cort și într-un locaș.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "am locuit"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "într-o casă"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "din ziua"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "am suit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pe fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până"
+    },
+    {
+      "surface": "היום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "și am fost"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "umblând"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "într-un cort"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "și într-un locaș"
+    }
+  ],
+  "timestamp": "2026-09-04T02:58:26.167318477Z",
+  "model": "glm-5.3"
+}

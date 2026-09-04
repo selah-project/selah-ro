@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Nu vei purta ⟨את⟩ numele lui Yahve, Elohim al tău, în deșert; căci nu va ține nevinovat Yahve ⟨את⟩ pe cel ce va purta ⟨את⟩ numele lui în deșert.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "vei purta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui Yahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "în deșert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "va ține nevinovat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cel ce va purta numele lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe cel ce"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va purta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "în deșert"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:04.662797193Z",
+  "model": "glm-5.3"
+}

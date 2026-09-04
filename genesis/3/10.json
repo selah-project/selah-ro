@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus: ⟨את⟩ glasul tău l-am auzit în grădină și m-am temut, fiindcă gol sunt, și m-am ascuns.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul tău"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "glasul tău"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "l-am auzit"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "în grădină"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "și m-am temut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "gol"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "și m-am ascuns"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:41.843666191Z",
+  "model": "glm-5.3"
+}

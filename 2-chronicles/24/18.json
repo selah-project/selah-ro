@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "și au părăsit ⟨את⟩ casa lui Yahve, Elohim al părinților lor, și au slujit ⟨את⟩ așerim și ⟨את⟩ idolii; și a fost mânie peste Iehuda și Ierușalaim din vina lor aceasta.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "și au părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "și au slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "așerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "așerim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "idolii"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "idolii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "mânie"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "și Ierușalaim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "din vina lor"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T09:17:02.656213101Z",
+  "model": "glm-5.3"
+}

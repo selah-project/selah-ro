@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Fie numele lui în veac; înaintea soarelui să țârâie numele lui; și să se binecuvânteze în el toate neamurile, toate popoarele să-l fericescă.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Fie"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarelui"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "să țârâie"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "și să se binecuvânteze"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "să-l fericiască"
+    }
+  ],
+  "timestamp": "2026-09-04T09:40:05.574047841Z",
+  "model": "glm-5.3"
+}

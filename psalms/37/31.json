@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Tora lui Elohim ⟨este⟩ în inima lui; pașii lui nu vor șovăi.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "în inima lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "vor șovăi"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "pașii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:43.652731131Z",
+  "model": "glm-5.3"
+}

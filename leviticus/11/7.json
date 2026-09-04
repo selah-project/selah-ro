@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ hazirul, pentru că despică copită el, și cu despicătură despicată a copitei, și rumegatul nu rumegă — necurat este el pentru voi;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hazirul"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "hazirul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "despică"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "copită"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "și despicătură"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "despicată"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "a copitei"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumegatul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "rumegă"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:22.836875115Z",
+  "model": "glm-5.3"
+}

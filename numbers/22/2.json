@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a văzut Balac, fiul lui Țipor, ⟨את⟩ tot ce a făcut Israel emoriților.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balac"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "lui Țipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce a făcut Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "emoriților"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:49.299120146Z",
+  "model": "glm-5.3"
+}

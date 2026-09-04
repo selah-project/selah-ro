@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 101,
+  "translation": "O inimă strâmbă se va abate de la mine; răul nu-l voi cunoaște.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "O inimă"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "strâmbă"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "se va abate"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "-l voi cunoaște"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:31.299856838Z",
+  "model": "glm-5.3"
+}

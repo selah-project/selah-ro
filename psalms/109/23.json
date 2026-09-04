@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Ca umbra când se lungă mergeam, sunt zvârlit ca lăcusta.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "ca umbra"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "când se lungă"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "mergeam"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "sunt zvârlit"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "ca lăcusta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:45.031958201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Adonai, buzele mele vei deschide, și gura mea va vesti lauda ta.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele mele"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "vei deschide"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "și gura mea"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "va vesti"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lauda ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:19.442332868Z",
+  "model": "glm-5.3"
+}

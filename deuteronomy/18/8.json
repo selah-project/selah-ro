@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "parte ca parte vor mânca, în afara bunurilor vândute de el, după casele părinților.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "parte"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "ca partea"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "în afara"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "bunurilor vândute de el"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "caselor părinților"
+    }
+  ],
+  "timestamp": "2026-09-04T08:51:37.840804500Z",
+  "model": "glm-5.3"
+}

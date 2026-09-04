@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și nu a căutat ⟨sfat⟩ la Yahve, și ⟨El⟩ l-a omorât și a întors ⟨את⟩ împărăția lui David, fiul lui Isai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "a căutat"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "la Yahve"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "și l-a omorât"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "și a întors"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "împărăția"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "lui Isai"
+    }
+  ],
+  "timestamp": "2026-09-04T06:08:18.098131058Z",
+  "model": "glm-5.3"
+}

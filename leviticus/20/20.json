@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și un om care se va culca cu ⟨את⟩ mătușa lui — goliciunea unchiului lui a descoperit; păcatul lor îl vor purta, fără copii vor muri.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "se va culca cu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mătușa lui"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "mătușa lui"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "goliciunea"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "unchiului lui"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "a descoperit"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "păcatul lor"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "vor purta"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "fără copii"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "vor muri"
+    }
+  ],
+  "timestamp": "2026-09-04T06:50:03.659678962Z",
+  "model": "glm-5.3"
+}

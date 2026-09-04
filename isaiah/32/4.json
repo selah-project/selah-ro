@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și inima celor pripit[i] va înțelege să cunoască, și limba celor care se bâlbâie va grăbi să vorbească limpede.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Și inima"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "celor pripit[i]"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "va înțelege"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "să cunoască"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "și limba"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "celor care se bâlbâie"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "va grăbi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "să vorbească"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "limpede"
+    }
+  ],
+  "timestamp": "2026-09-04T07:27:12.254334435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "În ziua aceea a venit numărul celor uciși în Șușan, cetatea ⟨de scaun⟩, înaintea regelui.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numărul"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "celor uciși"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "în Șușan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "cetatea ⟨de scaun⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:13:14.138139664Z",
+  "model": "glm-5.3"
+}

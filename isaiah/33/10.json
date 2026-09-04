@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Acum Mă voi scula, spune Yahve; acum Mă voi înălța, acum Mă voi ridica.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "Mă voi scula"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "spune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "Mă voi înălța"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "Mă voi ridica"
+    }
+  ],
+  "timestamp": "2026-09-04T03:44:28.421727318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Și vlăstarul pe care l-a sădit dreapta ta, și asupra fiului pe care l-ai întărit pentru tine.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "Și vlăstarul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "l-a sădit"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiului"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "l-ai întărit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:34.825461924Z",
+  "model": "glm-5.3"
+}

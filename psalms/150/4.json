@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 150,
+  "translation": "Lăudați-l cu tof și cu joc, lăudați-l cu instrumente cu coarde și cu ugav.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "cu tof"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "și cu joc"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "cu instrumente cu coarde"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "și cu ugav"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:34.277703765Z",
+  "model": "glm-5.3"
+}

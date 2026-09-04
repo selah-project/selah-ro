@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Către dirijor. Un mezimor al lui David, o cântare.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mezimor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "o cântare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:31.137179652Z",
+  "model": "glm-5.3"
+}

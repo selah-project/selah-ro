@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Yahve, ai suit din Șeol sufletul meu, m-ai ținut viu de la cei ce coboară în groapă.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ai suit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șeol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "m-ai ținut viu"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "de la cei ce coboară în"
+    },
+    {
+      "surface": "בור",
+      "gloss": "groapă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:44.960034579Z",
+  "model": "glm-5.3"
+}

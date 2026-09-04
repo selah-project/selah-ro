@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și dacă va fi într-un om o vină cu pedeapsa morții și va fi omorât, și-l vei spânzura ⟨את⟩ pe el pe lemn.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "într-un om"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o vină"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "cu pedeapsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "și va fi omorât"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "și-l vei spânzura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "el (omul condamnat)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lemn"
+    }
+  ],
+  "timestamp": "2026-09-04T02:08:33.308725465Z",
+  "model": "glm-5.3"
+}

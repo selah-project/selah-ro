@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Trimite ⟨Elohim⟩ cuvântul lui și le topește; face să bată vântul lui — și se scurg apele.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Trimite"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "cuvântul lui"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "și le topește"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "face să bată"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "vântul lui"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "se scurg"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:28.201256831Z",
+  "model": "glm-5.3"
+}

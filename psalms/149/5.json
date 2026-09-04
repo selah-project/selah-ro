@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 149,
+  "translation": "Să salte de bucurie cei credincioși în slavă, să chiuie pe paturile lor.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "să salte de bucurie"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "cei credincioși"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "în slavă"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "să chiuie"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "paturile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:41.544426708Z",
+  "model": "glm-5.3"
+}

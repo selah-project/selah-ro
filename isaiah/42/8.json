@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Eu ⟨sunt⟩ Yahve — acesta ⟨este⟩ numele meu; slava mea altuia nu o dau și lauda mea nu ⟨o dau⟩ chipurilor cioplite.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "numele meu"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "și slava mea"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "altuia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "o dau"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "și lauda mea"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "chipurilor cioplite"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:53.175117981Z",
+  "model": "glm-5.3"
+}

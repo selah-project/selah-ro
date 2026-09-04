@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Toate râurile merg către mare, și marea nu este plină; către locul unde râurile merg, acolo se întorc ele ca să meargă.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toate"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "râurile"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "merg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "והים",
+      "gloss": "și marea"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plină"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "unde râurile"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "merg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ele"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "se întorc"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ca să meargă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:16.186836477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "cei ce stați în casa lui Yahve, în curțile casei Elohim nostru!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "cei ce stați"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "în curțile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:53.634005839Z",
+  "model": "glm-5.3"
+}

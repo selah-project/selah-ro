@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Și le-a pus pe umerii efodului, pietre de pomenire pentru fiii lui Israel, cum a poruncit Yahve ⟨את⟩ Moșe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "și le-a pus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "umerii"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodului"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "de pomenire"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pentru fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:13.270838727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Căci a turnat peste voi Yahve un duh de somn adânc, și a închis ⟨את⟩ ochii voștri — ⟨את⟩ profeții, și ⟨את⟩ capetele voastre — văzătorii — i-a acoperit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "a turnat"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un duh de"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "somn adânc"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "și a închis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii voștri"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ochii voștri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeții"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeții"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "capetele voastre"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "capetele voastre"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "văzătorii"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "i-a acoperit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:27:35.095033770Z",
+  "model": "glm-5.3"
+}

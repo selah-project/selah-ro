@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Nu încercați ⟨את⟩ pe Yahve, Elohim al vostru, cum ați încercat la Masa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "încercați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ați încercat"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "la Masa"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:19.919907308Z",
+  "model": "glm-5.3"
+}

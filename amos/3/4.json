@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Va răgni un leu în pădure, și pradă să nu aibă? Va da un pui de leu glasul din culcușul lui, fără să fi prins?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Va răgni"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "un leu"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "în pădure"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "și pradă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aibă"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Va da"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "un pui de leu"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glasul lui"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "din culcușul lui"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "אם",
+      "gloss": "să"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "fi prins"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:29.270466080Z",
+  "model": "glm-5.3"
+}

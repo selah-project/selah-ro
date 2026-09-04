@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și s-a grăbit și a îndepărtat ⟨את⟩ bandajul de pe ochii lui, și l-a recunoscut ⟨את⟩ regele lui Israel — căci dintre navi era el.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Și s-a grăbit"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "și a îndepărtat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandajul"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "bandajul"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochii lui"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "și l-a recunoscut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "l-a recunoscut ⟨את⟩",
+      "marks": "regele lui Israel (subiectul recunoașterii)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "dintre navi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "era el"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:39.810656813Z",
+  "model": "glm-5.3"
+}

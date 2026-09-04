@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 8:11",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Iată, vin zile — oracol al Adonai Yahve — și voi trimite foamete în țară: nu foamete de pâine și nici sete de apă, ci foamete de a auzi ⟨את⟩ cuvintele lui Yahve.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracol"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והשלחתי",
+      "gloss": "și voi trimite"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "foamete"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "foamete"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "de pâine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nici"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "sete"
+    },
+    {
+      "surface": "למים",
+      "gloss": "de apă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ci"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "de a auzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele lui Yahve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:22.259792697Z",
+  "model": "glm-5.3"
+}

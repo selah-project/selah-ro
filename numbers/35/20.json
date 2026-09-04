@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Iar dacă din ură îl împinge, sau aruncă asupra lui ceva la pândă, și moare —",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "בְּשִׂנְאָ֖ה",
+      "gloss": "din ură"
+    },
+    {
+      "surface": "יֶהְדָּפֶ֑נּוּ",
+      "gloss": "îl împinge"
+    },
+    {
+      "surface": "אֽוֹ",
+      "gloss": "sau"
+    },
+    {
+      "surface": "הִשְׁלִ֥יךְ",
+      "gloss": "aruncă"
+    },
+    {
+      "surface": "עָלָ֛יו",
+      "gloss": "asupra lui"
+    },
+    {
+      "surface": "בִּצְדִיָּ֖ה",
+      "gloss": "la pândă"
+    },
+    {
+      "surface": "וַיָּמֹֽת",
+      "gloss": "și moare"
+    }
+  ],
+  "timestamp": "2026-09-04T06:56:39.581613524Z",
+  "model": "glm-5.3"
+}

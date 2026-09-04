@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Ai lovit, ai lovit ⟨את⟩ Edom, și inima ta te-a înălțat; poartă-ți slava și șezi în casa ta; și de ce să te aprinzi în rău, ca să cazi tu și Iehuda cu tine?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Ai lovit"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ai lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "și te-a înălțat"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "inima ta"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "poartă-ți slava"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "și șezi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "în casa ta"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "și de ce"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "să te aprinzi"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "în rău"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ca să cazi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "și Iehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:31.949624270Z",
+  "model": "glm-5.3"
+}

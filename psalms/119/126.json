@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Vreme ⟨este⟩ să lucrezi pentru Yahve; au stricat Tora ta.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Vreme"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să lucrezi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "au stricat"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:43.147019471Z",
+  "model": "glm-5.3"
+}

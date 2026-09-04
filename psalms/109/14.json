@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Să fie pomenită nelegiuirea părinților lui înaintea lui Yahve, și păcatul mamei lui să nu fie șters.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "să fie pomenită"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinților lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "și păcatul"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamei lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "fie șters"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:15.832557849Z",
+  "model": "glm-5.3"
+}

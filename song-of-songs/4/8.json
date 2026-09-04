@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Cu mine ⟨את⟩ vino din Liban, mireasă, cu mine ⟨את⟩ din Liban vino; privește de pe vârful Amana, de pe vârful Șenir și Hermon, din bârlogurile leilor, de pe munții leopardilor.",
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "cu mine ⟨את⟩",
+      "marks": "vino din Liban"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "din Liban"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mireasă"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu mine ⟨את⟩",
+      "marks": "din Liban vino"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "din Liban"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "vino"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "privește"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "de pe vârful"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Amana"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "de pe vârful"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Șenir"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "și Hermon"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "din bârlogurile"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "leilor"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "de pe munții"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "leopardilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:27.698656037Z",
+  "model": "glm-5.3"
+}

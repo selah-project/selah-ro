@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "A risipit, a dat celor nevoiași; dreptatea lui stă pentru totdeauna; cornul lui se va înălța în slavă.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "a risipit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "celor nevoiași"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "dreptatea lui"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stă"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "cornul lui"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "se va înălța"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "în slavă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:23.260966641Z",
+  "model": "glm-5.3"
+}

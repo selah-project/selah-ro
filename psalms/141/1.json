@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 141,
+  "translation": "Un mizmor al lui David. Yahve, te-am chemat, grăbește-te spre mine, dă ascultare glasului meu când strig la tine!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "te-am chemat"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "grăbește-te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "spre mine"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dă ascultare"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasului meu"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "când strig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "la tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:09.931347120Z",
+  "model": "glm-5.3"
+}

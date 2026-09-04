@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 120,
+  "translation": "Săgeți ascuțite ale unui viteaz, împreună cu cărbuni de retem.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Săgeți"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ale unui viteaz"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ascuțite"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "cărbuni"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "de retem"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:04.591437024Z",
+  "model": "glm-5.3"
+}

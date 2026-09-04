@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a fost cuvântul lui Șmuel la tot Israelul, și a ieșit Israel în întâmpinarea filistenilor pentru război, și au tabărât lângă piatra lui Ezer, iar filistenii au tabărât la Afek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "lui Șmuel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "la tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și a ieșit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "în întâmpinarea"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenilor"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pentru război"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "și au tabărât"
+    },
+    {
+      "surface": "על",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "piatra"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "וופלשתים",
+      "gloss": "iar filistenii"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "au tabărât"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "la Afek"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:12.018811137Z",
+  "model": "glm-5.3"
+}

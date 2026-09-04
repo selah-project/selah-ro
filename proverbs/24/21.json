@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Teme-te ⟨את⟩ de Yahve, fiule, și de rege; cu cei schimbători nu te amesteca.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Teme-te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiule"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "și de rege"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "cei schimbători"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "te amesteca"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:29.977320804Z",
+  "model": "glm-5.3"
+}

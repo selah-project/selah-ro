@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Tot ce a vrut Yahve a făcut, în ceruri și pe pământ, în mări și în toate adâncurile.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a vrut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "și pe pământ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "în mări"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și în toate"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "adâncurile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:08.444697194Z",
+  "model": "glm-5.3"
+}

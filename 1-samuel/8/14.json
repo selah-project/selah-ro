@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și ⟨את⟩ ogoarele voastre și ⟨את⟩ viile voastre și măslinii voștri cei buni va lua și va da slujitorilor lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ogoarele voastre"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "ogoarele voastre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "viile voastre"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "viile voastre"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "și măslinii voștri"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "cei buni"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "și va da"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "slujitorilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:12.896273555Z",
+  "model": "glm-5.3"
+}

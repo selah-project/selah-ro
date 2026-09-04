@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Se bucură Yahve ⟨את⟩ cei care se tem de el, ⟨את⟩ celor care nădăjduiesc în hesedul lui.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "Se bucură"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cei care se tem de el"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "cei care se tem de el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celor care nădăjduiesc"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "celor care nădăjduiesc"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "în hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:41.793249312Z",
+  "model": "glm-5.3"
+}

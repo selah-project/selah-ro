@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Cărămizi au căzut, dar cu piatră cioplită vom zidi; sicomori au fost tăiați, dar cu cedri îi vom înlocui.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "Cărămizi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "au căzut"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "dar cu piatră cioplită"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "vom zidi"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sicomori"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "au fost tăiați"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "dar cu cedri"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "îi vom înlocui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:48.084433974Z",
+  "model": "glm-5.3"
+}

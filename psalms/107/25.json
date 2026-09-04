@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Și a vorbit, și a pus să se ridice un vânt de furtună, și s-au înălțat valurile lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a pus să se ridice"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vânt"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "de furtună"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "și s-au înălțat"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "valurile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:27.408496308Z",
+  "model": "glm-5.3"
+}

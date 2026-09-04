@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și voi îndepărta ⟨את⟩ numele Baalim din gura ei, și nu vor mai fi amintiți pe numele lor.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Și voi îndepărta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "numele"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "din gura ei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "vor fi amintiți"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "pe numele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:15.459027716Z",
+  "model": "glm-5.3"
+}

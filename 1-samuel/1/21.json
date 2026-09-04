@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a suit omul Elkana și toată casa lui, să jertfească lui Yahve ⟨את⟩ jertfa zilelor și ⟨את⟩ legământul lui.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "și a suit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "să jertfească"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa zilelor"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zilelor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "legământul lui"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "legământul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:39:37.202738664Z",
+  "model": "glm-5.3"
+}

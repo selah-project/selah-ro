@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Înțelepciunea femeii a zidit casa ei, dar prostia, cu mâinile ei, o dărâmă.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Înțelepciunea"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "femeii"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "a zidit"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "casa ei"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "dar prostia"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "cu mâinile ei"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "o dărâmă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:56.821980884Z",
+  "model": "glm-5.3"
+}

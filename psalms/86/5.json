@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Căci tu, Adonai, ești bun și iertător, și mare în hesed pentru toți cei ce te cheamă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "și iertător"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "și mare"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "în hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru toți"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "cei ce te cheamă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:51.851427239Z",
+  "model": "glm-5.3"
+}

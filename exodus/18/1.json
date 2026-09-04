@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "A auzit Itro, cohen din Madian, socru lui Moșe, ⟨את⟩ tot ce făcuse Elohim pentru Moșe și pentru Israel, poporul său, căci scosese Yahve ⟨את⟩ Israel din Mițraim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A auzit"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Itro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "cohen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "din Madian"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "socru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce făcuse Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făcuse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "pentru Moșe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "și pentru Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "scosese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:14.870898379Z",
+  "model": "glm-5.3"
+}

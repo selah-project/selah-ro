@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Cel ce mută munții, și ei nu știu: pe care îi răstoarnă în mânia lui.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "Cel ce mută"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "știu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "îi răstoarnă"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "în mânia lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:28.541241667Z",
+  "model": "glm-5.3"
+}

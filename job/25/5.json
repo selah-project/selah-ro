@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Iată, chiar luna nu strălucește, iar stelele nu ⟨sunt⟩ curate în ochii lui.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "luna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "strălucește"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "iar stelele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "curate"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:27.938429811Z",
+  "model": "glm-5.3"
+}

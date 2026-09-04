@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Tremurul i-a apucat acolo, chin, ca de una care naște.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Tremurul"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "i-a apucat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chin"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "ca de una care naște"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:52.623627349Z",
+  "model": "glm-5.3"
+}

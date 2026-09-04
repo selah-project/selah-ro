@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Iar ⟨את⟩ restul poporului l-a dat în mâna lui Avișai, fratele său, și a așezat ⟨rândul de luptă⟩ în fața fiilor lui Amon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iar ⟨את⟩",
+      "marks": "restul poporului"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "restul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "l-a dat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "lui Avișai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "și a așezat"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "lui Amon"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:05.887002167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 99,
+  "translation": "Înălțați pe Yahve, Elohimul nostru, și închinați-vă la muntele cel sfânt al lui, căci sfânt este Yahve, Elohimul nostru.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Înălțați"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimul nostru"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "și închinați-vă"
+    },
+    {
+      "surface": "להר",
+      "gloss": "la muntele"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfânt al lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimul nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:26.498924599Z",
+  "model": "glm-5.3"
+}

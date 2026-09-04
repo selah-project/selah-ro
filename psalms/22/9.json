@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "„Rostogolește-l către Yahve — să-l scape, să-l elibereze, căci are plăcere de el!”",
+  "tokens": [
+    {
+      "surface": "גֹ֣ל",
+      "gloss": "Rostogolește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "să-l scape"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "să-l elibereze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "are plăcere"
+    },
+    {
+      "surface": "בו",
+      "gloss": "de el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:24.597166214Z",
+  "model": "glm-5.3"
+}

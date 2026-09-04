@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a întrebat Șaul ⟨pe⟩ Yahve, dar Yahve nu i-a răspuns — nici în vise, nici prin Urim, nici prin navi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Și a întrebat"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "i-a răspuns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nici"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "în vise"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nici"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "prin Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nici"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "prin navi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:12:59.142664001Z",
+  "model": "glm-5.3"
+}

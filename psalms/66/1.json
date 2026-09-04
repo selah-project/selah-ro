@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Către dirijor, o cântare, un psalm. Ridicați strigăt către Elohim, tot pământul!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "o cântare"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psalm"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ridicați strigăt"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "către Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:00.036786351Z",
+  "model": "glm-5.3"
+}

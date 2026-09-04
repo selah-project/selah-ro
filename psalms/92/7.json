@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "Omul brut nu cunoaște, și nebunul nu înțelege ⟨את⟩ aceasta:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Omul"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "și nebunul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "înțelege"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aceasta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:06.057861646Z",
+  "model": "glm-5.3"
+}

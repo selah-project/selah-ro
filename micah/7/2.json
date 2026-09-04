@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "A pierit cel evlavios de pe pământ, și cel drept printre oameni nu mai este: toți stau la pândă pentru sânge, fiecare vânează ⟨את⟩ fratele său cu lațul.",
+  "tokens": [
+    {
+      "surface": "אָבַד",
+      "gloss": "A pierit"
+    },
+    {
+      "surface": "חָסִיד",
+      "gloss": "cel evlavios"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "וְיָשָׁר",
+      "gloss": "și cel drept"
+    },
+    {
+      "surface": "בָּאָדָם",
+      "gloss": "printre oameni"
+    },
+    {
+      "surface": "אָיִן",
+      "gloss": "nu mai este"
+    },
+    {
+      "surface": "כֻּלָּם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "לְדָמִים",
+      "gloss": "pentru sânge"
+    },
+    {
+      "surface": "יֶאֱרֹבוּ",
+      "gloss": "stau la pândă"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "fratele său"
+    },
+    {
+      "surface": "אָחִיהוּ",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "יָצוּדוּ",
+      "gloss": "vânează"
+    },
+    {
+      "surface": "חֵרֶם",
+      "gloss": "cu lațul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:51:19.095065958Z",
+  "model": "glm-5.3"
+}

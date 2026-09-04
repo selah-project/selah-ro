@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Va coborî ca ploaia pe iarba cosită, ca aversele udând ⟨את⟩ pământul.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "va coborî"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "ca ploaia"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "גז",
+      "gloss": "iarba cosită"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "ca aversele"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "udând"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:07.612253312Z",
+  "model": "glm-5.3"
+}

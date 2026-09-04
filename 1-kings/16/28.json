@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și s-a culcat Omri cu părinții săi și a fost îngropat în Șomron; și a domnit Ahav, fiul lui, în locul lui.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Și s-a culcat"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții săi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "și a fost îngropat"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "în Șomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "și a domnit"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:18:58.613725428Z",
+  "model": "glm-5.3"
+}

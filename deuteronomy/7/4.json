@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "căci va întoarce pe ⟨את⟩ fiul tău de la urmă-Mea și vor sluji altor dumnezei, și se va aprinde mânia lui Yahve împotriva voastră și te va nimici degrabă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "va întoarce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul tău"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiul tău"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "de la urmă-Mea"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "și vor sluji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altora"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "și se va aprinde"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "împotriva voastră"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "și te va nimici"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "degresă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:38.757972973Z",
+  "model": "glm-5.3"
+}

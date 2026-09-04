@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Și au pus peste mine rău în loc de bine, și ură în loc de dragostea mea.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Și au pus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rău"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în loc de"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bine"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "și ură"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în loc de"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "dragostea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:53.983775903Z",
+  "model": "glm-5.3"
+}

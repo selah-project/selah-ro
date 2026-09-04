@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "În Ierușalaim au locuit dintre fiii lui Iehuda, dintre fiii lui Biniamin, dintre fiii lui Efraim și ⟨dintre⟩ fiii lui Menașe.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "În Ierușalaim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "au locuit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "lui Biniamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "și dintre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "lui Efraim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "și Menașe"
+    }
+  ],
+  "timestamp": "2026-09-04T06:09:16.252962863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 61,
+  "translation": "Voi sălășlui în cortul tău în veci de veci, mă voi adăposti la adăpostul aripilor tale. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "voi sălășlui"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "în cortul tău"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "în veci de veci"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mă voi adăposti"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "la adăpostul"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "aripilor tale"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:20.402627406Z",
+  "model": "glm-5.3"
+}

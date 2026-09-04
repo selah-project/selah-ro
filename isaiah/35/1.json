@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Se vor bucura pustia și ținutul secetos, și va sărbători Araba și va înflori ca brândușa.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "Se vor bucura"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustia"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "și ținutul secetos"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "și va sărbători"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "și va înflori"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "ca brândușa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:46:56.746936494Z",
+  "model": "glm-5.3"
+}

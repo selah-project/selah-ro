@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Yahve — în templul său cel sfânt; Yahve — în ceruri ⟨este⟩ scaunul său de domnie; ochii lui privesc, pleoapele lui cercetează pe fiii omului.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "în templul"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfânt al lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "scaunul său de domnie"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochii lui"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "privesc"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "pleoapele lui"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "cercetează"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pe fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:41.445330079Z",
+  "model": "glm-5.3"
+}

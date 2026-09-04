@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Căci va asculta regele, ca să scape ⟨את⟩ roaba lui din mâna omului, celui care vrea să mă piardă ⟨את⟩ pe mine și ⟨את⟩ pe fiul meu împreună, din moștenirea lui Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "va asculta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "ca să scape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roaba lui"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "roaba lui"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "să piardă"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pe mine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe fiul meu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "din moștenirea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T03:00:35.532594563Z",
+  "model": "glm-5.3"
+}

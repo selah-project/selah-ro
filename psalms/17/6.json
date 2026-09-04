@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Eu te-am chemat, căci tu mă vei răspunde, Eloa; pleacă urechea ta către mine, auzi cuvântul meu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "te-am chemat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "mă vei răspunde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "הט",
+      "gloss": "pleacă"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "urechea ta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "auzi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "cuvântul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:55.641969874Z",
+  "model": "glm-5.3"
+}

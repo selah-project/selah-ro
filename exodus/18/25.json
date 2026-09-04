@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a ales Moșe oameni viteji din tot Israelul și i-a pus căpetenii peste popor: căpetenii peste mii, căpetenii peste sute, căpetenii peste cincizeci și căpetenii peste zeci.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Și a ales"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "viteji"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și i-a pus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "căpetenii"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "căpetenii"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpetenii peste"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpetenii peste"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpetenii peste"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cincizeci"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "și căpetenii peste"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zeci"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:00.706099980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și l-au suit ⟨את⟩ pe el în car slujitorii lui, la Ierușalaim, și l-au îngropat ⟨את⟩ pe el în mormântul lui, cu părinții lui, în cetatea lui David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "Și l-au suit în car"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pe el ⟨את⟩",
+      "marks": "slujitorii lui (pe Ahazia)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slujitorii lui"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "la Ierușalaim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și l-au îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pe el ⟨את⟩",
+      "marks": "în mormântul lui"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "în mormântul lui"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții lui"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetatea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:00.229724061Z",
+  "model": "glm-5.3"
+}

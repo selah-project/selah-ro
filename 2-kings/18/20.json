@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Ai zis — doar un cuvânt de buze! — sfat și putere pentru război; acum, în cine te încrezi, de vreme ce te-ai răzvrătit împotriva mea?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ai zis"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "de buze"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sfat"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "și putere"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pentru război"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "te încrezi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de vreme ce"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "te-ai răzvrătit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:48.463917841Z",
+  "model": "glm-5.3"
+}

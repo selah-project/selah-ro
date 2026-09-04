@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Răspunde-mi, Yahve, că bun este hesedul tău; după mulțimea îndurărilor tale întoarce-te către mine.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Răspunde-mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun (este)"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "după mulțimea"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "îndurărilor tale"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "întoarce-te"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:26.174870428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "zicând: «Ție îți voi da ⟨את⟩ pământul Chenaan, funia moștenirii voastre.»",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "îți voi da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul Chenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "funia"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "moștenirii voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:35.036086460Z",
+  "model": "glm-5.3"
+}

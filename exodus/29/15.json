@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și ⟨את⟩ unul din berbeci să iei, și Aharon și fiii lui să-și pună ⟨את⟩ mâinile lor pe capul berbecului.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "unul din berbeci"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbecul"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "să iei"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "și să pună"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "și fiii lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lor"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinile lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbecului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:02.491519734Z",
+  "model": "glm-5.3"
+}

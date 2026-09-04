@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Au zis tinerii împăratului, slujitorii lui: să se caute pentru împărat tinere fecioare, bune de înfățișare.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Au zis"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "tinerii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "împăratului"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "slujitorii lui"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "să se caute"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pentru împărat"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "tinere"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "fecioare"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "bune"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "de înfățișare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:22.832409363Z",
+  "model": "glm-5.3"
+}

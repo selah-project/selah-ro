@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și a trimis ⟨את⟩ Eliachim, cel care era peste casă, și ⟨את⟩ Șevna scribul și ⟨את⟩ bătrânii cohenilor, acoperindu-se cu sacuri, către Ieșaiahu fiul lui Amoț, navi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliachim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliachim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Șevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "scribul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bătrânii"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenilor"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "acoperindu-se"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "cu sacuri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ieșaiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "lui Amoț"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:24.109488704Z",
+  "model": "glm-5.3"
+}

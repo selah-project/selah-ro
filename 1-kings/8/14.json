@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a întors regele ⟨את⟩ fața sa și a binecuvântat ⟨את⟩ toată adunarea lui Israel, iar toată adunarea lui Israel stătea în picioare.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Și a întors"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața sa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și a binecuvântat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată adunarea lui Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iar toată"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stătea în picioare"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:59.301514742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "care te-a hrănit cu man în pustie, hrană pe care nu au cunoscut-o tații tăi, ca să te smerească și ca să te încerce, ca să-ți facă bine la sfârșitul tău.",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "care te-a hrănit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "cu man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hrană pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "au cunoscut-o"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tații tăi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "te smerească"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "și ca să"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "te încerce"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "să-ți facă bine"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "la sfârșitul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:27.028419450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Așa a vorbit Yahve, Elohim al meu: Păstorește ⟨את⟩ turma cea de măcel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Păstorește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turma cea de măcel"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "turma"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "cea de măcel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:50:35.751945315Z",
+  "model": "glm-5.3"
+}

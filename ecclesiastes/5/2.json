@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căci vine visul din mulțimea grijilor, și glasul nesăbuitului din mulțimea cuvintelor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "visul"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "din mulțimea"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "a grijilor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "și glasul"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "al nesăbuitului"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "din mulțimea"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "a cuvintelor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:40.686819519Z",
+  "model": "glm-5.3"
+}

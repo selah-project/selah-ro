@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și ⟨i⟩ s-a vestit lui David, și a adunat ⟨את⟩ tot Israelul, și a trecut Iordanul, și a venit la ei, și a rânduit ⟨bătălia⟩ împotriva lor; și a rânduit David bătălia înaintea Aramului, și s-au luptat cu el.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "și ⟨i⟩ s-a vestit"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "și a adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot Israelul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "și a trecut"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanul"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "la ei"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "și a rânduit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "împotriva lor"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "și a rânduit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bătălia"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "și s-au luptat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:12:30.013246497Z",
+  "model": "glm-5.3"
+}

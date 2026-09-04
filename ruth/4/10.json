@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 4:10",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și de asemenea ⟨את⟩ Rut cea moabită, nevasta lui Mahlon, am cumpărat-o pentru mine de nevastă, ca să ridic numele celui mort peste moștenirea lui și ca să nu fie șters numele celui mort dintre frații lui și din poarta locului lui. Martori sunteți voi azi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și de asemenea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rut cea moabită"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "המאביה",
+      "gloss": "cea moabită"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nevasta"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "lui Mahlon"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "am cumpărat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de nevastă"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ca să ridic"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "המת",
+      "gloss": "celui mort"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "moștenirea lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și ca să nu"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "fie șters"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "המת",
+      "gloss": "celui mort"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "ומשער",
+      "gloss": "și din poarta"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "locului lui"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "Martori"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sunteți voi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:46.887606127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "Celui ce a lovit Mițraimul în întâiul-născut al lor; căci în veac ⟨durează⟩ hesedul lui.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Celui ce a lovit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "în întâiul-născut al lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:27.161366657Z",
+  "model": "glm-5.3"
+}

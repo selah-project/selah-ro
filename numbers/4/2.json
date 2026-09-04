@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Ridică ⟨את⟩ capul fiilor lui Kehat, din mijlocul fiilor lui Levi, după familiile lor, după casa părinților lor.",
+  "tokens": [
+    {
+      "surface": "נָשֹׂא",
+      "gloss": "Ridică"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "capul"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "capul"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "קְהָת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מִתּוֹךְ",
+      "gloss": "din mijlocul"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "לֵוִי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָם",
+      "gloss": "după familiile lor"
+    },
+    {
+      "surface": "לְבֵית",
+      "gloss": "după casa"
+    },
+    {
+      "surface": "אֲבֹתָם",
+      "gloss": "părinților lor"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:33.197387992Z",
+  "model": "glm-5.3"
+}

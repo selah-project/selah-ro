@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Dacă mi-ar fi foame, nu ți-aș spune ⟨nimic⟩, căci al meu ⟨este⟩ pământul cel locuit și plinirea lui.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "mi-ar fi foame"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aș spune"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ți-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לי",
+      "gloss": "al meu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pământul cel locuit"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "și plinirea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:28.383513526Z",
+  "model": "glm-5.3"
+}

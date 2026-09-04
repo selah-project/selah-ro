@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Toată ziua m-au batjocorit vrăjmașii mei; cei înfuriați împotriva mea s-au jurat pe mine.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "m-au batjocorit"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vrăjmașii mei"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "cei înfuriați"
+    },
+    {
+      "surface": "בי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "s-au jurat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:39.349559252Z",
+  "model": "glm-5.3"
+}

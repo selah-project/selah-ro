@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă răsare soarele peste el, vina de sânge este pentru el — despăgubire va plăti; dacă nu are ⟨cu ce plăti⟩, va fi vândut pentru furtul lui.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "răsare"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "vina de sânge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "despăgubire"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va plăti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu are"
+    },
+    {
+      "surface": "לו",
+      "gloss": "el"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "și va fi vândut"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "pentru furtul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:25.074942326Z",
+  "model": "glm-5.3"
+}

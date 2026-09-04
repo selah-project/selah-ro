@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "În ziua aceea se va spune către Ierușalaim: Nu te teme, Ționule; să nu-ți slăbească mâinile!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se va spune"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "către Ierușalaim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ționule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "slăbească"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mâinile"
+    }
+  ],
+  "timestamp": "2026-09-04T04:47:11.461207748Z",
+  "model": "glm-5.3"
+}

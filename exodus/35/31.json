@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și l-a umplut ⟨את⟩ el duh de Elohim, în înțelepciune, în pricepere și în cunoștință, și în toată lucrarea.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Și l-a umplut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ + -l",
+      "marks": "pe el (Bețaleel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "în înțelepciune"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "în pricepere"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "și în cunoștință"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și în toată"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lucrarea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:32.636870564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "iată, mâna lui Yahve va fi asupra vitelor tale care sunt în câmp: asupra cailor, asupra măgarilor, asupra cămilelor, asupra boilor și asupra oilor — o ciumă foarte grea.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "asupra vitelor tale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "asupra cailor"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "asupra măgarilor"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "asupra cămilelor"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asupra boilor"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "și asupra oilor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ciumă"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "grea"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:12.817582073Z",
+  "model": "glm-5.3"
+}

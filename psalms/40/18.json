@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Iar eu sunt sărac și nevoiaș; Adonai va purta grijă de mine. Tu ești ajutorul meu și scăparea mea, Elohim al meu, nu zăbovi!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărac"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și nevoiaș"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "va purta grijă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ajutorul meu"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "și scăparea mea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "zăbovi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:50.431951615Z",
+  "model": "glm-5.3"
+}

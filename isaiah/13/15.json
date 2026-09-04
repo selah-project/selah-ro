@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Tot cel ce este aflat va fi străpuns, și tot cel prins va cădea de sabie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "cel ce este aflat"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "va fi străpuns"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "cel prins"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "va cădea"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "de sabie"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:09.641842093Z",
+  "model": "glm-5.3"
+}

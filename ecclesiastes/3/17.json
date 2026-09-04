@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Am zis eu în inima mea: pe cel drept și pe cel rău îl va judeca Elohim, căci ⟨este⟩ un timp pentru fiecare lucru și asupra fiecărei fapte ⟨este⟩ acolo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Am zis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "în inima mea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cel drept"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe cel rău"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "îl va judeca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un timp"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru fiecare"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "lucru dorit"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "fapte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:23.275564773Z",
+  "model": "glm-5.3"
+}

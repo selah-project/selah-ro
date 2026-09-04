@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iar eu ⟨sunt⟩ un vierme și nu un om, ocară a oamenilor și disprețuit ⟨de⟩ popor.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "un vierme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ocară"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a oamenilor"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "și disprețuit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:01.053309470Z",
+  "model": "glm-5.3"
+}

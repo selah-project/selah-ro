@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Cine a măsurat ⟨את⟩ duhul lui Yahve, și om al sfatului său cine i-ar fi făcut cunoscut ⟨lui⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "a măsurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duhul lui Yahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duhul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și om"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "al sfatului său"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "i-ar fi făcut cunoscut"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:22.520127059Z",
+  "model": "glm-5.3"
+}

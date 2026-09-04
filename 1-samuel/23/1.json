@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și au vestit lui David, zicând: Iată, filiștienii se luptă împotriva Keilei și ei prade ⟨את⟩ gropile de treierat.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Și au vestit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștienii"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "se luptă"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "împotriva Keilei"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "și ei"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "prade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gropile de treierat"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "gropile de treierat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:11:44.803300050Z",
+  "model": "glm-5.3"
+}

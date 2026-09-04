@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Cel ce păzește o poruncă își păzește sufletul; cel ce disprețuiește căile sale va muri.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Cel ce păzește"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "o poruncă"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "își păzește"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "cel ce disprețuiește"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "căile sale"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "va muri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:47.872355578Z",
+  "model": "glm-5.3"
+}

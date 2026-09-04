@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci ⟨את⟩ jugul poverii lui și ⟨את⟩ bățul umărului lui, nuiaua asupritorului lui — ⟨l-ai sfărâmat⟩ ca în ziua Midianului.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jugul poverii lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "jugul"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "poverii lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bățul umărului lui"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "bățul"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "umărului lui"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "nuiaua"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "asupritorului"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "⟨l-ai sfărâmat⟩"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ca în ziua"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midianului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:25:27.395160229Z",
+  "model": "glm-5.3"
+}

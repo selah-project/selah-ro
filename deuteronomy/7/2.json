@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "și i le va da Yahve, Elohim al tău, înaintea ta și îi vei lovi: pierdere deplină să-i pierzi pe ⟨את⟩ ei; să nu le tai ⟨את⟩ legământ și să nu-i miluiești.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "și i le va da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "și îi vei lovi"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pierdere deplină"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "să-i pierzi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "le tai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨lor⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "îi miluiești"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:38.757639524Z",
+  "model": "glm-5.3"
+}

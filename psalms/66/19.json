@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Dar cu adevărat a auzit Elohim, a luat aminte la glasul rugăciunii mele.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "dar cu adevărat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "a luat aminte"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la glasul"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:35.063621404Z",
+  "model": "glm-5.3"
+}

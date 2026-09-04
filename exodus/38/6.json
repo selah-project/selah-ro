@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a făcut ⟨את⟩ bârnele din lemn de salcâm și le-a îmbrăcat ⟨את⟩ ele cu aramă.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bârnele"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bârnele"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemn de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "salcâm"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "și a îmbrăcat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ele",
+      "marks": "bârnele"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cu aramă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:13.400385974Z",
+  "model": "glm-5.3"
+}

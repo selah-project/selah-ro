@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a sacrificat Balak boi și oi, și a trimis lui Bilam și căpeteniilor care ⟨erau⟩ ⟨את⟩ cu el.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Și a sacrificat"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "boi"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "și oi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "lui Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "și căpeteniilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el",
+      "marks": "căpeteniile"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:18.548927775Z",
+  "model": "glm-5.3"
+}

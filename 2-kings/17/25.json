@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a fost la începutul șederii lor acolo: nu s-au temut ⟨את⟩ Yahve, și a trimis Yahve în ei ⟨את⟩ leii, și au fost omorând printre ei.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "la începutul"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "șederii lor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "s-au temut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leii"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "leii"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "omorând"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "printre ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:32:10.576378558Z",
+  "model": "glm-5.3"
+}

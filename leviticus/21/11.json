@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și la orice suflete de mort să nu intre; pentru tatăl lui și pentru mama lui să nu se pângărească.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Și la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "suflete"
+    },
+    {
+      "surface": "מת",
+      "gloss": "de mort"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "intre"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "pentru tatăl lui"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "și pentru mama lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se pângărească"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:41.850737455Z",
+  "model": "glm-5.3"
+}

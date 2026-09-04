@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Acum du-te și lovește ⟨את⟩ Amalek și nimicește prin nimicire ⟨את⟩ tot ce are el, și nu-l cruța; și omoară de la om până la femeie, de la copil până la sugar, de la bou până la oaie, de la cămilă până la măgar.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Acum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du-te"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "și lovește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "și nimicește prin nimicire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce are el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "are el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "cruța"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "și omoară"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de la om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "femeie"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "de la copil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "sugar"
+    },
+    {
+      "surface": "משור",
+      "gloss": "de la bou"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "שה",
+      "gloss": "oaie"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "de la cămilă"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "măgar"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:41.007502579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și s-au sculat și au fugit în amurg, și au părăsit ⟨את⟩ corturile lor și ⟨את⟩ caii lor și ⟨את⟩ măgarii lor, tabăra cum era, și au fugit pentru viața lor.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Și s-au sculat"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "și au fugit"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "în amurg"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "și au părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "corturile lor"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "corturile lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "caii lor"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "caii lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "măgarii lor"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "măgarii lor"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabăra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "היא",
+      "gloss": "era"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "și au fugit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "viața lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:45.272577974Z",
+  "model": "glm-5.3"
+}

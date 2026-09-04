@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "iar eu am fost fără de minte și n-am știut; dobitoc am fost cu tine",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "am fost fără de minte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și n-am"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "știut"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "dobitoc"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:03.864232719Z",
+  "model": "glm-5.3"
+}

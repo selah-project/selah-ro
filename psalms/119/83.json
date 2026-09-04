@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Căci am ajuns ca un burduf în fum; hotarele tale nu le-am uitat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am ajuns"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "ca un burduf"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "în fum"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotarele tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "le-am uitat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:36.819007299Z",
+  "model": "glm-5.3"
+}

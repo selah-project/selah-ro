@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a izbăvit David ⟨את⟩ tot ce luaseră cei din Amalec, și ⟨את⟩ cele două soții ale lui le-a izbăvit David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "și a izbăvit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce luaseră"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "luaseră"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cele două soții"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "două"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "soții ale lui"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "a izbăvit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:24.615305881Z",
+  "model": "glm-5.3"
+}

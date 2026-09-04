@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "Au fost prădați vitejii de inimă, au ațipit somnul lor, și nu și-au aflat toți oamenii de vârie ⟨putererea⟩ mâinilor lor.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "Au fost prădați"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "vitejii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de inimă"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "au ațipit"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "somnul lor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "și-au aflat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de vârie"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinilor lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:30.719786945Z",
+  "model": "glm-5.3"
+}

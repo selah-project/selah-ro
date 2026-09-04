@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a lovit Yahve ⟨את⟩ Paro cu lovituri mari și ⟨את⟩ casa lui, din pricina lui Sarai, soția lui Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Și a lovit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "cu lovituri"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casa lui"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântului"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "lui Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "lui Avram"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:07.938603909Z",
+  "model": "glm-5.3"
+}

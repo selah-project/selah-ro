@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și au ridicat David și poporul care era cu ⟨את⟩ el ⟨את⟩ glasul lor și au plâns, până când nu mai era în ei putere să plângă.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Și au ridicat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "și poporul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul lor"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "glasul lor"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "și au plâns"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până când"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu mai era"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ei"
+    },
+    {
+      "surface": "כח",
+      "gloss": "putere"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "să plângă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:24.908307119Z",
+  "model": "glm-5.3"
+}

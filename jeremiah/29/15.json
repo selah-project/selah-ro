@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Căci ați zis: „A ridicat pentru noi Yahve profeți în Bavel!”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ați zis"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "A ridicat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profeți"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "în Bavel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:10:07.847255220Z",
+  "model": "glm-5.3"
+}

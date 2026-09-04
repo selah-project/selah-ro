@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și am trimis ⟨את⟩ Moșe și ⟨את⟩ Aharon, și am lovit ⟨את⟩ Mițraim, cum am făcut în mijlocul lui, și după aceea v-am scos ⟨את⟩ pe voi.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Și am trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "și am lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mițraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "în mijlocul lui"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "și după aceea"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "v-am scos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:39.392524228Z",
+  "model": "glm-5.3"
+}

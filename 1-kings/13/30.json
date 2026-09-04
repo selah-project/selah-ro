@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și l-a așezat — ⟨את⟩ trupul lui mort — în mormântul lui, și au jelit peste el: Vai, fratele meu!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Și l-a așezat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupul lui mort"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "trupul lui mort"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "în mormântul lui"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "și au jelit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratele meu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:36.632017466Z",
+  "model": "glm-5.3"
+}

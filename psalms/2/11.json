@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Slujiți ⟨את⟩ lui Yahve cu frică și bucurați-vă cu cutremur.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Slujiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "cu frică"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "și bucurați-vă"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "cu cutremur"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:02.203241813Z",
+  "model": "glm-5.3"
+}

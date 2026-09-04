@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Dacă, întorcându-vă, veți locui în țara aceasta, vă voi zidi ⟨את⟩ și nu voi dărâma; vă voi sădi ⟨את⟩ și nu voi smulge, căci îmi pare rău de răul pe care l-am făcut vouă.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "întorcându-vă"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "veți locui"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "vă voi zidi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "voi dărâma"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "vă voi sădi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "voi smulge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "îmi pare rău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "l-am făcut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:15:20.313388442Z",
+  "model": "glm-5.3"
+}

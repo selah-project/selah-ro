@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "S-a deschis pământul și i-a înghițit pe Datan, și i-a acoperit pe adunarea lui Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "S-a deschis"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "și i-a înghițit"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "și i-a acoperit"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "lui Aviram"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:49.004869845Z",
+  "model": "glm-5.3"
+}

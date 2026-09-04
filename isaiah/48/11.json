@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "De dragul meu, de dragul meu voi face, căci cum ar fi pângărit? Și slava mea altuia nu o voi da.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "De dragul meu"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "de dragul meu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "voi face"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "איך",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "ar fi pângărit"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "și slava mea"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "altuia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "o voi da"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:34.024507995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Cum au ajuns ⟨o⟩ pustiire ca într-o clipă! S-au sfârșit, au pierit de groaze.",
+  "tokens": [
+    {
+      "surface": "אֵיךְ",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "au ajuns"
+    },
+    {
+      "surface": "לְשָׁמָּה",
+      "gloss": "pustiire"
+    },
+    {
+      "surface": "כְרָגַע",
+      "gloss": "ca într-o clipă"
+    },
+    {
+      "surface": "סָפוּ",
+      "gloss": "s-au sfârșit"
+    },
+    {
+      "surface": "תַּמּוּ",
+      "gloss": "au pierit"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "de"
+    },
+    {
+      "surface": "בַּלָּהוֹת",
+      "gloss": "groaze"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:08.717811346Z",
+  "model": "glm-5.3"
+}

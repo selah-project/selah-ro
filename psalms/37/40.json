@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și îi ajută Yahve și îi scapă, îi scoate de la răi și îi izbăvește, căci s-au adăpostit întru el.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Și îi ajută"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "și îi scapă"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "îi scoate"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "de la răi"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "și îi izbăvește"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "s-au adăpostit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "întru el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:46.344798395Z",
+  "model": "glm-5.3"
+}

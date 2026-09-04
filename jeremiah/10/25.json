@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 10:25",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Toarnă-ți mânia ta peste neamurile care nu te-au cunoscut pe tine și peste familiile care nu au chemat numele tău; căci au mâncat ⟨את⟩ Iaacov, l-au înghițit și l-au isprăvit, și ⟨את⟩ sălașul lui l-au pustiit.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Toarnă"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "mânia ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "te-au cunoscut pe tine"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "familiile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "au chemat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "au mâncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "l-au înghițit"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "l-au isprăvit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sălașul lui"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "sălașul lui"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "l-au pustiit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:00:36.996009854Z",
+  "model": "glm-5.3"
+}

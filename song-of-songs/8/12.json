@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Via mea, a mea, ⟨este⟩ înaintea mea: cele o mie ⟨sunt⟩ ale tale, Șelomo, și cele două sute ale celor ce păzesc ⟨את⟩ rodul ei.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "Via mea"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "a mea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "cele o mie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sunt ale tale"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "și cele două sute"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "ale celor ce păzesc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rodul ei"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "rodul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:08.167358049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și va fi ziua aceasta pentru voi de pomenire, și să sărbătoriți ⟨את⟩-o ca sărbătoare pentru Yahve; pentru neamurile voastre — hotărâre veșnică, s-o sărbătoriți.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "de pomenire"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "și să sărbătoriți"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-o",
+      "marks": "sărbătoarea"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sărbătoare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "pentru neamurile voastre"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "hotărâre"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnică"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "s-o sărbătoriți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:18:27.469016022Z",
+  "model": "glm-5.3"
+}

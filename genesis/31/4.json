@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a trimis Iaacov și a chemat-o pe Rahela și pe Lea, câmpul, către turma lui.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "pe Rahela"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "și pe Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "turma lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:22.482475379Z",
+  "model": "glm-5.3"
+}

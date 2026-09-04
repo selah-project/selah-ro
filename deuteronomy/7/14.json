@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Binecuvântat vei fi mai presus de toate popoarele; nu va fi la tine sterp și stearpă, și la vitele tale.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "binecuvântat"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vei fi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mai presus de toate"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "sterp"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "și stearpă"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "și la vitele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T06:57:26.438348367Z",
+  "model": "glm-5.3"
+}

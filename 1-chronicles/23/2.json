@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a adunat ⟨את⟩ toți căpeteniile lui Israel, și pe cohanim, și pe leviți.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "și a adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți căpeteniile lui Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "și pe cohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "și pe leviți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:14:44.199303090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și dacă vei merge pe căile Mele, să păzești hotărârile Mele și poruncile Mele, cum a mers David, tatăl tău, atunci îți voi lungi zilele ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "vei merge"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "pe căile Mele"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păzești"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "hotărârile Mele"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "și poruncile Mele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a mers"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatăl tău"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "atunci îți voi lungi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zilele"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "zilele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:50.631098312Z",
+  "model": "glm-5.3"
+}

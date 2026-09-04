@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a făcut Yahve ⟨את⟩ lucrul acestua a doua zi, și a murit tot vitele Mițraimului; iar din vitele fiilor lui Israel n-a murit niciuna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrul acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "a doua zi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "vitele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "iar din vitele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a murit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "niciuna"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:11.963754371Z",
+  "model": "glm-5.3"
+}

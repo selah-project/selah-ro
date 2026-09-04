@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Oare nu acesta este David, de care i-au răspuns în dansuri, zicând: a lovit Șaul în miile lui, și David în zecile lui de mii?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de care"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "i-au răspuns"
+    },
+    {
+      "surface": "לו",
+      "gloss": "îi"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "în dansuri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "în miile lui"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "și David"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "în zecile lui de mii"
+    }
+  ],
+  "timestamp": "2026-09-04T02:53:17.772427496Z",
+  "model": "glm-5.3"
+}

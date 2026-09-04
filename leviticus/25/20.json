@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și de veți zice: Ce vom mânca în anul al șaptelea? Iată, nu semănăm și nu adunăm ⟨את⟩ roada noastră.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și de"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "veți zice"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "vom mânca"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "în anul"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "al șaptelea"
+    },
+    {
+      "surface": "הן",
+      "gloss": "iată"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "semănăm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "adunăm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roada noastră"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "roada noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:18.627780337Z",
+  "model": "glm-5.3"
+}

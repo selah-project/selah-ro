@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Tu stăpânești trufia mării; când se ridică valurile lui, tu le potolești.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "stăpânești"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "trufia"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "când se ridică"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "valurile lui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "le potolești"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:07.081677845Z",
+  "model": "glm-5.3"
+}

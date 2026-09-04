@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Tatăl orfanilor și judecătorul văduvelor ⟨este⟩ Elohim în locașul său cel sfânt.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Tatăl"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "orfanilor"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "și judecătorul"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "văduvelor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "în locașul"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfânt al lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:20.032738403Z",
+  "model": "glm-5.3"
+}

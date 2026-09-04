@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Să nu răspunzi împotriva aproapelui tău mărturie mincinoasă.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "răspunzi"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "împotriva aproapelui tău"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mărturie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mincinoasă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:18:56.114965849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Ai prins ⟨pre⟩ străjerii ochilor mei; sunt frământat și nu pot vorbi.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Ai prins"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "străjerii"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochilor mei"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "sunt frământat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "pot vorbi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:06.124009156Z",
+  "model": "glm-5.3"
+}

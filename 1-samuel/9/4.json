@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a trecut prin muntele Efraim, și a trecut prin țara Șalișa, și nu au aflat; și au trecut prin țara Șaalim, și nu erau; și a trecut prin țara beniaminiților, și nu au aflat.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Și a trecut"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "prin muntele"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "și a trecut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "prin țara"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "Șalișa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "au aflat"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "și au trecut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "prin țara"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "Șaalim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu erau"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "și a trecut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "prin țara"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "beniaminiților"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "au aflat"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:13.515857746Z",
+  "model": "glm-5.3"
+}

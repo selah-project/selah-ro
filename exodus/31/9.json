@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "și ⟨את⟩ altarul arderii-de-sum și ⟨את⟩ toate uneltele lui, și ⟨את⟩ bazinul și ⟨את⟩ piciorul lui;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "altarul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-de-sum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uneltele lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bazinul"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "bazinul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "piciorul lui"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "piciorul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:26.610329510Z",
+  "model": "glm-5.3"
+}

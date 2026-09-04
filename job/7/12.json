@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Oare mare sunt, sau tannin, de-mi pui peste mine un păzitor?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "oare mare"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "tannin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "pui"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "un păzitor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:42.589316597Z",
+  "model": "glm-5.3"
+}

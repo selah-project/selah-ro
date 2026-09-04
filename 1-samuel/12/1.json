@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a spus Șmuel către tot Israelul: Iată, am ascultat de glasul vostru, la tot ce mi-ați spus, și am pus să domnească peste voi un rege.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am ascultat"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "de glasul vostru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "la tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "mi-ați spus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "și am pus să domnească"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un rege"
+    }
+  ],
+  "timestamp": "2026-09-04T02:44:02.328733863Z",
+  "model": "glm-5.3"
+}

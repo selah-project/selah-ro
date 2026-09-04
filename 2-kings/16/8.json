@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a luat Ahaẑ ⟨את⟩ argintul și ⟨את⟩ aurul care s-a aflat în Casa lui Yahve și în cămările Casei împăratului, și a trimis împăratului Asiriei ⟨mită⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaẑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argintul"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "aurul"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "aurul"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "care s-a aflat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "și în cămările"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "împăratului"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "împăratului"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asiriei"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mită"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:19.398457033Z",
+  "model": "glm-5.3"
+}

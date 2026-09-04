@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Oricine lovește o ființă, după gura martorilor va fi ucis ⟨את⟩ ucigașul; iar un martor unul singur nu va depune mărturie împotriva unei ființe ca să moară.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oricine"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "lovește"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "o ființă"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "după gura"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "martorilor"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "va fi ucis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucigașul"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ucigașul"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iar un martor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul singur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "va depune mărturie"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "împotriva unei ființe"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ca să moară"
+    }
+  ],
+  "timestamp": "2026-09-04T08:50:21.507329850Z",
+  "model": "glm-5.3"
+}

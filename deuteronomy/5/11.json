@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Să nu ridici ⟨את⟩ numele lui Yahve, Elohim al tău, în deșert, căci nu va lăsa nepedepsit Yahve ⟨את⟩ cel care va ridica ⟨את⟩ numele lui în deșert.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "să ridici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui Yahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "în deșert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "va lăsa nepedepsit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cel care va ridica"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel care"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va ridica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "în deșert"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:16.297308581Z",
+  "model": "glm-5.3"
+}

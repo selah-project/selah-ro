@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Că de va găsi un om ⟨את⟩ dușmanul său și-l va trimite pe drum bun, Yahve să-ți răsplătească cu bine pentru ziua aceasta pe care mi-ai făcut-o.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Că de"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "va găsi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dușmanul său"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "dușmanul său"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "și-l va trimite"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bun"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "și Yahve"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "să-ți răsplătească"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "cu bine"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "mi-ai făcut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T07:12:18.767923516Z",
+  "model": "glm-5.3"
+}

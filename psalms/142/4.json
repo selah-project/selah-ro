@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 142,
+  "translation": "Când mi se împăturește duhul peste mine — și tu cunoști cărarea mea; pe drumul acesta merg — mi-au ascuns ⟨un⟩ laț.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Când mi se împăturește"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "cunoști"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "cărarea mea"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "זו",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "merg"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "mi-au ascuns"
+    },
+    {
+      "surface": "פח",
+      "gloss": "laț"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pentru mine⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:49.288188714Z",
+  "model": "glm-5.3"
+}

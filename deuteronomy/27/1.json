@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a poruncit Moșe și bătrânii lui Israel ⟨את⟩ poporul, zicând: Păzește ⟨את⟩ toată porunca pe care vi-o poruncesc eu astăzi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Și a poruncit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "și bătrânii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată porunca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "poruncesc"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vouă"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:11:34.167467634Z",
+  "model": "glm-5.3"
+}

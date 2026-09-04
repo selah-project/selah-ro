@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Am văzut ⟨את⟩ toate faptele care s-au făcut sub soare, și iată: totul ⟨este⟩ deșertăciune și frământare de duh.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate faptele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "faptele"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "care s-au făcut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșertăciune"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "și frământare"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de duh"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:59.058710271Z",
+  "model": "glm-5.3"
+}

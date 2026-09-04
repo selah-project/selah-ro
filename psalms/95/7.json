@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 95,
+  "translation": "Căci el este Elohimul nostru, iar noi suntem poporul pășunii lui și turma mâinii lui; astăzi, dacă veți auzi glasul lui —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "este Elohimul nostru"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "iar noi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "suntem poporul"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "pășunii lui"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "și turma"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâinii lui"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "glasul lui"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "veți auzi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:22.039668222Z",
+  "model": "glm-5.3"
+}

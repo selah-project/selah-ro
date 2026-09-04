@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Ascultă, Israel: tu treci astăzi ⟨את⟩ Iardenul, ca să intri să moștenești popoare mari și puternice mai mult decât tine, cetăți mari și întărite până în ceruri.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "treci"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iardenul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenul"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "să intri"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "să moștenești"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "popoare"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mari"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "și puternice"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "decât tine"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cetăți"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "mari"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "și întărite"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "până în ceruri"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:36.332019020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 15:24",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și dacă se culcă într-adevăr un om ⟨את⟩ pe ea și va fi nida ei pe el, va fi necurat șapte zile, și tot patul pe care se culcă el va fi necurat.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "se culcă"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "într-adevăr"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "nida ei"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "și va fi necurat"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "patul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "se culcă"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "va fi necurat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:48:07.081786813Z",
+  "model": "glm-5.3"
+}

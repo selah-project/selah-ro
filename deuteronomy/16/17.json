@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Fiecare om ⟨să dea⟩ după darul mâinii lui, după binecuvântarea lui Yahve, Elohimul tău, pe care ți-a dat-o ⟨ție⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "fiecare om"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "după darul"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâinii lui"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "după binecuvântarea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:31.486867604Z",
+  "model": "glm-5.3"
+}

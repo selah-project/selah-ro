@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "și mă voi desfăta în poruncile tale, pe care le-am iubit.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "și mă voi desfăta"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "în poruncile tale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "le-am iubit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:06.847946876Z",
+  "model": "glm-5.3"
+}

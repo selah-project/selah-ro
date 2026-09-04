@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Să nu umble ciugulind bârfe în poporul tău; să nu stai ⟨asupra⟩ sângelui aproapelui tău — Eu sunt Yahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "umblu (să nu umble)"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "ciugulind bârfe (purtător de vorbe)"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "în poporul tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stai"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨asupra⟩"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sângelui"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "apropapelui tău"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:50.799701026Z",
+  "model": "glm-5.3"
+}

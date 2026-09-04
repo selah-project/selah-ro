@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Toate cărările lui Yahve ⟨sunt⟩ hesed și adevăr pentru cei ce păzesc legământul lui și mărturiile lui.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toate"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "cărările"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "și adevăr"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "pentru cei ce păzesc"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "legământul lui"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "și mărturiile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:29.561303112Z",
+  "model": "glm-5.3"
+}

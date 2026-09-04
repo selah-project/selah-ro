@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "În cetățuiele ei Elohim s-a făcut cunoscut ca turn de scăpare.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "În cetățuiele ei"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "s-a făcut cunoscut"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ca turn de scăpare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:56.739517853Z",
+  "model": "glm-5.3"
+}

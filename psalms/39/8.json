@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Și acum, ce am eu de așteptat? Adonai, nădejdea mea ⟨este⟩ la tine.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "am eu de așteptat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "nădejdea mea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨este⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:46.419548402Z",
+  "model": "glm-5.3"
+}

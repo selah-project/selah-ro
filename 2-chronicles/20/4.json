@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și s-a adunat Iehuda să caute de la Yahve; chiar din toate cetățile lui Iehuda au venit să caute ⟨את⟩ pe Yahve.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Și s-a adunat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "să caute"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "de la Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din toate"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "să caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:25:35.688377437Z",
+  "model": "glm-5.3"
+}

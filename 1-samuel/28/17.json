@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a făcut Yahve lui așa cum a vorbit prin mâna mea, și a rupt Yahve ⟨את⟩ împărăția din mâna ta și a dat-o vecinului tău, lui David.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "așa cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "prin mâna mea"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "și a rupt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "împărăția"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "din mâna ta"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "și a dat-o"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "vecinului tău"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T07:12:57.714801639Z",
+  "model": "glm-5.3"
+}

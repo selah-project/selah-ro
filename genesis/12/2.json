@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și te voi face ⟨să fii⟩ neam mare, și te voi binecuvânta, și voi face mare numele tău; și fii o binecuvântare.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Și te voi face"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "⟨să fii⟩ neam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "și te voi binecuvânta"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "și voi face mare"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și fii"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "o binecuvântare"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:24.687987011Z",
+  "model": "glm-5.3"
+}

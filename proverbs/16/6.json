@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Prin hesed și adevăr ⟨este⟩ acoperită nelegiuirea, iar prin frica de Yahve ⟨te⟩ abați de la rău.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "Prin hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "și adevăr"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "este acoperită"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "iar prin frica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "סור",
+      "gloss": "abați"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "de la rău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:40.672713122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a ieșit Hatah către Mordehai, în piața cetății, care ⟨este⟩ înaintea porții regelui.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "piața"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:13:04.723790780Z",
+  "model": "glm-5.3"
+}

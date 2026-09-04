@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Răzbună răzbunarea fiilor lui Israel de la ⟨את⟩ midianiți; apoi vei fi adunat la poporul tău.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Răzbună"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "răzbunarea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "midianitilor"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "midianitilor"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "apoi"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "vei fi adunat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "poporul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T01:55:41.518338742Z",
+  "model": "glm-5.3"
+}

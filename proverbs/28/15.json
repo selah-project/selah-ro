@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Un leu care rage și un urs care prădă — astfel este un stăpânitor rău peste un popor sărac.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "un leu"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "care rage"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "și un urs"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "care prădă"
+    },
+    {
+      "surface": "משל",
+      "gloss": "stăpânitor"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un popor"
+    },
+    {
+      "surface": "דל",
+      "gloss": "sărac"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:19.976319508Z",
+  "model": "glm-5.3"
+}

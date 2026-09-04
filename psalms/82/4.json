@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 82,
+  "translation": "Scoateți la loc larg ⟨pe⟩ cel slab și ⟨pe⟩ nevoiaș, din mâna răilor smulgeți-i!",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Scoateți la loc larg"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨pe⟩ cel slab"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și ⟨pe⟩ nevoiaș"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "răilor"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "smulgeți-i"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:21.351200165Z",
+  "model": "glm-5.3"
+}

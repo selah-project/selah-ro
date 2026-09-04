@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Căci furat am fost furat din țerea evreilor, și nici aici n-am făcut nimic, căci m-au pus în groapă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "furat"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "am fost furat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "evreilor"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și nici"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nimic"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "m-au pus"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pe mine",
+      "marks": "în groapă"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "în groapă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:03.352542533Z",
+  "model": "glm-5.3"
+}

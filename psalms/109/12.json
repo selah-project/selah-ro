@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Să nu fie pentru el nimeni care să tragă hesed (îndurare), și să nu fie nimeni care să fie îndurător cu orfanii lui.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "fie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "משך",
+      "gloss": "care să tragă"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "fie"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "care să fie îndurător"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "cu orfanii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:41.511540427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 61:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 61,
+  "translation": "Așa voi cânta ⟨את⟩ numelui tău pentru totdeauna, ca să-mi împlinesc legămintele zi de zi.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numelui tău"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "לשלמי",
+      "gloss": "ca să-mi împlinesc"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "legămintele"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de zi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:19.280265498Z",
+  "model": "glm-5.3"
+}

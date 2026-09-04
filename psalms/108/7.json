@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Ca să fie izbăviți cei iubiți ai tăi: mântuiește cu dreapta ta și răspunde-mi!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ca să"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "fie izbăviți"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "cei iubiți ai tăi"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "mântuiește"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "cu dreapta ta"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "și răspunde-mi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:55.060051319Z",
+  "model": "glm-5.3"
+}

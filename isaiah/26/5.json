@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Căci a smerit ⟨i-a coborât⟩ pe cei ce locuiesc în înălțime, cetatea cea înălțată; o smerește, o smerește până la pământ, o aduce până la praf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "השח",
+      "gloss": "a smerit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "pe cei ce locuiesc"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "în înălțime"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "cea înălțată"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "o smerește"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "o smerește"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "o aduce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praf"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:57.650400606Z",
+  "model": "glm-5.3"
+}

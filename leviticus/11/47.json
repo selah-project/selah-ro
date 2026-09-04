@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "ca să se facă despărțirea între cel necurat și între cel curat, și între viețuitoarea care se mănâncă și între viețuitoarea care nu se mănâncă.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "ca să se facă despărțirea"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "cel necurat"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "cel curat"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "viețuitoarea"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "care se mănâncă"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "viețuitoarea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "se mănâncă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:57.117204731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Mițraim am dat mâna, Așur, ca să ne săturăm pâine.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ca să ne săturăm"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:32.578727751Z",
+  "model": "glm-5.3"
+}

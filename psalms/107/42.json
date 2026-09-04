@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Văd cei drepți și se bucură, și toată nelegiuirea și-a închis gura.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Văd"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "și se bucură"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toată"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "și-a închis"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gura"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:30.310921176Z",
+  "model": "glm-5.3"
+}

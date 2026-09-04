@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Du-te, spune-le: Întoarceți-vă la corturile voastre.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Du-te"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spune-le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Întoarceți-vă"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "la corturile voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T10:05:56.507295457Z",
+  "model": "glm-5.3"
+}

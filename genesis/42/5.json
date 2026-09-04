@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și au venit fiii lui Israel să cumpere grâu printre cei care veneau, căci foametea era în țara Chenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "să cumpere grâu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "printre"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "cei care veneau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "foametea"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:20.998707371Z",
+  "model": "glm-5.3"
+}

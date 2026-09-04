@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a sunat Ioav din șofar, și s-a întors poporul de la urmărirea lui Israel, căci a oprit Ioav ⟨את⟩ poporul.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "Și a sunat"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "din șofar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "de la urmărirea"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a oprit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:12.726546504Z",
+  "model": "glm-5.3"
+}

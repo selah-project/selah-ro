@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Va purta binecuvântare de la ⟨את⟩ Yahve și dreptate de la Elohim al mântuirii lui.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "va purta"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "binecuvântare"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "și dreptate"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "de la Elohim al"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "mântuirii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:35.414393742Z",
+  "model": "glm-5.3"
+}

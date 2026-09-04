@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "⟨את⟩ marea — una — și ⟨את⟩ cei doisprezece boi sub ea.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cei doisprezece boi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "boii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "doi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sub ea"
+    }
+  ],
+  "timestamp": "2026-09-04T06:18:29.398224002Z",
+  "model": "glm-5.3"
+}

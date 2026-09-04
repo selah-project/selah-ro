@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a dat ⟨את⟩ bunătățurile și ⟨את⟩ pâinea pe care o făcuse în mâna lui Iaacov, fiul ei.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunătățurile"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "bunătățurile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pâinea"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "o făcuse"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:44.312075009Z",
+  "model": "glm-5.3"
+}

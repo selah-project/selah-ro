@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Căci întru el se veselește inima noastră, căci în numele cel sfânt al lui Yahve am nadăjduit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בו",
+      "gloss": "întru el"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se veselește"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "inima noastră"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în numele"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "cel sfânt al lui Yahve"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "am nadăjduit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:18.246179806Z",
+  "model": "glm-5.3"
+}

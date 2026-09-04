@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și le-a zis: nu, ci goliciunea țării ați venit s-o vedeți.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și le-a zis"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "goliciunea"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ați venit"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "s-o vedeți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:53.794254460Z",
+  "model": "glm-5.3"
+}

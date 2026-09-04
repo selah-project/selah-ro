@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Prieten sunt cu toți cei care se tem de tine și cu cei ce păzesc poruncile tale.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Prieten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cu toți"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cei care"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "se tem de tine"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "și cu cei ce păzesc"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:19.687251821Z",
+  "model": "glm-5.3"
+}

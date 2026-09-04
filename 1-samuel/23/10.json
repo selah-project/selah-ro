@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a spus David: Yahve, Elohim al lui Israel, a auzit de-a binelea robul tău că Șaul caută să vină la Keila, să nimicească cetatea din pricina mea.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "de-a binelea"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "să vină"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "să nimicească"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "din pricina mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:11:31.517954821Z",
+  "model": "glm-5.3"
+}

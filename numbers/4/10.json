@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și s-o pună pe ea și ⟨את⟩ toate uneltele ei într-o acoperitoare de piele de tahăș, și s-o pună pe rangă.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "și să o pună"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩(-o)",
+      "marks": "pe ea (sfeșnicul din v. 9)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "uneltele ei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "o acoperitoare"
+    },
+    {
+      "surface": "עור",
+      "gloss": "de piele"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "de tahăș"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "și să o pună"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ranga"
+    }
+  ],
+  "timestamp": "2026-09-04T01:43:17.208198796Z",
+  "model": "glm-5.3"
+}

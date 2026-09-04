@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a pângărit ⟨את⟩ Tofetul care este în valea fiilor lui Hinom, ca să nu mai facă ⟨un om⟩ să treacă ⟨את⟩ fiul său și ⟨את⟩ fiica sa prin foc pentru Moleh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Și a pângărit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofetul"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofetul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "în valea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "lui Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "să facă să treacă"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul său"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul său"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiica sa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "fiica sa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "prin foc"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pentru Moleh"
+    }
+  ],
+  "timestamp": "2026-09-04T08:58:19.357241010Z",
+  "model": "glm-5.3"
+}

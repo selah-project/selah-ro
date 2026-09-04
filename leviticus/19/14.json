@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Nu vei blestema surdul și înaintea orbului nu vei pune piedică; și te vei teme de Elohim al tău — Eu sunt Yahve.",
+  "tokens": [
+    {
+      "surface": "לֹ֖א",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תְקַלֵּ֣ל",
+      "gloss": "vei blestema"
+    },
+    {
+      "surface": "חֵרֵ֔שׁ",
+      "gloss": "surdul"
+    },
+    {
+      "surface": "וְלִפְנֵ֣י",
+      "gloss": "și înaintea"
+    },
+    {
+      "surface": "עִוֵּ֔ר",
+      "gloss": "orbului"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תִתֵּ֖ן",
+      "gloss": "vei pune"
+    },
+    {
+      "surface": "מִכְשֹׁ֑ל",
+      "gloss": "piedică"
+    },
+    {
+      "surface": "וְיָרֵ֥אתָ",
+      "gloss": "și te vei teme"
+    },
+    {
+      "surface": "מֵּאֱלֹהֶ֖יךָ",
+      "gloss": "de Elohim al tău"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:49:17.342127683Z",
+  "model": "glm-5.3"
+}

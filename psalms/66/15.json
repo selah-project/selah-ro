@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Olote grase voi sui ție, cu tămâie de berbeci; voi face boi cu țapi. Sela.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "olote"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "grase"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "voi sui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tămâie"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "de berbeci"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "voi face"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "boi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "țapi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:56.507306713Z",
+  "model": "glm-5.3"
+}

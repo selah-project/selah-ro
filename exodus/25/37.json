@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și să faci ⟨את⟩ candelele ei, șapte, și să ridici ⟨את⟩ candelele ei, și să lumineze peste fața ei.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Și să faci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "candelele ei"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "candelele ei"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "și să ridici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "candelele ei"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "candelele ei"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "și să lumineze"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "fața"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ei"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:58.291815292Z",
+  "model": "glm-5.3"
+}

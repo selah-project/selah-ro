@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a trimis regele, și s-au adunat la el toți bătrânii lui Iehuda și Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "și s-au adunat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "și Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T03:34:40.442256830Z",
+  "model": "glm-5.3"
+}

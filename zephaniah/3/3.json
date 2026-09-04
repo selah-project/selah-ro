@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Căpeteniile ei în mijlocul ei ⟨sunt⟩ lei răcnind; judecătorii ei — lupi de seară — nu lasă os până dimineața.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Căpeteniile ei"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "în mijlocul ei"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lei"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "răcnind"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "judecătorii ei"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "lupi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "de seară"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "lasă os"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "până dimineața"
+    }
+  ],
+  "timestamp": "2026-09-04T04:47:39.930526612Z",
+  "model": "glm-5.3"
+}

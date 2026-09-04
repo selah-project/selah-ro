@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 124,
+  "translation": "Cântare a urcărilor, a lui David. Dacă nu ar fi fost Yahve ⟨את⟩ cel care ⟨a fost⟩ cu noi — să spună acum Israel,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a lui David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Dacă nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ar fi fost"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "să spună"
+    },
+    {
+      "surface": "נא",
+      "gloss": "acum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:57.194722259Z",
+  "model": "glm-5.3"
+}

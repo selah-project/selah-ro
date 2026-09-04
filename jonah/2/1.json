@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a rânduit Yahve un pește mare să înghită ⟨את⟩ Iona, și a fost Iona în măruntaiele peștelui trei zile și trei nopți.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Și a rânduit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "un pește"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "să înghită"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Iona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Iona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "în măruntaiele"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "peștelui"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "și trei"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nopți"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:02.542059027Z",
+  "model": "glm-5.3"
+}

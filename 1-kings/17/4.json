@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și va fi: din pârâu vei bea, iar pe corbi ⟨את⟩ i-am poruncit să te hrănească acolo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "din pârâu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "vei bea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "pe corbi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "pe corbi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "i-am poruncit"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "să te hrănească"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:05.309320054Z",
+  "model": "glm-5.3"
+}

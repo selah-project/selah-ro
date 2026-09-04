@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și au trecut ⟨את⟩ Iardenul și au tabărăt la Aroer, la dreapta orașului care ⟨este⟩ în mijlocul văii Gadului, și spre Iațer",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "și au trecut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iardenul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenul"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "și au tabărăt"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "la Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la dreapta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "orașului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "văii"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gadului"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și spre"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Iațer"
+    }
+  ],
+  "timestamp": "2026-09-04T03:06:42.218603171Z",
+  "model": "glm-5.3"
+}

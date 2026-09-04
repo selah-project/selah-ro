@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și va arde ⟨את⟩ vaca sub ochii lui: ⟨את⟩ pielea ei și ⟨את⟩ carnea ei și ⟨את⟩ sângele ei, peste bălegarul ei o va arde.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "Și va arde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaca"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "vaca"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "sub ochii lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pielea ei"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "pielea ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "carnea ei"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "carnea ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sângele ei"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "sângele ei"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "bălegarul ei"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "o va arde"
+    }
+  ],
+  "timestamp": "2026-09-04T01:50:43.515007805Z",
+  "model": "glm-5.3"
+}

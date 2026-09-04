@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a coborât Moșe de pe munte către popor și a sfințit ⟨את⟩ poporul, și au spălat hainele lor.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Și a coborât"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "munte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "și a sfințit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "și au spălat"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "hainele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:26.814186891Z",
+  "model": "glm-5.3"
+}

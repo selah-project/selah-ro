@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Săgețile tale ascuțite — popoare sub tine cad — ⟨cad⟩ în inima vrăjmașilor regelui.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "săgețile tale"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ascuțite"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoare"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sub tine"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "cad"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "în inima"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vrăjmașilor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:07.130681363Z",
+  "model": "glm-5.3"
+}

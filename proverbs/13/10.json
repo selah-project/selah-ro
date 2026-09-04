@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Numai trufia dă ceartă, iar ⟨את⟩ celor ce se sfătuiesc ⟨este⟩ înțelepciunea.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "trufia"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ceartă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "celor ce se sfătuiesc"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "celor ce se sfătuiesc"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:05.892717126Z",
+  "model": "glm-5.3"
+}

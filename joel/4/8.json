@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "și voi vinde ⟨את⟩ fiii voștri și ⟨את⟩ fiicele voastre în mâna fiilor lui Iehuda, și ei îi vor vinde șebeiților, către un neam depărtat, căci Yahve a vorbit.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "și voi vinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii voștri"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "fiii voștri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiicele voastre"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "fiicele voastre"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "și îi vor vinde"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "șebeiților"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "depărtat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:48:50.242389616Z",
+  "model": "glm-5.3"
+}

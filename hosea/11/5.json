@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Nu se va întoarce spre țara Mițraim, iar Așur — el ⟨este⟩ regele lui, căci au refuzat să se întoarcă.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se va întoarce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "iar Așur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "regele lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "au refuzat"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "să se întoarcă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:31.701156343Z",
+  "model": "glm-5.3"
+}

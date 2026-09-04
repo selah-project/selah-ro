@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Iar tu: ridică ⟨את⟩ toiagul tău și întinde ⟨את⟩ mâna ta peste mare și despică-l, și vor intra fiii lui Israel în mijlocul mării, pe uscat.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ridică"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toiagul tău"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "toiagul tău"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "și întinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna ta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "și despică-l"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și vor intra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "pe uscat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:49.016760215Z",
+  "model": "glm-5.3"
+}

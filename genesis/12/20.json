@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a poruncit peste el Paro unor oameni, și l-au trimis ⟨את⟩ pe el și ⟨את⟩ pe soția lui și ⟨את⟩ tot ce ⟨era⟩ al lui.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Și a poruncit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "unor oameni"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "și l-au trimis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe soția lui"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot ce era al lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨era⟩ al lui"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:07.939399261Z",
+  "model": "glm-5.3"
+}

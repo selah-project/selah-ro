@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a spus Esav: Am din belșug, fratele meu; să fie al tău ce ⟨este⟩ al tău.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "din belșug"
+    },
+    {
+      "surface": "רב",
+      "gloss": "din belșug"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratele meu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "al tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "este al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:32.166283605Z",
+  "model": "glm-5.3"
+}

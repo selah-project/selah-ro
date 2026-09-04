@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Către dirijorul ⟨corului⟩, după «Căprioara zorilor», un mizmor al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorul"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "«Căprioara"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "zorilor»"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:23.871844735Z",
+  "model": "glm-5.3"
+}

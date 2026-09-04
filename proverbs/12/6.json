@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Cuvintele celor răi stau la pândă ⟨după⟩ sânge, iar gura celor drepți îi va scăpa.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Cuvintele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "stau la pândă"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "iar gura"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "celor drepți"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "îi va scăpa"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:59.114430367Z",
+  "model": "glm-5.3"
+}

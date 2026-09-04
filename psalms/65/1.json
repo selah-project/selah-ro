@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Pentru dirijor. Mizmor al lui David. Cântare.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pentru dirijor"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cântare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:15.339698954Z",
+  "model": "glm-5.3"
+}

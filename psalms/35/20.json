@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Căci nu pace vorbesc, ci asupra celor liniștiți ai pământului cuvinte de înșelăciune pun la cale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vorbesc"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ci asupra"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "celor liniștiți"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ai pământului"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvinte de"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "înșelăciune"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "pun la cale"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:01.206103486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și cu ⟨את⟩ un bărbat să nu te culci în culcușurile unei femei; urâciune ⟨este⟩ ea.",
+  "tokens": [
+    {
+      "surface": "וְאֶ֨ת",
+      "gloss": "și ⟨את⟩",
+      "marks": "un bărbat"
+    },
+    {
+      "surface": "זָכָ֔ר",
+      "gloss": "un bărbat"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תִּשְׁכַּ֖ב",
+      "gloss": "te culci"
+    },
+    {
+      "surface": "מִשְׁכְּבֵ֣י",
+      "gloss": "în culcușurile"
+    },
+    {
+      "surface": "אִשָּׁ֑ה",
+      "gloss": "unei femei"
+    },
+    {
+      "surface": "תּוֹעֵבָ֖ה",
+      "gloss": "urâciune"
+    },
+    {
+      "surface": "הִֽוא",
+      "gloss": "ea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:31.775933010Z",
+  "model": "glm-5.3"
+}

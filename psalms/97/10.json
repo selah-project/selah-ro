@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Cei ce iubesc pe Yahve, urâți răul! ⟨El⟩ păzește sufletele credincioșilor lui, din mâna celor răi îi scapă.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Cei ce iubesc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "urâți"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "păzește"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "sufletele"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "credincioșilor lui"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "îi scapă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:43.699818673Z",
+  "model": "glm-5.3"
+}

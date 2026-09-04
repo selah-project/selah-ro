@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și i-a spus îngerul lui Elohim: ia ⟨את⟩ carnea și ⟨את⟩ pâinile nedospite și pune-le pe stânca aceasta, iar ⟨את⟩ supa toarn-o. Și a făcut așa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "îngerul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carnea"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pâinile nedospite"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "pâinile nedospite"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "și pune-le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "stânca"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "supa"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "supa"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "toarn-o"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    }
+  ],
+  "timestamp": "2026-09-04T02:30:51.295306599Z",
+  "model": "glm-5.3"
+}

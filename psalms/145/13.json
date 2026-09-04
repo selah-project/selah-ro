@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Împărăția ta ⟨este⟩ o împărăție a tuturor veacurilor, și stăpânirea ta ⟨este⟩ în fiecare neam și neam.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Împărăția ta"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "o împărăție"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a tuturor"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "veacurilor"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "și stăpânirea ta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în fiecare"
+    },
+    {
+      "surface": "דור",
+      "gloss": "neam"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "și neam"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:00.723428029Z",
+  "model": "glm-5.3"
+}

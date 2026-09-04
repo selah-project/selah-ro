@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Toate cuvintele ⟨sunt⟩ obositoare; nu poate omul să le spună; nu se satură ochiul de a vedea și nu se umple urechea de a auzi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toate"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "ייגעים",
+      "gloss": "obositoare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "poate"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "să le spună"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "se satură"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochiul"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "de a vedea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "se umple"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "urechea"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "de a auzi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:16.187062153Z",
+  "model": "glm-5.3"
+}

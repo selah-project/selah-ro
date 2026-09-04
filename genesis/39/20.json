@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Și a luat stăpânul lui Iosef ⟨את⟩ el și l-a dat în casa-temniței, locul unde prizonierii regelui sunt ținuți legați; și a fost acolo, în casa-temniței.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stăpânul"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (Iosef)"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "și l-a dat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "temniței"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "prizonierii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "sunt legați"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "temniței"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:22.825612667Z",
+  "model": "glm-5.3"
+}

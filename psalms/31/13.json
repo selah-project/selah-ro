@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Am fost dat uitării ca un mort, departe de inimă; am fost ca un vas pierdut.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "am fost dat uitării"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "ca un mort"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "departe de inimă"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "ca un vas"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pierdut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:51.493734510Z",
+  "model": "glm-5.3"
+}

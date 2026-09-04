@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 123,
+  "translation": "Cântare a urcărilor. Către tine am ridicat ⟨את⟩ ochii mei, ⟨cel⟩ care șezi în ceruri.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Către tine"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "am ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii mei"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "care șezi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:58.474247114Z",
+  "model": "glm-5.3"
+}

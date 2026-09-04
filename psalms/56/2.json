@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "Fie-Ți milă de mine, Elohim, că muritorul mă înghite; toată ziua luptându-se mă apasă.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fie-Ți milă de mine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "mă înghite"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "muritorul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "luptându-se"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "mă apasă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:02.588526590Z",
+  "model": "glm-5.3"
+}

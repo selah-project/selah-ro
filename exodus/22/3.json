@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă, găsindu-se, este găsit furtul în mâna lui — de la bou, până la măgar, până la oaie — viu, îndoit va plăti.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "găsindu-se"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "este găsit"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "furtul"
+    },
+    {
+      "surface": "משור",
+      "gloss": "de la bou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "măgar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "שה",
+      "gloss": "oaie"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "viu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "îndoit"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va plăti"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:25.075132659Z",
+  "model": "glm-5.3"
+}

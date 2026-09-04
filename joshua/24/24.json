@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a zis poporul către Iehoșua: ⟨את⟩ Yahve, Elohim al nostru, îl vom sluji, și de glasul lui vom asculta.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "vom sluji"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "și de glasul lui"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "vom asculta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:26:49.931174382Z",
+  "model": "glm-5.3"
+}

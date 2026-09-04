@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Voi face pe muritor mai rar decât aurul fin, și pe om mai rar decât aurul curat al lui Ofir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Voi face mai rar"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "pe muritor"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "decât aurul fin"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "și pe om"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "decât aurul curat"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "al lui Ofir"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:50.650422359Z",
+  "model": "glm-5.3"
+}

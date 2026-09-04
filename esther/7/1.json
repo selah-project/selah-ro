@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a venit regele și Haman să bea cu Ester regina.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "și Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "să bea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "regina"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:58.266373263Z",
+  "model": "glm-5.3"
+}

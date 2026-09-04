@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a zis: Vino cu mine ⟨את⟩ și vezi râvna mea pentru Yahve. Și l-au pus să călărească ⟨את⟩ în carul lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Vino"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu mine ⟨את⟩"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și vezi"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "râvna mea"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "și l-au pus să călărească"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el (pe Iehonadav)"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "în carul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:27:32.374479064Z",
+  "model": "glm-5.3"
+}

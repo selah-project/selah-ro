@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Iar tot Israel și Iehuda îl iubeau ⟨את⟩ David, pentru că el ieșea și intra înaintea lor.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "iar tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "și Iehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "îl iubeau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ieșea"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "și intra"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "înaintea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:37.399836175Z",
+  "model": "glm-5.3"
+}

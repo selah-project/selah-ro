@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Un mizmor al lui David, când a fugit de la fața lui Avșalom, fiul lui.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "când a fugit"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de la fața"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "lui Avșalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:18.592113690Z",
+  "model": "glm-5.3"
+}

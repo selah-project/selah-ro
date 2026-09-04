@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Eu am zis: în liniștea zilelor mele voi merge pe porțile lui Șeol; sunt numărat cu restul anilor mei.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "în liniștea"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilelor mele"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "voi merge"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "pe porțile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șeol"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "sunt numărat"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "restul"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "anilor mei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:04.491375716Z",
+  "model": "glm-5.3"
+}

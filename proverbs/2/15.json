@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "ale căror cărări sunt strâmbe și încolăcite în cărările lor;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ale căror"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "cărări ale lor"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "sunt strâmbe"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "și încolăcite"
+    },
+    {
+      "surface": "במעגלותיהם",
+      "gloss": "în cărările lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:58.206167972Z",
+  "model": "glm-5.3"
+}

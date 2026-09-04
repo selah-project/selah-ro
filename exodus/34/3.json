@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și nimeni să nu suie cu tine, și nici un om să nu se arate pe tot muntele, și chiar turmele și vitele să nu pască spre fața muntelui acela.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "suie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și nici"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se arate"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pe tot"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "turmele"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "și vitele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "pască"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "מול",
+      "gloss": "fața"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntelui"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:07.130796958Z",
+  "model": "glm-5.3"
+}

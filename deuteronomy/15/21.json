@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și dacă va fi în el un beteșug — șchiop sau orb, orice beteșug rău — să nu-l jertfești lui Yahve, Elohim al tău.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    },
+    {
+      "surface": "מום",
+      "gloss": "un beteșug"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "șchiop"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "עור",
+      "gloss": "orb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "מום",
+      "gloss": "beteșug"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "-l jertfești"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:20.193733501Z",
+  "model": "glm-5.3"
+}

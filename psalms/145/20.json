@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Păzește Yahve ⟨את⟩ toți cei ce-l iubesc, și ⟨את⟩ pe toți cei răi îi va prăpădi.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți cei ce-l iubesc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "cei ce-l iubesc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți cei răi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "îi va prăpădi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:05.751402403Z",
+  "model": "glm-5.3"
+}

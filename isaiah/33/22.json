@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Căci Yahve ⟨este⟩ judecătorul nostru, Yahve ⟨este⟩ legiuitorul nostru, Yahve ⟨este⟩ regele nostru — el ne va mântui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שפטנו",
+      "gloss": "judecătorul nostru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחקקנו",
+      "gloss": "legiuitorul nostru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "regele nostru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "ne va mântui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:45:07.702305767Z",
+  "model": "glm-5.3"
+}

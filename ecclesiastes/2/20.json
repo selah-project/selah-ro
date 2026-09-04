@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și m-am întors eu să deznădăjduiesc ⟨את⟩ inima mea din pricina întregii osteneli cu care m-am ostenit sub soare.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Și m-am întors"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "să deznădăjduiesc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima mea"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "על",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregii"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "osteneli"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "cu care m-am ostenit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:29.270320999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Ah, dacă mi s-ar întări căile, să păzesc hotărârile tale!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ah, dacă"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "mi s-ar întări"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "căile"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "să păzesc"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotărârile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:55.872700234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Căci fără pricină au ascuns pentru mine groapă, lațul lor; fără pricină au săpat pentru sufletul meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "fără pricină"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "au ascuns"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "groapă"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "lațul lor"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "fără pricină"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "au săpat"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pentru sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:27.831189369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iată, vin zile și îți voi tăia ⟨את⟩ brațul tău și ⟨את⟩ brațul casei tatălui tău, ca să nu mai fie bătrân în casa ta.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vin"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "și voi tăia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brațul tău"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "brațul tău"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "brațul casei tatălui tău"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "brațul"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "de a mai fi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bătrân"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "în casa ta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:39:46.471456894Z",
+  "model": "glm-5.3"
+}

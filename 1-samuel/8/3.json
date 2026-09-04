@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și fiii săi nu au umblat în căile lui, ci s-au abătut după câștig și au luat mită și au strâmbat judecata.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "au umblat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii săi"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "în căile lui"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ci s-au abătut"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "câștig"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "și au luat"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mită"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "și au strâmbat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:52.368970211Z",
+  "model": "glm-5.3"
+}

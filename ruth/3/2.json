@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și acum: nu este Boaz, cunoscutul nostru, cu ale cărui fete ai fost ⟨את⟩? Iată, el vântură ⟨את⟩ aria de orz în noaptea aceasta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "cunoscutul nostru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ai fost"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ale cărui fete"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "fetele lui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "vântură"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aria de orz"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "aria"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "de orz"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "în noaptea aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:58.136864581Z",
+  "model": "glm-5.3"
+}

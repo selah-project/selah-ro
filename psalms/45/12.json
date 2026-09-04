@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "și va dori regele frumusețea ta, căci el este domnul tău, și închină-te lui.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "și va dori"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "frumusețea ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "domnul tău"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "și închină-te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:12.246156071Z",
+  "model": "glm-5.3"
+}

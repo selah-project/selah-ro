@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 19:20",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a trimis Șaul soli ca să-l ia pe David, și au văzut ⟨את⟩ cetele naviilor profețind, și Șmuelfiul stând în fruntea lor; și a fost peste solii lui Șaul duh de la Elohim, și au profețit și ei.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "soli"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ca să ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetele naviilor"
+    },
+    {
+      "surface": "להקת",
+      "gloss": "ceata"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "naviilor"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profețind"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "și Șmuel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stând"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "așezat în frunte"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "peste ei"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "solii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "și au profețit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:10:26.512579331Z",
+  "model": "glm-5.3"
+}

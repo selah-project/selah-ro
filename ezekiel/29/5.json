@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 29:5",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Te voi lepăda în pustiu, ⟨את⟩ pe tine și ⟨את⟩ tot peștele râurilor tale; pe fața câmpului vei cădea, nu vei fi adunat și nu vei fi strâns; fiarelor pământului și păsărilor cerurilor te-am dat de mâncare.",
+  "tokens": [
+    {
+      "surface": "ונטשתיך",
+      "gloss": "te voi lepăda"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ pe tine",
+      "marks": "pe tine (Paro, obiectul acțiunii)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot peștele râurilor tale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דגת",
+      "gloss": "peștele"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "râurilor tale"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpului"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "vei cădea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "vei fi adunat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תקבץ",
+      "gloss": "vei fi strâns"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "fiarelor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "și păsărilor"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "te-am dat"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "de mâncare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:28:53.529402181Z",
+  "model": "glm-5.3"
+}

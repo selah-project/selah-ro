@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "și va aduce ⟨את⟩ vinovăția lui lui Yahve pentru păcatul lui pe care l-a săvârșit: o femelă din turmă, o mieloaie sau o căprioară de capre, pentru jertfa de păcat; și cohanul va face ispășire pentru el din păcatul lui.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "și va aduce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinovăția lui"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "vinovăția lui"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "păcatul lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "l-a săvârșit"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "o femelă"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "turmă"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "o mieloaie"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "o căprioară"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "de capre"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pentru jertfa de păcat"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "și va face ispășire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohanul"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "din păcatul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:17.330985209Z",
+  "model": "glm-5.3"
+}

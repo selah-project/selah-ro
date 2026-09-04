@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "care au zis: cu limba noastră vom birui, buzele ⟨sunt⟩ ⟨את⟩ cu noi — cine ⟨este⟩ domn peste noi?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "au zis"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "cu limba noastră"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "vom birui"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "buzele"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ cu noi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "domn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "peste noi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:15.726384570Z",
+  "model": "glm-5.3"
+}

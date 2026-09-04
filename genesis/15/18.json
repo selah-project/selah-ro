@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "În ziua aceea a tăiat Yahve ⟨את⟩ Avram o legământ, zicând: seminției tale am dat ⟨את⟩ pământul acesta, de la râul Mițraimului până la râul cel mare, râul Perat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a tăiat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "o legământ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "seminției tale"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul acesta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "de la râul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "râul"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "cel mare"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "râul"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:58.291441979Z",
+  "model": "glm-5.3"
+}

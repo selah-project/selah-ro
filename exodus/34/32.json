@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "După aceea s-au apropiat toți fiii lui Israel, și le-a poruncit ⟨את⟩ tot ce vorbise Yahve ⟨את⟩ cu el, pe muntele Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "s-au apropiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "și i-a poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce vorbise Yahve cu el, pe muntele Sinai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pe muntele"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:54.102059190Z",
+  "model": "glm-5.3"
+}

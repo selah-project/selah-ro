@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "La miezul nopții mă scol ca să-ți mulțumesc ție, pentru judecățile dreptății tale.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "La miezul"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nopții"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "mă scol"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ca să mulțumesc"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecățile"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "dreptății tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:19.687080347Z",
+  "model": "glm-5.3"
+}

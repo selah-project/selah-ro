@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Căci rânduielile popoarelor sunt suflare deșartă, căci un lemn din pădure l-a tăiat, lucru făcut de mâinile unui meșter, cu securea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "rânduielile"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarelor"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "suflare deșartă"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lemn"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "din pădure"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "l-a tăiat"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucru"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de mâinile"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "unui meșter"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "cu securea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:02:00.742973785Z",
+  "model": "glm-5.3"
+}

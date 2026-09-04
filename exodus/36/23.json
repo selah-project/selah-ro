@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și a făcut ⟨את⟩ scândurile pentru Cort: douăzeci de scânduri pentru latura de miazăzi, spre miazăzi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "scândurile"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "scândurile"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pentru Cort"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "de scânduri"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pentru latura"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "de miazăzi"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "spre miazăzi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:39.170699586Z",
+  "model": "glm-5.3"
+}

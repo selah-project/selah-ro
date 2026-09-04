@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Căci am zis: ca să nu se bucure de mine; la alunecarea piciorului meu, împotriva mea s-au mărit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se bucure"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "la alunecarea"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "piciorului meu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "s-au mărit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:44.312439200Z",
+  "model": "glm-5.3"
+}

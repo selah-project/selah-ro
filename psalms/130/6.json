@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 130,
+  "translation": "Sufletul meu ⟨este⟩ pentru Adonai, mai mult decât cei ce veghează pentru dimineață, veghetori pentru dimineață.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "pentru Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "decât cei ce veghează"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pentru dimineață"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "veghetori"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pentru dimineață"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:40.766910629Z",
+  "model": "glm-5.3"
+}

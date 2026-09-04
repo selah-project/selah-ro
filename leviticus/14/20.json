@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va urca cohenul ⟨את⟩ arderea-de-tot și ⟨את⟩ darul de mâncare pe altar, și cohenul va face ispășire pentru el, și va fi curat.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Și va urca"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea-de-tot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea-de-tot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "darul de mâncare"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darul de mâncare"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "și va face ispășire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "și va fi curat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:43.318660188Z",
+  "model": "glm-5.3"
+}

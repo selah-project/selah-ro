@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și acum: tatăl meu a împovărat peste voi un jug greu, iar eu voi adăuga peste jugul vostru; tatăl meu a pedepsit ⟨את⟩ pe voi cu biciuri, iar eu — cu scorpioni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "a împovărat"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "על",
+      "gloss": "un jug"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "greu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "voi adăuga"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jugul vostru"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "a pedepsit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi (cu biciuri)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "cu biciuri"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "cu scorpioni"
+    }
+  ],
+  "timestamp": "2026-09-04T08:21:52.099063556Z",
+  "model": "glm-5.3"
+}

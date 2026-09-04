@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Din neam în neam ⟨este⟩ credincioșia ta; ai întemeiat ⟨את⟩ pământul, și el rămâne în picioare.",
+  "tokens": [
+    {
+      "surface": "לדור",
+      "gloss": "Din neam"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "în neam"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "credincioșia ta"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ai întemeiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "și el rămâne în picioare"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:11.343477014Z",
+  "model": "glm-5.3"
+}

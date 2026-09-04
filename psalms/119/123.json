@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Ochii mei s-au stins după ajutorul tău și după cuvântul dreptății tale.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ochii mei"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "s-au stins"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "după ajutorul tău"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "și după cuvântul"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "dreptății tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:54.090248054Z",
+  "model": "glm-5.3"
+}

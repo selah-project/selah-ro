@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Eu îți voi întoarce cuvinte și ⟨את⟩ pe prietenii tăi împreună cu tine.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "îți voi întoarce"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "cuvinte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe prietenii tăi"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "pe prietenii tăi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "împreună cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:00.428520739Z",
+  "model": "glm-5.3"
+}

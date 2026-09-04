@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "S-a îngroșat ca grăsimea inima lor; eu de Tora ta m-am desfătat.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "s-a îngroșat"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "ca grăsimea"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "inima lor"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "de Tora ta"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "m-am desfătat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:36.657741379Z",
+  "model": "glm-5.3"
+}

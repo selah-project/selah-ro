@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Totuși, viu sunt Eu, și se va umple de slava lui Yahve ⟨את⟩ tot pământul.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Totuși"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt Eu"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "și se va umple"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot pământul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:48:13.214422415Z",
+  "model": "glm-5.3"
+}

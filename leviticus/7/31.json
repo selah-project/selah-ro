@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și cohenul va face să ardă ⟨את⟩ grăsimea pe altar, și pieptul va fi al lui Aharon și al fiilor lui.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Și va face să ardă"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "pieptul"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "al lui Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "și al fiilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:30.682995515Z",
+  "model": "glm-5.3"
+}

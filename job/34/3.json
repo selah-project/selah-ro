@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Căci urechea pune la încercare cuvintele, după cum cerul gurii gustă mâncarea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "urechea"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "pune la încercare"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "și cerul gurii"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "gustă"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mâncarea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:07.688412744Z",
+  "model": "glm-5.3"
+}

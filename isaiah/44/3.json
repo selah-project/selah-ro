@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Căci voi turna apă pe cel însetat și pâraie pe pământul uscat; voi turna duhul meu pe sămânța ta și binecuvântarea mea pe urmașii tăi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "voi turna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "cel însetat"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "și pâraie"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "pământul uscat"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "voi turna"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sămânța ta"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "și binecuvântarea mea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "urmașii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:12.327833310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a fost, când era David ⟨את⟩ cu Edom, la suirea lui Ioab, căpetenia oștirii, pentru a îngropa ⟨את⟩ morții: a lovit pe toți bărbații din Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "când era"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ cu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "la suirea"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "lui Ioab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "oștirii"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "pentru a îngropa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morții"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "morții"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bărbații"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "din Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:04.002429029Z",
+  "model": "glm-5.3"
+}

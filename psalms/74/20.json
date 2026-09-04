@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Privește ⟨la⟩ legământ, căci s-au umplut locurile întunecate ale țării — sălașe ale violenței.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Privește"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "⟨la⟩ legământ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "s-au umplut"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "locurile întunecate"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ale țării"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "sălașe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ale violenței"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:37.189014597Z",
+  "model": "glm-5.3"
+}

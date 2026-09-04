@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a venit către tatăl său și a zis: Tatăl meu! Și el a zis: Iată-mă, eu! Cine ești tu, fiul meu?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Tatăl meu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și el a zis"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Iată-mă"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:44.312320313Z",
+  "model": "glm-5.3"
+}

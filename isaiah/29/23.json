@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Căci când își va vedea copiii, lucrarea mâinilor mele, în mijlocul lui, îmi vor sfini numele, și vor sfini ⟨את⟩ Sfântul lui Iaacov, și ⟨את⟩ Elohim al lui Israel vor venera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "când își va vedea"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "copiii lui"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâinilor mele"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "în mijlocul lui"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "vor sfini"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "numele meu"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "și vor sfini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sfântul lui Iaacov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sfântul"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Elohim al lui Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "vor venera"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:22.687119925Z",
+  "model": "glm-5.3"
+}

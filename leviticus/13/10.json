@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și va vedea cohenul, și iată o umflătură albă în piele, și ea a întors părul alb, și o înviorează de carne vie în umflătură —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Și va vedea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "o umflătură"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "albă"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "în piele"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "și ea"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "a întors"
+    },
+    {
+      "surface": "שער",
+      "gloss": "părul"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "alb"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "și o înviorează"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "de carne"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vie"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "în umflătură"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:24.493393139Z",
+  "model": "glm-5.3"
+}

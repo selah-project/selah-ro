@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Vai, prădătorule, și tu nu ⟨ai fost⟩ prădat; și trădătorule, și nu au trădat în tine! Când vei sfârși să prădezi, vei fi prădat; când vei termina să trădezi, te vor trăda în tine.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "prădătorule"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "prădat"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "și trădătorule"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "au trădat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "când vei sfârși"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "să prădezi"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "vei fi prădat"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "când vei termina"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "să trădezi"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "vor trăda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:27:42.303813665Z",
+  "model": "glm-5.3"
+}

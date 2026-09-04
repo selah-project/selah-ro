@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au zis slujitorii regelui care ⟨erau⟩ în poarta regelui lui Mordehai: de ce tu încalci ⟨את⟩ porunca regelui?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slujitorii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "în poarta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "lui Mordehai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "încalci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porunca regelui"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:56.008202646Z",
+  "model": "glm-5.3"
+}

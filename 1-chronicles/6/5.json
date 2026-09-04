@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Pentru Gherșom: Livni, fiul lui; Iahat, fiul lui; Zima, fiul lui.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Pentru Gherșom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Iahat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zima"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:33.838630548Z",
+  "model": "glm-5.3"
+}

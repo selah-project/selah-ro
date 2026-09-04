@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Încotro să mă duc de la duhul tău, și încotro să fug de la fața ta?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Încotro"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "să merg"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "de la duhul tău"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "și încotro"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "de la fața ta"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "să fug"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:41.315972437Z",
+  "model": "glm-5.3"
+}

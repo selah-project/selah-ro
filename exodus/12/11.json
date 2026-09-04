@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Așa să mâncați ⟨את⟩-ul: coapsele voastre încinse, încălțămintea pe picioarele voastre și toiagul vostru în mâna voastră; și îl veți mânca ⟨את⟩-ul în grabă — Pesah este el al lui Yahve.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ul",
+      "marks": "el (jertfa pesah)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "coapsele voastre"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "încinse"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "încălțămintea voastră"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "pe picioarele voastre"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "și toiagul vostru"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "în mâna voastră"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "și veți mânca"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ul",
+      "marks": "el (jertfa pesah)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "în grabă"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "al lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:51.203278824Z",
+  "model": "glm-5.3"
+}

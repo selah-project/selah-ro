@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și a făcut ⟨את⟩ bara din mijloc, să străbată prin mijlocul scândurilor, de la un capăt până la celălalt capăt.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bara din mijloc"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "bara"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "din mijloc"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "să străbată"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "prin mijlocul"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "scândurilor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "un capăt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "până la"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "celălalt capăt"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:05.072836116Z",
+  "model": "glm-5.3"
+}

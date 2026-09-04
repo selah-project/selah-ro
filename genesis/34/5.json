@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Iaacov a auzit că a pângărit ⟨את⟩ Dina, fiica lui, iar fiii lui erau cu ⟨את⟩ vitele lui în câmp; și a tăcut Iaacov până la venirea lor.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "a pângărit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "fiica lui"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iar fiii lui"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "vitele lui"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "vitele lui"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "și a tăcut"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "באם",
+      "gloss": "venirea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:45.974336331Z",
+  "model": "glm-5.3"
+}

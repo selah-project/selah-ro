@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Să întorci negreșit înapoi lui ⟨את⟩ gajul la apusul soarelui, și el se va culca în haina lui și te va binecuvânta; și ție îți va fi dreptate înaintea lui Yahve, Elohimului tău.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Să întorci"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "negreșit înapoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gajul"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "gajul"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "la apusul"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarelui"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "și el se va culca"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "în haina lui"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "și te va binecuvânta"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "și ție"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "îți va fi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:39.039437429Z",
+  "model": "glm-5.3"
+}

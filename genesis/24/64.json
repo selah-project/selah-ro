@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și și-a ridicat Rivka ⟨את⟩ ochii ei și l-a văzut ⟨את⟩ Ițhac, și a coborât de pe cămilă.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "Și a ridicat"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii ei"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "ochii ei"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ițhac"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "și a coborât"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "cămilă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:01:32.983747472Z",
+  "model": "glm-5.3"
+}

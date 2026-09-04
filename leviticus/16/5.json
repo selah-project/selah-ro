@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și de la ⟨את⟩ adunarea fiilor lui Israel va lua doi țapi de capre pentru jertfa de păcat și un berbec pentru arderea de tot.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "și ⟨את⟩",
+      "marks": "adunarea fiilor lui Israel"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "שני",
+      "gloss": "doi"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "țapi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "de capre"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pentru jertfa de păcat"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "și un berbec"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "pentru arderea de tot"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:31.235160168Z",
+  "model": "glm-5.3"
+}

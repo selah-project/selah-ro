@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci Yahve, Elohimul tău, te-a binecuvântat în toată lucrarea mâinilor tale; a cunoscut mersul tău prin ⟨את⟩ pustia aceasta mare, acești patruzeci de ani; Yahve, Elohimul tău, ⟨este⟩ cu tine, nu ți-a lipsit nimic.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "te-a binecuvântat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâinilor tale"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a cunoscut"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "mersul tău"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pustia aceasta mare"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustia"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mare"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acești"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "ți-a lipsit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nimic"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:01.743609218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "⟨את⟩ străinul îl vei sili la plată, iar ce va fi ție, ⟨את⟩ fratele tău îl va lăsa mâna ta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "străinul"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "străinul"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "îl vei sili"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "iar ce"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fratele tău"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "va lăsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:29.066923588Z",
+  "model": "glm-5.3"
+}

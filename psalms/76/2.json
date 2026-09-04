@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "Cunoscut ⟨este⟩ în Yehuda Elohim; în Israel mare ⟨este⟩ Numele lui.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Cunoscut ⟨este⟩"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "în Yehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Numele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:15.437760130Z",
+  "model": "glm-5.3"
+}

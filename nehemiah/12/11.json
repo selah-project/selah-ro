@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "și Ioiada a născut ⟨את⟩ Ionatan, și Ionatan a născut ⟨את⟩ Iadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "și Ioiada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ionatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Ionatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "și Ionatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Iadua"
+    }
+  ],
+  "timestamp": "2026-09-04T06:03:28.285604098Z",
+  "model": "glm-5.3"
+}

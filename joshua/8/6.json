@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și vor ieși după noi până îi vom depărta ⟨את⟩ de la cetate, căci vor zice: Fug dinaintea noastră, ca la prima dată; și vom fugi dinaintea lor.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Și vor ieși"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "după noi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "îi vom depărta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "de la cetate"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vor zice"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "Fug"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "dinaintea noastră"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ca"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "la prima dată"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "și vom fugi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "dinaintea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:19:29.961159418Z",
+  "model": "glm-5.3"
+}

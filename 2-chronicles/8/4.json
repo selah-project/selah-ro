@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a zidit ⟨את⟩ Tadmor în pustiu și ⟨את⟩ toate cetățile de provizii pe care le-a zidit în Hamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Și a zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate cetățile de provizii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "de provizii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "le-a zidit"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "în Hamat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:20:48.978577174Z",
+  "model": "glm-5.3"
+}

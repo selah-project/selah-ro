@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Răsadul de la sine al secerișului tău să nu seceri, și strugurii viei tale netunse să nu culegi — an de Șabaton să fie pământului.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "răsadul de la sine"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "răsadul de la sine"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "secerișului tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "să seceri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "strugurii"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "strugurii"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "viei tale netunse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "să culegi"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "an de"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Șabaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:07.387608857Z",
+  "model": "glm-5.3"
+}

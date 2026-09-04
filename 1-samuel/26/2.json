@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și s-a sculat Șaul și a coborât la pustiul Zif, și ⟨את⟩ cu el trei mii de oameni, aleși ai lui Israel, ca să caute ⟨את⟩ pe David în pustiul Zif.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "s-a sculat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a coborât"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustiul"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "și ⟨את⟩ cu el"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trei"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de oameni"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "aleși"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ca să caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiul"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:29.821236937Z",
+  "model": "glm-5.3"
+}

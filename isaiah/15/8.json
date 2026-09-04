@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Căci a înconjurat țipătul ⟨את⟩ hotarul lui Moab; până la Eglaim urletul ei, și la Beer-Elim urletul ei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "a înconjurat"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "țipătul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hotarul lui Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hotarul"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "lui Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglaim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "urletul ei"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "și"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Beer-Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "urletul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:31.279059260Z",
+  "model": "glm-5.3"
+}

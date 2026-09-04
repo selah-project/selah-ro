@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Însă pentru aceasta te-am pus ⟨să stai⟩, ca să-ți arăt ⟨את⟩ puterea mea și ca să se vestească numele meu în tot pământul.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Însă"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "te-am pus să stai"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "să-ți arăt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puterea mea"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "și ca să"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "se vestească"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "numele meu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:58.513843442Z",
+  "model": "glm-5.3"
+}

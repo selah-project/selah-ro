@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Binecuvântat ⟨este⟩ Yahve în veac. Amin și amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "și amin"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:20.257928049Z",
+  "model": "glm-5.3"
+}

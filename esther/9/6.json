@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar în Șușan, cetatea, au ucis iudeii și au pierdut cinci sute de oameni.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Iar în Șușan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "au ucis"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "iudeii"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "și au pierdut"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de oameni"
+    }
+  ],
+  "timestamp": "2026-09-04T05:47:20.049102772Z",
+  "model": "glm-5.3"
+}

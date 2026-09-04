@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Să nu dai femeilor puterea ta, nici căile tale, celor ce șterg pe regi!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dai"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "femeilor"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "puterea ta"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "și căile tale"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "celor ce șterg"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "pe regi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:19.461272158Z",
+  "model": "glm-5.3"
+}

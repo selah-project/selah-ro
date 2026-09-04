@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și mi-a zis: cine ești tu? Și i-am zis: amalecit sunt eu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și am zis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amalecit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt eu"
+    }
+  ],
+  "timestamp": "2026-09-04T02:53:40.798803177Z",
+  "model": "glm-5.3"
+}

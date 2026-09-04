@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și să răspundă și să zică: Mâinile noastre nu au vărsat ⟨את⟩ sângele acesta, și ochii noștri nu au văzut.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "și să răspundă"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "și să zică"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mâinile noastre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "au vărsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele acesta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "și ochii noștri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "au văzut"
+    }
+  ],
+  "timestamp": "2026-09-04T02:08:33.468214855Z",
+  "model": "glm-5.3"
+}

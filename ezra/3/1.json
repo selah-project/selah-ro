@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a ajuns luna a șaptea, și fiii lui Israel ⟨erau⟩ în cetăți, și s-a adunat poporul ca un singur om la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "a ajuns"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "luna"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a șaptea"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "și fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "în cetăți"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "s-a adunat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ca un om"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "singur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:56:18.670744418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a spus Yahve către Kain: De ce ți s-a aprins mânia și de ce ți-au căzut fețele?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ți s-a aprins mânia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "și de ce"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ți-au căzut"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fețele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:19.910768137Z",
+  "model": "glm-5.3"
+}

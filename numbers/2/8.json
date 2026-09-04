@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și oștirea lui și cei numărați ai lui: cincizeci și șapte de mii și patru sute.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "și oștirea lui"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "și cei numărați ai lui"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "și cincizeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mii"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "și patru"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    }
+  ],
+  "timestamp": "2026-09-04T01:41:50.033601784Z",
+  "model": "glm-5.3"
+}

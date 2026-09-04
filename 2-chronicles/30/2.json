@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și s-a sfătuit regele și căpeteniile lui și toată adunarea în Ierușalaim, să facă Pesah în luna a doua.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "Și s-a sfătuit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "și căpeteniile lui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "în Ierușalaim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "în luna"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a doua"
+    }
+  ],
+  "timestamp": "2026-09-04T06:30:33.898861200Z",
+  "model": "glm-5.3"
+}

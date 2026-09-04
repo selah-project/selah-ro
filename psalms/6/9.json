@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Îndepărtați-vă de la mine, toți făcătorii de fărădelege, căci a auzit Yahve glasul plânsului meu.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Îndepărtați-vă"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "făcătorii"
+    },
+    {
+      "surface": "און",
+      "gloss": "de fărădelege"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "plânsului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:46.703370414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și melețarul lua ⟨את⟩ bunătățile lor și vinul băuturii lor și le dădea legume.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "melețarul"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunătățile lor"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "bunătățile lor"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "și vinul"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "băuturii lor"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "și dădea"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "legume"
+    }
+  ],
+  "timestamp": "2026-09-04T05:47:35.927489343Z",
+  "model": "glm-5.3"
+}

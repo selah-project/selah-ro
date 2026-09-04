@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și ați adăpat ⟨את⟩ nezirei cu vin, iar pe navi ați poruncit, zicând: Nu prorociți!",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "Și ați adăpat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezirei"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nezirei"
+    },
+    {
+      "surface": "יין",
+      "gloss": "cu vin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iar asupra"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navilor"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "ați poruncit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "prorociți"
+    }
+  ],
+  "timestamp": "2026-09-04T04:40:43.126007184Z",
+  "model": "glm-5.3"
+}

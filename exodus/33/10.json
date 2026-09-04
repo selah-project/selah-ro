@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și vedea tot poporul ⟨את⟩ stâlpul norului stând la ușa cortului, și se ridica tot poporul și se închina, fiecare la ușa cortului său.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Și vedea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpul"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "stâlpul"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "norului"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stând"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la ușa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "și se ridica"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "și se închina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la ușa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "cortului său"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:51.990464208Z",
+  "model": "glm-5.3"
+}

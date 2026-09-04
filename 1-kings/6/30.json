@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Iar ⟨את⟩ pardoseala casei a acoperit-o cu aur, înăuntru și afară.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pardoseala casei"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "pardoseala"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "a acoperit-o"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cu aur"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "înăuntru"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "și afară"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:53.596180599Z",
+  "model": "glm-5.3"
+}

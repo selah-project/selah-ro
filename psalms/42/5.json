@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Acestea le voi pomeni și îmi voi turna sufletul peste mine, căci voi trece în mulțime, voi merge pas cu pas cu ei până la casa lui Elohim, cu glas de strigăt de bucurie și de mulțumire, cu o mulțime prăznuitoare.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Acestea"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "le voi pomeni"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "și îmi voi turna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "voi trece"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "în mulțime"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "voi merge pas cu pas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "cu glas de"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "strigăt de bucurie"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "și de mulțumire"
+    },
+    {
+      "surface": "המון",
+      "gloss": "o mulțime"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "prăznuitoare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:38.402437706Z",
+  "model": "glm-5.3"
+}

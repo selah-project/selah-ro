@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Se scârbesc de mine, se țin departe de mine, și de la fața mea nu au cruțat scuipat.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Se scârbesc de mine"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "se țin departe"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "și de la fața mea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "au cruțat"
+    },
+    {
+      "surface": "רק",
+      "gloss": "scuipat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:33:53.163550156Z",
+  "model": "glm-5.3"
+}

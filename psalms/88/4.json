@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Căci s-a săturat de rele sufletul meu, și viața mea a ajuns la Șeol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "s-a săturat"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "de rele"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "și viața mea"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "la Șeol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "a ajuns"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:31.283271966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Scumpă este în ochii lui Yahve moartea celor evlavioși ai lui.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Scumpă"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "celor evlavioși ai lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:21.076061973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Iată, ai auzit ⟨את⟩ ce au făcut regii Așurului tuturor țărilor, ca să le dea nimicirii — și tu vei fi scăpat?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ai auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce au făcut regii Așurului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așurului"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "țărilor"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "ca să le dea nimicirii"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "vei fi scăpat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:34.250168905Z",
+  "model": "glm-5.3"
+}

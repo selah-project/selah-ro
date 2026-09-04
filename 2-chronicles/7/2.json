@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și nu au putut cohanimii să intre în Casa lui Yahve, căci slava lui Yahve umpluse ⟨את⟩ Casa lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "au putut"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohanimii"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "să intre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "umpluse"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Casa lui Yahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:19:35.014760353Z",
+  "model": "glm-5.3"
+}

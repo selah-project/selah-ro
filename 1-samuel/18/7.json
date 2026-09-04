@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și au răspuns femeile cele care jucau și au zis: a lovit Șaul în miile lui, iar David în zecile lui de mii.",
+  "tokens": [
+    {
+      "surface": "וֽתַּעֲנֶ֛ינָה",
+      "gloss": "Și au răspuns"
+    },
+    {
+      "surface": "הַנָּשִׁ֥ים",
+      "gloss": "femeile"
+    },
+    {
+      "surface": "הַֽמְשַׂחֲק֖וֹת",
+      "gloss": "cele care jucau"
+    },
+    {
+      "surface": "וַתֹּאמַ֑רְנָה",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "הִכָּ֤ה",
+      "gloss": "a lovit"
+    },
+    {
+      "surface": "שָׁא֙וּל",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "בְּאַלְפָ֑וֹ",
+      "gloss": "în miile lui"
+    },
+    {
+      "surface": "וְדָוִ֖ד",
+      "gloss": "iar David"
+    },
+    {
+      "surface": "בְּרִבְבֹתָֽיו",
+      "gloss": "în zecile lui de mii"
+    }
+  ],
+  "timestamp": "2026-09-04T07:10:11.182069119Z",
+  "model": "glm-5.3"
+}

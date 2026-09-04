@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Nu tu ești cea care a uscat ⟨את⟩ marea, apele adâncului celui mare, cea care a pus adâncurile mării cale de trecere pentru cei răscumpărați?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "cea"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "care a uscat"
+    },
+    {
+      "surface": "ים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apele"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "adâncului"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "celui mare"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "cea care a pus"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "adâncurile"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cale"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "de trecere"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "pentru cei răscumpărați"
+    }
+  ],
+  "timestamp": "2026-09-04T03:52:48.374061748Z",
+  "model": "glm-5.3"
+}

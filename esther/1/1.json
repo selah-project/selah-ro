@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a fost în zilele lui Ahașveroș — el ⟨este⟩ Ahașveroș, regele care domnea de la Hodu și până la Kuș, peste șapte și douăzeci și o sută de provincii —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele lui"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahașveroș"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahașveroș"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "de la Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuș"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "și douăzeci"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "și o sută"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "de provincii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:56.325069707Z",
+  "model": "glm-5.3"
+}

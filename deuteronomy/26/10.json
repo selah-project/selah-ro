@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "și acum, iată, am adus ⟨את⟩ primele roade ale pământului pe care mi l-ai dat, Yahve; și îl vei pune înaintea lui Yahve, Elohim al tău, și te vei închina înaintea lui Yahve, Elohim al tău.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "am adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "primele roade"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "primele roade"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ale roadei"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ai dat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "și îl vei pune"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "și te vei închina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:56.422561276Z",
+  "model": "glm-5.3"
+}

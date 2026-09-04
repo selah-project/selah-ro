@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Dacă întâlnești boul vrăjmașului tău sau măgarul lui rătăcind, să-l întorci negreșit înapoi la el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "întâlnești"
+    },
+    {
+      "surface": "שור",
+      "gloss": "boul"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "vrăjmașului tău"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "măgarul lui"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "rătăcind"
+    },
+    {
+      "surface": "השב",
+      "gloss": "să-l întorci"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "să-l întorci negreșit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "la el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:08.404959427Z",
+  "model": "glm-5.3"
+}

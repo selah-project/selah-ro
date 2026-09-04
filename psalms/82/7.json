@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 82,
+  "translation": "Totuși, ca un om veți muri, și ca unul dintre căpetenii veți cădea.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Totuși"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "ca un om"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "veți muri"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "și ca unul"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "dintre căpetenii"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "veți cădea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:25.808998245Z",
+  "model": "glm-5.3"
+}

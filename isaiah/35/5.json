@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Atunci se vor deschide ochii orbilor și urechile surzilor vor fi deschise.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "se vor deschide"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "orbilor"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "și urechile"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "surzilor"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "vor fi deschise"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:31.579052259Z",
+  "model": "glm-5.3"
+}

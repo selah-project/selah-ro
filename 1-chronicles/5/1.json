@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 5:1",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Iar fiii lui Reuven, întâiul-născut al lui Israel — căci el ⟨este⟩ întâiul-născut, dar când a pângărit patul tatălui său, dreptul său de întâi-născut a fost dat fiilor lui Iosif, fiul lui Israel — iar el nu ⟨este⟩ trecut în genealogie după dreptul de întâi-născut.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Iar fiii"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "lui Reuven"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "întâiul-născut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "al lui Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "⟨este⟩ întâiul-născut"
+    },
+    {
+      "surface": "ובחללו",
+      "gloss": "dar când a pângărit"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "patul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a fost dat"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "dreptul său de întâi-născut"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iar nu"
+    },
+    {
+      "surface": "להתיחש",
+      "gloss": "a fi trecut în genealogie"
+    },
+    {
+      "surface": "לבכרה",
+      "gloss": "după dreptul de întâi-născut"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:34.537722203Z",
+  "model": "glm-5.3"
+}

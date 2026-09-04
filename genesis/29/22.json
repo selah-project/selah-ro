@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și a adunat Lavan ⟨את⟩ pe toți oamenii locului și a făcut un ospăț.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Și a adunat"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți oamenii locului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locului"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "un ospăț"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:29.041815928Z",
+  "model": "glm-5.3"
+}

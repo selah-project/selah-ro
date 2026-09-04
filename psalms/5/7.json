@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Vei pierde pe cei ce grăiesc minciuna; omul de sânge și de înșelăciune Yahve îl va scârbi.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Vei pierde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pe cei ce grăiesc"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "minciuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "de sânge"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "și de înșelăciune"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "va scârbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:17.335594032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Glasul meu către Elohim, și strig; glasul meu către Elohim, și îmi dă ascultare.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Glasul meu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "și strig"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "și îmi dă ascultare"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:47.521493878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "urâtori ai binelui și iubitori ai răului, care jupuiesc pielea lor de pe ei și carnea lor de pe oasele lor —",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "urâtori"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ai binelui"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "și iubitori"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ai răului"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "care jupuiesc"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "pielea lor"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "de pe ei"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "și carnea lor"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "oasele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:18.138162119Z",
+  "model": "glm-5.3"
+}

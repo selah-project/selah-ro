@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a trimis David și a cercetat despre femeie, și a zis: Nu această ⟨este⟩ Bat-Șeva, fiica lui Eliam, soția lui Uria hititul?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "și a cercetat"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "despre femeie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "această"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "lui Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "lui Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:00:38.365053700Z",
+  "model": "glm-5.3"
+}

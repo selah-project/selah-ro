@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Că robii tăi s-au împăcat cu pietrele ⟨ei⟩ și ⟨את⟩ praful ei îl vor binecuvânta cu îndurare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "s-au împăcat cu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robii tăi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pietrele ei"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "pietrele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "praful ei"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "praful ei"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "îl vor binecuvânta cu îndurare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:44.443597812Z",
+  "model": "glm-5.3"
+}

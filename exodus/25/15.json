@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "În inelele Chivotului să fie barele — să nu fie scoase din el.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "în inelele"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Chivotului"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "barele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "fie scoase"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:22:39.597655479Z",
+  "model": "glm-5.3"
+}

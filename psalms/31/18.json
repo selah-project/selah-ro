@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Yahve, să nu mă rușinez, căci pe tine te-am chemat; să se rușineze cei răi, să amuțească spre Șeol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "să mă rușinez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "te-am chemat"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "să se rușineze"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "să amuțească"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "spre Șeol"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:53.608443672Z",
+  "model": "glm-5.3"
+}

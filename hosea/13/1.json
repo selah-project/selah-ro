@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Când vorbea Efraim, ⟨era⟩ tremur; s-a înălțat el în Israel, dar s-a făcut vinovat prin Baal și a murit.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Când vorbea"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "tremur"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "s-a înălțat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "și s-a făcut vinovat"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "prin Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:49.962468468Z",
+  "model": "glm-5.3"
+}

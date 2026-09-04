@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Gura dreptului murmura înțelepciune și limba lui vorbește dreptate.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Gura"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "dreptului"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "murmura"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciune"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "și limba lui"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "vorbește"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dreptate"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:43.652618538Z",
+  "model": "glm-5.3"
+}

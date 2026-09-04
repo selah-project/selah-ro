@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a fost rău pentru Iona un rău mare, și i s-a aprins mânia.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Și a fost rău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Iona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rău"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "și s-a aprins"
+    },
+    {
+      "surface": "לו",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:16.636243316Z",
+  "model": "glm-5.3"
+}

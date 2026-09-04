@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Bătrânii au încetat ⟨de la⟩ poartă, tinerii ⟨de la⟩ cântul lor.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "Bătrânii"
+    },
+    {
+      "surface": "משער",
+      "gloss": "⟨de la⟩ poartă"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "au încetat"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "tinerii"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "⟨de la⟩ cântul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:47.248502707Z",
+  "model": "glm-5.3"
+}

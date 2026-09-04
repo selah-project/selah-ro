@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Yahve a șezut la potop, și șade Yahve ca Rege ⟨pentru⟩ totdeauna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "la potop"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a șezut"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și șade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ca Rege"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "totdeauna"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:12.978878499Z",
+  "model": "glm-5.3"
+}

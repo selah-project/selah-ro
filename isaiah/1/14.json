@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Lunile voastre noi și sărbătorile voastre le urăște nefeșul meu; au fost asupra mea de povară; m-am săturat să le mai port.",
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "lunile voastre noi"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "și sărbătorile voastre"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "urăște"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeșul meu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "de povară"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "m-am săturat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "să le mai port"
+    }
+  ],
+  "timestamp": "2026-09-04T07:23:39.379070011Z",
+  "model": "glm-5.3"
+}

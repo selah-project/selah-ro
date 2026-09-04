@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 122,
+  "translation": "Cântare a urcărilor, a lui David. M-am bucurat când mi s-a spus: Casa lui Yahve! Să mergem!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a lui David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "M-am bucurat"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "când mi s-a spus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "Să mergem"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:41.586432452Z",
+  "model": "glm-5.3"
+}

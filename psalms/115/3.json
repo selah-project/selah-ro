@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Iar Elohimul nostru ⟨este⟩ în ceruri: tot ce a voit a făcut.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Iar Elohimul nostru"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a voit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:06.763474931Z",
+  "model": "glm-5.3"
+}

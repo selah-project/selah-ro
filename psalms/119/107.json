@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Am fost frânt până peste măsură, Yahve; dă-mi viață, după cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "am fost frânt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "peste măsură"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "dă-mi viață"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "după cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:54.311365050Z",
+  "model": "glm-5.3"
+}

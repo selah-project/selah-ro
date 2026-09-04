@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și ⟨el⟩ va fi ca un pom sădit pe brațe de apă, care roadă lui o dă la vremea lui și frunza lui nu se va veșteji — și tot ce face va izbândi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ca un pom"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "sădit"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "brațe de"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "roada lui"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "la vremea lui"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "și frunza lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "se va veșteji"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "va izbândi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:59.826649643Z",
+  "model": "glm-5.3"
+}

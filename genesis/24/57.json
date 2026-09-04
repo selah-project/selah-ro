@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și au zis: Să chemăm fata și să întrebăm ⟨את⟩ gura ei.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au zis"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "să chemăm"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "fata"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "și să întrebăm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura ei"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "gura ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:56.738815576Z",
+  "model": "glm-5.3"
+}

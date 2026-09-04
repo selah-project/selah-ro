@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Chiar și chiparoșii s-au bucurat de tine, cedrii Libanului: de când te-ai culcat, nu se mai ridică tăietorul peste noi.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "בְּרוֹשִׁים",
+      "gloss": "chiparoșii"
+    },
+    {
+      "surface": "שָׂמְחוּ",
+      "gloss": "s-au bucurat"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "de tine"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "cedrii"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "Libanului"
+    },
+    {
+      "surface": "מֵאָז",
+      "gloss": "de când"
+    },
+    {
+      "surface": "שָׁכַבְתָּ",
+      "gloss": "te-ai culcat"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "se ridică"
+    },
+    {
+      "surface": "הַכֹּרֵת",
+      "gloss": "tăietorul"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "peste noi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:33.301498851Z",
+  "model": "glm-5.3"
+}

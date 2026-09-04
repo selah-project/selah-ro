@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a lepădat Yahve toată sămânța lui Israel, și i-a smerit, și i-a dat în mâna jefuitorilor, până ce i-a aruncat de la fața sa.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "și a lepădat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânța"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "și i-a smerit"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "și i-a dat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "jefuitorilor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "i-a aruncat"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de la fața sa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:18.494494068Z",
+  "model": "glm-5.3"
+}

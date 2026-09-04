@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a făcut Elohim ⟨את⟩ fiara pământului după felul ei, și ⟨את⟩ vitele după felul lor, și ⟨את⟩ tot târâtoarea pământului după felul ei; și a văzut Elohim că ⟨era⟩ bun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiara pământului"
+    },
+    {
+      "surface": "חית",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "după felul ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vitele"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vitele"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "după felul lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot târâtoarea pământului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "târâtoarea"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "după felul ei"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:06.195782730Z",
+  "model": "glm-5.3"
+}

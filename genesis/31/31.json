@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a răspuns Iaacov și a spus lui Lavan: Pentru că m-am temut, căci am zis: ca nu cumva să mă smulgi ⟨את⟩ fiicele tale de la mine.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "lui Lavan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Pentru că"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "m-am temut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "să mă smulgi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiicele tale"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "fiicele tale"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "de la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:49.840107406Z",
+  "model": "glm-5.3"
+}

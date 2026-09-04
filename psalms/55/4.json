@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Din glasul vrăjmașului, din fața strâmtorării celui rău, că ei fac să se clatine peste mine nelegiuirea și în mânie mă prigonesc.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Din glasul"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vrăjmașului"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din fața"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "strâmtorării"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "celui rău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ei fac să se clatine"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "און",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "și în mânie"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "mă prigonesc"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:29.388613161Z",
+  "model": "glm-5.3"
+}

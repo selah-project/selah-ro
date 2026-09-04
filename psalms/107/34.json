@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Pământ rodnic în sărătură, din pricina răutății locuitorilor lui.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "rodnic"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "în sărătură"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "din pricina răutății"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ai locuitorilor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:24.899926496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Pe tine am fost aruncat din pântece, din pântecul maicii mele — tu ești El-ul meu.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Pe tine"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "am fost aruncat"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "din pântece"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "din pântecul"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "maicii mele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ul meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ești"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:24.597613584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Înțelepciunea îl întărește pe înțelept mai mult decât zece stăpânitori care au fost în cetate.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Înțelepciunea"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "îl întărește"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "pe înțelept"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "mai mult decât zece"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "stăpânitori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:23.186112237Z",
+  "model": "glm-5.3"
+}

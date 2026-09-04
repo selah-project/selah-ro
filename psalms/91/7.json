@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Va cădea la sânul tău o mie, și zece mii la dreapta ta: asupra ta nu se va apropia.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "Va cădea"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "la sânul tău"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "o mie"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "și zece mii"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "la dreapta ta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "asupra ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "se va apropia"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:56.083650609Z",
+  "model": "glm-5.3"
+}

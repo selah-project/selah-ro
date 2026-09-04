@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "A zis în inima lui: „Nu voi fi clintit, din neam în neam, ⟨că⟩ nu voi fi în rău.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "în inima lui"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "voi fi clintit"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "în rău"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:28.542508165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "și numele lui va fi chemat în Israel: Casa celui căruia i s-a scos sandaua.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "și va fi chemat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "celui scos"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sandaua"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:15.798270249Z",
+  "model": "glm-5.3"
+}

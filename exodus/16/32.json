@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 16:32",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a spus Moșe: acesta ⟨este⟩ cuvântul pe care l-a poruncit Yahve: umpleți un omer din el, spre păstrare pentru neamurile voastre, ca să vadă ⟨את⟩ pâinea pe care v-am hrănit ⟨את⟩ pe voi în pustiu, când v-am scos ⟨את⟩ pe voi din pământul Mițraim.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "l-a poruncit"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מְלֹא",
+      "gloss": "umpleți"
+    },
+    {
+      "surface": "הָעֹמֶר",
+      "gloss": "un omer"
+    },
+    {
+      "surface": "מִמֶּנּוּ",
+      "gloss": "din el"
+    },
+    {
+      "surface": "לְמִשְׁמֶרֶת",
+      "gloss": "spre păstrare"
+    },
+    {
+      "surface": "לְדֹרֹתֵיכֶם",
+      "gloss": "pentru neamurile voastre"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "יִרְאוּ",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "pâinea"
+    },
+    {
+      "surface": "הַלֶּחֶם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הֶאֱכַלְתִּי",
+      "gloss": "v-am hrănit"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi — obiectul hrănirii"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "בְּהוֹצִיאִי",
+      "gloss": "când v-am scos"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi — obiectul scoaterii"
+    },
+    {
+      "surface": "מֵאֶרֶץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:22.875530074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Nu vă suiți, căci nu ⟨este⟩ Yahve în mijlocul vostru, și să nu fiți loviți înaintea dușmanilor voștri.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "vă suiți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "în mijlocul vostru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "fiți loviți"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dușmanilor voștri"
+    }
+  ],
+  "timestamp": "2026-09-04T01:48:23.723023426Z",
+  "model": "glm-5.3"
+}

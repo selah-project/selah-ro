@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "Acolo i-a apucat spaima — spaimă de unde nu era — căci Elohim a risipit oasele celui ce-și întinde tabăra împotriva ta; i-ai pus la rușine, căci Elohim i-a lepădat.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Acolo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "i-a apucat spaima"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "spaimă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "spaimă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "a risipit"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "oasele"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "celui ce-și întinde tabăra împotriva ta"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "i-ai pus la rușine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "i-a lepădat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:17.580647976Z",
+  "model": "glm-5.3"
+}

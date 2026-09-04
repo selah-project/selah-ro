@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Dar trimite, rogu-te, mâna ta și atinge tot ce are el: dacă nu pe fața ta te va binecuvânta!",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Dar"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "trimite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rog(te)"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "și atinge"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "are el"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "te va binecuvânta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:02.008440200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și au dus sus ⟨את⟩ chivotul, și ⟨את⟩ cortul întâlnirii, și ⟨את⟩ toate uneltele sfințeniei care erau în cort; le-au dus sus cohenii, leviții.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "și au dus sus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cortul întâlnirii"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele sfințeniei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "uneltele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfințeniei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "în cort"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "le-au dus sus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "cohenii, leviții (obiectul: le)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenii"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviții"
+    }
+  ],
+  "timestamp": "2026-09-04T06:19:21.982271449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Povara cuvântului lui Yahve către Israel, prin mâna lui Malahi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Povara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvântului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malahi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:51.071390172Z",
+  "model": "glm-5.3"
+}

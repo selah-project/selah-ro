@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a cunoscut Adam încă ⟨את⟩ soția lui, și ea a născut un fiu, și a chemat ⟨את⟩ numele lui Șet: „căci a pus mie Elohim o sămânță altă în locul lui Hevel, căci l-a ucis Cain.”",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Și a cunoscut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soția lui"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția lui"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și ea a născut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Șet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שת",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "o sămânță"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altă"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "lui Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "l-a ucis"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Cain"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:29.970732581Z",
+  "model": "glm-5.3"
+}

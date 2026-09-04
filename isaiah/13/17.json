@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Iată, Eu stârnesc împotriva lor ⟨את⟩ Madai, care argint nu socotesc și aur nu doresc în el.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "stârnesc"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "împotriva lor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madai"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "socotesc"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "și aur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "doresc"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:27.025447032Z",
+  "model": "glm-5.3"
+}

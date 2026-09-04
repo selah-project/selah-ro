@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Cel ce șade în ceruri râde; Adonai își bate joc de ei.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Cel ce șade"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "râde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "își bate joc"
+    },
+    {
+      "surface": "למו",
+      "gloss": "de ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:46.795848917Z",
+  "model": "glm-5.3"
+}

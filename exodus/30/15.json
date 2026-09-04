@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Bogatul să nu mărească și săracul să nu micșoreze de la jumătatea șekelului, ca să dea ⟨את⟩ darul lui Yahve, ca să răscumpere pentru sufletele voastre.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Bogatul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "să mărească"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "și săracul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "să micșoreze"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "de la jumătatea"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "șekelului"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ca să dea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "darul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ca să răscumpere"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "sufletele voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T08:47:19.631419899Z",
+  "model": "glm-5.3"
+}

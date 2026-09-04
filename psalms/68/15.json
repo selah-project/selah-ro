@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Când împrăștie Șadai regii în ea, ninge în Țalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Când împrăștie"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Șadai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "regii"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "cade zăpadă"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "în Țalmon"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:55.839817267Z",
+  "model": "glm-5.3"
+}

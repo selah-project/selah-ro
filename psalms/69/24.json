@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Să se întunece ochii lor de a mai vedea, și șoldurile lor neîncetat să se clatine.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "Să se întunece"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ochii lor"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "de a mai vedea"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "și șoldurile lor"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "să se clatine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:48.352843486Z",
+  "model": "glm-5.3"
+}

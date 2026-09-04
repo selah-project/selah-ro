@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Vorbesc despre mine cei ce șed ⟨la⟩ poartă, și ⟨sunt⟩ cântare de strune pentru cei ce beau băutură tare.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "vorbesc"
+    },
+    {
+      "surface": "בי",
+      "gloss": "despre mine"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "cei ce șed"
+    },
+    {
+      "surface": "שער",
+      "gloss": "poartă"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "și cântare de strune"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "cei ce beau"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "băutură tare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:07.111791095Z",
+  "model": "glm-5.3"
+}

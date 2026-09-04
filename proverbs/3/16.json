@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Lungime de zile ⟨este⟩ în dreapta ei, în stânga ei bogăție și slavă.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Lungime"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de zile"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "în dreapta ei"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "în stânga ei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogăție"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "și slavă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:12.935022215Z",
+  "model": "glm-5.3"
+}

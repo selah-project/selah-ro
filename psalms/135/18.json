@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Ca ele să fie făcătorii lor, toți cei ce se încred în ele.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Ca ele"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "făcătorii lor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cei ce"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "se încred"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:59.085098702Z",
+  "model": "glm-5.3"
+}

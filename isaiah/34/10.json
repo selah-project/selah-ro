@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Noaptea și ziua nu va fi stinsă, pe veci se va sui fumul ei; din neam în neam va rămâne pustie; în vecii vecilor nimeni nu va trece ⟨prin ea⟩.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "și ziua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "va fi stinsă"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe veci"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "se va sui"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "fumul ei"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "în neam"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "va rămâne pustie"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "în vecii"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "vecilor"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "trece"
+    },
+    {
+      "surface": "בה",
+      "gloss": "prin ea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:27:46.442423663Z",
+  "model": "glm-5.3"
+}

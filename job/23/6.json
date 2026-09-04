@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Cu mulțimea puterii s-ar certa ⟨cu⟩ mine? Nu! Ci doar el ar pune ⟨petrecere⟩ în mine.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "cu mulțimea"
+    },
+    {
+      "surface": "כח",
+      "gloss": "puterii"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "s-ar certa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ci doar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ar pune"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:15.074824392Z",
+  "model": "glm-5.3"
+}

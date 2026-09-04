@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 25:18",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "⟨את⟩ Ierușalaim și ⟨את⟩ cetățile lui Iehuda și ⟨את⟩ regii ei, ⟨את⟩ căpeteniile ei, ca să-i dau pradă pustiirii, spre groază, spre fluierat ⟨și⟩ spre blestem, ca în ziua aceasta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cetățile lui Iehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "regii ei"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "regii ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "căpeteniile ei"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "căpeteniile ei"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ca să-i dea"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pustiirii"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "pradă pustiirii"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "spre groază"
+    },
+    {
+      "surface": "לשרקה",
+      "gloss": "spre fluierat"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "și spre blestem"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ca în ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T10:12:33.110243942Z",
+  "model": "glm-5.3"
+}

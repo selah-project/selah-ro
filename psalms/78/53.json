@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și i-a călăuzit spre loc de tihnă și nu s-au temut, iar marea a acoperit ⟨את⟩ vrăjmașii lor.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "i-a călăuzit"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "spre loc de tihnă"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "s-au temut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vrăjmașii lor"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "vrăjmașii lor"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "a acoperit"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:13.339860694Z",
+  "model": "glm-5.3"
+}

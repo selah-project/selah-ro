@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "și ⟨את⟩ Șabaturile mele sfințiți-le, și ele vor fi ⟨ca⟩ semn între mine și între voi, ca să știți că Eu ⟨sunt⟩ Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șabaturile mele"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Șabaturile mele"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfințiți-le"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "și vor fi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "⟨ca⟩ semn"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "între mine"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "și între voi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ca să știți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T07:42:54.520204924Z",
+  "model": "glm-5.3"
+}

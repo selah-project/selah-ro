@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și am pus acolo un loc pentru aron, unde ⟨este⟩ legământul lui Yahve, pe care l-a încheiat cu părinții noștri când i-a scos ⟨את⟩ pe ei din țara Mițraim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "și am pus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un loc"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "pentru aron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a încheiat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "părinții noștri"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "când i-a scos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei (din țara Mițraim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T03:14:03.080494997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și va fi în ziua a șasea, și vor pregăti ⟨את⟩ ceea ce vor aduce, și va fi îndoit peste ceea ce adună zi de zi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "a șasea"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "vor pregăti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce vor aduce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "vor aduce"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "îndoit"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "adună"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:19.274344527Z",
+  "model": "glm-5.3"
+}

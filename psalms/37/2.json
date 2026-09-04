@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Căci ca iarba repede se vor tăia, și ca verdeața de iarbă se vor ofili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "repede"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "se vor tăia"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "și ca verdeața"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "de iarbă"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "se vor ofili"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:20.932711226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Și binecuvântat fie numele slavei lui în veac, și să se umple slava lui ⟨את⟩ tot pământul. Amin și Amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Și binecuvântat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slavei lui"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "și să se umple"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slava lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot pământul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "și Amin"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:25.560753567Z",
+  "model": "glm-5.3"
+}

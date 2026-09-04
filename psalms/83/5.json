@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Au zis: Veniți și să-i ștergem de pe fața neamurilor, și numele lui Israel să nu mai fie pomenit.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Au zis"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "și să-i ștergem"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "dintre neamuri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "fie pomenit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:48.979207241Z",
+  "model": "glm-5.3"
+}

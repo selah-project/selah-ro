@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Pentru ce să iert aceasta ție? Fiii tăi m-au părăsit și s-au jurat pe ⟨cei ce nu sunt⟩ dumnezei; și i-am pus sub jurământ ⟨את⟩ pe ei, și au preacurvit, și la casa curvei se adună în cete.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Pentru ce"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "să iert"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiii tăi"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "m-au părăsit"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "și s-au jurat"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "pe ⟨cei ce nu sunt⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "și i-am pus sub jurământ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei — fiii"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "și au preacurvit"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "și la casa"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "curvei"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "se adună în cete"
+    }
+  ],
+  "timestamp": "2026-09-04T04:00:04.413136566Z",
+  "model": "glm-5.3"
+}

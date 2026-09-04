@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Eu sunt Yahve, Elohimul tău, care te-a scos din pământul Mițraimului, din casa robilor.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "te-a scos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robilor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:42.617254039Z",
+  "model": "glm-5.3"
+}

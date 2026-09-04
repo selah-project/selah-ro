@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 7:7",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Așa mi-a arătat ⟨את⟩, și iată: Adonai stătea pe un zid făcut cu firul de plumb, și în mâna lui ⟨era⟩ un fir de plumb.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mi-a arătat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un zid făcut cu firul de plumb"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stătea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "un zid"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "de fir de plumb"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "și în mâna lui"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "fir de plumb"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:52.514644646Z",
+  "model": "glm-5.3"
+}

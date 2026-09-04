@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și un râu ieșea din Eden ca să ude ⟨את⟩ grădina, și de acolo se împărțea și era în patru capete.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "și un râu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ieșea"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "din Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ca să ude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grădina"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "grădina"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "și de acolo"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "se împărțea"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și era"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "în patru"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "capete"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:44.122092048Z",
+  "model": "glm-5.3"
+}

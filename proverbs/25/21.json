@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Dacă îi este foame celui care te urăște, dă-i lui pâine să mănânce, și dacă îi este sete, dă-i lui apă să bea",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "îi este foame"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "celui care te urăște"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "dă-i lui să mănânce"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "îi este sete"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "dă-i lui să bea"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:03.301191031Z",
+  "model": "glm-5.3"
+}

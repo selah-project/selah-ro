@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a spus: Pentru mâine. Și a spus: După cuvântul tău, ca să știi că nu ⟨este⟩ ca Yahve, Elohim al nostru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Pentru mâine"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "După cuvântul tău"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "știi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ca Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:31.889626468Z",
+  "model": "glm-5.3"
+}

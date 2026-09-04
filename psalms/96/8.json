@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 96,
+  "translation": "Dați lui Yahve slava numelui lui; aduceți darul ⟨de mâncare⟩ și intrați în curțile lui!",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Dați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numelui lui"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "aduceți"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "darul"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "și intrați"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "în curțile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:52.396551980Z",
+  "model": "glm-5.3"
+}

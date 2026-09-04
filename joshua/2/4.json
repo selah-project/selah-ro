@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a luat femeia ⟨את⟩ cei doi oameni și i-a ascuns, și a zis: Așa, au venit la mine oamenii, și nu am știut de unde ei ⟨sunt⟩.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cei doi oameni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cei doi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "și i-a ascuns"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "am știut"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "de unde"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:18:07.270850812Z",
+  "model": "glm-5.3"
+}

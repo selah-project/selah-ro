@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și ⟨את⟩ fiii lui să îi apropie, și să îi îmbraci cu hitoni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "să îi apropie"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "și să îi îmbraci"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "cu hitoni"
+    }
+  ],
+  "timestamp": "2026-09-04T01:23:37.725159412Z",
+  "model": "glm-5.3"
+}

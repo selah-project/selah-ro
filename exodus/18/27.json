@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a trimis Moșe ⟨את⟩ socru-său, și ⟨acela⟩ a plecat în țara sa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "socru-său"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "socru-său"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a plecat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "în calea sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "țara sa"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:00.706663364Z",
+  "model": "glm-5.3"
+}

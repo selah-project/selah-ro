@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "În toată vremea hainele tale ⟨să fie⟩ albe, și untdelemnul de pe capul tău să nu lipsească.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "În toată"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vremea"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨să fie⟩"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "hainele tale"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "albe"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "și untdelemnul"
+    },
+    {
+      "surface": "על",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "capul tău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "lipsească"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:03.880036760Z",
+  "model": "glm-5.3"
+}

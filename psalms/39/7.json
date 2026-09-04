@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Doar ca o umbră trece omul; doar în abur se frământă; adună ⟨avere⟩ și nu știe cine le va aduna.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Doar"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ca o umbră"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "trece\/umblă"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "în abur"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "se frământă"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "adună"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "știe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "le va aduna"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:46.419433434Z",
+  "model": "glm-5.3"
+}

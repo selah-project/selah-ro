@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Și cuvintele urii m-au înconjurat, și m-au războit fără pricină.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Și cuvintele"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "urii"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "m-au înconjurat"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "și m-au războit"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "fără pricină"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:18.059805868Z",
+  "model": "glm-5.3"
+}

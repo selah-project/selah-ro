@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Adăpă toate fiarele câmpului; onagrii își potol setea.",
+  "tokens": [
+    {
+      "surface": "יַ֭שְׁקוּ",
+      "gloss": "adăpă"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "חַיְת֣וֹ",
+      "gloss": "fiarele"
+    },
+    {
+      "surface": "שָׂדָ֑י",
+      "gloss": "câmpului"
+    },
+    {
+      "surface": "יִשְׁבְּר֖וּ",
+      "gloss": "își potol"
+    },
+    {
+      "surface": "פְּרָאִ֣ים",
+      "gloss": "onagrii"
+    },
+    {
+      "surface": "צְמָאָֽם",
+      "gloss": "setea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:25.290229008Z",
+  "model": "glm-5.3"
+}

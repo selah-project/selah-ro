@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 23:25",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și voi pune gelozia mea asupra ta, și se vor purta ⟨את⟩ cu tine în furie; nasul tău și urechile tale le vor îndepărta, și rămășița ta va cădea de sabie; ei, fiii tăi și fiicele tale îi vor lua, și rămășița ta va fi mâncată în foc.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Și voi pune"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "gelozia mea"
+    },
+    {
+      "surface": "בך",
+      "gloss": "asupra ta"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "și se vor purta"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ cu tine",
+      "marks": "în furie"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "în furie"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nasul tău"
+    },
+    {
+      "surface": "ואזניך",
+      "gloss": "și urechile tale"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "vor îndepărta"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "și rămășița ta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "de sabie"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "va cădea"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiii tăi"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "și fiicele tale"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "vor lua"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "și rămășița ta"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "va fi mâncată"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    }
+  ],
+  "timestamp": "2026-09-04T04:27:39.903896010Z",
+  "model": "glm-5.3"
+}

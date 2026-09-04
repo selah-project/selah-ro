@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a spus: să i se dea ⟨את⟩ Abișag șunamita lui Adoniahu, fratele tău, de soție.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "să i se dea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abișag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abișag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "șunamita"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "lui Adoniahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de soție"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:42.450960632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Omul — ca iarba sunt zilele lui; ca floarea câmpului, așa înflorește.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Omul"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "sunt zilele lui"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ca floarea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpului"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "înflorește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:58.121204961Z",
+  "model": "glm-5.3"
+}

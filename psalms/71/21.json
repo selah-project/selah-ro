@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Îți va spori măreția mea și te vei întoarce și mă vei mângâia.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "vei spori"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "măreția mea"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "și te vei întoarce"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "mă vei mângâia"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:16.566370318Z",
+  "model": "glm-5.3"
+}

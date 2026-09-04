@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "S-a sfârșit oare pentru totdeauna hesedul lui? S-a isprăvit cuvântul pentru neam și neam?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "s-a sfârșit oare"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "s-a isprăvit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pentru neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "și neam"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:15.260985187Z",
+  "model": "glm-5.3"
+}

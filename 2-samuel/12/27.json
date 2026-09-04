@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a trimis Ioav soli la David și a zis: m-am luptat împotriva Rabei, chiar am cucerit ⟨את⟩ cetatea apelor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "soli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "m-am luptat"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "împotriva Rabei"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "am cucerit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetatea apelor"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aper"
+    }
+  ],
+  "timestamp": "2026-09-04T02:59:49.976422544Z",
+  "model": "glm-5.3"
+}

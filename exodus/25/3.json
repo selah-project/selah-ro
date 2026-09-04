@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Iar aceasta este darul pe care să-l luați de la ⟨את⟩ ei: aur, argint și aramă.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Iar aceasta"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "darul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "să-l luați"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "de la ⟨את⟩ ei"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "și aramă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:58.323626300Z",
+  "model": "glm-5.3"
+}

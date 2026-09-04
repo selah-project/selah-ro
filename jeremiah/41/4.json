@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Și a fost în a doua zi de la uciderea ⟨את⟩ Guedalia — și nimeni nu știa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a doua"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "de la uciderea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Guedalia"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Guedalia"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și nimeni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "știa"
+    }
+  ],
+  "timestamp": "2026-09-04T07:38:49.628871553Z",
+  "model": "glm-5.3"
+}

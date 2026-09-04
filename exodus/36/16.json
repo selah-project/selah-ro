@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și a unit ⟨את⟩ cele cinci covoare aparte, și ⟨את⟩ cele șase covoare aparte.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Și a unit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cele cinci covoare"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "covoare"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "aparte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cele șase covoare"
+    },
+    {
+      "surface": "שש",
+      "gloss": "șase"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "covoare"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "aparte"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:48.069710581Z",
+  "model": "glm-5.3"
+}

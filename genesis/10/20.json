@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Aceștia sunt fiii lui Ham, după familiile lor, după limbile lor, în țările lor, în neamurile lor",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aceștia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "după familiile lor"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "după limbile lor"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "în țările lor"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "în neamurile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:43.952514921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și ⟨את⟩ pieile iezilor de capre le-a îmbrăcat pe mâinile lui și pe partea netedă a gâtului lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pieile"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "pieile"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "iezilor"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "de capre"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "le-a îmbrăcat"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinile lui"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "partea netedă"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "a gâtului lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:06.923902658Z",
+  "model": "glm-5.3"
+}

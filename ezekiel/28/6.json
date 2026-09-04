@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "De aceea așa a spus Adonai Yahve: pentru că ți-ai dat ⟨את⟩ inima ta ca inima lui Elohim,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "De aceea"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "ți-ai dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima ta"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "inima ta"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ca inima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T07:45:08.713921778Z",
+  "model": "glm-5.3"
+}

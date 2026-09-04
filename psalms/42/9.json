@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Ziua va porunci Yahve hesed-ul lui, iar în noapte o cântare ⟨este⟩ cu mine, o rugăciune către El al vieții mele.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Ziua"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "va porunci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-ul lui"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "iar în noapte"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "o cântare"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "o rugăciune"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "către El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "al vieții mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:17.505996539Z",
+  "model": "glm-5.3"
+}

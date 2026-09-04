@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cei numărați ai lor, pentru seminția lui Gad: patruzeci și cinci de mii și șase sute cincizeci.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Cei numărați ai lor"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pentru seminția"
+    },
+    {
+      "surface": "גד",
+      "gloss": "lui Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "și patruzeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "și șase"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "și cincizeci"
+    }
+  ],
+  "timestamp": "2026-09-04T06:51:20.954621110Z",
+  "model": "glm-5.3"
+}

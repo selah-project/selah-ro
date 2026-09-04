@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 123,
+  "translation": "Prea s-a săturat de batjocură sufletul nostru — ⟨batjocura⟩ celor fără de grijă, disprețul celor trufași.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Prea"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "s-a săturat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "de"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sufletul nostru"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "batjocură"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "celor fără de grijă"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "disprețul"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "celor trufași"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:58.475113708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "S-a înălțat Elohim cu strigăt de război, Yahve cu sunet de șofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "S-a înălțat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "cu strigăt de război"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "cu sunet"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "de șofar"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:07.430093597Z",
+  "model": "glm-5.3"
+}

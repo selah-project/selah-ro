@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "și ⟨את⟩ masa și ⟨את⟩ uneltele ei, și ⟨את⟩ sfeșnicul cel curat și ⟨את⟩ toate uneltele lui, și ⟨את⟩ altarul tămâiei.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "uneltele ei"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uneltele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sfeșnicul cel curat"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sfeșnicul"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "cel curat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "uneltele lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "altarul tămâiei"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "tămâiei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:52.432363889Z",
+  "model": "glm-5.3"
+}

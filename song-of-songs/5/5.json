@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "M-am sculat, eu, să deschid pentru iubitul meu, și mâinile mele picurau smirnă, și degetele mele smirnă curgătoare, pe mâneretele zăvorului.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "M-am sculat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "să deschid"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "pentru iubitul meu"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "și mâinile mele"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "picurau"
+    },
+    {
+      "surface": "מור",
+      "gloss": "smirnă"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "și degetele mele"
+    },
+    {
+      "surface": "מור",
+      "gloss": "smirnă"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "curgătoare"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "mâneretele"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "ale zăvorului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:24.640047887Z",
+  "model": "glm-5.3"
+}

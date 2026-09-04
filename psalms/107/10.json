@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Locuitori ai întunericului și ai umbrei morții, prinși ai mizeriei și ai fierului.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Locuitori"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ai întunericului"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "și ai umbrei morții"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "prinși ai"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mizeriei"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "și ai fierului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:51.778083110Z",
+  "model": "glm-5.3"
+}

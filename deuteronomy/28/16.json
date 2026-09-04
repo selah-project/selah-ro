@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Blestemat ⟨ești⟩ tu în cetate și blestemat ⟨ești⟩ tu în câmp.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "blestemat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "și blestemat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:19.936065593Z",
+  "model": "glm-5.3"
+}

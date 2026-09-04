@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Piele și carne m-ai îmbrăcat, și cu oase și nervi m-ai țesut împreună.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "Piele"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "și carne"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "m-ai îmbrăcat"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "și cu oase"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "și nervi"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "m-ai țesut împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:47.036578665Z",
+  "model": "glm-5.3"
+}

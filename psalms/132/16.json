@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "iar pe cohanii ei îi voi îmbrăca cu mântuire, și credincioșii ei vor chiui de bucurie.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "iar pe cohanii ei"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "îi voi îmbrăca"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "cu mântuire"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "și credincioșii ei"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "de bucurie"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vor chiui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:43.273384284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Când vine răutăciosul, vine și disprețul, și cu ocară — rușine.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Când vine"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răutăciosul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "disprețul"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ocară"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "rușine"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:38.294616486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Tu cunoști ocara mea și rușinea mea și rușinarea mea; înaintea ta sunt toți potrivnicii mei.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "cunoști"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ocara mea"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "și rușinea mea"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "și rușinarea mea"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "potrivnicii mei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:26.175417399Z",
+  "model": "glm-5.3"
+}

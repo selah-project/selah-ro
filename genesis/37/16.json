@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și a zis: ⟨את⟩ frații mei îi caut; spune-mi, te rog, unde pășunesc ei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frații mei"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frații mei"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "caut"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "spune"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "unde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pășunesc"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:21.764688111Z",
+  "model": "glm-5.3"
+}

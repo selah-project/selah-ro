@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Moav ⟨este⟩ oala de spălat a mea; peste Edom voi arunca sandaua mea; asupra mea, Peleșet, strigă de veselie!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "oala"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "de spălat a mea"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "voi arunca"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandaua mea"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleșet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "strigă de veselie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:44.699141881Z",
+  "model": "glm-5.3"
+}

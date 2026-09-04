@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 2:20",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Vezi, Yahve, și privește cui ai făcut așa! Oare vor mânca femeile roada lor, pruncii de palmă? Oare va fi ucis în sanctuarul lui Adonai cohen și navi?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והביטה",
+      "gloss": "și privește"
+    },
+    {
+      "surface": "למי",
+      "gloss": "cui"
+    },
+    {
+      "surface": "עוללת",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oare"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "femeile"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "roada lor"
+    },
+    {
+      "surface": "עללי",
+      "gloss": "pruncii"
+    },
+    {
+      "surface": "טפחים",
+      "gloss": "de palmă"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oare"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "va fi ucis"
+    },
+    {
+      "surface": "במקדש",
+      "gloss": "în sanctuarul"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "lui Adonai"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "cohen"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "și navi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:05.322548407Z",
+  "model": "glm-5.3"
+}

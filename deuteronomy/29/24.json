@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și vor spune: ⟨din cauză⟩ că au părăsit ⟨את⟩ legământul lui Yahve, Elohim al părinților lor, pe care l-a încheiat cu ei când i-a scos ⟨את⟩ pe ei din pământul Mițraim.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Și vor spune"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "au părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "al părinților lor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "l-a încheiat"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "când i-a scos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:21.140131435Z",
+  "model": "glm-5.3"
+}

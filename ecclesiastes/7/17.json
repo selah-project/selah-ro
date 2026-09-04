@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Nu face răul prea mult și nu fi nebun — de ce să mori nu la vremea ta?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "face răul"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "prea mult"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "fi"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "nebun"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "să mori"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nu la"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "vremea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:23.185653272Z",
+  "model": "glm-5.3"
+}

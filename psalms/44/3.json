@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Tu, cu mâna ta, neamurile ai dezmoștenit și i-ai sădit; ai sfărâmat popoarele și le-ai izgonit.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "cu mâna ta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "ai dezmoștenit"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "și i-ai sădit"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "ai sfărâmat"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "și le-ai izgonit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:29.381477494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci cei vii știu că vor muri, dar cei morți nu știu nimic și nu mai au nici o răsplată, căci memoria lor a fost uitată.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "cei vii"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "știu"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "că vor muri"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "dar cei morți"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "știu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nimic"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu mai au"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nici o"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "שכר",
+      "gloss": "răsplată"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "a fost uitată"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "memoria lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:14.786031077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Șase zile să lucrezi și să faci toată lucrarea ta —",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Șase"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "să lucrezi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și să faci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "lucrarea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:57.770654467Z",
+  "model": "glm-5.3"
+}

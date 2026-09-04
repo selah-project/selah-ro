@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și l-a ajuns Lavan ⟨את⟩ Iaacov, iar Iaacov își înfipsese cortul în munte, și Lavan a înfipt ⟨את⟩ frații lui în muntele Gileadului.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "Și l-a ajuns"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "iar Iaacov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "înfipsese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cortul lui"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "cortul lui"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în munte"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "și Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "a înfipt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frații lui"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în muntele"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:13.743058835Z",
+  "model": "glm-5.3"
+}

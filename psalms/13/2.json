@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Până când, Yahve, mă vei uita pe totdeauna? Până când îți vei ascunde ⟨את⟩ fața ta de la mine?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "când"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "mă vei uita"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "pe totdeauna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "când"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "vei ascunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața ta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:22.620557691Z",
+  "model": "glm-5.3"
+}

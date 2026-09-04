@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 131,
+  "translation": "Dacă nu am așezat și am amuțit sufletul meu, ca un copil înțărcat la mama lui — ca un copil înțărcat ⟨e⟩ sufletul meu ⟨în⟩ mine.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "am așezat"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "și am amuțit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "ca un copil înțărcat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "la"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama lui"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "ca un copil înțărcat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨în⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:27.583402608Z",
+  "model": "glm-5.3"
+}

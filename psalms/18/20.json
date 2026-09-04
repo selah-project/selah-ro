@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și m-a scos la loc larg, m-a izbăvit, căci a voit ⟨să fie⟩ cu mine ⟨binevoitor⟩.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "și m-a scos"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "la loc larg"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "m-a izbăvit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a voit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "cu mine"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:01.239194926Z",
+  "model": "glm-5.3"
+}

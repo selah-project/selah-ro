@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Mare ⟨este⟩ slava lui în izbăvirea ta; strălucire și măreție pui pe el.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mare"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slava lui"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "în izbăvirea ta"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "strălucire"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "și măreție"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "pui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:58.072741506Z",
+  "model": "glm-5.3"
+}

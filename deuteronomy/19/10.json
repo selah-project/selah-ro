@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Ca să nu se verse sânge nevinovat în mijlocul țării tale, pe care ți-o dă de moștenire Yahve, Elohimul tău, și ⟨astfel⟩ să fie asupra ta ⟨vină de⟩ sânge.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "se verse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "țării tale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ți-"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "de moștenire"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și să fie"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "asupra ta"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "sânge"
+    }
+  ],
+  "timestamp": "2026-09-04T02:08:27.642699259Z",
+  "model": "glm-5.3"
+}

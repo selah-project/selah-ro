@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 14:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Numai ⟨את⟩ aceasta să nu mâncați, din cele ce rumegă rumegatul și din cele ce despică copita despicată: ⟨את⟩ cămila, și ⟨את⟩ iepurele, și ⟨את⟩ șafanul — căci rumegă ele rumegatul, dar copita nu au despicat-o; necurate sunt ele pentru voi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aceasta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "din cele ce rumegă"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "rumegatul"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "și din cele ce despică"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "copita"
+    },
+    {
+      "surface": "השסועה",
+      "gloss": "despicată"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cămila"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "cămila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "iepurele"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "iepurele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "șafanul"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "șafanul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "rumegă"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumegatul"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ele"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "și copita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הפריסו",
+      "gloss": "au despicat-o"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "necurate"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:56.057664470Z",
+  "model": "glm-5.3"
+}

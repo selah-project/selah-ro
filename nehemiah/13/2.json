@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Că nu au întâmpinat ⟨את⟩ fiii lui Israel cu pâine și cu apă, și a angajat asupra lui ⟨את⟩ Bilam ca să-l blesteme, și Elohim al nostru a întors blestemul în binecuvântare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "au întâmpinat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "cu pâine"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "și cu apă"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "și a angajat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "asupra lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "ca să-l blesteme"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "și a întors"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "blestemul"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "în binecuvântare"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:08.852506854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și ⟨את⟩ regele lui Ai l-au prins viu, și l-au adus la Iehoșua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "regele lui Ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "העי",
+      "gloss": "lui Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "au prins"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "și l-au adus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "la Iehoșua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    }
+  ],
+  "timestamp": "2026-09-04T07:02:43.100380920Z",
+  "model": "glm-5.3"
+}

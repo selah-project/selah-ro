@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și au coborât frații lui Iosif, zece la număr, să cumpere grâu din Mițraim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "și au coborât"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frații"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zece"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "să cumpere"
+    },
+    {
+      "surface": "בר",
+      "gloss": "grâu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:31.903458371Z",
+  "model": "glm-5.3"
+}

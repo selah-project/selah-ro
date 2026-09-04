@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Numai ⟨את⟩ aurul, și ⟨את⟩ argintul, ⟨את⟩ arama, ⟨את⟩ fierul, ⟨את⟩ staniul și ⟨את⟩ plumbul:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aurul"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "aurul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "argintul"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arama"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "arama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fierul"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "fierul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "staniul"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "staniul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "plumbul"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "plumbul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:30.133853339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Sunați din șofar la Giv'a, din trâmbiță la Rama; strigați la Beit-Aven: în urma ta, Biniamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "sunați"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "șofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "la Giv'a"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "din trâmbiță"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "la Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "strigați"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "în urma ta"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Biniamin"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:54.938504826Z",
+  "model": "glm-5.3"
+}

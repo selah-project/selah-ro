@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "A făcut cunoscute căile lui sale lui Moșe, faptelor sale fiilor lui Israel.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "A făcut cunoscute"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "căile lui"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "faptele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:46.370298876Z",
+  "model": "glm-5.3"
+}

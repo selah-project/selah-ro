@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și s-au dus frații săi să pască ⟨את⟩ turma tatălui lor, la Șehem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "și s-au dus"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "să pască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turma"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "turma"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tatălui lor"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "la Șehem"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:52.462189276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și va fi dacă îți va spune: «Nu voi ieși de la tine», fiindcă te iubește pe tine și ⟨את⟩ casa ta, fiindcă îi este bine cu tine,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "îți va spune"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "voi ieși"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "de la tine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "te iubește"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casa ta"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "casa ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "îi este bine"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:52.455248941Z",
+  "model": "glm-5.3"
+}

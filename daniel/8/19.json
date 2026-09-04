@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 8:19",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a spus: Iată-mă, îți fac cunoscut ⟨את⟩ ce va fi la sfârșitul mâniei, căci ⟨este⟩ pentru vremea hotărâtă ⟨este⟩ sfârșitul.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Iată-mă"
+    },
+    {
+      "surface": "מודיעך",
+      "gloss": "îți fac cunoscut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce va fi la sfârșitul mâniei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "la sfârșitul"
+    },
+    {
+      "surface": "הזעם",
+      "gloss": "mâniei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "pentru vremea hotărâtă"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "sfârșitul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:51:55.499309127Z",
+  "model": "glm-5.3"
+}

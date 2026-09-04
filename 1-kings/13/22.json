@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 13:22",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "și te-ai întors și ai mâncat pâine și ai băut apă în locul despre care ți-a vorbit ⟨El⟩: să nu mănânci pâine și să nu bei apă — nu va ajunge trupul tău mort la mormântul părinților tăi.",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "și te-ai întors"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "și ai mâncat"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "și ai băut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "despre care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ți-a vorbit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨El⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mănânci"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "bei"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "va ajunge"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "trupul tău mort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mormântul"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "părinților tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:31.703743322Z",
+  "model": "glm-5.3"
+}

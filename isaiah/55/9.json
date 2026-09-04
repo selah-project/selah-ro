@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Căci pe cât sunt de sus cerurile față de pământ, pe atât sunt de sus căile mele față de căile voastre și gândurile mele față de gândurile voastre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sunt sus"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "față de pământ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pe atât"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sunt sus"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "căile mele"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "față de căile voastre"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "și gândurile mele"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "față de gândurile voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:16.511525607Z",
+  "model": "glm-5.3"
+}

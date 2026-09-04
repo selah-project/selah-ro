@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Aceștia sunt fiii lui Șem, după familiile lor, după limbile lor, în țările lor, după neamurile lor.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aceștia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lui Șem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "după familiile lor"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "după limbile lor"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "în țările lor"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "după neamurile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:35.372194520Z",
+  "model": "glm-5.3"
+}

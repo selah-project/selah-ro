@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "În mulțimea frământărilor mele înăuntrul meu, mângâierile tale desfătează sufletul meu.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "În mulțimea"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "frământărilor mele"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "înăuntrul meu"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "mângâierile tale"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "desfătează"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:37.399128926Z",
+  "model": "glm-5.3"
+}

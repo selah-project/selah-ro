@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Căci tu ⟨ești⟩ Elohim, fortăreața mea; de ce m-ai lepădat? De ce merg abătut sub apăsarea dușmanului?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "fortăreața mea"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "m-ai lepădat"
+    },
+    {
+      "surface": "למה",
+      "gloss": "de ce"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "abătut"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "merg"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sub apăsarea"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dușmanului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:30.982258369Z",
+  "model": "glm-5.3"
+}

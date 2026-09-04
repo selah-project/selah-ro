@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a răspuns Akan ⟨את⟩ Iehoșua și a spus: Adevărat, eu am păcătuit față de Yahve, Elohim al lui Israel, și așa și așa am făcut.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehoșua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Adevărat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "am păcătuit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "față de Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "și așa"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "și așa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T07:01:44.216984401Z",
+  "model": "glm-5.3"
+}

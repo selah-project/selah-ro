@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Dacă veți părăsi ⟨את⟩ pe Yahve și veți sluji dumnezei străini, se va întoarce și va face rău vouă și vă va nimici, după ce v-a făcut bine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "veți părăsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "și veți sluji"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străini"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "se va întoarce"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "și va face rău"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "și vă va nimici"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "v-a făcut bine"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:49.116855253Z",
+  "model": "glm-5.3"
+}

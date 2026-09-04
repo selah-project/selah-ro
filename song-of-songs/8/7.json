@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Ape multe nu vor putea stinge ⟨את⟩ iubirea, și râuri nu o vor inunda; dacă ar da un om ⟨את⟩ toată averea casei lui pentru iubire, dispreț l-ar disprețui.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "vor putea"
+    },
+    {
+      "surface": "לכבות",
+      "gloss": "stinge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iubirea"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "iubirea"
+    },
+    {
+      "surface": "ונהרות",
+      "gloss": "și râuri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישטפוה",
+      "gloss": "o vor inunda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ar da"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată averea casei lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הון",
+      "gloss": "averea"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casei lui"
+    },
+    {
+      "surface": "באהבה",
+      "gloss": "pentru iubire"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "dispreț"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "l-ar disprețui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:25.460273388Z",
+  "model": "glm-5.3"
+}

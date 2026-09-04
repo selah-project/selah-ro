@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Va da Yahve ⟨את⟩ vrăjmașii tăi, cei care se ridică împotriva ta, loviți înaintea feței tale; pe drum unul vor ieși împotriva ta, și pe șapte drumuri vor fugi dinaintea feței tale.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Va da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrăjmașii tăi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vrăjmașii tău"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "cei care se ridică"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "împotriva ta"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "loviți"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea feței tale"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "vor ieși"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "împotriva ta"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "și pe șapte"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "drumuri"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "vor fugi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "dinaintea feței tale"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:07.637232855Z",
+  "model": "glm-5.3"
+}

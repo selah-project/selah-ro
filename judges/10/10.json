@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și au strigat fiii lui Israel către Yahve, zicând: Am greșit față de tine, căci am părăsit ⟨את⟩ Elohim al nostru și am slujit ⟨את⟩ Baalilor.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Și au strigat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "am greșit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "față de tine"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "am părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim al nostru"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "și am slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalilor"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalilor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:31:27.320298080Z",
+  "model": "glm-5.3"
+}

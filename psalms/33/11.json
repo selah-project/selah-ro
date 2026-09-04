@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Sfatul lui Yahve rămâne pe vecie, planurile inimii lui, din neam în neam.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "sfatul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "rămâne"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planurile"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inimii lui"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:21.474464317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Mi-am părăsit ⟨את⟩ casa mea, am părăsit ⟨את⟩ moștenirea mea; am dat ⟨את⟩ preaiubita sufletului meu în mâna vrăjmașilor ei.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Mi-am părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa mea"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "casa mea"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "am părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moștenirea mea"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "moștenirea mea"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "preaiubita sufletului meu"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "preaiubita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletului meu"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "vrăjmașilor ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:03:39.130575288Z",
+  "model": "glm-5.3"
+}

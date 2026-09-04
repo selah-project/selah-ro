@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a spus David către Akiș: „Deci tu vei știi ⟨את⟩ ce va face slujitorul tău.” Și a spus Akiș către David: „Deci păzitor al capului meu te voi pune pentru toate zilele.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiș"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Deci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "vei știi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiș"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Deci"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "păzitor"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "al capului meu"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "te voi pune"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pentru toate"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zilele"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:36.579690156Z",
+  "model": "glm-5.3"
+}

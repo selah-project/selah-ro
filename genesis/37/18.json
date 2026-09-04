@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și l-au văzut ⟨את⟩ de departe și, înainte să se apropie de ei, au uneltit împotriva lui ca să-l omoare.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Și l-au văzut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (pe el)",
+      "marks": "pe el"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "de departe"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "și înainte să"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "se apropie"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "de ei"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "au uneltit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (împotriva lui)",
+      "marks": "împotriva lui"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ca să-l omoare"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:29.623127900Z",
+  "model": "glm-5.3"
+}

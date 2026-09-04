@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a vorbit Elohim lui Noa și fiilor lui, ⟨את⟩ împreună cu el, zicând:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiilor lui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ împreună cu el",
+      "marks": "Noa — fiii sunt împreună cu el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:34.187813923Z",
+  "model": "glm-5.3"
+}

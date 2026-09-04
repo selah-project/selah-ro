@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Mi-ai îndepărtat cunoscuții de la mine, m-ai pus ⟨să fiu⟩ o scârbă pentru ei; sunt închis și nu pot ieși.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "Mi-ai îndepărtat"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "cunoscuții"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "m-ai pus"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "o scârbă"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pentru ei"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "sunt închis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "pot ieși"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:19.010202378Z",
+  "model": "glm-5.3"
+}

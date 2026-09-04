@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Să se topească ei ca apele care se scurg; când își întinde ⟨el⟩ săgeata, să se sfărâme ca tăiate.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "să se topească"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "care se scurg"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨ei⟩"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "când își întinde"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "săgeata lui"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "să se sfărâme"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:10.529942741Z",
+  "model": "glm-5.3"
+}

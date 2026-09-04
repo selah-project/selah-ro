@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Ochii mei sunt mereu către Yahve, căci el va scoate din plasă picioarele mele.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ochii mei"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mereu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "va scoate"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "din plasă"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "picioarele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:25.516730169Z",
+  "model": "glm-5.3"
+}

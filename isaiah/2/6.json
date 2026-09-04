@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 2:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Căci ai părăsit poporul tău, casa lui Iaacov, căci s-au umplut de la răsărit și de ghicitori ca pliștimii, și cu copiii străinilor bat palmele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "נטשתה",
+      "gloss": "ai părăsit"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "s-au umplut"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "de la răsărit"
+    },
+    {
+      "surface": "ועננים",
+      "gloss": "și de ghicitori"
+    },
+    {
+      "surface": "כפלשתים",
+      "gloss": "ca pliștimii"
+    },
+    {
+      "surface": "ובילדי",
+      "gloss": "și cu copiii"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "străinilor"
+    },
+    {
+      "surface": "ישפיקו",
+      "gloss": "bat palmele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:24:23.843119608Z",
+  "model": "glm-5.3"
+}

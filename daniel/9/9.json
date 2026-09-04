@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Ale lui Adonai Elohim ⟨sunt⟩ îndurările și iertările, căci ne-am răzvrătit împotriva lui.",
+  "tokens": [
+    {
+      "surface": "לאדני",
+      "gloss": "Ale lui Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרחמים",
+      "gloss": "îndurările"
+    },
+    {
+      "surface": "והסלחות",
+      "gloss": "și iertările"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מרדנו",
+      "gloss": "ne-am răzvrătit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "împotriva lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:52:30.189754523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a zis David către tânărul care-i vestea: de unde știi că a murit Șaul și Iehonatan, fiul lui?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tânărul"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "care vestea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "איך",
+      "gloss": "de unde"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "știi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a murit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "și Iehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:53:40.797996724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Dar el i-a mântuit pentru numele său, ca să facă cunoscută ⟨את⟩ puterea lui.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Dar i-a mântuit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele său"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ca să facă cunoscută"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puterea lui"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "puterea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:04.332748587Z",
+  "model": "glm-5.3"
+}

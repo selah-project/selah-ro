@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și niciun fierar nu se afla în toată țara lui Israel, căci au zis filistenii: ca să nu facă evreii sabie sau suliță.",
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "Și fierar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "se afla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "au zis"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "facă"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "evreii"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabie"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "suliță"
+    }
+  ],
+  "timestamp": "2026-09-04T07:10:09.393959654Z",
+  "model": "glm-5.3"
+}

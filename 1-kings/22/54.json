@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a slujit ⟨את⟩ Baal, și s-a închinat lui, și a mâniat ⟨את⟩ pe Yahve, Elohim al lui Israel, după tot ce a făcut tatăl său.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "Și a slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "pe Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "și s-a închinat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "și a mâniat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    }
+  ],
+  "timestamp": "2026-09-04T07:20:41.181734582Z",
+  "model": "glm-5.3"
+}

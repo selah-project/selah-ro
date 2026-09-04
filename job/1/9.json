@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a răspuns Satan lui Yahve ⟨את⟩ și a zis: Oare degeaba se teme Iov de Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "degeaba"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se teme"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:02.007830086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 27:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "și să scrii pe ele ⟨את⟩ toate cuvintele Torei acesteia, la trecerea ta, ca să intri în țara pe care Yahve, Elohim al tău, ți-o dă — o țară curgând cu lapte și miere, cum a vorbit Yahve, Elohim al părinților tăi, către tine.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "și să scrii"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "pe ele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele Torei acesteia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torei"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "acesteia"
+    },
+    {
+      "surface": "בעברך",
+      "gloss": "la trecerea ta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "intri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o țară"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "curgând"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "cu lapte"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "și miere"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "părinților tăi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "către tine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:11:34.168158979Z",
+  "model": "glm-5.3"
+}

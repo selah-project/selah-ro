@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Rămâi ⟨את⟩ cu mine, nu te teme, căci cel ce caută ⟨את⟩ sufletul meu caută ⟨את⟩ sufletul tău; căci păzire ești ⟨lângă⟩ mine.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Rămâi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cu mine ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel ce"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletul meu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletul tău"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sufletul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "păzire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "lângă mine"
+    }
+  ],
+  "timestamp": "2026-09-04T02:49:09.492915076Z",
+  "model": "glm-5.3"
+}

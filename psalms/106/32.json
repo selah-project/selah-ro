@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și au mâniat la apele Merivei, și i-a mers rău lui Moșe din pricina lor.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "au mâniat"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apele"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivei"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "și i-a mers rău"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "din pricina lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:57.474818320Z",
+  "model": "glm-5.3"
+}

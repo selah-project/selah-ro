@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "De aceea va lăsa omul ⟨את⟩ pe tatăl său și ⟨את⟩ pe mama sa și se va lipi de femeia sa, și vor fi un singur trup.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "va lăsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tatăl său"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe mama sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama sa"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "și se va lipi"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "de femeia sa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "și vor fi"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "un trup"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un singur"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:59.380657737Z",
+  "model": "glm-5.3"
+}

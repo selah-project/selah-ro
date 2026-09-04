@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Să nu vă rotunjiți marginea capului vostru și să nu stricați ⟨את⟩ marginea bărbii tale.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "vă rotunjiți"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "marginea"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "capului vostru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "strici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marginea bărbii tale"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "marginea"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "bărbii tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:17.885934795Z",
+  "model": "glm-5.3"
+}

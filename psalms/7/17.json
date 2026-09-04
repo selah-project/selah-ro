@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Se va întoarce truda lui pe capul lui, și pe creștetul lui silnicia lui va coborî.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Se va întoarce"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "truda lui"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pe capul lui"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "creștetul lui"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "silnicia lui"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "va coborî"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:32.291183054Z",
+  "model": "glm-5.3"
+}

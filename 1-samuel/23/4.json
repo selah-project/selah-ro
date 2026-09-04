@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a întrebat încă o dată David pe Yahve, și i-a răspuns Yahve și a spus: Ridică-te, coboară la Ceila, căci Eu îți dau ⟨את⟩ filistenii în mâna ta.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "a încă"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "o dată"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "de întrebat"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "și i-a răspuns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ridică-te"
+    },
+    {
+      "surface": "רד",
+      "gloss": "coboară"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "la Ceila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistenii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "în mâna ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:25.414774167Z",
+  "model": "glm-5.3"
+}

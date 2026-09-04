@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "Iar tu ⟨ești⟩ înălțime în veac, Yahve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "înălțime"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:52.333503095Z",
+  "model": "glm-5.3"
+}

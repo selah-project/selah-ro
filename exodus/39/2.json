@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Și a făcut ⟨את⟩ efodul: aur, albastru și purpură și cărămișiu de scarabeu și in răsucit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodul"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodul"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "albastru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "și purpură"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "și cărămișiu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de scarabeu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "și in"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "răsucit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:14.813092174Z",
+  "model": "glm-5.3"
+}

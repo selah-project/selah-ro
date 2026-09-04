@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Când s-au apropiat de mine făptători de rău ca să-mi mănânce ⟨את⟩ carnea mea — apăsătorii mei și vrăjmașii mei — ei s-au poticnit și au căzut.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "când s-au apropiat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "făptători de rău"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ca să mănânce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carnea mea"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "carnea mea"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "apăsătorii mei"
+    },
+    {
+      "surface": "ויהבי",
+      "gloss": "și vrăjmașii mei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "s-au poticnit"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "și au căzut"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:02.290681743Z",
+  "model": "glm-5.3"
+}

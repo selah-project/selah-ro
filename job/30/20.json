@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Strig către tine și nu mă răspunzi; stau în picioare și te uiți la mine.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Strig"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "mă răspunzi"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "stau în picioare"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "și te uiți"
+    },
+    {
+      "surface": "בי",
+      "gloss": "la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:34:23.729640082Z",
+  "model": "glm-5.3"
+}

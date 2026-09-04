@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Ne pui pildă de batjocură printre neamuri, clătinare de cap printre popoare.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ne pui"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pildă de batjocură"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "printre neamuri"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "clătinare"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de cap"
+    },
+    {
+      "surface": "בל",
+      "gloss": "printre"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "popoare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:59.046619894Z",
+  "model": "glm-5.3"
+}

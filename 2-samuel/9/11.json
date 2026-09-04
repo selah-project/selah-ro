@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 9:11",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "A zis Țiva către regele: după tot ce poruncește stăpânul meu regele ⟨את⟩ slugii sale, așa va face sluga ta. Iar Mefiboșet mănâncă la masa mea ca unul dintre fiii regelui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Țiva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "poruncește"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stăpânul meu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slugii sale"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slugii sale"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga ta"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "iar Mefiboșet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mănâncă"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "masa mea"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ca unul"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dintre fiii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:57:25.816317775Z",
+  "model": "glm-5.3"
+}

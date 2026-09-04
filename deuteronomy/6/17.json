@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Păzind să păziți ⟨את⟩ poruncile lui Yahve, Elohim al vostru, și mărturiile lui și legile lui, pe care ți le-a poruncit.",
+  "tokens": [
+    {
+      "surface": "שָׁמ֣וֹר",
+      "gloss": "Păzind"
+    },
+    {
+      "surface": "תִּשְׁמְר֔וּן",
+      "gloss": "să păziți"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "poruncile"
+    },
+    {
+      "surface": "מִצְוֺ֖ת",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶ֑ם",
+      "gloss": "Elohim al vostru"
+    },
+    {
+      "surface": "וְעֵדֹתָ֥יו",
+      "gloss": "și mărturiile lui"
+    },
+    {
+      "surface": "וְחֻקָּ֖יו",
+      "gloss": "și legile lui"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צִוָּֽךְ",
+      "gloss": "ți le-a poruncit"
+    }
+  ],
+  "timestamp": "2026-09-04T02:00:39.768965596Z",
+  "model": "glm-5.3"
+}

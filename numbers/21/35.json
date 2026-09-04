@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 21:35",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și l-au lovit pe ⟨את⟩ el, și ⟨את⟩ fiii lui, și ⟨את⟩ tot poporul său, până nu i-au lăsat lui nicio rămășiță; și au moștenit ⟨את⟩ țara lui.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Și l-au lovit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (pe Og)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot poporul său"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "i-au lăsat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "nicio rămășiță"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "și au moștenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara lui"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "țara lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:50:26.493027408Z",
+  "model": "glm-5.3"
+}

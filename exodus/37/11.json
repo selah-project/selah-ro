@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și l-a acoperit ⟨את⟩ cu aur curat, și a făcut pentru el o cunună de aur de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Și l-a acoperit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l- (masa)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curat"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cunună"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:28.451159678Z",
+  "model": "glm-5.3"
+}

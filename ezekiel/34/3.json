@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "⟨את⟩ grăsimea o mâncați, și ⟨את⟩ lâna o îmbrăcați, pe cea sănătoasă o înjunghiați — turma nu o pașteți.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "o mâncați"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lâna"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "lâna"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "o îmbrăcați"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "pe cea sănătoasă"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "o înjunghiați"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "turma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "o pașteți"
+    }
+  ],
+  "timestamp": "2026-09-04T09:04:44.596261680Z",
+  "model": "glm-5.3"
+}

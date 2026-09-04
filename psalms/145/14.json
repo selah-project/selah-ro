@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Sprijină Yahve pe toți cei căzuți și îndreaptă pe toți cei gârboviți.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "Sprijină"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "cei căzuți"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "și îndreaptă"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "cei gârboviți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:00.723694845Z",
+  "model": "glm-5.3"
+}

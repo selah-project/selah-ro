@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Numai să nu se socotească ⟨את⟩ cu ei argintul cel dat în mâna lor, căci în credincioșie lucrează ei.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "numai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "se socotește"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "cu ei ⟨את⟩",
+      "marks": "argintul"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintul"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "cel dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mâna lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "în credincioșie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "lucrează"
+    }
+  ],
+  "timestamp": "2026-09-04T03:33:37.071619278Z",
+  "model": "glm-5.3"
+}

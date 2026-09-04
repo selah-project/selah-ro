@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "In mijlocul leoaicelor ⟨este⟩ nefeșul meu; mă culc printre cei ce ard, fiii lui Adam, ale căror dinți ⟨sunt⟩ suliță și săgeți, și limba lor — o sabie ascuțită.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefșul meu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "leoaicelor"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "mă culc"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "celor ce ard"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lui Adam"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dinții lor"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "suliță"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "și săgeți"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "și limba lor"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabie"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ascuțită"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:09.061115680Z",
+  "model": "glm-5.3"
+}

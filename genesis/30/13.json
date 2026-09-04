@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a spus Lea: În fericirea mea, căci fetele mă numesc fericită; și a chemat ⟨את⟩ numele lui Așer.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "în fericirea mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "numesc fericită"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fetele"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Așer"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:57.695882204Z",
+  "model": "glm-5.3"
+}

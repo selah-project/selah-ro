@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și ⟨את⟩ pe fiii lor, pe care i-a ridicat în locul lor, ⟨את⟩ pe ei i-a tăiat împrejur Iehoșua, căci erau netaiați împrejur, pentru că nu-i tăiaseră împrejur pe drum.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Și ⟨את⟩",
+      "marks": "pe fiii lor"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiii lor"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "a ridicat"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "în locul lor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei — obiect al lui מל"
+    },
+    {
+      "surface": "מל",
+      "gloss": "a tăiat împrejur"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "netaiați împrejur"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "tăiaseră împrejur"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ i-"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    }
+  ],
+  "timestamp": "2026-09-04T02:17:50.132387590Z",
+  "model": "glm-5.3"
+}

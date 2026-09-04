@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Căci cine în nori se poate asemăna lui Yahve, cine seamănă cu Yahve între fiii elimilor?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "în nori"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "se poate asemăna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "seamănă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cu Yahve"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "între fiii"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "elimilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:54.231482489Z",
+  "model": "glm-5.3"
+}

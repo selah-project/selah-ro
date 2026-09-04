@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Toată ziua se îndură și dă cu împrumut, și urmașul lui ⟨este⟩ pentru binecuvântare.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "se îndură"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "și dă cu împrumut"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "și urmașul lui"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "pentru binecuvântare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:09.763420039Z",
+  "model": "glm-5.3"
+}

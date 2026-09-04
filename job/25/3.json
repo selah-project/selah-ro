@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Oare ⟨este⟩ număr oștilor lui? Și peste cine nu se ridică lumina lui?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Oare ⟨este⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "număr"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "oștilor lui"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "Și peste"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se ridică"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "lumina lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:30.911619466Z",
+  "model": "glm-5.3"
+}

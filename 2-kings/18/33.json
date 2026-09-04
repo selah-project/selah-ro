@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Au izbăvit oare dumnezeii neamurilor, fiecare ⟨את⟩ țara lui, din mâna regelui Așur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "au izbăvit oare"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "au izbăvit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara lui"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "țara lui"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    }
+  ],
+  "timestamp": "2026-09-04T03:31:25.783481143Z",
+  "model": "glm-5.3"
+}

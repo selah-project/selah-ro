@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Împotriva poporului tău urzesc cu vicleșug un sot și se sfătuiesc împotriva celor pe care i-ai ascuns.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Împotriva"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporului tău"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "urzesc cu vicleșug"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "un sot"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "și se sfătuiesc"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "celor pe care i-ai ascuns"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:50.937652054Z",
+  "model": "glm-5.3"
+}

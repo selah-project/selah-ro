@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Numai ⟨את⟩ sângele lui să nu-l mănânci; pe pământ îl vei vărsa ca ⟨את⟩ apa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele lui"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mănânci"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "îl vei vărsa"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ca apa"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:13.509032578Z",
+  "model": "glm-5.3"
+}

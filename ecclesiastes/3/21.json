@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Cine știe ⟨dacă⟩ duhul fiilor omului, cel suindu-se, se suie el în sus, și duhul vitei, cel coborându-se, coboară el în jos, spre pământ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "știe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duhul"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cel suindu-se"
+    },
+    {
+      "surface": "היא",
+      "gloss": "el"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "în sus"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "și duhul"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vitei"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "cel coborându-se"
+    },
+    {
+      "surface": "היא",
+      "gloss": "el"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "în jos"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "spre pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:45.467637582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și acestea sunt numele fiilor lui Israel care au intrat în Mițraim: ⟨את⟩ Iaacov, fiecare om și casa lui, au intrat.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "numele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "care au intrat"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare om"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "și casa lui"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au intrat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:00.418301217Z",
+  "model": "glm-5.3"
+}

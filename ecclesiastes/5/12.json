@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Este un rău chinuitor pe care l-am văzut sub soare: bogăție păstrată stăpânului ei, spre răul lui.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Este"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un rău"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "chinuitor"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogăție"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "păstrată"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "stăpânului ei"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "spre răul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:11:40.264056710Z",
+  "model": "glm-5.3"
+}

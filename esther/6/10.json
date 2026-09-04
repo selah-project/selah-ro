@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a spus regele lui Haman: Grăbește-te, ia ⟨את⟩ veșmântul și ⟨את⟩ calul, cum ai vorbit, și fă așa lui Mordehai iudeul, cel ce șade la poarta regelui — să nu cadă un cuvânt din tot ce ai vorbit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "lui Haman"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "grăbește-te"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veșmântul"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "veșmântul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "calul"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "calul"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ai vorbit"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și fă"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "lui Mordehai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "iudeul"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "cel ce șade"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "la poarta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "cadă"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ai vorbit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:20.389461976Z",
+  "model": "glm-5.3"
+}

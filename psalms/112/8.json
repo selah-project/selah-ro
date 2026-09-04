@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 112,
+  "translation": "Sprijinită ⟨este⟩ inima lui; nu se va teme, până când își va vedea potrivnicii.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "Sprijinită"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "se va teme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "va vedea"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "potrivnicii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:02.579743376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "și a dat pământul lor de moștenire, moștenire pentru Israel, poporul lui.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "pământul lor"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "de moștenire"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "moștenire"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pentru Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:58.587510582Z",
+  "model": "glm-5.3"
+}

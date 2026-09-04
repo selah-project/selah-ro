@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Zilele mele ⟨sunt⟩ ca o umbră întinsă, iar eu usc ⟨sunt⟩ ca iarba.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "zilele mele"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ca o umbră"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "întinsă"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "usc"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:51.730443791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a pierit avuția aceea într-o treabă rea, și ⟨el⟩ a dobândit fiu, și nimic nu este în mâna lui.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "și a pierit"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "avuția"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "într-o treabă"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rea"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "și a dobândit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nimic"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:51.960781466Z",
+  "model": "glm-5.3"
+}

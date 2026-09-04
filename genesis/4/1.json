@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și omul a cunoscut-o pe ⟨את⟩ Hava, femeia lui; și ea a rămas însărcinată și a născut ⟨את⟩ Cain, și a zis: Am dobândit un om cu ⟨את⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Și omul"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a cunoscut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hava"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "femeia lui"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "și a rămas însărcinată"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cain"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Cain"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "am dobândit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:28.167260831Z",
+  "model": "glm-5.3"
+}

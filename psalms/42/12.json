@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Ce ești abătută, sufletul meu, și ce gemi asupra mea? Nădăjduiește în Elohim, căci îl voi lăuda încă — izbăvirea feței ⟨mele⟩ și Elohim al meu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ești abătută"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "și ce"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "gemi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Nădăjduiește"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "în Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "îl voi lăuda"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "izbăvirea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "și Elohim al meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:17.506508727Z",
+  "model": "glm-5.3"
+}

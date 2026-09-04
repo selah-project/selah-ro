@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a apropiat Șmuel ⟨את⟩ toate semințiile lui Israel, și a fost luată la sorți seminția lui Biniamin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "și a apropiat"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate semințiile lui Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "semințiile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "și a fost luată la sorți"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "seminția"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "lui Biniamin"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:25.765427640Z",
+  "model": "glm-5.3"
+}

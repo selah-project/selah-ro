@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și nu a mai putut să răspundă ⟨את⟩ lui Avner niciun cuvânt, din pricina fricii lui ⟨את⟩ de el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "a putut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "să răspundă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Avner niciun cuvânt"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niciun cuvânt"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "din pricina fricii lui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ de el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:54:04.695998798Z",
+  "model": "glm-5.3"
+}

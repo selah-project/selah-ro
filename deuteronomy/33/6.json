@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Să trăiască Reuben și să nu moară, și să fie oamenii lui ⟨la număr⟩.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Să trăiască"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "moară"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și să fie"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "oamenii lui"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨la număr⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T07:01:10.866624863Z",
+  "model": "glm-5.3"
+}

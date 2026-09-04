@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "De asemenea, dacă se culcă doi — le ⟨este⟩ cald; iar unuia singur cum îi va fi cald?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "De asemenea"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "se culcă"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "doi"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "și cald"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "iar unuia singur"
+    },
+    {
+      "surface": "איך",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "îi va fi cald"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:53.721904249Z",
+  "model": "glm-5.3"
+}

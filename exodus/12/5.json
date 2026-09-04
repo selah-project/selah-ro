@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Miel fără meteahnă, mascul, fiu de un an, să fie pentru voi; dintre miei sau dintre țapi să-l luați.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "Miel"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fără meteahnă"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mascul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de un an"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dintre"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "mieii"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "sau dintre"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "țapii"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "să-l luați"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:54.671738399Z",
+  "model": "glm-5.3"
+}

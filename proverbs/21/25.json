@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Pofa leneșului îl omoară, căci mâinile lui refuză să lucreze.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Pofa"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leneșului"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "îl omoară"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "refuză"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinile lui"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să lucreze"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:59.895513319Z",
+  "model": "glm-5.3"
+}

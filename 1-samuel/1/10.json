@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Ea, amară în suflet, s-a rugat lui Yahve și plângând a plâns.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Ea"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "amară"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "în suflet"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "s-a rugat"
+    },
+    {
+      "surface": "על",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "și plângând"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "a plâns"
+    }
+  ],
+  "timestamp": "2026-09-04T02:38:32.931042574Z",
+  "model": "glm-5.3"
+}

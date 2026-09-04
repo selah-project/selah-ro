@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "care a lovit popoare multe și a ucis regi puternici:",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "care a lovit"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "popoare"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "și a ucis"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "regi"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "puternici"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:58.587201509Z",
+  "model": "glm-5.3"
+}

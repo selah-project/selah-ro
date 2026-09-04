@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Arată minunat hesed-ul tău (dragostea credincioasă), tu care mântuiești cu dreapta ta pe cei ce se adăpostesc în tine, de cei ce se ridică împotriva lor.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Arată minunat"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-ul tău (dragostea credincioasă)"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mântuiești"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "pe cei ce se adăpostesc"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "de cei ce se ridică împotriva"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "cu dreapta ta"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:55.642102863Z",
+  "model": "glm-5.3"
+}

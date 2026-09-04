@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Auziți aceasta, voi cei ce înghițiți ⟨pe⟩ săracul, ca să faceți să înceteze sărmanii țării!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Auziți"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "cei ce înghițiți"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "săracul"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "ca să faceți să înceteze"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "sărmanii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ai țării"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:30.616522745Z",
+  "model": "glm-5.3"
+}

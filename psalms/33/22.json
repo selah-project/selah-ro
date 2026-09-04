@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Fie hesedul tău, Yahve, peste noi, cum am nădăjduit întru tine!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Fie"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "peste noi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "am nădăjduit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "întru tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:18.246452279Z",
+  "model": "glm-5.3"
+}

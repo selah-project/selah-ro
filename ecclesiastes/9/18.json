@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Bună ⟨este⟩ înțelepciunea mai mult decât uneltele de război, dar un singur păcătos pierde mult bine.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Bună ⟨este⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "mai mult decât uneltele"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "de război"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "dar un păcătos"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "singur"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "pierde"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bine"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mult"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:39.298496194Z",
+  "model": "glm-5.3"
+}

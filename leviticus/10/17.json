@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "De ce nu ați mâncat ⟨את⟩ jertfa de păcat în locul sfânt, căci sfântă a sfintelor ⟨este⟩ ea? și pe ea a dat-o vouă ca să purtați ⟨את⟩ nelegiuirea adunării, ca să faceți ispășire pentru ei înaintea lui Yahve.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ați mâncat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa de păcat"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfa de păcat"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfântă"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "a sfintelor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "și ⟨את⟩ pe ea",
+      "marks": "pe ea"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat-o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ca să purtați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelegiuirea adunării"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "adunării"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ca să faceți ispășire"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pentru ei"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:13.356786147Z",
+  "model": "glm-5.3"
+}

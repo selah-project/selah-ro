@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Te va ridica Yahve lui sine ⟨ca⟩ popor sfânt, cum ți-a jurat ⟨ție⟩, dacă vei păzi ⟨את⟩ poruncile lui Yahve Elohim al tău și vei merge în căile lui.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "te va ridica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ca popor"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a jurat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "vei păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poruncile"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "și vei merge"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "în căile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:11:57.702569791Z",
+  "model": "glm-5.3"
+}

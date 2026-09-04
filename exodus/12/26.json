@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și va fi că vă vor zice copiii voștri: ce ⟨este⟩ slujba aceasta pentru voi?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vă vor zice"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "către voi"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "copiii voștri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "slujba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T10:09:27.226640879Z",
+  "model": "glm-5.3"
+}

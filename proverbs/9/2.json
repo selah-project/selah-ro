@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "A tăiat tăierea ei de vite, a amestecat vinul ei, ba chiar și-a așezat masa ei.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "a tăiat"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "tăierea ei de vite",
+      "marks": "tăierea ei de vite"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "a amestecat"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "vinul ei"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ba chiar"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "a așezat"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "masa ei"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.568334183Z",
+  "model": "glm-5.3"
+}

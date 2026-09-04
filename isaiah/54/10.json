@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Căci munții se vor muta și dealurile se vor clătina, dar hesedul meu de la ⟨את⟩ tine nu se va muta, și legământul păcii mele nu se va clătina, a spus Cel ce te îndură, Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "se vor muta"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "și dealurile"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "se vor clătina"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "dar hesedul meu"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "de la ⟨את⟩ tine",
+      "marks": "tine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "se va muta"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "și legământul"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "păcii mele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "se va clătina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "Cel ce te îndură"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:29:58.321038033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Munte al lui Elohim ⟨este⟩ muntele Bașan; munte cu vârfuri ⟨este⟩ muntele Bașan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Munte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "al lui Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bașan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "munte"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "cu vârfuri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bașan"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:55.839980220Z",
+  "model": "glm-5.3"
+}

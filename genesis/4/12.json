@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Când vei munci ⟨את⟩ pământul, nu va mai da puterea lui pentru tine; rătăcitor și pribeag vei fi pe pământ.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "vei munci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "va mai"
+    },
+    {
+      "surface": "תת",
+      "gloss": "da"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "puterea lui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "נע",
+      "gloss": "rătăcitor"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "și pribeag"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vei fi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:05.612058637Z",
+  "model": "glm-5.3"
+}

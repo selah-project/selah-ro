@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "S-au sfârșit rugăciunile lui David, fiul lui Ișai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "S-au sfârșit"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "rugăciunile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "lui Ișai"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:25.560964156Z",
+  "model": "glm-5.3"
+}

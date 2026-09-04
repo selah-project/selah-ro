@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Și al tău ⟨este⟩, Adonai, hesed (îndurarea), căci tu răsplătești fiecărui om după fapta lui.",
+  "tokens": [
+    {
+      "surface": "וּלְךָֽ",
+      "gloss": "Și al tău"
+    },
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חָ֑סֶד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אַתָּ֨ה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תְשַׁלֵּ֖ם",
+      "gloss": "răsplătești"
+    },
+    {
+      "surface": "לְאִ֣ישׁ",
+      "gloss": "fiecărui om"
+    },
+    {
+      "surface": "כְּֽמַעֲשֵֽׂהוּ",
+      "gloss": "după fapta lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:17.307920895Z",
+  "model": "glm-5.3"
+}

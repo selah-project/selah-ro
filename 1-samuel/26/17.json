@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și a cunoscut Șaul ⟨את⟩ vocea lui David și a spus: Vocea ta este aceasta, fiul meu David? Și a spus David: Vocea mea, domnul meu împărat.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Și a cunoscut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vocea"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vocea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "vocea ta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vocea mea"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "domnul meu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "împăratul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:56.934000994Z",
+  "model": "glm-5.3"
+}

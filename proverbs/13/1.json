@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Fiul înțelept ⟨primește⟩ învățătura tatălui, iar batjocoritorul nu a ascultat mustrare.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Fiul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "învățătura"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tatălui"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "iar batjocoritorul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a ascultat"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "mustrare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:01.596738197Z",
+  "model": "glm-5.3"
+}

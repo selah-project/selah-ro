@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Vocea lui Yahve răsucește căprioarele și dezgolește pădurile, iar în templul ⟨său⟩ totul spune: Slavă!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vocea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "răsucește"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "căprioarele"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "și dezgolește"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "pădurile"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "iar în templul ⟨său⟩"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "totul"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spune"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Slavă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:12.978344728Z",
+  "model": "glm-5.3"
+}

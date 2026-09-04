@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Căci mare ⟨este⟩ hesedul tău față de mine, și ai scăpat sufletul meu din Șeolul cel de jos.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "față de mine"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "și ai scăpat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "din Șeolul"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "cel de jos"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:10.525569464Z",
+  "model": "glm-5.3"
+}

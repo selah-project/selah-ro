@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Iată, Elohim ⟨este⟩ ajutor mie; Adonai, ⟨este⟩ cu cei ce susțin nefișul meu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ajutor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "cu cei ce susțin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefișul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:50.049467419Z",
+  "model": "glm-5.3"
+}

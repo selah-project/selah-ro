@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Sufletul meu îl întoarce, mă călăuzește pe potecile dreptății, de dragul numelui său.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Sufletul meu"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "îl întoarce"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "mă călăuzește"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "pe potecile"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptății"
+    },
+    {
+      "surface": "למען",
+      "gloss": "de dragul"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numelui său"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:00.465802053Z",
+  "model": "glm-5.3"
+}

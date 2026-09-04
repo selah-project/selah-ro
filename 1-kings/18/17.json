@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a fost, la vederea lui Ahab ⟨את⟩ lui Eliyahu, că a spus Ahab către el: Tu ești acela care tulbură Israel?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "la vederea"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "lui Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "lui Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "că a spus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ești acela"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "care tulbură"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:41.631312439Z",
+  "model": "glm-5.3"
+}

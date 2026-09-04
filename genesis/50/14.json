@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Și s-a întors Iosif în Mițraim, el și frații lui, și toți cei care se suiseră ⟨את⟩ cu el să îngroape ⟨את⟩ pe tatăl lui, după ce l-a îngropat ⟨את⟩ pe tatăl lui.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "și frații lui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toți"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "cei care se suiseră"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "să îngroape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tatăl lui"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "pe tatăl lui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "l-a îngropat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tatăl lui"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "pe tatăl lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:59.165787453Z",
+  "model": "glm-5.3"
+}

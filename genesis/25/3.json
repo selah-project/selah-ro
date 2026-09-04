@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Iar Iokșan a născut ⟨את⟩ Șeva și ⟨את⟩ Dedan; și fiii lui Dedan au fost Așurim, Letușim și Leumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Iar Iokșan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "iar fiii"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "lui Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Așurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letușim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "și Leumim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:47.367505099Z",
+  "model": "glm-5.3"
+}

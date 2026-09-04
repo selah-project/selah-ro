@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Un om înțelept se judecă ⟨את⟩ un om nesocotit: fie se mânie, fie râde — și nu ⟨este⟩ odihnă.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "se judecă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un om nesocotit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nesocotit"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "și se mânie"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "și râde"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "odihnă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:57.542467123Z",
+  "model": "glm-5.3"
+}

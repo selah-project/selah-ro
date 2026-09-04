@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă sfâșiat va fi sfâșiat, să-l aducă ⟨ca⟩ mărturie; ce a fost sfâșiat nu se plătește.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sfâșiat"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "va fi sfâșiat"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "să-l aducă"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mărturie"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ce a fost sfâșiat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "se plătește"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:06.326102019Z",
+  "model": "glm-5.3"
+}

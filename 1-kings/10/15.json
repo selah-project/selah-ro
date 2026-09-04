@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Pe lângă ⟨ce venea⟩ de la oamenii tarlalelor, și de la negoțul neguțătorilor, și de la toți regii amestecului, și de la dregătorii țării.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "pe lângă"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "de la oamenii"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "tarlalelor"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "și de la negoțul"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "neguțătorilor"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și de la toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "amestecului"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "și de la dregătorii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    }
+  ],
+  "timestamp": "2026-09-04T07:18:34.809124147Z",
+  "model": "glm-5.3"
+}

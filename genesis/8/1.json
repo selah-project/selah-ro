@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și și-a adus aminte Elohim de ⟨את⟩ Noa, și ⟨את⟩ de toată viețuitoarea, și ⟨את⟩ de toată dobitoacia care ⟨era⟩ ⟨את⟩ cu el în arcă; și a trecut Elohim un vânt peste pământ, și s-au potolit apele.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Și și-a adus aminte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată viețuitoarea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "viețuitoarea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată dobitoacia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobitoacia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "în arcă"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "și a trecut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un vânt"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "și s-au potolit"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:03.615758772Z",
+  "model": "glm-5.3"
+}

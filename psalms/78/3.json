@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Pe care le-am auzit și le-am cunoscut, și tații noștri ni le-au povestit.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Pe care"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "le-am auzit"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "și le-am cunoscut"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "și tații noștri"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "au povestit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:59.858058412Z",
+  "model": "glm-5.3"
+}

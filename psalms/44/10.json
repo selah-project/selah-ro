@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Totuși ai lepădat ⟨și⟩ ne-ai acoperit de rușine, și nu ieși cu oștirile noastre.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Totuși"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ai lepădat"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "și ne-ai acoperit de rușine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ieși"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "cu oștirile noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:06.332483573Z",
+  "model": "glm-5.3"
+}

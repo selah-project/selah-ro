@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și cei care intrau, mascul și femelă din tot trupul, au intrat, așa cum îi poruncise Elohim ⟨את⟩ lui; și Yahve a închis în spatele lui.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "și cei care intrau"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mascul"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "și femelă"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din tot"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au intrat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "așa cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "poruncise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (Noach, obiectul poruncii)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "și a închis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "în spatele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:53.608460167Z",
+  "model": "glm-5.3"
+}

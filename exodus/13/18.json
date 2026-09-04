@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a întors Elohim ⟨את⟩ poporul pe drumul pustiei, spre marea de Șuf; și înarmați s-au suit fiii lui Israel din țara Mițraim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Și a întors"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustiei"
+    },
+    {
+      "surface": "ים",
+      "gloss": "spre marea"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Șuf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "și înarmați"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "s-au suit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T08:46:42.272451689Z",
+  "model": "glm-5.3"
+}

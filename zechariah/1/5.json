@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Părinții voștri — unde sunt ei? și navii — oare în veac vor trăi?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "Părinții voștri"
+    },
+    {
+      "surface": "איה",
+      "gloss": "unde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sunt ei"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "și navii"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "oare în veac"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "vor trăi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:49:03.398226671Z",
+  "model": "glm-5.3"
+}

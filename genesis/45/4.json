@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Și a zis Iosef către frații lui: Apropiați-vă, vă rog, de mine. Și s-au apropiat. Și a zis: Eu ⟨sunt⟩ Iosef, fratele vostru, pe care ⟨את⟩ m-ați vândut în Mițraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "apropiați-vă"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vă rog"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Și s-au apropiat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "fratele vostru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "m-ați vândut"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "în Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:46.537704731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 149,
+  "translation": "Ca să facă între ⟨ei⟩ judecata scrisă — aceasta ⟨este⟩ cinstea pentru toți hasidim lui. Halelu-Ya!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Ca să facă"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "între ⟨ei⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "scrisă"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "cinstea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru toți"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidim lui"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu-"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:35.233104145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 97,
+  "translation": "Lumină este semănată pentru cel drept, și pentru cei drepți ai inimii — bucurie.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Lumină"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "este semănată"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pentru cel drept"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "și pentru cei drepți"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inimii"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:52.281363853Z",
+  "model": "glm-5.3"
+}

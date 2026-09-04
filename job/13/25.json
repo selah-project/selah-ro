@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Foaia purtată de vânt ⟨să⟩ înspăimânți, și ⟨את⟩ paiele uscate ⟨să⟩ le urmărești?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "foaia"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "purtată de vânt"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "înspăimânți"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "paiele uscate"
+    },
+    {
+      "surface": "קש",
+      "gloss": "paiele"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "uscate"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "urmărești"
+    }
+  ],
+  "timestamp": "2026-09-04T09:25:10.077354490Z",
+  "model": "glm-5.3"
+}

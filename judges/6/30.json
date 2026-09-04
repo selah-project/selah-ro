@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și au zis oamenii cetății către Ioash: scoate ⟨את⟩ fiul tău și să moară, căci a dărâmat ⟨את⟩ altarul Baalului și căci a tăiat Așera care ⟨este⟩ pe el.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Ioash"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "scoate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul tău"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiul tău"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și să moară"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "a dărâmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul Baalului"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "al Baalului"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "și căci"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a tăiat"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Așera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:30:56.264971536Z",
+  "model": "glm-5.3"
+}

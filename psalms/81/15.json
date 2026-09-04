@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "În puțin timp pe dușmanii lor i-aș fi supus, și asupra vrăjmașilor lor aș fi întors mâna Mea.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "În puțin timp"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dușmanii lor"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "i-aș fi supus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "vrăjmașilor lor"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "aș fi întors"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna Mea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:32.707535177Z",
+  "model": "glm-5.3"
+}

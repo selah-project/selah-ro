@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "spini și mărăcini îți va rodi, și vei mânca ⟨את⟩ iarba câmpului.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "spini"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "și mărăcini"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "îți va rodi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "și vei mânca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iarba câmpului"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iarba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpului"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:14.288788548Z",
+  "model": "glm-5.3"
+}

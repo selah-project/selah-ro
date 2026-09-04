@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Yahve, ce ⟨este⟩ omul, de îl cunoști, fiul muritorului, de îl socotești?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "de îl cunoști"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "muritorului"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "de îl socotești"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:29.445419431Z",
+  "model": "glm-5.3"
+}

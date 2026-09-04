@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și va înjunghia ⟨את⟩ mielul în locul unde se înjunghie ⟨את⟩ jertfa pentru păcat și ⟨את⟩ jertfa de ardere, în locul sfântului; căci precum jertfa pentru păcat, așa și jertfa de vină este pentru cohen — sfânt al sfintelor este ea.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Și va înjunghia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mielul"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mielul"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "se înjunghie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa pentru păcat"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfa pentru păcat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "jertfa de ardere"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "jertfa de ardere"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfântului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "precum jertfa pentru păcat"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "jertfa de vină"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este ea"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pentru cohen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "al sfintelor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este ea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:34:13.554411049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și vei face pentru Aharon și pentru fiii lui așa, după tot ce ți-am poruncit ⟨את⟩ pe tine; șapte zile le vei umple mâna lor.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "și vei face"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pentru Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "și pentru fiii lui"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ți-am poruncit"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩ pe tine",
+      "marks": "porunca către Moșe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte (zile)"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "vei umple"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mâna lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:48:13.463719435Z",
+  "model": "glm-5.3"
+}

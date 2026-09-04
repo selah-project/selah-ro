@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "De ce ai dărâmat gardurile ei, și au cules-o toți cei ce trec pe drum?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "ai dărâmat"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "gardurile ei"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "și au cules-o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "cei ce trec"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pe drum"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:34.824987104Z",
+  "model": "glm-5.3"
+}

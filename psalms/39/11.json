@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Îndepărtează de la mine plaga ta; de asprimea mâinii tale m-am sfârșit.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "îndepărtează"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "plaga ta"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "de asprimea"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâinii tale"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "m-am sfârșit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:59.179409460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Se aliază oare cu tine scaunul de răutate, cel care plăsmuiește nelegiuire prin hotărâre?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Se aliază oare cu tine"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "scaunul"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "de răutate"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "plăsmuiește"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "prin"
+    },
+    {
+      "surface": "חק",
+      "gloss": "hotărâre"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:37.399321704Z",
+  "model": "glm-5.3"
+}

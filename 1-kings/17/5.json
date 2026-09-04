@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a mers și a făcut după cuvântul lui Yahve; și a mers și a șezut la pârâul Kerit, care este în fața Iardanului.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "și a făcut"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a șezut"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "la pârâul"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardanului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:00.591839843Z",
+  "model": "glm-5.3"
+}

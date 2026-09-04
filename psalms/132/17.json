@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "Acolo voi face să odrăslească un corn pentru David, am așezat o candelă pentru unsul meu.",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "Acolo"
+    },
+    {
+      "surface": "אַצְמִיחַ",
+      "gloss": "voi face să odrăslească"
+    },
+    {
+      "surface": "קֶרֶן",
+      "gloss": "un corn"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "pentru David"
+    },
+    {
+      "surface": "עָרַכְתִּי",
+      "gloss": "am așezat"
+    },
+    {
+      "surface": "נֵר",
+      "gloss": "o candelă"
+    },
+    {
+      "surface": "לִמְשִׁיחִי",
+      "gloss": "pentru unsul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:42.110162534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și va ieși o mlădiar din tulpina lui Ișai, și un lăstar din rădăcinile lui va rodi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și va ieși"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "o mlădiar"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "din tulpina"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "lui Ișai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "și un lăstar"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "din rădăcinile lui"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "va rodi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:58.849528646Z",
+  "model": "glm-5.3"
+}

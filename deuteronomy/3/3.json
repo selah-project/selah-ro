@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și ne-a dat Yahve, Elohimul nostru, în mâna noastră și ⟨את⟩ pe Og, regele Bașanului, și ⟨את⟩ tot poporul său; și l-am lovit până nu i-am mai lăsat lui nici un supraviețuitor.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și ne-a dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimul nostru"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "în mâna noastră"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Og, regele Bașanului"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "pe Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bașanului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot poporul său"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "și l-am lovit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "i-am mai lăsat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "nici un supraviețuitor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:29.579016173Z",
+  "model": "glm-5.3"
+}

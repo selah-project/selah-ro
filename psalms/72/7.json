@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Să înflorească în zilele lui cel drept, și belșug de pace până ce luna să nu mai fie.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "să înflorească"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "în zilele lui"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "și belșug"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de pace"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "fără de"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "lună"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:43.753785501Z",
+  "model": "glm-5.3"
+}

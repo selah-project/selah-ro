@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Și îi va săgeta Elohim cu o săgeată; pe neașteptate au fost loviturile lor.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "și îi va săgeta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "cu o săgeată"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "pe neașteptate"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "loviturile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:24.639370607Z",
+  "model": "glm-5.3"
+}

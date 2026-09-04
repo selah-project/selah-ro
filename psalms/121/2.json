@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 121,
+  "translation": "Ajutorul meu ⟨ vine ⟩ de la Yahve, făcătorul cerurilor și al pământului.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ajutorul meu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făcătorul"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "și al pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:08.904289450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a numărat ⟨את⟩ pe ei Moșe, după gura lui Yahve, cum fusese poruncit.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Și a numărat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei — sufixul -em al pronumelui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "על",
+      "gloss": "după"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fusese poruncit"
+    }
+  ],
+  "timestamp": "2026-09-04T10:10:29.149861967Z",
+  "model": "glm-5.3"
+}

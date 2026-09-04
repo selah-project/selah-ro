@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Lovește pe batjocoritor, și cel naiv va deveni băgător de seamă; și mustră pe cel înțelept, și va înțelege cunoștință.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "batjocoritor"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "lovește"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "și cel naiv"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "va deveni băgător de seamă"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "și mustră"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "pe cel înțelept"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "va înțelege"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "cunoștință"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:56.152832336Z",
+  "model": "glm-5.3"
+}

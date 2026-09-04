@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și să ungi cu el ⟨את⟩ cortul întâlnirii și ⟨את⟩ chivotul mărturiei.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Și să ungi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cortul întâlnirii"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "chivotul mărturiei"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mărturiei"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:51.596753028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "și face hesed până la mii, celor ce Mă iubesc și celor ce păzesc poruncile Mele.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "și face"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "până la mii"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "celor ce Mă iubesc"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "și celor ce păzesc"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "poruncile Mele"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:06.048344075Z",
+  "model": "glm-5.3"
+}

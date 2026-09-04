@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a spus Șmuel: Aduceți-mi ⟨את⟩ pe Agag, regele lui Amalec. Și a venit la el Agag cu pași moi, și a spus Agag: Așadar s-a îndepărtat amarul morții.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "Aduceți"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "lui Amalec"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "cu pași moi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Așadar"
+    },
+    {
+      "surface": "סר",
+      "gloss": "s-a îndepărtat"
+    },
+    {
+      "surface": "מר",
+      "gloss": "amarul"
+    },
+    {
+      "surface": "המות",
+      "gloss": "morții"
+    }
+  ],
+  "timestamp": "2026-09-04T02:45:52.230945588Z",
+  "model": "glm-5.3"
+}

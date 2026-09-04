@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Nu vă întoarceți spre idoli și dumnezei turnați să nu vă faceți; Eu ⟨sunt⟩ Yahve, Elohimul vostru.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "vă întoarceți"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "idolii"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "și dumnezei"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "turnați"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vă faceți"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:20.792609031Z",
+  "model": "glm-5.3"
+}

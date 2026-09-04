@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a dat Yahve ciuma în Israel, de dimineață până la vremea hotărâtă; și au murit din popor, de la Dan până la Beer-Șeva, șaptezeci de mii de oameni.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ciuma"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "de dimineață"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până"
+    },
+    {
+      "surface": "עת",
+      "gloss": "la vremea"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hotărâtă"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și au murit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "de la Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Șeva"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "șaptezeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de oameni"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:31.126302400Z",
+  "model": "glm-5.3"
+}

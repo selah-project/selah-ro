@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Iar ⟨את⟩ poporul a poruncit Iehoșua, zicând: Nu strigați și nu faceți auzită ⟨את⟩ vocea voastră, și să nu iasă din gura voastră vreun cuvânt, până în ziua când se va zice către voi: Strigați! — și veți striga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iar ⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "strigați"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "să faceți auzită"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vocea voastră"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "vocea voastră"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "să iasă"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "din gura voastră"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vreun cuvânt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "când se va zice"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "către voi"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Strigați"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "și veți striga"
+    }
+  ],
+  "timestamp": "2026-09-04T02:17:05.813003112Z",
+  "model": "glm-5.3"
+}

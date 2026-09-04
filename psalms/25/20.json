@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Păzește sufletul meu și scapă-mă; să nu fiu de rușine, căci în tine m-am adăpostit.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "și scapă-mă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "fiu de rușine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m-am adăpostit"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:23.159200579Z",
+  "model": "glm-5.3"
+}

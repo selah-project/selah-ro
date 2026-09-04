@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "De la ⟨את⟩ tine ⟨este⟩ lauda mea în adunare mare; făgăduințele mele le voi împlini înaintea celor ce se tem de El.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "de la ⟨את⟩ tine",
+      "marks": "tu (pe cel pe care îl arată semnul)"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lauda mea"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "în adunare"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "făgăduințele mele"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "voi împlini"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "celor ce se tem de El"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:02.289124703Z",
+  "model": "glm-5.3"
+}

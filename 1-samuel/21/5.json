@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a răspuns cohenul ⟨את⟩ David și a zis: nu este pâine de rând sub mâna mea, căci numai pâine sfântă este; dacă s-au păzit tinerii măcar de femeie.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "חל",
+      "gloss": "de rând"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "decât"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfântă"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "s-au păzit"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "tinerii"
+    },
+    {
+      "surface": "אך",
+      "gloss": "măcar"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "de femeie"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:52.026573523Z",
+  "model": "glm-5.3"
+}

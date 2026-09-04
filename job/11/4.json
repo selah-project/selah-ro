@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 11:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Căci ai spus: curat ⟨este⟩ învățătura mea, și fără prihană am fost în ochii tăi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Căci ai spus"
+    },
+    {
+      "surface": "זך",
+      "gloss": "curat"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "învățătura mea"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "și fără prihană"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:49.067680785Z",
+  "model": "glm-5.3"
+}

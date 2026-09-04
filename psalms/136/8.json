@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "⟨את⟩ soarele, ca să stăpânească ziua, căci în veac ⟨este⟩ hesedul lui.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soarele"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ca să stăpânească"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:20.451080520Z",
+  "model": "glm-5.3"
+}

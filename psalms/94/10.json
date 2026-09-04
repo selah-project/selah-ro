@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Cel ce ceartă neamurile — nu va mustra el? Cel ce învață pe om cunoștință,",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Cel ce ceartă"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nu va... oare"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "mustra"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Cel ce învață"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "pe om"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "cunoștință"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:41.795510190Z",
+  "model": "glm-5.3"
+}

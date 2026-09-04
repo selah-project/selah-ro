@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Căci fiu am fost tatălui meu, blând și unic înaintea mamei mele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "tatălui meu"
+    },
+    {
+      "surface": "רך",
+      "gloss": "blând"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "și unic"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamei mele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:19.819210251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a spus Yahve către mine: nu asupri ⟨את⟩ Moab și nu te lua la luptă cu ei, căci nu îți voi da din pământul lui moștenire, căci fiilor lui Lot le-am dat ⟨את⟩ Ar ⟨ca⟩ moștenire.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "asupri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "te lua la luptă"
+    },
+    {
+      "surface": "בם",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "luptă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "îți voi da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "din pământul lui"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "moștenire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "lui Lot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "le-am dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "moștenire"
+    }
+  ],
+  "timestamp": "2026-09-04T06:56:47.056108470Z",
+  "model": "glm-5.3"
+}

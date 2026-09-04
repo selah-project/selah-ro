@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și s-a dus Rahavam la Șechem, căci la Șechem venise tot Israel ca să-l facă rege ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și s-a dus"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "la Șechem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Șechem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "venise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ca să-l facă rege"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe el (Rahavam)"
+    }
+  ],
+  "timestamp": "2026-09-04T06:21:26.266044578Z",
+  "model": "glm-5.3"
+}

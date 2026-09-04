@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Dacă hotărâte sunt zilele lui, numărul lunilor lui la ⟨את⟩ tine: hotărârea lui ai făcut-o și nu va trece.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "hotărâte"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "zilele lui"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numărul"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "lunilor lui"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "la ⟨את⟩ tine",
+      "marks": "numărul lunilor lui"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "hotărârea lui"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "va trece"
+    }
+  ],
+  "timestamp": "2026-09-04T08:07:14.354551853Z",
+  "model": "glm-5.3"
+}

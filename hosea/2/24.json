@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și pământul va răspunde ⟨את⟩ grâului, și ⟨את⟩ mustului, și ⟨את⟩ untdelemnului, și ele vor răspunde ⟨את⟩ Izreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "și pământul"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "va răspunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grâului"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "grâului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mustului"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "mustului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "untdelemnului"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "untdelemnului"
+    },
+    {
+      "surface": "והם",
+      "gloss": "și ele"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vor răspunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Izreel"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:50.368284532Z",
+  "model": "glm-5.3"
+}

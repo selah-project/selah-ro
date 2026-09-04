@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și îi vei unge ⟨את⟩ cum ai uns ⟨את⟩ pe tatăl lor, și vor fi coheni pentru Mine, și va fi ungerea lor să le fie pentru o preoție veșnică, pentru neamurile lor.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "și îi vei unge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ îi",
+      "marks": "pe fiii lui Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ai uns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tatăl lor"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tatăl lor"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "și vor fi coheni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru Mine"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "להית",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ungerea lor"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "de preoție"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnică"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "pentru neamurile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:10.002155073Z",
+  "model": "glm-5.3"
+}

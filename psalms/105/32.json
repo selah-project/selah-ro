@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "A dat ploile lor grindină, foc cu flăcări în țara lor.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "A dat"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ploile lor"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "grindină"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "cu flăcări"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "în țara lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:01.495541685Z",
+  "model": "glm-5.3"
+}

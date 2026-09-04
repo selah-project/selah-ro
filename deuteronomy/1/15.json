@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și am luat ⟨את⟩ căpeteniile semințiilor voastre, bărbați înțelepți și cunoscuți, și i-am pus ⟨את⟩ în fruntea voastră: căpetenii peste mii și căpetenii peste sute și căpetenii peste cincizeci și căpetenii peste zeci și privatori pentru semințiile voastre.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Și am luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "căpeteniile semințiilor voastre"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "semințiilor voastre"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bărbați"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "înțelepți"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "și cunoscuți"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "și i-am pus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "în fruntea voastră"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "în frunte"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpetenii peste"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "și căpetenii peste"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "și căpetenii peste"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cincizeci"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "și căpetenii peste"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zeci"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "și privatori"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "pentru semințiile voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:09.502161840Z",
+  "model": "glm-5.3"
+}

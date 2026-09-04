@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și se vor depărta broaștele de la tine, și din casele tale, și de la slujitorii tăi, și de la poporul tău; numai în râu vor rămânea ele.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "Și se vor depărta"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "broaștele"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de la tine"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "și din casele tale"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "și de la slujitorii tăi"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "și de la poporul tău"
+    },
+    {
+      "surface": "רק",
+      "gloss": "numai"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "în râu"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "vor rămânea ele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:31.889800107Z",
+  "model": "glm-5.3"
+}

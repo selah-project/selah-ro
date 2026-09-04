@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a răsplătit Yahve mie, după dreptatea mea, după curăția mea, înaintea ochilor lui.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și a răsplătit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "după dreptatea mea"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "după curăția mea"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochilor lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:06:37.353019589Z",
+  "model": "glm-5.3"
+}

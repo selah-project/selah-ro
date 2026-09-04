@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Eu am vestit și am mântuit și am făcut să se audă, și nu ⟨este⟩ în voi străin; și voi sunteți martorii mei, oracolul lui Yahve, și Eu sunt El.",
+  "tokens": [
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "הִגַּדְתִּי",
+      "gloss": "am vestit"
+    },
+    {
+      "surface": "וְהוֹשַׁעְתִּי",
+      "gloss": "și am mântuit"
+    },
+    {
+      "surface": "וְהִשְׁמַעְתִּי",
+      "gloss": "și am făcut să se audă"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "și nu ⟨este⟩"
+    },
+    {
+      "surface": "בָּכֶם",
+      "gloss": "în voi"
+    },
+    {
+      "surface": "זָר",
+      "gloss": "străin"
+    },
+    {
+      "surface": "וְאַתֶּם",
+      "gloss": "și voi"
+    },
+    {
+      "surface": "עֵדַי",
+      "gloss": "sunteți martorii mei"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "și Eu"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "sunt El"
+    }
+  ],
+  "timestamp": "2026-09-04T10:11:03.974287662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Ce câștig are cel ce face în ceea ce se ostenește el?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "câștig"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "are cel ce face"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "în ceea ce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "(el)"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "se ostenește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:51.448724367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "O viță din Mițraim ai smuls, ai alungat neamuri și ai plantat-o.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "viță"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "ai smuls"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "ai alungat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamuri"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "și ai plantat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:32.850511371Z",
+  "model": "glm-5.3"
+}

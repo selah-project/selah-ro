@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Să lege pe dregătorii lui după voia lui și pe bătrânii lui să-i învețe înțelepciune.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "să lege"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "dregătorii lui"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "după voia lui"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "și pe bătrânii lui"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "să-i învețe înțelepciune"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:01.715341653Z",
+  "model": "glm-5.3"
+}

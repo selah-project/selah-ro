@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a cules în câmp până seară, și a bătut ⟨את⟩ ce culesese, și a fost cam un efa de orz.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "și a cules"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "seara"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "și a bătut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce culesese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "culesese"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "cam un efa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "de orz"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:20.990182106Z",
+  "model": "glm-5.3"
+}

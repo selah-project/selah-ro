@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "După ce l-a lovit el ⟨את⟩ Sihon, regele emoriților, care locuia în Heșbon, și ⟨את⟩ Og, regele Bașanului, care locuia în Aștarot, în Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "După ce"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "l-a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriților"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "locuia"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "în Heșbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bașanului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "locuia"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "în Aștarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "în Edrei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:20.331547771Z",
+  "model": "glm-5.3"
+}

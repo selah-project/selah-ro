@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Căci treceți ⟨את⟩ Iardenul ca să intrați să moșteniți ⟨את⟩ pământul pe care Yahve, Elohimul vostru, vi-l dă; și ⟨את⟩ îl veți moșteni și veți locui în el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "treceți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iardenul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenul"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "ca să intrați"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "să moșteniți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "și veți moșteni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ îl",
+      "marks": "pământul (sufixul obiect direct)"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "și veți locui"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:38.747252340Z",
+  "model": "glm-5.3"
+}

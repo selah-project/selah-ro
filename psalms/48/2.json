@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Mare ⟨este⟩ Yahve și mult lăudat, în cetatea lui Elohim ⟨al nostru⟩, muntele sfințeniei lui.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "și mult lăudat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetatea"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a lui Elohim ⟨al nostru⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfințeniei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:56.739192366Z",
+  "model": "glm-5.3"
+}

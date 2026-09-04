@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Căci nu va înceta nevoiașul din mijlocul pământului; de aceea eu îți poruncesc, zicând: Deschide, să deschizi ⟨את⟩ mâna ta fratelui tău, săracului tău și nevoiașului tău, în pământul tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "va înceta"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nevoiașul"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "din mijlocul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "על",
+      "gloss": "Pentru"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "îți poruncesc"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Deschide"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "să deschizi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna ta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "fratelui tău"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "săracului tău"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "și nevoiașului tău"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "în pământul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:20.936595722Z",
+  "model": "glm-5.3"
+}

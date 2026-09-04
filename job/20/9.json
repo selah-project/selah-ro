@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Ochiul care l-a văzut nu va mai vedea, și locul lui nu-l va mai privi.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ochiul"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "care l-a văzut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "va mai vedea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "îl va privi"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:31:33.430675478Z",
+  "model": "glm-5.3"
+}

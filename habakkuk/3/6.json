@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 3:6",
+  "book": "habakkuk",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "A stat și a măsurat ⟨את⟩ pământul, a văzut și a zguduit ⟨את⟩ neamurile, și s-au sfărâmat munții veșniciei, s-au plecat dealurile veacului — căile veșniciei sunt ale lui.",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "a stat"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "și a măsurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "și a zguduit"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨את⟩ neamurile"
+    },
+    {
+      "surface": "ויתפצצו",
+      "gloss": "și s-au sfărâmat"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "munții"
+    },
+    {
+      "surface": "עד",
+      "gloss": "veșniciei"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "s-au plecat"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dealurile"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veacului"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "căile"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșniciei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sunt ale lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:47:31.191752984Z",
+  "model": "glm-5.3"
+}

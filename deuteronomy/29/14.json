@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "ci ⟨את⟩ cu cel ce este aici cu noi, stând azi înaintea lui Yahve, Elohim al nostru, și ⟨את⟩ cu cel ce nu este aici cu noi azi",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cel ce este aici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel ce"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "este"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cu noi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stând"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cel ce nu este aici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel ce"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cu noi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:43.106276551Z",
+  "model": "glm-5.3"
+}

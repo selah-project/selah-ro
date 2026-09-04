@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și i-a răsărit soarele când a trecut ⟨את⟩ Penuel, și el șchiopăta pe coapsa lui.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "Și a răsărit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a trecut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "șchiopăta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "coapsa lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:46.194016089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Sunt neclintite căile lui în tot timpul; sus, departe de el, ⟨sunt⟩ judecățile tale; pe toți vrăjmașii lui suflă ⟨disprețuitor⟩ asupra lor.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "sunt neclintite"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "căile lui"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "timpul"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sus"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "departe de el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "vrăjmașii lui"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "suflă"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "asupra lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:28.542236600Z",
+  "model": "glm-5.3"
+}

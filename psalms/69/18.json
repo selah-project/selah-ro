@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "și nu ascunde fața ta de slujitorul tău, că în strâmtorare sunt eu: grăbește, răspunde-mi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ascunde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "de slujitorul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "צר",
+      "gloss": "strâmtorare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi (sunt)"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "grăbește"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "răspunde-mi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:26.175140596Z",
+  "model": "glm-5.3"
+}

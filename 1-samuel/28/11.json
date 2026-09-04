@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a zis femeia: ⟨את⟩ cine să urc la tine? Și el a zis: ⟨את⟩ Șemuel, urcă-mi-l.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "să urc"
+    },
+    {
+      "surface": "לך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "urcă"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:51:23.548323007Z",
+  "model": "glm-5.3"
+}

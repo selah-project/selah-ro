@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Scoală-Te, Yahve! Să nu prindă putere omul muritor; să fie judecate neamurile înaintea feței Tale.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Scoală-Te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "prindă putere"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "omul muritor"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "să fie judecate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "על",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "feței Tale"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:57.626662590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și ați văzut ⟨את⟩ urâciunile lor și ⟨את⟩ idolii lor, lemn și piatră, argint și aur, care ⟨sunt⟩ cu ei",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Și ați văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urâciunile lor"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "urâciunile lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "idolii lor"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "idolii lor"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lemn"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "și piatră"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "și aur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "cu ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:43.106576683Z",
+  "model": "glm-5.3"
+}

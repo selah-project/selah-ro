@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "ca să abată de la judecată pe săraci și să smulgă dreptatea sărmanilor poporului meu, ca să facă din văduve prada lor și orfanii să-i jefuiască ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "ca să abată"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "de la judecată"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "pe săraci"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "și să smulgă"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "sărmanilor"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ca să facă"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "din văduve"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "prada lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "orfanii"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "orfanii"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "să-i jefuiască"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:46.353414833Z",
+  "model": "glm-5.3"
+}

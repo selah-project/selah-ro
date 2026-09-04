@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și încă puțin, și nu mai este cel rău; și te vei uita la locul lui — și nu mai este el.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Și încă"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu mai este"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "și te vei uita"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "locul lui"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "și nu mai este el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:00.710229285Z",
+  "model": "glm-5.3"
+}

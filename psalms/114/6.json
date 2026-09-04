@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 114,
+  "translation": "Munților, ați sărit ca berbecii, dealurile ca fiii turmei!",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Munților"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "ați sărit"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ca berbecii"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dealurile"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ca fiii"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "turmei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:54.889736448Z",
+  "model": "glm-5.3"
+}

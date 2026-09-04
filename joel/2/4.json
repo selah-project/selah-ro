@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Ca înfățișarea cailor ⟨este⟩ înfățișarea lui, iar ca niște călăreți așa vor alerga.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "Ca înfățișarea"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "cailor"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "înfațișarea lui"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "iar ca niște călăreți"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "vor alerga"
+    }
+  ],
+  "timestamp": "2026-09-04T07:49:20.518838081Z",
+  "model": "glm-5.3"
+}

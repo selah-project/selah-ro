@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și vor pustui ⟨את⟩ țara Așur cu sabia și ⟨את⟩ țara Nimrod la porțile ei; și ⟨el⟩ va scăpa de Așur când va veni în țara noastră și când va călca în hotarele noastre.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "Și vor pustui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "cu sabia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "la porțile ei"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "și va scăpa"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "de Așur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "va veni"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "în țara noastră"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "și când"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "va călca"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "în hotarele noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:42.371122083Z",
+  "model": "glm-5.3"
+}

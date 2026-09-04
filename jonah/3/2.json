@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Scoală-te, du-te la Ninive, cetatea cea mare, și strigă către ea strigarea pe care ți-o ⟨vorbesc⟩ eu ție.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Scoală-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du-te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "și strigă"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "către ea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "strigarea"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "strigarea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨vorbind⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:43:52.673299827Z",
+  "model": "glm-5.3"
+}

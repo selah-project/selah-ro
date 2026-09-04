@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Iar tu ai spus: binele îl voi face negreșit cu tine, și voi pune ⟨את⟩ sămânța ta ca nisipul mării, care nu poate fi numărată de multime.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ai spus"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "îl voi face negreșit"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "și voi pune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sămânța ta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sămânța ta"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "ca nisipul"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "poate fi numărată"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "de multime"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:27.895434768Z",
+  "model": "glm-5.3"
+}

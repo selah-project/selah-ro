@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Șalum a născut ⟨את⟩ pe Iecamia, iar Iecamia a născut ⟨את⟩ pe Elișama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Și Șalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Iecamia"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Iecamia"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "iar Iecamia"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Elișama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elișama"
+    }
+  ],
+  "timestamp": "2026-09-04T08:17:52.313129142Z",
+  "model": "glm-5.3"
+}

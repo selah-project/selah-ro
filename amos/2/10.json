@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Eu v-am suit ⟨את⟩ pe voi din țara Mițraimului și v-am purtat ⟨את⟩ pe voi prin pustiu patruzeci de ani, ca să stăpâniți ⟨את⟩ țara Emoritului.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Și Eu"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "v-am suit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "din țara Mițraimului"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "și v-am purtat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "prin pustiu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "prin pustiu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ca să stăpâniți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoritului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:40:43.125637694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Ca pasărea rătăcind, ca rândunica zburând, așa blestemul fără pricină nu vine.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Ca pasărea"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "rătăcind"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "ca rândunica"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "zburând"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "blestemul"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "fără pricină"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "vine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:58.360415463Z",
+  "model": "glm-5.3"
+}

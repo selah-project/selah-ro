@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Ahaz l-a născut pe ⟨את⟩ Iara; Iara i-a născut pe ⟨את⟩ Alemet, și ⟨את⟩ Azmavet, și ⟨את⟩ Zimri; Zimri l-a născut pe ⟨את⟩ Moța.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "l-a născut pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iara"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Iara"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "Iara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "i-a născut pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "l-a născut pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moța"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Moța"
+    }
+  ],
+  "timestamp": "2026-09-04T06:09:00.167620242Z",
+  "model": "glm-5.3"
+}

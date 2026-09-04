@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Ascutesc limba lor ca un șarpe; venin de aspidă sub buzele lor. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Ascutesc"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "limba lor"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "un șarpe"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "venin"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "de aspidă"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "buzele lor"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:44.830514013Z",
+  "model": "glm-5.3"
+}

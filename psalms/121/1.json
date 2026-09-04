@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 121,
+  "translation": "Cântare a urcărilor. Îmi ridic ochii spre munți — de unde va veni ajutorul meu?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ridic"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "de unde"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "va veni"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ajutorul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:08.903998187Z",
+  "model": "glm-5.3"
+}

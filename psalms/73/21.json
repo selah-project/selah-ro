@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Când mi s-a acrit inima și rinichii mi s-au străpuns",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "mi s-a acrit"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inima"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "și rinichii"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "mi s-au străpuns"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:03.864005158Z",
+  "model": "glm-5.3"
+}

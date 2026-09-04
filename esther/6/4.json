@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a zis regele: Cine este în curte? — iar Haman venise în curtea casei regelui, cea din afară, ca să spună regelui să-l spânzure ⟨את⟩ Mordehai pe lemnul pe care îl pregătise lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "în curte"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "iar Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venise"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "în curtea"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "celei din afară"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ca să spună"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "să spânzure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordehai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lemnul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "îl pregătise"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:55.859262752Z",
+  "model": "glm-5.3"
+}

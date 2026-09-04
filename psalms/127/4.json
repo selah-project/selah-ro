@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 127,
+  "translation": "Ca săgețile în mâna viteazului, așa sunt fiii tinereții.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Ca săgețile"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "viteazului"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "tinerții"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:31.945375878Z",
+  "model": "glm-5.3"
+}

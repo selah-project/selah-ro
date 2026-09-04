@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și pomenește ⟨את⟩ Făcătorul tău în zilele tinereții tale, înainte ca să vină zilele rele și să se apropie anii despre care vei spune: nu am în ele nicio plăcere.",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "Și pomenește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Făcătorul tău"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "Făcătorul tău"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "tinereții tale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "înainte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "să vină"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "rele"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "și să se apropie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "despre care"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "vei spune"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(mie)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nicio plăcere"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:32.902048256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Și a spus Iaacov lui Iosif: El Șadai mi s-a arătat la Luz, în țara Chenaan, și m-a binecuvântat ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Șadai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "s-a arătat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "la Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și m-a binecuvântat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    }
+  ],
+  "timestamp": "2026-09-04T10:09:49.043858616Z",
+  "model": "glm-5.3"
+}

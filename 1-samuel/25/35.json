@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a luat David din mâna ei ⟨את⟩ ceea ce îi adusese lui, și i-a spus ei: Suie în pace la casa ta; vezi, am ascultat de glasul tău și am ridicat fața ta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "din mâna ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce îi adusese lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "adusese"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "și ei"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Suie"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "în pace"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "la casa ta"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "vezi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am ascultat"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "de glasul tău"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "și am ridicat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:53:36.426122118Z",
+  "model": "glm-5.3"
+}

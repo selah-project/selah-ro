@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Când te vei apropia de un oraș ca să luptați împotriva lui, îl vei chema la pace.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "te vei apropia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "un oraș"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ca să luptați"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "împotriva lui"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "îl vei chema"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "către el"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "la pace"
+    }
+  ],
+  "timestamp": "2026-09-04T06:59:54.733133044Z",
+  "model": "glm-5.3"
+}

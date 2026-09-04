@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și Lavan i-a dat ⟨את⟩ pe Zilpa, roaba lui, — pe roabă — lui Lea, fiica lui.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Zilpa, roaba lui"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "roaba lui"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "lui Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "fiica lui"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "pe roabă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:29.042089660Z",
+  "model": "glm-5.3"
+}

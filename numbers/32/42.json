@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și Novah s-a dus și a cucerit ⟨את⟩ Kenat și ⟨את⟩ satele ei, și i-a pus numele Novah, după numele său.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Și Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "s-a dus"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "și a cucerit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "satele ei"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "satele ei"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a numit"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "după numele său"
+    }
+  ],
+  "timestamp": "2026-09-04T01:54:59.053689508Z",
+  "model": "glm-5.3"
+}

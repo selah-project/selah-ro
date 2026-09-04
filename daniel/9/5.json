@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Am greșit, am făcut fărădelege, ne-am făcut răi și ne-am răzvrătit, ca să ne abatem de la poruncile tale și de la judecățile tale.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "am greșit"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "am făcut fărădelege"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "ne-am făcut răi"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "ne-am răzvrătit"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ca să ne abatem"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "de la poruncile tale"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "și de la judecățile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:53:03.154832186Z",
+  "model": "glm-5.3"
+}

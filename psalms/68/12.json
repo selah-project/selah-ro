@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Adonai dă cuvântul; vestitoarele ⟨sunt⟩ oștire mare.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "vestitoarele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "oștire"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:25.464874562Z",
+  "model": "glm-5.3"
+}

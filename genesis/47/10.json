@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Și a binecuvântat Iaacov ⟨את⟩ Paro și a ieșit de dinaintea lui Paro.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Și a binecuvântat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și a ieșit"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de dinaintea"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:43.626225872Z",
+  "model": "glm-5.3"
+}

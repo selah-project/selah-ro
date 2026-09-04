@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "De la mustra ta fug ele, de la glasul tunetului tău se grăbesc să plece.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "mustra ta"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "fug ele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "tunetului tău"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "se grăbesc să plece"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:28.229110314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Fă bine în bună-plăcerea ta ⟨את⟩ Țion; vei zidi zidurile Ierușalaimului.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Fă bine"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "în bună-plăcerea ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Țion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "vei zidi"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "zidurile"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:19.442997252Z",
+  "model": "glm-5.3"
+}

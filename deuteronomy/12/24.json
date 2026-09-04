@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Să nu-l mănânci; pe pământ să-l verși, ca apa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "-l mănânci"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "să-l verși"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ca apa"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:50.797714229Z",
+  "model": "glm-5.3"
+}

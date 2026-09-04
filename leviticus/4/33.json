@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și va pune ⟨את⟩ mâna sa pe capul jertfei de păcat și o va înjunghia ⟨את⟩ ca jertfă de păcat în locul unde se înjunghie ⟨את⟩ arderea-de-tot.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "va pune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfei de păcat"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "va înjunghia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ca jertfă de păcat"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ca jertfă de păcat"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "se înjunghie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea-de-tot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea-de-tot"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:08.028304519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a lovit Șaul ⟨את⟩ pe Amalek de la Havila, la venirea ⟨ta⟩ spre Șur, care ⟨este⟩ în fața lui Mițraim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "de la Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "la venirea ta"
+    },
+    {
+      "surface": "שור",
+      "gloss": "spre Șur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨este⟩ în"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lui Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T02:45:52.458663476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 137,
+  "translation": "Cum să cântăm ⟨את⟩ cântecul lui Yahve pe pământ străin?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "să cântăm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cântecul lui Yahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cântecul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străin"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:57.993994498Z",
+  "model": "glm-5.3"
+}

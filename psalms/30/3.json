@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Yahve, Elohim al meu, am strigat către tine, și m-ai vindecat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "am strigat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "și m-ai vindecat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:44.959821476Z",
+  "model": "glm-5.3"
+}

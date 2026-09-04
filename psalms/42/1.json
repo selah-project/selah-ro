@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Către dirijorul de cor. O învățătură ⟨a⟩ fiilor lui Korah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijorul de cor"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "O învățătură"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨a⟩ fiilor"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:17.616183862Z",
+  "model": "glm-5.3"
+}

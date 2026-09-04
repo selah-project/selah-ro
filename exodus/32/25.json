@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a văzut Moșe ⟨את⟩ poporul, că era dezlegat, căci dezlegase Aharon ⟨brațul⟩, spre ocară printre cei ce se ridicau împotriva lor.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "era dezlegat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "dezlegase"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "spre ocară"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "printre cei ce se ridicau împotriva lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:27.149146551Z",
+  "model": "glm-5.3"
+}

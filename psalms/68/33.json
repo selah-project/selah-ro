@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Împărățiilor pământului: cântați lui Elohim, psalmodiați-lui lui Adonai. Sela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Împărățiilor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "cântați"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "psalmodiați-lui"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "lui Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:59.757056091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Așa a spus Yahve: în felul acesta voi strica ⟨את⟩ mândria lui Iehuda și ⟨את⟩ mândria cea mare a Ierușalaimului.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "în felul acesta"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "voi strica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mândria"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mândria"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mândria"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mândria"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "cea mare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:03:43.612470277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Și a scos poporul său cu bucurie, cu strigăte de veselie ⟨את⟩ aleșii săi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Și a scos"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "cu bucurie"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "cu strigăte de veselie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aleșii săi"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "aleșii săi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:32.462597195Z",
+  "model": "glm-5.3"
+}

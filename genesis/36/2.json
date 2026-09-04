@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Esav și-a luat nevestele dintre fiicele Kenaanului: ⟨את⟩ Ada, fiica lui Elon hititul, și ⟨את⟩ Oholivama, fiica Anei, fiica lui Țivon hivitul.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "și-a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevestele"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "nevestele"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dintre fiicele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ada"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "lui Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Oholivama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholivama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anei"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "lui Țivon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivitul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:34.820899045Z",
+  "model": "glm-5.3"
+}

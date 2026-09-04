@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Căci cum se însoară un tânăr cu o fecioară, te vor lua ⟨de soție⟩ fiii tăi, și cum se bucură mirele de mireasă, se va bucura de tine Elohim al tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "se însoară"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "un tânăr"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "cu o fecioară"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "te vor lua de soție"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiii tăi"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "și bucuria"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "a mirelui"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mireasă"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "se va bucura"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "de tine"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T03:56:26.350912468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "căci ⟨את⟩ tot pământul pe care îl vei vedea tu, ție îl voi da pe el, și seminției tale, până în veac.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot pământul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vei vedea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "îl voi da pe el"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "și seminției tale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:59.661179505Z",
+  "model": "glm-5.3"
+}

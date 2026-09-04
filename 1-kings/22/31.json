@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 22:31",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iar regele Aramului a poruncit ⟨את⟩ căpeteniile carelor care erau ale lui — treizeci și două — zicând: Să nu vă luptați ⟨את⟩ cel mic nici ⟨את⟩ cel mare, ci decât ⟨את⟩ regele Israelului, numai el.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Iar regele"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "căpeteniile carelor"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "carelor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לו",
+      "gloss": "erau ale lui"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "și două"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "vă luptați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cel mic"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "cel mic"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nici ⟨את⟩",
+      "marks": "cel mare"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "cel mare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "decât"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele Israelului"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "numai el"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:39.239713418Z",
+  "model": "glm-5.3"
+}

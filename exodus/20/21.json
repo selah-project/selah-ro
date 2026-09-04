@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a stat poporul de departe, iar Moșe s-a apropiat de întunericul deasă în care era Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Și a stat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "de departe"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "iar Moșe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "s-a apropiat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "întunericul deasă"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "שם",
+      "gloss": "era"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:34.426091007Z",
+  "model": "glm-5.3"
+}

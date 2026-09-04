@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a fost: pe când unul dobora bârna, ⟨את⟩ fierul a căzut în apă; și a strigat și a zis: Vai, stăpâne! și el o ceruse ⟨pe împrumut⟩!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "dobora"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "bârna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fierul"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "fierul"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "a căzut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "și a strigat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stăpâne"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "o ceruse"
+    }
+  ],
+  "timestamp": "2026-09-04T03:24:24.308348262Z",
+  "model": "glm-5.3"
+}

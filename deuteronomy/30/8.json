@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Iar tu te vei întoarce și vei asculta de glasul lui Yahve și vei face ⟨את⟩ toate poruncile lui pe care ți le poruncesc eu astăzi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iar tu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "te vei întoarce"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "și vei asculta"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și vei face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate poruncile lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "poruncile lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "îți poruncesc"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:13:24.647295379Z",
+  "model": "glm-5.3"
+}

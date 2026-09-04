@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și cei ce răsplătesc răul în locul binelui mă pizmuiesc, fiindcă eu urmăresc binele.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "Și cei ce răsplătesc"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în locul"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "binelui"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "mă pizmuiesc"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "eu urmăresc"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:53.318234722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 110,
+  "translation": "Poporul tău ⟨este⟩ dar de bunăvoie în ziua puterii tale, în podoabe sfinte; din sânul zorii, ție ⟨este⟩ roua tinereții tale.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "dar de bunăvoie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "puterii tale"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "în podoabe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfinte"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "din sânul"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "zorii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "טל",
+      "gloss": "roua"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "tinereții tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:49.690025835Z",
+  "model": "glm-5.3"
+}

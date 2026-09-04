@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Pe ceafa noastră am fost urmăriți, am ostenit, nu ni s-a dat odihnă nouă.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "ceafa noastră"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "am fost urmăriți"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "am ostenit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "ni s-a dat odihnă"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:32.578404150Z",
+  "model": "glm-5.3"
+}

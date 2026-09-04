@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Israel, încrede-te în Yahve; ajutorul lor și scutul lor ⟨este⟩ El.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "încrede-te"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ajutorul lor"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "și scutul lor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:32.644323188Z",
+  "model": "glm-5.3"
+}

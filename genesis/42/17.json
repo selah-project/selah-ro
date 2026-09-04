@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și i-a adunat pe ei sub pază trei zile.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "și i-a adunat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sub"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "pază"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:30.107123662Z",
+  "model": "glm-5.3"
+}

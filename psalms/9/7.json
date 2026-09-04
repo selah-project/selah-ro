@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Vrăjmașul s-a sfârșit — dărâmături pentru totdeauna; iar cetățile le-ai smuls — a pierit pomenirea lor, iată-i.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Vrăjmașul"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "s-a sfârșit"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dărâmături"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "iar cetățile"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "le-ai smuls"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "a pierit"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "pomenirea lor"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iată-i"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:49.734410075Z",
+  "model": "glm-5.3"
+}

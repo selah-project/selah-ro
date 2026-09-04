@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Ale tale sunt cerurile, ale tale este și pământul; lumea și plinirea ei — tu le-ai întemeiat.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ale tale"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "אף",
+      "gloss": "și"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale tale"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "și plinirea ei"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "le-ai întemeiat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:05.470831906Z",
+  "model": "glm-5.3"
+}

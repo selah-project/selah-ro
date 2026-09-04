@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 34:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Căci voi dezmoșteni neamuri dinaintea ta și îți voi lărgi ⟨את⟩ hotarul, și nimeni nu va pofti ⟨את⟩ pământul tău când te vei sui să vezi ⟨את⟩ fața lui Yahve, Elohimul tău, de trei ori pe an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אוריש",
+      "gloss": "voi dezmoșteni"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamuri"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dinaintea ta"
+    },
+    {
+      "surface": "והרחבתי",
+      "gloss": "și îți voi lărgi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hotarul"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "hotarul"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יחמד",
+      "gloss": "va pofti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul tău"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "pământul tău"
+    },
+    {
+      "surface": "בעלתך",
+      "gloss": "când te vei sui"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "de trei"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ori"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pe an"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:49.182633355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Și a chemat Iosif ⟨את⟩ numele întâiului-născut Menașe, căci m-a făcut să uit Elohim ⟨את⟩ toată truda mea și ⟨את⟩ toată casa tatălui meu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "întâiului-născut"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menașe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "m-a făcut să uit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată truda mea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "truda mea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată casa tatălui meu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatălui meu"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:48.714162495Z",
+  "model": "glm-5.3"
+}

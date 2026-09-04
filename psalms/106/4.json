@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Adu-Ți aminte de mine, Yahve, la bunăvoința ⟨față de⟩ poporul Tău; cercetează-mă cu mântuirea Ta!",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Adu-Ți aminte de mine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "la bunăvoința"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul Tău"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "cercetează-mă"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "cu mântuirea Ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:45.425395363Z",
+  "model": "glm-5.3"
+}

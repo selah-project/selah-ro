@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "De la marginea cerurilor este ieșirea lui, și învârtirea lui până la marginile lor; și nu ⟨este nimic⟩ ascuns de căldura lui.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "de la marginea"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ieșirea lui"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "și învârtirea lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "până la"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "marginile lor"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ascuns"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "de căldura lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:55.454731006Z",
+  "model": "glm-5.3"
+}

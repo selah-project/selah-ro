@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Căci cum voi putea ⟨să⟩ privesc răul care va veni peste ⟨את⟩ poporul meu, și cum voi putea ⟨să⟩ privesc pieirea nașterii mele?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "cum"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "voi putea"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "și ⟨să⟩ privesc"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "va veni peste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "și cum"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "voi putea"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "și ⟨să⟩ privesc"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "pieirea"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "nașterii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:25.490094381Z",
+  "model": "glm-5.3"
+}

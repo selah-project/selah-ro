@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și au tăiat ⟨את⟩ capul lui și au dezbrăcat ⟨את⟩ armele lui și au trimis în țara Peliștim, împrejur, să vestească în casa idolilor lor și ⟨את⟩ poporului.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "și au tăiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capul lui"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "capul lui"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "și au dezbrăcat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armele lui"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "armele lui"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "și au trimis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliștim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "împrejur"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "să vestească"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "idolilor lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poporului"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:21.675375301Z",
+  "model": "glm-5.3"
+}

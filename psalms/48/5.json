@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Că iată regii s-au adunat, au trecut împreună.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "regii"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "s-au adunat"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:01.437670844Z",
+  "model": "glm-5.3"
+}

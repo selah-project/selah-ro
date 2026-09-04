@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a fost lui: femei, principese, șapte sute, și țiitoare trei sute; și femeile lui i-au abătut ⟨את⟩ inima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "femei"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "principese"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "și țiitoare"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "și au abătut"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "femeile lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima lui"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:49.942408559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Căruia să i se cânte, cu instrumente cu corzi, pe al optulea ⟨sunet⟩. Un mizmor al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Căruia să i se cânte"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "cu instrumente cu corzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "al optulea ⟨sunet⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:34.873792090Z",
+  "model": "glm-5.3"
+}

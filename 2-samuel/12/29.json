@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a adunat David ⟨את⟩ tot poporul și a mers la Raba, și a luptat împotriva ei și a cucerit-o.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Și a adunat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot poporul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "la Raba"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "și a luptat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "împotriva ei"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "și a cucerit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:32.950596494Z",
+  "model": "glm-5.3"
+}

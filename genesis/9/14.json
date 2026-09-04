@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și va fi: când aduc ⟨eu⟩ un nor peste pământ, și se va arăta arcul în nor,",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֕ה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "בְּעַֽנְנִ֥י",
+      "gloss": "când aduc ⟨eu⟩"
+    },
+    {
+      "surface": "עָנָ֖ן",
+      "gloss": "un nor"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "וְנִרְאֲתָ֥ה",
+      "gloss": "și se va arăta"
+    },
+    {
+      "surface": "הַקֶּ֖שֶׁת",
+      "gloss": "arcul"
+    },
+    {
+      "surface": "בֶּֽעָנָֽן",
+      "gloss": "în nor"
+    }
+  ],
+  "timestamp": "2026-09-04T10:05:56.598496942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Dă-ne nouă ajutor din strâmtorare, că deșartă ⟨este⟩ izbăvirea omului.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ajutor"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "din strâmtorare"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "și deșartă"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "izbăvirea"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:11.324630174Z",
+  "model": "glm-5.3"
+}

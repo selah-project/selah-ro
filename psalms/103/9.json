@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Nu pentru totdeauna se va certa, și nu pentru veșnie va ține mânia ⟨El⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "se va certa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pentru veșnie"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "va ține mânia"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:40.308506852Z",
+  "model": "glm-5.3"
+}

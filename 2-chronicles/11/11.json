@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a întărit ⟨את⟩ cetățile întărite și a pus în ele căpetenii și hambare de mâncare, de untdelemn și de vin.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Și a întărit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cetățile întărite"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "cetățile întărite"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "căpetenii"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "și hambare"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "de mâncare"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "de untdelemn"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "și de vin"
+    }
+  ],
+  "timestamp": "2026-09-04T08:22:43.279563638Z",
+  "model": "glm-5.3"
+}

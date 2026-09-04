@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Naște un nebun ⟨pentru⟩ amărăciunea lui, și nu se bucură tatăl unui nesocotit.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "naște"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "un nebun"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "pentru amărăciunea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se bucură"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "unui nesocotit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:31.260678341Z",
+  "model": "glm-5.3"
+}

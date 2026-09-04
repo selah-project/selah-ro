@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și pământul ⟨este⟩ pângărit sub locuitorii lui, căci au trecut peste torot, au schimbat hotărârea, au rupt legământul veșnic.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Și pământul"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "e pângărit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "locuitorii lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut peste"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torot"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "au schimbat"
+    },
+    {
+      "surface": "חק",
+      "gloss": "hotărârea"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "au rupt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământul"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnic"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:10.042048122Z",
+  "model": "glm-5.3"
+}

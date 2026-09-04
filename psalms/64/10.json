@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Și s-au temut toți oamenii și au vestit lucrarea lui Elohim, și fapta lui au cugetat-o înțelept.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "și s-au temut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "și au vestit"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "lucrarea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "și fapta lui"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "au cugetat-o înțelept"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:36.619443096Z",
+  "model": "glm-5.3"
+}

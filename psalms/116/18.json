@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Făgăduințele mele către Yahve le voi plăti, chiar acum, înaintea întregului său popor.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Făgăduințele mele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "le voi plăti"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chiar acum"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "întregului"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "popor al său"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:00.654186498Z",
+  "model": "glm-5.3"
+}

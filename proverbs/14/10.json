@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Inima cunoaște amărăciunea sufletului ei, și în bucuria ei nu se amestecă un străin.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Inima"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "amărăciunea"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sufletului ei"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "și în bucuria ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "se amestecă"
+    },
+    {
+      "surface": "זר",
+      "gloss": "un străin"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:05.770650449Z",
+  "model": "glm-5.3"
+}

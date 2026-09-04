@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și au stat gărzile, fiecare cu armele lui în mâna lui, de la umărul de sud al Casei până la umărul de nord al Casei, lângă altar și lângă Casă, în jurul regelui de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "Și au stat"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "gărzile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "cu armele lui"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "de la umărul"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Casei"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "de sud"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "umărul"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Casei"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "de nord"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "lângă altar"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "și lângă Casă"
+    },
+    {
+      "surface": "על",
+      "gloss": "în jurul"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:42.807196140Z",
+  "model": "glm-5.3"
+}

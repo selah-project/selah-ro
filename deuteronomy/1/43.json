@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și am vorbit către voi, și nu ați ascultat, și v-ați răzvrătit împotriva ⟨את⟩ gurii lui Yahve, și v-ați purtat cu trufie, și ați urcat în munte.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "și am vorbit"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "către voi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ați ascultat"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "și v-ați răzvrătit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gura"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "și v-ați purtat cu trufie"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "și ați urcat"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "muntele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:35.648451135Z",
+  "model": "glm-5.3"
+}

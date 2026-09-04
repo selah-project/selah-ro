@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Ascultă, poporul meu, și îți voi mărturisi: Israel, dacă mă vei asculta pe mine,",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascultă"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "și îți voi mărturisi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "vei asculta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pe mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:13.592698267Z",
+  "model": "glm-5.3"
+}

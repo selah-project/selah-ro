@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 23:24",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Iată, poporul ca o leoaică se ridică și ca un leu se ridică; nu se culcă până mănâncă prada și sângele celor străpunși îl bea.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "ca o leoaică"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se ridică"
+    },
+    {
+      "surface": "וכארי",
+      "gloss": "și ca un leu"
+    },
+    {
+      "surface": "יתנשא",
+      "gloss": "se ridică"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "se culcă"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mănâncă"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "prada"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "și sângele"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "celor străpunși"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "îl bea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:31.580739121Z",
+  "model": "glm-5.3"
+}

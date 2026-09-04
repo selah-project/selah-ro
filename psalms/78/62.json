@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "și a predat ⟨את⟩ poporul lui sabiei, și s-a mâniat împotriva moștenirii lui.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "și a predat"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "și împotriva moștenirii lui"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "s-a mâniat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:03.151809035Z",
+  "model": "glm-5.3"
+}

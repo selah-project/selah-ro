@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Întoarce-ne, Elohim al izbăvirii noastre, și anulează-ți mânia ta ⟨asupra⟩ noastră!",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Întoarce-ne"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "al izbăvirii noastre"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "și anulează"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "mânia ta"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "față de noi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:39.685095721Z",
+  "model": "glm-5.3"
+}

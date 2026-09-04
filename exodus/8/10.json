@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și le-au strâns în grămezi, grămezi după grămezi, și s-a împuțit pământul.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Și le-au strâns"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "grămezile"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "grămezi"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "grămezi"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "și s-a împuțit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:36.707006956Z",
+  "model": "glm-5.3"
+}

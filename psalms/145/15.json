@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Ochii tuturor către tine așteaptă, și tu le dai ⟨את⟩ hrana lor la vremea ei.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ochii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "așteaptă"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "dai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hrana lor"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hrana lor"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "la vremea ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:00.723872606Z",
+  "model": "glm-5.3"
+}

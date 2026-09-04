@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Pe ⟨את⟩ Yahve erau cu frică, și pe ⟨את⟩ dumnezeii lor îi slujeau, după rânduiala neamurilor care i-au strămutat ⟨את⟩ pe ei de acolo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "cu frică"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "dumnezeii lor"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dumnezeii lor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slujindu-i"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "după rânduiala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "au strămutat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:53.672759590Z",
+  "model": "glm-5.3"
+}

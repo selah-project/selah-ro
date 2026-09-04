@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Rău va fi lovit cel ce a mers chezaș pentru un străin, și cel ce urăște bătăile în palmă stă la adăpost.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "Rău"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "va fi lovit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "a mers chezaș"
+    },
+    {
+      "surface": "זר",
+      "gloss": "pentru un străin"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "și cel ce urăște"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "bătăilor în palmă"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "stă la adăpost"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:34.772396926Z",
+  "model": "glm-5.3"
+}

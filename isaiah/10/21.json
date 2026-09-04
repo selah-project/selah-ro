@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Rămășița se va întoarce, rămășița lui Iaacov, către El Gibor (El cel puternic).",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "Rămășița"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "se va întoarce"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "rămășița"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "Gibor (cel puternic)"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:55.149980125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "atunci vei auzi din ceruri ⟨את⟩ rugăciunea lor și ⟨את⟩ cererea lor și le vei face dreptatea.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "vei auzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rugăciunea lor"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "rugăciunea lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cererea lor"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "cererea lor"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și vei face"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "dreptatea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:18:59.269033082Z",
+  "model": "glm-5.3"
+}

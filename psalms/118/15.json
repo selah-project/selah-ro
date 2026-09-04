@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "Glas de strigăt de bucurie și de izbăvire ⟨este⟩ în corturile celor drepți: dreapta lui Yahve face vitejie.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "de strigăt de bucurie"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "și de izbăvire"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "în corturile"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "celor drepți"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dreapta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitejie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:47.670584053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 21:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și s-a sculat Avraham dis-de-dimineață și a luat pâine și un burduf de apă și a dat ⟨את⟩ Hagar — le-a pus pe umărul ei — și pe copil, și a trimis-o; și ea a plecat și s-a rătăcit în pustiul Beer-Șeva.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Și s-a sculat dis-de-dimineață"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "și un burduf"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de apă"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "umărul ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "copilul"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "וישלחה",
+      "gloss": "și a trimis-o"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "și ea a plecat"
+    },
+    {
+      "surface": "ותתע",
+      "gloss": "și s-a rătăcit"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiul"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:27.210207532Z",
+  "model": "glm-5.3"
+}

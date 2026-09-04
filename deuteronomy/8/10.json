@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Ve mânca și te vei sătura și Îl vei binecuvânta ⟨את⟩ Yahve Elohimul tău pentru pământul cel bun pe care ți l-a dat.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Ve mânca"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "și te vei sătura"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "și vei binecuvânta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "cel bun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ți l-a dat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:47.234728477Z",
+  "model": "glm-5.3"
+}

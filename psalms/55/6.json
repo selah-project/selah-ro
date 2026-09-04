@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Frica și tremurul vin în mine, și groaza mă acoperă.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "frica"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "și tremurul"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "și mă acoperă"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "groaza"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:33.624876430Z",
+  "model": "glm-5.3"
+}

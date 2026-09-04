@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a văzut regina Șevei ⟨את⟩ toată înțelepciunea lui Șelomo și casa pe care a zidit-o.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "regina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șevei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată înțelepciunea lui Șelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "și casa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a zidit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T03:14:03.104074433Z",
+  "model": "glm-5.3"
+}

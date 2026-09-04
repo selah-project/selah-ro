@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Tot ce găsește mâna ta să facă, fă după puterea ta; căci nu este faptă, nici socoteală, nici cunoștință, nici înțelepciune în Șeol, unde tu mergi acolo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "găsește"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "după puterea ta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "faptă"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "și socoteală"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "și cunoștință"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "și înțelepciune"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "în Șeol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:18.105496855Z",
+  "model": "glm-5.3"
+}

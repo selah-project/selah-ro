@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și i-a așezat ⟨את⟩ fața regelui Moabului, și au locuit cu el toate zilele cât a fost David în fortăreață.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Și i-a așezat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața regelui Moabului"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabului"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "și au locuit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "היות",
+      "gloss": "cât a fost"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "în fortăreață"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:47.915861874Z",
+  "model": "glm-5.3"
+}

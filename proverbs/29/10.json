@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Oamenii de sânge urăsc pe cel fără prihană, iar cei drepți îi caută viața.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "de sânge"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "urăsc"
+    },
+    {
+      "surface": "תם",
+      "gloss": "pe cel fără prihană"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "iar cei drepți"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "căută"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viața lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:57.542949975Z",
+  "model": "glm-5.3"
+}

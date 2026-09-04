@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Semnele noastre nu le-am văzut; nu mai ⟨este⟩ navi, și ⟨את⟩ noi nu ⟨este⟩ cine să știe până când.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "Semnele noastre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ noi",
+      "marks": "cine să știe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "să știe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מה",
+      "gloss": "când"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:24.236474379Z",
+  "model": "glm-5.3"
+}

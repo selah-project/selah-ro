@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și ⟨את⟩ iebusitul, și ⟨את⟩ emoritul, și ⟨את⟩ girgașitul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "iebusitul"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "iebusitul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "emoritul"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoritul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "girgașitul"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgașitul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:35.742228088Z",
+  "model": "glm-5.3"
+}

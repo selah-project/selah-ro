@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Căci nu este un cuvânt pe limba mea — iată, Yahve, îl cunoști pe tot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "un cuvânt"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "pe limba mea"
+    },
+    {
+      "surface": "הן",
+      "gloss": "iată"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "cunoști"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pe tot"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:36.501324285Z",
+  "model": "glm-5.3"
+}

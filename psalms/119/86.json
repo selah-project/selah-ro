@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Toate poruncile tale ⟨sunt⟩ credincioșie; cu minciună m-au urmărit — ajută-mă.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "credincioșie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "cu minciună"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "m-au urmărit"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ajută-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:56.735612631Z",
+  "model": "glm-5.3"
+}

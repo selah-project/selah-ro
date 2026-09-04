@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 127,
+  "translation": "Cântare a treptelor, a lui Șelomo. Dacă Yahve nu va zidi casa, în deșert s-au ostenit ziditorii ei în ea; dacă Yahve nu va păzi cetatea, în deșert a vegheat păzitorul.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a treptelor"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "a lui Șelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "va zidi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "în deșert"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "s-au ostenit"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "ziditorii ei"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "va păzi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "în deșert"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "a vegheat"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "păzitorul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:31.944864178Z",
+  "model": "glm-5.3"
+}

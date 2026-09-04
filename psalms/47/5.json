@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "A ales El pentru noi ⟨את⟩ moștenirea noastră, ⟨את⟩ mândria lui Iaacov, pe care a iubit-o. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "A ales"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moștenirea noastră"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "moștenirea noastră"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mândria lui Iaacov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mândria"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a iubit-o"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:07.429825943Z",
+  "model": "glm-5.3"
+}

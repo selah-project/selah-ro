@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a înțărcat-o ⟨את⟩ pe Lo-Ruhamah, și a rămas însărcinată și a născut un fiu.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "Și a înțărcat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "și a rămas însărcinată"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:12.261068904Z",
+  "model": "glm-5.3"
+}

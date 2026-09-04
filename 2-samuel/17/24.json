@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Iar David a venit la Mahanaim, iar Avșalom a trecut ⟨את⟩ Iordanul, el și tot omul Israelului cu el.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Iar David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "la Mahanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "iar Avșalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a trecut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordanul"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T03:02:16.402566658Z",
+  "model": "glm-5.3"
+}

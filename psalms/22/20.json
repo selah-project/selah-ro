@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iar tu, Yahve, nu te depărta; puterea mea, în ajutorul meu grăbește.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "te depărta"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "în ajutorul meu"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "grăbește"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:39.193004151Z",
+  "model": "glm-5.3"
+}

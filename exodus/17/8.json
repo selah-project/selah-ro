@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a venit Amalek și s-a luptat cu Israel la Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "și s-a luptat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "la Refidim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:41.458572315Z",
+  "model": "glm-5.3"
+}

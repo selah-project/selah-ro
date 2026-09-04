@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a spus Paro: Iată, poporul țării ⟨este⟩ acum mulțime, și voi îi faceți să înceteze ⟨את⟩ din poverile lor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mulțime"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "și voi faceți să înceteze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "din poverile lor"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "din poverile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:43.089557408Z",
+  "model": "glm-5.3"
+}

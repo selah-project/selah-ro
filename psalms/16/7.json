@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Îl binecuvântez ⟨את⟩ Yahve, care m-a sfătuit; chiar și nopțile mă învață rinichii mei.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Îl binecuvântez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "m-a sfătuit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nopțile"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "mă învață"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "rinichii mei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:26.779914958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a mers regele la Gibeon să jertfească acolo, căci aceea era înălțimea cea mare; o mie de arderi-de-tot a ridicat Șelomo pe altarul acela.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "la Gibeon"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "să jertfească"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "înălțimea"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "o mie"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "de arderi-de-tot"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "a ridicat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:21.963445741Z",
+  "model": "glm-5.3"
+}

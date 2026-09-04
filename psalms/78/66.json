@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și a lovit înapoi pe vrăjmașii lui, ocară veșnică le-a dat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Și a lovit"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "pe vrăjmașii lui"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "înapoi"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ocară"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnică"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "למו",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:14.190380170Z",
+  "model": "glm-5.3"
+}

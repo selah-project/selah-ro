@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Păzește tu ⟨את⟩ ceea ce eu îți poruncesc azi: iată, eu alung dinaintea ta ⟨את⟩ haemorițeanul, și hachenaanițeanul, și hahițeanul, și haprizeanul, și hahițianul, și haievuseanul.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce eu îți poruncesc azi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "îți poruncesc"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "alung"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dinaintea ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haemorițeanul"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "haemorițeanul"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "și hachenaanițeanul"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "și hahițeanul"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "și haprizeanul"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "și hahițianul"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "și haievuseanul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:45:08.493792319Z",
+  "model": "glm-5.3"
+}

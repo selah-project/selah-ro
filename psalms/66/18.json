@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Nelegiuire, dacă am privit-o în inima mea, Adonai nu va auzi.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am privit"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "în inima mea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "va auzi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:35.063503362Z",
+  "model": "glm-5.3"
+}

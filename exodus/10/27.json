@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a întărit Yahve ⟨את⟩ inima lui Paro, și nu a voit să-i trimită.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Și a întărit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a voit"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "să-i trimită"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:12.977455078Z",
+  "model": "glm-5.3"
+}

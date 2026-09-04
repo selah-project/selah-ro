@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Un ceas de a plânge și un ceas de a râde; un ceas de a jeli și un ceas de a juca.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Un ceas"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "de a plânge"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un ceas"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "de a râde"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un ceas"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "de a jeli"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și un ceas"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "de a juca"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:06.692390009Z",
+  "model": "glm-5.3"
+}

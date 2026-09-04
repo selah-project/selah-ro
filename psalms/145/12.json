@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "ca să facă cunoscut fiilor omului puterile lui și slava măreției împărăției lui.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "ca să facă cunoscut"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "puterile lui"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "și slava"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "măreției"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "împărăției lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:56.726640182Z",
+  "model": "glm-5.3"
+}

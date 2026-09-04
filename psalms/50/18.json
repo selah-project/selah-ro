@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Dacă ai văzut un hoț, ai alergat cu el, și cu preadesfrânații este partea ta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ai văzut"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "un hoț"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ai alergat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "predesfrânații"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "partea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:53.666478901Z",
+  "model": "glm-5.3"
+}

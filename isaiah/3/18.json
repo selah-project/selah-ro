@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "În ziua aceea va îndepărta Adonai ⟨את⟩ podoaba clopoțeilor de la picioare, și pe șnururi, și pe semilune.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "va îndepărta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podoaba"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "podoaba"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "clopoțeii de la picioare"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "și pe șnururi"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "și pe semilune"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:37.008681911Z",
+  "model": "glm-5.3"
+}

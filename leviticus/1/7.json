@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și vor pune fiii lui Aharon, cohenul, foc pe altar, și vor așeza lemne pe foc.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "și vor pune"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "și vor așeza"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lemne"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "האש",
+      "gloss": "focul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:32.707103496Z",
+  "model": "glm-5.3"
+}

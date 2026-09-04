@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Cel care prădează pe tată și pune pe fugă pe mamă — fiu care aduce rușine și aduce ocară.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "Cel care prădează"
+    },
+    {
+      "surface": "אב",
+      "gloss": "pe tată"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "pune pe fugă"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pe mamă"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "care aduce rușine"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "și aduce ocară"
+    }
+  ],
+  "timestamp": "2026-09-04T05:22:56.153072610Z",
+  "model": "glm-5.3"
+}

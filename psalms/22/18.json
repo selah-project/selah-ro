@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Pot număra toate oasele mele; ei privesc și se uită la mine.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Pot număra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "oasele mele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "privesc"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "se uită"
+    },
+    {
+      "surface": "בי",
+      "gloss": "la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:39.192703111Z",
+  "model": "glm-5.3"
+}

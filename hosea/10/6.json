@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Chiar ⟨את⟩ el spre Așur va fi dus, tribut pentru regele Iarev; rușinea va lua pe Efraim, și Israel se va rușina de sfatul lui.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Chiar"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "el (vițelul), dus spre Așur"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "spre Așur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "va fi dus"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tribut"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pentru regele"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Iarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "rușinea"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "pe Efraim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va lua"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "și se va rușina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "de sfatul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:07.914896738Z",
+  "model": "glm-5.3"
+}

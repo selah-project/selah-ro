@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Pe sfeșnicul cel curat va rândui ⟨את⟩ luminile, înaintea lui Yahve, neîncetat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sfeșnicul"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "cel curat"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "va rândui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luminile"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "luminile"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:47.307753542Z",
+  "model": "glm-5.3"
+}

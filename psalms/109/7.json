@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "La judecarea lui să iasă vinovat, și rugăciunea lui să fie drept păcat.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "La judecarea lui"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "să iasă"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "vinovat"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "și rugăciunea lui"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "drept păcat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:53.984563497Z",
+  "model": "glm-5.3"
+}

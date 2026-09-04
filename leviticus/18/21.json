@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și din sămânța ta să nu dai s-o treci lui Moleh, și să nu profanezi ⟨את⟩ numele lui Elohim, al tău; eu ⟨sunt⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "וּמִֽזַּרְעֲךָ֥",
+      "gloss": "Și din sămânța ta"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תִּתֵּ֖ן",
+      "gloss": "vei da"
+    },
+    {
+      "surface": "לְהַעֲבִ֣יר",
+      "gloss": "s-o treci"
+    },
+    {
+      "surface": "לַמֹּ֑לֶךְ",
+      "gloss": "lui Moleh"
+    },
+    {
+      "surface": "וְלֹ֧א",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תְחַלֵּ֛ל",
+      "gloss": "profanezi"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "numele"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "lui Elohim, al tău"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:31.775672969Z",
+  "model": "glm-5.3"
+}

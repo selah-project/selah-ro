@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Ziua aceea să fie întuneric; să nu-l caute Eloa de sus și să nu lumineze peste el lumină.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întuneric"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "îl caute"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "de sus"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "lumineze"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "lumină"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:45.180897496Z",
+  "model": "glm-5.3"
+}

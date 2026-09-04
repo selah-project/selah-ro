@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "și a zis: Ah, Yahve, adu-ți aminte, te rog, ⟨את⟩ cum am umblat înaintea ta în adevăr și cu inimă întreagă, și ce este bine în ochii tăi am făcut; și a plâns Hizkiahu cu plâns mare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "adu-ți aminte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cum am umblat înaintea ta în adevăr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "am umblat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "în adevăr"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "și cu inimă"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "întreagă"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "și ce este bine"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "și a plâns"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "cu plâns"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:07.814592695Z",
+  "model": "glm-5.3"
+}

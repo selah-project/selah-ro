@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Tu ai zdrobit, ca pe un om mort, Rahav; cu brațul puterii tale i-ai risipit pe vrăjmașii tăi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "ai zdrobit"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "ca pe un om mort"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "cu brațul"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "puterii tale"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "ai risipit"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vrăjmașii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:05.470598617Z",
+  "model": "glm-5.3"
+}

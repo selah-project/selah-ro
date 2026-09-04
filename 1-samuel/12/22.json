@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Căci nu va părăsi Yahve ⟨את⟩ poporul lui, pentru numele lui cel mare, căci a binevoit Yahve să vă facă ⟨את⟩ pe voi lui popor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "va părăsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul lui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "cel mare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "a binevoit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "popor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:56.179410150Z",
+  "model": "glm-5.3"
+}

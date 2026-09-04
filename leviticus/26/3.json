@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Dacă în rânduielile mele veți merge, și ⟨את⟩ poruncile mele veți păzi și le veți face,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "în rânduielile mele"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "veți merge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poruncile mele"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "poruncile mele"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "veți păzi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "și veți face"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:18.467815702Z",
+  "model": "glm-5.3"
+}

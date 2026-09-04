@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "Pentru David, slujitorul tău, să nu întorci fața Mașiahului tău.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Pentru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "întorci"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mașiahului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:33.189385006Z",
+  "model": "glm-5.3"
+}

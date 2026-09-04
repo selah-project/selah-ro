@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și Iehoahaz a îmblânzit fața lui Yahve, și Yahve l-a ascultat, căci a văzut ⟨את⟩ strâmtorarea lui Israel — căci îi strâmtora pe ei regele Aramului.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "și a îmblânzit"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Iehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "și l-a ascultat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "strâmtorarea"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "strâmtorarea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "strâmtora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:22:04.876603112Z",
+  "model": "glm-5.3"
+}

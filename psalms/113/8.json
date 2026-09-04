@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 113,
+  "translation": "ca să-l așeze cu cei mari, cu cei mari ai poporului lui.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "ca să-l așeze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "cei mari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "cei mari"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ai poporului lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:39:57.033300865Z",
+  "model": "glm-5.3"
+}

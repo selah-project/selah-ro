@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și un om, dacă va sfini ⟨את⟩ casa lui, lucru sfânt lui Yahve, atunci cohenul îl va evalua, fie bun, fie rău; cum va evalua cohenul ⟨את⟩ el, așa va rămâne.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "va sfini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "lucru sfânt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "atunci îl va evalua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "בין",
+      "gloss": "fie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "fie"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "va evalua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "cohenul"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "va rămâne"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:22.811002757Z",
+  "model": "glm-5.3"
+}

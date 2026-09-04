@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "și te vei întoarce până la Yahve, Elohim al tău, și vei asculta de glasul lui, după tot ce îți poruncesc eu astăzi, tu și fiii tăi, cu toată inima ta și cu tot sufletul tău,",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "te vei întoarce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "vei asculta"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "de glasul lui"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "îți poruncesc"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "și fiii tăi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "inima ta"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și cu tot"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sufletul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:11.577777346Z",
+  "model": "glm-5.3"
+}

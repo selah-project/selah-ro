@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "De hesedul tău, Yahve, este plină pământul; învăță-mi hotarele tale.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "De hesedul tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "este plină"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotarele tale"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "învăță-mi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:19.687401014Z",
+  "model": "glm-5.3"
+}

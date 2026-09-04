@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Căci stelele cerurilor și constelațiile lor nu își vor da lumina lor; s-a întunecat soarele la ieșirea lui, și luna nu își va aprinde lumina ei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "stelele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "și constelațiile lor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "își vor da"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "lumina"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "s-a întunecat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "la ieșirea lui"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "și luna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "va aprinde"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "lumina ei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:50.650140873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și Avșalom și tot poporul, oamenii lui Israel, au venit ⟨în⟩ Ierușalaim, și Ahitofel cu ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Și Avșalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "și Ahitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el",
+      "marks": "Ahitofel"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:22.808834462Z",
+  "model": "glm-5.3"
+}

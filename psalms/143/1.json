@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Un mizmor al lui David. Yahve, auzi rugăciunea mea, ascultă cererile mele; în credincioșia ta răspunde-mi, în dreptatea ta.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "auzi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ascultă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨spre⟩"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "cererile mele"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "în credincioșia ta"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "răspunde-mi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "în dreptatea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:51.600476045Z",
+  "model": "glm-5.3"
+}

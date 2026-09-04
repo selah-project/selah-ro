@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "și se vor închide ușile spre piață, când se face jos sunetul morii, și te sculi la glasul păsării, și se pleacă toate fiicele cântului —",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "și se vor închide"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ușile"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "spre piață"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "când se face jos"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sunetul"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "morii"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "și te scoli"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "la glasul"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "păsării"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "și se pleacă"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiicele"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "cântului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:32.902674435Z",
+  "model": "glm-5.3"
+}

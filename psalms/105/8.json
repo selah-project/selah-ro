@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Și-a amintit pe vecie legământul lui, cuvântul pe care l-a poruncit ⟨pentru⟩ o mie de generații",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "și-a amintit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "legământul lui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cuvânt"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "l-a poruncit"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "⟨pentru⟩ o mie"
+    },
+    {
+      "surface": "דור",
+      "gloss": "de generații"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:39.403661182Z",
+  "model": "glm-5.3"
+}

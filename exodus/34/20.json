@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 34:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și întâiul asinului îl vei răscumpăra cu un miel, iar dacă nu-l vei răscumpăra, îi vei frânge gâtul; pe tot întâiul-născut al fiilor tăi îl vei răscumpăra; și să nu se arate nimeni înaintea feței mele cu mâinile goale.",
+  "tokens": [
+    {
+      "surface": "ופטר",
+      "gloss": "și întâiul"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asinului"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "vei răscumpăra"
+    },
+    {
+      "surface": "בשה",
+      "gloss": "cu un miel"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "vei răscumpăra"
+    },
+    {
+      "surface": "וערפתו",
+      "gloss": "îi vei frânge gâtul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "întâiul-născut"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "al fiilor tăi"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "vei răscumpăra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "se arate"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "cu mâinile goale"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:45.931218778Z",
+  "model": "glm-5.3"
+}

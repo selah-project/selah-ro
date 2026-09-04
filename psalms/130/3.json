@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 130,
+  "translation": "Dacă nelegiuiri vei păzi, Ya — Adonai, cine va sta ⟨în picioare⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "nelegiuiri"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "vei păzi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "va sta ⟨în picioare⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:18.484113557Z",
+  "model": "glm-5.3"
+}

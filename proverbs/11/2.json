@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Vine trufia, și vine rușinea, iar cu ⟨את⟩ celor smeriți ⟨este⟩ înțelepciunea.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Vine"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "trufia"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și vine"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "rușinea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cu ⟨את⟩",
+      "marks": "celor smeriți"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "celor smeriți"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:21.072816164Z",
+  "model": "glm-5.3"
+}

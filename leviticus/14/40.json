@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și va porunci cohanul, și vor scoate ⟨את⟩ pietrele în care este rana, și le vor arunca ⟨את⟩ afară de cetate, la un loc necurat.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "și va porunci"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohanul"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "și vor scoate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pietrele"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "pietrele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "este"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "și le vor arunca"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ pe ele",
+      "marks": "pietrele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "afară"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "de"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "cetate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un loc"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:30.705173225Z",
+  "model": "glm-5.3"
+}

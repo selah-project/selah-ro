@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Întoarce-te, Israel, până la Yahve, Elohim al tău, căci ai poticnit în vina ta.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Întoarce-te"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "ai poticnit"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "în vina ta"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:44.039325080Z",
+  "model": "glm-5.3"
+}

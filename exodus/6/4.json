@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și chiar am ridicat legământul meu ⟨את⟩ cu ei ⟨את⟩, ca să le dau ⟨את⟩ țara Chenaan, ⟨את⟩ țarea peregrinărilor lor, în care au peregrinat.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și chiar"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "am ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "cu ei"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ca să le dau"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara Chenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țarea peregrinărilor lor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "peregrinărilor lor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "au peregrinat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:34.981960104Z",
+  "model": "glm-5.3"
+}

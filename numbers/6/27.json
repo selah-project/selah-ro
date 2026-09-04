@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și să pună ⟨את⟩ numele meu peste fiii lui Israel, și eu îi voi binecuvânta.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "și să pună"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele meu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "numele meu"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "și eu"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "îi voi binecuvânta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:43:15.902404612Z",
+  "model": "glm-5.3"
+}

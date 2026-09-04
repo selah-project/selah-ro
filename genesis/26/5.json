@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Pentru că a ascultat Avraham de glasul meu și a păzit paza mea, poruncile mele, rânduielile mele și Torele mele.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Pentru că"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a ascultat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "de glasul meu"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "și a păzit"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "paza mea"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "poruncile mele"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "rânduielile mele"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "și Torele mele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:06.452713767Z",
+  "model": "glm-5.3"
+}

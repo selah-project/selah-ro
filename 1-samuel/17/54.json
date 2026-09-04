@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a luat David ⟨את⟩ capul filisteanului și l-a dus la Ierușalaim, iar ⟨את⟩ armele lui le-a pus în cortul său.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capul"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteanului"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "și l-a dus"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Ierușalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "armele lui"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "armele lui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a pus"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "în cortul său"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:14.131728497Z",
+  "model": "glm-5.3"
+}

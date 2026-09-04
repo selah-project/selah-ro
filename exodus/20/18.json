@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și tot poporul vedea ⟨את⟩ glasurile și ⟨את⟩ flăcările și ⟨את⟩ glasul șofarului și ⟨את⟩ muntele fumegând; și a văzut poporul, și s-au cutremurat, și au stat ⟨departe⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Și tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "vedeau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasurile"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "glasurile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "flăcările"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "flăcările"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "glasul șofarului"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "șofarului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "muntele"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "fumegând"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "și s-au cutremurat"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "și au stat"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "departe"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:04.523816718Z",
+  "model": "glm-5.3"
+}

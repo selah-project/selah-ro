@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a părăsit sfatul bătrânilor care l-au sfătuit, și s-a sfătuit ⟨את⟩ tinerii care au crescut cu ⟨את⟩ el, cei stând înaintea lui.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Și a părăsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfatul"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "sfatul"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bătrânilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "l-au sfătuit"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "și s-a sfătuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinerii"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "tinerii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "au crescut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el",
+      "marks": "cu el"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "cei stând"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "înaintea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:21:46.203622774Z",
+  "model": "glm-5.3"
+}

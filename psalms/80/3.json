@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Înaintea lui Efraim și a lui Binyamin și a lui Menașe trezește-ți puterea și vino ⟨spre⟩ mântuirea noastră.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Înaintea"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "lui Efraim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "și a lui Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "și a lui Menașe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "trezește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puterea ta"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "puterea ta"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "și vino"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "⟨spre⟩ mântuirea"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:56.014927458Z",
+  "model": "glm-5.3"
+}

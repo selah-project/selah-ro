@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 27:11",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și dacă tatălui lui nu are frați, să dați ⟨את⟩ moștenirea lui rudeniului lui celui apropiat de el, din clanul lui, și să o moștenească ⟨את⟩ el; și aceasta va fi fiilor lui Israel lege de judecată, cum a poruncit Yahve ⟨את⟩ Moșe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu are"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "frați"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "tatălui lui"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "să dați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moștenirea lui"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "moștenirea lui"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "rudeniului lui"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "celui apropiat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "ממשפחתו",
+      "gloss": "din clanul lui"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "și să moștenească"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ el",
+      "marks": "moștenirea"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "și va fi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "lege de"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecată"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T01:54:12.206599131Z",
+  "model": "glm-5.3"
+}

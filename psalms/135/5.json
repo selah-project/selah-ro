@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 135,
+  "translation": "Căci eu știu că mare ⟨este⟩ Yahve, și Adonai al nostru ⟨este⟩ mai presus de toți dumnezeii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "și Adonai al nostru"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mai presus de toți"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezeii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:08.444425279Z",
+  "model": "glm-5.3"
+}

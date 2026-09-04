@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Iubiți ⟨את⟩ Yahve, toți cei evlavioși ai lui! Cei fideli îi păzește Yahve și răsplătește peste măsură pe cel ce face trufie.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Iubiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "cei evlavioși ai lui"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "Cei fideli"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "păzește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "și răsplătește"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "peste măsură"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pe cel ce face"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "trufie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:38.185403417Z",
+  "model": "glm-5.3"
+}

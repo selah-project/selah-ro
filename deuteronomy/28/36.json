@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Te va duce Yahve ⟨את⟩ tine și ⟨את⟩ pe regele tău, pe care îl vei pune peste tine, la un neam pe care nu l-ai cunoscut nici tu, nici părinții tăi, și vei sluji acolo altor dumnezei, lemn și piatră.",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "Te va duce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe regele tău"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "pe regele tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "vei pune"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "peste tine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "un neam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "l-ai cunoscut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nici tu"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "nici părinții tăi"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "și vei sluji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altori"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lemn"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "și piatră"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:28.752565230Z",
+  "model": "glm-5.3"
+}

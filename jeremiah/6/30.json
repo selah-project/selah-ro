@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Argint lepădat li s-a strigat, căci Yahve i-a lepădat.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "lepădat"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "s-a strigat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "a lepădat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i-"
+    }
+  ],
+  "timestamp": "2026-09-04T03:58:34.711335334Z",
+  "model": "glm-5.3"
+}

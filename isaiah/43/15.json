@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Eu ⟨sunt⟩ Yahve, Sfântul vostru, Creatorul lui Israel, Împăratul vostru.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Sfântul vostru"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Creatorul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Împăratul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:24.663620476Z",
+  "model": "glm-5.3"
+}

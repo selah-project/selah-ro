@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și a mustrat marea de stuf și s-a uscat, și i-a povățuit prin adâncuri ca printr-un pustiu.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "și a mustrat"
+    },
+    {
+      "surface": "בים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de stuf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "și s-a uscat"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "și i-a povățuit"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "prin adâncuri"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ca printr-un pustiu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:53.192422238Z",
+  "model": "glm-5.3"
+}

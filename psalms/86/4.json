@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Veselește ⟨sufletul⟩ slujitorului tău, căci către tine, Adonai, ⟨sufletul⟩ meu îl înalț.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "veselește"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨sufletul⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorului tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨sufletul⟩ meu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "îl înalț"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:04.074146553Z",
+  "model": "glm-5.3"
+}

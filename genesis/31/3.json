@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a spus Yahve către Iaacov: Întoarce-te în țara părinților tăi și la locul nașterii tale, și Eu voi fi cu tine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Întoarce-te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "părinților tăi"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "și la locul nașterii tale"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "și Eu voi fi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:22.482261019Z",
+  "model": "glm-5.3"
+}

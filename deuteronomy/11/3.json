@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ semnele lui și ⟨את⟩ lucrările lui pe care le-a făcut în mijlocul Mițraim, lui Paro, regele Mițraim, și la toată ținutul lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "semnele lui"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "semnele lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lucrările lui"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "lucrările lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "le-a făcut"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "și la tot"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ținutul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:37.238697137Z",
+  "model": "glm-5.3"
+}

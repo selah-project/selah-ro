@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "Căci mânia omului te va lăuda; rămășița mâniei Tu o încingi ⟨asupra ta⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "te va lăuda"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "rămășița"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "a mâniei"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "o încingi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:05.445212903Z",
+  "model": "glm-5.3"
+}

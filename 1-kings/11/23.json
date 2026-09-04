@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a ridicat Elohim lui ⟨un⟩ satan: ⟨את⟩ Rezon, fiul lui Eliada, care a fugit de la ⟨את⟩ stăpânul lui, Hadad-Ezer, regele Țovei.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și a ridicat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "lui Eliada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "a fugit"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad-Ezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Țovei"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "stăpânul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:09.002252616Z",
+  "model": "glm-5.3"
+}

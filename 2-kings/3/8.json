@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a zis: Care ⟨este⟩ drumul acesta să suim? Și a zis: Drumul pustiei lui Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Care"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "drumul"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "să suim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Drumul"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustiei"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "lui Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T03:23:37.375403894Z",
+  "model": "glm-5.3"
+}

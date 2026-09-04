@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "În anul douăzeci și șase al lui Asa, regele lui Iehuda, a domnit Ela, fiul lui Bașa, peste Israel, la Tița, doi ani.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "În anul"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "și șase"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "al lui Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a domnit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "lui Bașa"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "la Tița"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "doi ani"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:45.498073253Z",
+  "model": "glm-5.3"
+}

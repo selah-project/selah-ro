@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Căci picioarele lor la rău aleargă și se grăbesc să verse sânge",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "picioarele lor"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "la rău"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "aleargă"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "și se grăbesc"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "să verse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sânge"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:28.159574387Z",
+  "model": "glm-5.3"
+}

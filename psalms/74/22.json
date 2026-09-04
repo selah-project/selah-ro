@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Ridică-te, Elohim, apără pricina ta, pricina ta; adu-ți aminte ocara ta din partea nebunului, toată ziua.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ridică-te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "apără"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "pricina ta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "adu-ți aminte"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ocara ta"
+    },
+    {
+      "surface": "מני",
+      "gloss": "din partea"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebunului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:18.466839075Z",
+  "model": "glm-5.3"
+}

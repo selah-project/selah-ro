@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Și limba mea toată ziua va rosti dreptatea ta, că s-au rușinat, că s-au acoperit de rușine cei ce îmi caută răul.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Și"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "limba mea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "va rosti"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "dreptatea ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "s-au rușinat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "s-au acoperit de rușine"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "cei ce îmi caută"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "răul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:16.566846185Z",
+  "model": "glm-5.3"
+}

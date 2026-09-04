@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "Când ai făcut lucruri înfricoșătoare pe care nu le așteptam — ai coborât, de la fața ta munții s-au topit.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "Când ai făcut"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "lucruri înfricoșătoare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "le așteptam"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "ai coborât"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "de la fața ta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "s-au topit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:32.536207709Z",
+  "model": "glm-5.3"
+}

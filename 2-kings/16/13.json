@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a ars ⟨את⟩ arderea lui de tot și ⟨את⟩ darul lui de mâncare, și a turnat ⟨את⟩ libațiunea lui, și a stropit ⟨את⟩ sângele jertfelor de pace care erau ale lui, pe altar.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "și a ars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea lui de tot"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "arderea lui de tot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "darul lui de mâncare"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "darul lui de mâncare"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "și a turnat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libațiunea lui"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "libațiunea lui"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "și a stropit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sângele"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "jertfelor de pace"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לו",
+      "gloss": "erau ale lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:53.851026624Z",
+  "model": "glm-5.3"
+}

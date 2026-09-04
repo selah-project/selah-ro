@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Voi, mergeți, luați-vă paie din ce găsiți, căci nu se scade nimic din munca voastră — niciun lucru.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mergeți"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "luați"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vă"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "paie"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "din ce"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "găsiți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "se scade"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "din munca voastră"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lucru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:38.586407662Z",
+  "model": "glm-5.3"
+}

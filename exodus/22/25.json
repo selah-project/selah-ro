@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă, luând zălog, iei haina aproapelui tău, până la apusul soarelui i-o vei înapoia lui.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "luând zălog"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "iei zălog"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "haina"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "aproapelui tău"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "בא",
+      "gloss": "apusul"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarelui"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "i-o vei înapoia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:54.697332415Z",
+  "model": "glm-5.3"
+}

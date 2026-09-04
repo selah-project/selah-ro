@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și s-a bucurat tot poporul țării, iar cetatea s-a liniștit; și ⟨את⟩ Atalia au omorât-o cu sabia.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Și s-a bucurat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "iar cetatea"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "s-a liniștit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Atalia"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "au omorât-o"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "cu sabia"
+    }
+  ],
+  "timestamp": "2026-09-04T08:22:33.162107993Z",
+  "model": "glm-5.3"
+}

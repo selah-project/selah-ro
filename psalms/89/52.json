@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "cu care te-au ocarât dușmanii tăi, Yahve, cu care au ocarât urmele picioarelor lui Mașiah (unsul) tău.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "te-au ocarât"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dușmanii tăi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "au ocarât"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "urmele picioarelor"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "lui Mașiah (unsul) tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:30.616798025Z",
+  "model": "glm-5.3"
+}

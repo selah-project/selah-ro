@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iar dacă nu veți asculta ⟨את⟩ cuvintele acestea, pe Mine M-am jurat, zice Yahve, că spre ruină va fi casa aceasta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "veți asculta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele acestea"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pe Mine"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "M-am jurat"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "zice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "spre ruină"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T09:02:01.338451646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a auzit Yahve ⟨את⟩ vocea cuvintelor voastre, și s-a mâniat, și s-a jurat, zicând:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vocea"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vocea"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "cuvintelor voastre"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "și s-a mâniat"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "și s-a jurat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:32.482533976Z",
+  "model": "glm-5.3"
+}

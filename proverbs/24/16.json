@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Căci de șapte ori cade cel drept și se ridică, dar cei răi se poticnesc în rău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "de șapte ori"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cade"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "și se ridică"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "dar cei răi"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "se poticnesc"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "în rău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:52.514532513Z",
+  "model": "glm-5.3"
+}

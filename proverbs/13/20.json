@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Cel care umblă ⟨את⟩ înțelepților devine înțelept, iar cel care paște nesăbuiți va suferi rău.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Cel care umblă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "înțelepților"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "înțelepților"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "devine înțelept"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "iar cel care paște"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nesăbuiți"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "va suferi rău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:24.612006287Z",
+  "model": "glm-5.3"
+}

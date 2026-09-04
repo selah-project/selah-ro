@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Căci a răscumpărat Yahve ⟨את⟩ Iaacov și l-a izbăvit din mâna celui mai puternic decât el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "a răscumpărat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "și l-a izbăvit"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "celui puternic"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "decât el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:08:56.760416264Z",
+  "model": "glm-5.3"
+}

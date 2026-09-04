@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Se va bucura cel drept când va vedea răzbunarea; își va spăla pașii în sângele celui rău.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "se va bucura"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "va vedea"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "răzbunarea"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "pașii săi"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "va spăla"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "în sângele"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "celui rău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:50.503400426Z",
+  "model": "glm-5.3"
+}

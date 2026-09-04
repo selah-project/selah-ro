@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 2:45",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și regele Șelomo ⟨este⟩ binecuvântat, și tronul lui David va fi întărit înaintea lui Yahve până în veac.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Și regele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "binecuvântat"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "și tronul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "întărit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:36.508187633Z",
+  "model": "glm-5.3"
+}

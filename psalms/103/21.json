@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Binecuvântați-l pe Yahve, toate oștirile lui, slujitorii lui, făcătorii voii lui!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Binecuvântați"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "oștirile lui"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "slujitorii lui"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "făcătorii"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "voii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:31.941743713Z",
+  "model": "glm-5.3"
+}

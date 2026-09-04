@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Căci a spus Iov: „Sunt drept, dar El a îndepărtat dreptatea mea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "sunt drept"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dar El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a îndepărtat"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dreptatea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:09:01.495644563Z",
+  "model": "glm-5.3"
+}

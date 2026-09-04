@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Iar eu sunt sărac și durut: izbăvirea ta, Elohim, mă va înălța.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărac"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "și durut"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "izbăvirea ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "mă va înălța"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:26.861877397Z",
+  "model": "glm-5.3"
+}

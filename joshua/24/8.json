@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și v-am adus ⟨את⟩ pe voi în țara Emoritului, care locuia dincolo de Iarden, și s-au luptat cu ⟨את⟩ voi, și i-am dat ⟨את⟩ pe ei în mâna voastră, și ați moștenit ⟨את⟩ țara lor, și i-am nimicit dinaintea voastră.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "Și v-am adus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "în țara Emoritului"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a Emoritului"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "care locuia"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "dincolo de"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iarden"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "și s-au luptat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "cu ⟨את⟩ voi"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "și i-am dat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "în mâna voastră"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "în mâna voastră"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "și ați moștenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara lor"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "țara lor"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "și i-am nimicit"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dinaintea voastră"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:39.393246375Z",
+  "model": "glm-5.3"
+}

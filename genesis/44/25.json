@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Și a spus tatăl nostru: Întoarceți-vă, cumpărați-ne puțină hrană.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "tatăl nostru"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Întoarceți-vă"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "cumpărați"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțină"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrană"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:26.858415594Z",
+  "model": "glm-5.3"
+}

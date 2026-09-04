@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Nu te teme, căci cu ⟨את⟩ tine ⟨sunt⟩ eu; de la răsărit voi aduce sămânța ta, iar de la apus te voi aduna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te teme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu ⟨את⟩ tine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "de la răsărit"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "voi aduce"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sămânța ta"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "iar de la apus"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "te voi aduna"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:04.155227931Z",
+  "model": "glm-5.3"
+}

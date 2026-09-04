@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Nu privi vinul când se înroșește, când își dă în pahar culoarea, când alunecă pe neted.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "privi"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "se înroșește"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "își dă"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "în pahar"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "culoarea lui"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "alunecă"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "pe neted"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:18.081064953Z",
+  "model": "glm-5.3"
+}

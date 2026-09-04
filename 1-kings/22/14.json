@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a zis Mihaiahu: Viu este Yahve, că ⟨את⟩ ceea ce îmi va spune Yahve, pe aceea voi vorbi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mihaiahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Viu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce îmi va spune Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "va spune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pe aceea"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "voi vorbi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:21:59.947817061Z",
+  "model": "glm-5.3"
+}

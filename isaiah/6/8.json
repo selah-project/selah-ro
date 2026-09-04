@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și am auzit ⟨את⟩ glasul lui Adonai spunând: ⟨את⟩ pe cine să trimit, și cine va merge pentru noi? Și am spus: Iată-mă, trimite-mă!",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Și am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "lui Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spunând"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pe cine"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "să trimit"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "și cine"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "va merge"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Și am spus"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Iată-mă"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "trimite-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:25:10.378798282Z",
+  "model": "glm-5.3"
+}

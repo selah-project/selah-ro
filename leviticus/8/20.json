@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Iar ⟨את⟩ berbecul l-a tăiat în bucăți, și a făcut să se ridice fum Moșe ⟨את⟩ capul, și ⟨את⟩ bucățile, și ⟨את⟩ grăsimea.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iar ⟨את⟩",
+      "marks": "berbecul"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbecul"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "l-a tăiat în bucăți"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "în bucățile lui"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "și a făcut să se ridice fum"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capul"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bucățile"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "bucățile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "grăsimea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:58.053409650Z",
+  "model": "glm-5.3"
+}

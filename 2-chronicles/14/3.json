@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a spus lui Iehuda să caute ⟨את⟩ pe Yahve, Elohim al părinților lor, și să facă Tora și porunca.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "să caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "și să facă"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "și porunca"
+    }
+  ],
+  "timestamp": "2026-09-04T09:16:31.542968943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și toate fântânile pe care le săpaseră robii tatălui lui în zilele lui Avraham, tatăl lui, le-au astupat filistenii și le-au umplut cu țărână.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Și toate"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "fântânile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "săpaseră"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui lui"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl lui"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "le-au astupat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "și le-au umplut"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "cu țărână"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:06.141873254Z",
+  "model": "glm-5.3"
+}

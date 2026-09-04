@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Căci nu-și va părăsi Yahve poporul său și moștenirea sa nu o va lăsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "va lepăda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "și moștenirea sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "va părăsi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:05.724807784Z",
+  "model": "glm-5.3"
+}

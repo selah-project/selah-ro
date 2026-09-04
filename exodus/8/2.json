@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a întins Aharon ⟨את⟩ mâna lui peste apele Mițraimului, și a suit broasca, și a acoperit ⟨את⟩ pământul Mițraimului.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Și a întins"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna lui"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "apele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "și a suit"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "broasca"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "și a acoperit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:08.817398340Z",
+  "model": "glm-5.3"
+}

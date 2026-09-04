@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Cei care se tem de Yahve, lăudați-l; tot sămânța lui Iaacov, cinstiți-l; și temeți-vă de el, toată sămânța lui Israel.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Cei care se tem de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânța"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "cinstiți-l"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "și temeți-vă"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânța"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:20.480420652Z",
+  "model": "glm-5.3"
+}

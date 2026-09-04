@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "De la fața furiei tale și a mâniei tale, căci m-ai înălțat și m-ai aruncat jos.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "de la fața"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "furiei tale"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "și a mâniei tale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "m-ai înălțat"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "și m-ai aruncat jos"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:51.730185147Z",
+  "model": "glm-5.3"
+}

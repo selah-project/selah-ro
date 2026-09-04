@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Va ajunge până la neamul părinților lui: peste totdeauna nu vor vedea lumina.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Va ajunge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "דור",
+      "gloss": "neamul"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "părinților lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "peste"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "totdeauna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vor vedea"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumina"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:39.899145385Z",
+  "model": "glm-5.3"
+}

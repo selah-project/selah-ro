@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Luați aminte către mine, poporul meu, și neamul meu, către mine ascultați: căci o Tora de la mine ⟨את⟩ va ieși, și judecata mea, spre lumină popoarelor, o voi așeza.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Luați aminte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "și neamul meu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ascultați"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "o Tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "de la mine ⟨את⟩",
+      "marks": "o Tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "va ieși"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "și judecata mea"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "spre lumină"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarelor"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "o voi așeza"
+    }
+  ],
+  "timestamp": "2026-09-04T07:30:28.251261680Z",
+  "model": "glm-5.3"
+}

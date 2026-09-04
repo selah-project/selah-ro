@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "O laudă a lui David. Te voi înălța, Eloa al meu, regele, și voi binecuvânta numele tău în veac și în veci.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Laudă"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a lui David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "te voi înălța"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloa al meu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "și voi binecuvânta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și în veci"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:12.178117231Z",
+  "model": "glm-5.3"
+}

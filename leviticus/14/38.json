@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și va ieși cohanul din casă la ușa casei și va închide ⟨את⟩ casa șapte zile.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "și va ieși"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohanul"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ușa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "și va închide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:30.704778589Z",
+  "model": "glm-5.3"
+}

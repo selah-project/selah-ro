@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Voi mulțumi lui Yahve după dreptatea lui, și voi cânta numelui lui Yahve, El Elion.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Voi mulțumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "după dreptatea lui"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "și voi cânta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numelui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elion"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:32.291427449Z",
+  "model": "glm-5.3"
+}

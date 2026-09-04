@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "și să nu tai ⟨את⟩ hesedul tău de la casa mea până în veac; și când va tăia Yahve ⟨את⟩ dușmanii lui David, pe fiecare de pe fața pământului —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "să tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hesedul tău"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de la"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "casa mea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "când va tăia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dușmanii lui David"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dușmanii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pe fiecare"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:11:02.144482589Z",
+  "model": "glm-5.3"
+}

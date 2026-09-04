@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Din frica ta te mustră ⟨el⟩? Vine ⟨el⟩ cu tine la judecată?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "Din frica ta"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "te mustră"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Vine"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "la judecată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:17.628592681Z",
+  "model": "glm-5.3"
+}

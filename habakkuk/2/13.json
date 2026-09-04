@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Oare nu iată de la ⟨את⟩ Yahve Țevaot ⟨este⟩? Și se vor osteni popoarele pentru foc, și națiunile pentru deșertăciune se vor istovi.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "Yahve Țevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "și se vor osteni"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "și națiunile"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "deșertăciune"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "se vor istovi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:58.707126572Z",
+  "model": "glm-5.3"
+}

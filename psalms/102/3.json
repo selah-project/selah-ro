@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Nu ⟨să⟩ ascunzi fața ta de la mine în ziua strâmtorării mea; pleacă spre mine urechea ta; în ziua când strig, grăbește, răspunde-mi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "să ascunzi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "צר",
+      "gloss": "strâmtorării"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mea"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "pleacă"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "spre mine"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "urechea ta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "când strig"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "grăbește"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "răspunde-mi"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:03.455872231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și Ioktan a născut ⟨את⟩ Almodad și ⟨את⟩ Șelef și ⟨את⟩ Hațarmavet și ⟨את⟩ Iarah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Și Ioktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Șelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Hațarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hațarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iarah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Iarah"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:06.145383451Z",
+  "model": "glm-5.3"
+}

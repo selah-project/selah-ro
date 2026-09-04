@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și după cutremur, foc — nu în foc Yahve; și după foc, un glas de șoaptă subțire.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Și după"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "cutremur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "și după"
+    },
+    {
+      "surface": "האש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "קול",
+      "gloss": "un glas"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "de șoaptă"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "subțire"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:52.887319448Z",
+  "model": "glm-5.3"
+}

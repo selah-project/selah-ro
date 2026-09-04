@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Cel ce își disprețuiește prietenul este lipsit de inimă, dar omul de înțelegere tace.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "Cel ce își disprețuiește"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "prietenul său"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "este lipsit de"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dar omul"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "de înțelegere"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "tace"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:06.683750092Z",
+  "model": "glm-5.3"
+}

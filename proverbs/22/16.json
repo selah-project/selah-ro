@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Asuprește săracul — adică pe cel sărac — ca să înmulțească ⟨ceva⟩ pentru sine; dă bogatului — doar spre lipsă.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "asuprește"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pe sărac"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "ca să înmulțească"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru sine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "bogatului"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "spre lipsă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:21.466273212Z",
+  "model": "glm-5.3"
+}

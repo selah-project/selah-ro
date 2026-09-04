@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și au disprețuit țara dorită, nu au crezut cuvântului lui.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Și au disprețuit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "dorită"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "au crezut"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "cuvântului lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:41.006249151Z",
+  "model": "glm-5.3"
+}

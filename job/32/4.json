@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Iar Elihu așteptase ⟨את⟩ pe Iov cu cuvinte, căci ei erau mai bătrâni decât el în zile.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Iar Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "așteptase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Iov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "cu cuvinte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "erau mai bătrâni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "decât el"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "în zile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:34:34.511521535Z",
+  "model": "glm-5.3"
+}

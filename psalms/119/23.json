@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Chiar dacă au șezut căpeteniile și au vorbit împotriva mea, slujitorul tău cugetă la hotarele tale.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar dacă"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "au șezut"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "au vorbit"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "cugetă"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "la hotarele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:35.785414487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Iubitor de mușar ⟨este⟩ iubitor de cunoaștere, iar cel ce urăște mustrarea ⟨este⟩ dobitoc.",
+  "tokens": [
+    {
+      "surface": "אֹהֵ֣ב",
+      "gloss": "iubitor"
+    },
+    {
+      "surface": "מ֭וּסָר",
+      "gloss": "de mușar"
+    },
+    {
+      "surface": "אֹ֣הֵֽב",
+      "gloss": "iubitor"
+    },
+    {
+      "surface": "דָּ֑עַת",
+      "gloss": "de cunoaștere"
+    },
+    {
+      "surface": "וְשֹׂנֵ֖א",
+      "gloss": "iar cel ce urăște"
+    },
+    {
+      "surface": "תוֹכַ֣חַת",
+      "gloss": "mustrarea"
+    },
+    {
+      "surface": "בָּֽעַר",
+      "gloss": "dobitoc"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:03.848869608Z",
+  "model": "glm-5.3"
+}

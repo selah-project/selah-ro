@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "În foamete te va răscumpăra de la moarte, iar în război de la mâinile sabiei.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "În foamete"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "te va răscumpăra"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la moarte"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "iar în război"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "de la mâinile"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:06:31.885348713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a ieșit Hamor, tatăl lui Șechem, către Iaacov, să vorbească cu ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "lui Șechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "să vorbească"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:45.974588060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Bun și drept ⟨este⟩ Yahve; de aceea îi călăuzește pe păcătoși pe cale.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bun"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "și drept"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "călăuzește"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "pe păcătoși"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe cale"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:29.561084560Z",
+  "model": "glm-5.3"
+}

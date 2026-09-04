@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 114,
+  "translation": "Marea a văzut și a fugit, Iardenul s-a întors înapoi.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Marea"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "și a fugit"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenul"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "înapoi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:02.193331822Z",
+  "model": "glm-5.3"
+}

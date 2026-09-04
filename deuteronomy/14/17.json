@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și pelicanul, și ⟨את⟩ vulturul hoitar, și ⟨את⟩ cormoranul",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "și pelicanul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vulturul hoitar"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "vulturul hoitar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cormoranul"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "cormoranul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:15.051156362Z",
+  "model": "glm-5.3"
+}

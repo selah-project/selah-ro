@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Au fost nimiciți la En-Dor, au fost gunoi pentru pământ.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "au fost nimiciți"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "la En"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "gunoi"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "pentru pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:33.040716067Z",
+  "model": "glm-5.3"
+}

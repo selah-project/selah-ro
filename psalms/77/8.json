@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Pe vecie va lepăda Adonai și nu va mai binevoi?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Pe vecie"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "va lepăda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "va mai"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "binevoi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "?"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:06.124506676Z",
+  "model": "glm-5.3"
+}

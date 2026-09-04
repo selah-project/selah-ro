@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "chiar și acolo mâna ta mă va călăuzi, și dreapta ta mă va ține strâns.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "mă va călăuzi"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "și mă va ține strâns"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:45.353320274Z",
+  "model": "glm-5.3"
+}

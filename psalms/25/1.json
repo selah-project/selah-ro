@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Al lui David. Către tine, Yahve, sufletul meu îl înalț.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "îl înalț"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:21.677916149Z",
+  "model": "glm-5.3"
+}

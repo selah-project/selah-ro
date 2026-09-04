@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Iar slujitorul tău ⟨este⟩ în mijlocul poporului tău, pe care l-ai ales — popor numeros, care nu poate fi numărat nici socotit de mulțime.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Iar slujitorul tău"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporului tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "l-ai ales"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "רב",
+      "gloss": "numeroas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "poate fi numărat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nici"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "socotit"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "de mulțime"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:51.569325156Z",
+  "model": "glm-5.3"
+}

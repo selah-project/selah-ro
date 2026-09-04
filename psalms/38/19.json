@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Căci fărădelegea mea o voi vesti, mă voi îngrijora din pricina păcatului meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "fărădelegea mea"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "o voi vesti"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "mă voi îngrijora"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "din pricina păcatului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:19.236439859Z",
+  "model": "glm-5.3"
+}

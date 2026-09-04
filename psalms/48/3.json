@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Frumos în înălțimea lui, bucuria întregului pământ, ⟨este⟩ muntele Țion, coastele țafonului, cetate a unui mare rege.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Frumos"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "în înălțimea lui"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "bucuria"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Țion"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "coastele"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "țafonului"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "cetate"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a unui rege"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:56.739359160Z",
+  "model": "glm-5.3"
+}

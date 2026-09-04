@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Calea mea și culcușul meu le-ai măsurat, și cu toate căile mele ești deprins.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Calea mea"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "și culcușul meu"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "le-ai măsurat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și cu toate"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "căile mele"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ești deprins"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:36.501050345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Nu așa! Mergeți acum voi, bărbații, și slujiți-i ⟨את⟩ lui Yahve — căci ⟨את⟩ aceasta ⟨pe⟩ voi ⟨o⟩ căutați. Și i-a alungat ⟨את⟩ pe ei din ⟨את⟩ fața lui Paro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mergeți"
+    },
+    {
+      "surface": "נא",
+      "gloss": "acum"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "bărbații"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "și slujiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "aceasta pe voi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "căutați"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "și i-a alungat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "din ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:40.182756473Z",
+  "model": "glm-5.3"
+}

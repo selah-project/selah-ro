@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Iar voi știți că cu toată puterea mea l-am slujit ⟨את⟩ tatăl vostru.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Iar voi"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "știți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "am slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl vostru"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "tatăl vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:48.365831342Z",
+  "model": "glm-5.3"
+}

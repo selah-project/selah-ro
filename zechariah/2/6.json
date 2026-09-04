@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și am zis: încotro mergi tu? Și a zis către mine: să măsor ⟨את⟩ Ierușalaim, ca să văd cât este lățimea lui și cât este lungimea lui.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "încotro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "למד",
+      "gloss": "să măsor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ca să văd"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "cât"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lățimea lui"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "și cât"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "lungimea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:51:48.680088754Z",
+  "model": "glm-5.3"
+}

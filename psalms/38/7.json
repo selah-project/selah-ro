@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "M-am strâmbat, m-am ghemuit foarte tare; toată ziua am umblat posomorât.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "M-am strâmbat"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "m-am ghemuit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte tare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "posomorât"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "am umblat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:59.678493551Z",
+  "model": "glm-5.3"
+}

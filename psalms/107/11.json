@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Căci au răzvrătit cuvintele lui El, și sfatul Celui Preaînalt l-au disprețuit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "au răzvrătit"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "și sfatul"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Celui Preaînalt"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "l-au disprețuit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:51.778299076Z",
+  "model": "glm-5.3"
+}

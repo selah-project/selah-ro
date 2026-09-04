@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Ca luna va fi întemeiat pe vecie, și martor credincios în nori. Sela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "ca luna"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "va fi întemeiat"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și ⟨un⟩ martor"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "în nori"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "credincios"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:48.684688864Z",
+  "model": "glm-5.3"
+}

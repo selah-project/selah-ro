@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Vai de noi! Cine ne va scăpa din mâna dumnezeilor aceștia puternici? Aceștia sunt dumnezeii care au lovit ⟨את⟩ Mițraimul cu fiecare rană în pustiu.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "de noi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ne va scăpa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dumnezeilor"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "puternici"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Aceștia"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "care au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mițraimul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimul"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu fiecare"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "rană"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:10.609384045Z",
+  "model": "glm-5.3"
+}

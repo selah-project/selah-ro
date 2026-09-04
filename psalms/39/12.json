@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Cu mustrări, pentru fărădelege, l-ai certat pe om, și ca molia i-ai topit dorul lui; doar suflare de vânt ⟨este⟩ tot omul. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "cu mustrări"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fărădelege"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ai certat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "și ai topit"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ca molia"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "dorul lui"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "suflare de vânt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:59.179640374Z",
+  "model": "glm-5.3"
+}

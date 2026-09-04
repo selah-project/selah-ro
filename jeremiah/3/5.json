@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Va păstra ⟨el⟩ mânia pe vecie? O va ține în veci? Iată, tu ai vorbit și ai făcut relele și ai fost în stare.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "va păstra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pe vecie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "va ține"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ai vorbit"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "și ai făcut"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "relele"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "și ai fost în stare"
+    }
+  ],
+  "timestamp": "2026-09-04T03:58:12.461104458Z",
+  "model": "glm-5.3"
+}

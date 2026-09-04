@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Trezește-te, slava mea, trezește-te, nevel și chinor! Eu voi trezi zorile!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Trezește-te"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "slava mea"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "trezește-te"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "și chinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "voi trezi"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zorile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:38.725839649Z",
+  "model": "glm-5.3"
+}

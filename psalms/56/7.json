@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "Vor poposi, se vor ascunde ⟨ei⟩, călcăile mele le păzesc, așteaptă după nefeșul meu.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "Vor poposi"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "se vor ascunde"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ei⟩"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "călcăile mele"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "le păzesc"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "așteaptă"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "după"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeșul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:56.125456874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zephaniah 3:20",
+  "book": "zephaniah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "În vremea aceea vă voi aduce ⟨את⟩ pe voi, și în vremea când vă voi strânge ⟨את⟩ pe voi; căci vă voi da ⟨את⟩ pe voi ca nume și ca laudă printre toate popoarele pământului, când voi întoarce ⟨את⟩ înapoierea voastră, sub ochii voștri, a spus Yahve.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "în vremea"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "vă voi aduce"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "și în vremea"
+    },
+    {
+      "surface": "קבצי",
+      "gloss": "când vă voi strânge"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vă voi da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ca nume"
+    },
+    {
+      "surface": "ולתהלה",
+      "gloss": "și ca laudă"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "printre toate"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popoarele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "când voi întoarce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "înapoierea voastră"
+    },
+    {
+      "surface": "שבותיכם",
+      "gloss": "înapoierea voastră"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "sub ochii voștri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:47:51.701874495Z",
+  "model": "glm-5.3"
+}

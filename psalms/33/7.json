@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Adună ca un grămăjoar ⟨את⟩ apele mării, pune în cămările lui adâncurile.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Adună"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "ca un grămăjoar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apele"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pune"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "în cămările"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "adâncurile"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:25.721693800Z",
+  "model": "glm-5.3"
+}

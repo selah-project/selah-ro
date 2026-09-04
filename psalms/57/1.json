@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 57,
+  "translation": "Către dirijor. Nu distruge. Al lui David, un mihtam, când a fugit ⟨el⟩ de fața lui Șaul, în peșteră.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "distruge"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "un mihtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "când a fugit ⟨el⟩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de fața"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "în peșteră"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:41.032372300Z",
+  "model": "glm-5.3"
+}

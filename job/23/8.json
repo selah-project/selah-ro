@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Iată, înainte merg — și nu ⟨este⟩ el; și înapoi — și nu-l pot pricepe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "iată"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "înainte"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "merg"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "și nu ⟨este⟩ el"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "și înapoi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "pot pricepe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pe el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:15.075191228Z",
+  "model": "glm-5.3"
+}

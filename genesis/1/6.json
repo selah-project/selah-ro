@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a spus Elohim: «Să fie o întindere în mijlocul apelor, și să fie despărțitor între ape și ape.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Să fie"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "o întindere"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apelor"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și să fie"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "despărțitor"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "למים",
+      "gloss": "și ape"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:48.448414579Z",
+  "model": "glm-5.3"
+}

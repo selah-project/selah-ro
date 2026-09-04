@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a zidit Yahve Elohim ⟨את⟩ coasta pe care o luase din om, în femeie, și a adus-o la om.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "și a zidit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "coasta"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "coasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "luase"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "om"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "în femeie"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "și a adus-o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "om"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:59.379554565Z",
+  "model": "glm-5.3"
+}

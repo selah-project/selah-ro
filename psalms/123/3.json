@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 123,
+  "translation": "Fii îndurător cu noi, Yahve, fii îndurător cu noi, că prea mult ne-am săturat de dispreț.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Fii îndurător cu noi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "fii îndurător cu noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "רב",
+      "gloss": "prea mult"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "ne-am săturat"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "de dispreț"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:58.474930149Z",
+  "model": "glm-5.3"
+}

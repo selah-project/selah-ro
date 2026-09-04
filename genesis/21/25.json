@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a mustrat Avraham ⟨את⟩ Avimeleh din pricina fântânii de apă pe care o răpiseră slujitorii lui Avimeleh.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "Și a mustrat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleh"
+    },
+    {
+      "surface": "על",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "באר",
+      "gloss": "fântânii"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de apă"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "o răpiseră"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slujitorii"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "lui Avimeleh"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:48.281468502Z",
+  "model": "glm-5.3"
+}

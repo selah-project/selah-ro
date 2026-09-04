@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Pune la cale cel rău cel drept și scrâșnește peste el dinții lui.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "Pune la cale"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "și scrâșnește"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dinții lui"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.572501615Z",
+  "model": "glm-5.3"
+}

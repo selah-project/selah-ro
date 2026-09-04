@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Mai bun este cel îndelung-răbdător decât un viteaz, și cel ce-și stăpânește duhul decât cel ce cucerește o cetate.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mai bun"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "îndelung"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "-răbdător (lit. de nări lungi, adică lent la mânie)"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "decât un viteaz"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "și cel ce stăpânește"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "duhul său"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "decât cel ce cucerește"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "o cetate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:54.888698405Z",
+  "model": "glm-5.3"
+}

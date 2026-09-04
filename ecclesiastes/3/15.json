@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Ceea ce a fost — deja ⟨este⟩; și ceea ce va fi — deja a fost; și Elohim caută ⟨את⟩ pe cel urmărit.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "deja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și ceea ce"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "deja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "și Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cel urmărit"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "cel urmărit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:02.797632161Z",
+  "model": "glm-5.3"
+}

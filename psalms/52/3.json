@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "De ce te lauzi în răutate, puternicule? Hesed-ul lui El ⟨este⟩ toată ziua.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "te lauzi"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "în răutate"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "puternicule"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesed-ul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:08.320520462Z",
+  "model": "glm-5.3"
+}

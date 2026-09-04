@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Căci s-a spus către El: «Am purtat ⟨mustrarea⟩, nu voi mai strica».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "s-a spus"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "am purtat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "voi strica"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:22.450727948Z",
+  "model": "glm-5.3"
+}

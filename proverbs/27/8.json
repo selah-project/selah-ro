@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Ca pasărea care rătăcește de la cuibul ei, așa este omul care rătăcește de la locul lui.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "ca pasărea"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "care rătăcește"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "cuibul ei"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "care rătăcește"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "de la locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:35.721969845Z",
+  "model": "glm-5.3"
+}

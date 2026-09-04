@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Cine jertfește dumnezailor — să fie dat nimicirii, afară de Yahve, numai ⟨de⟩ ⟨el⟩.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "cine jertfește"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "dumnezailor"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "să fie dat nimicirii"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "afară de"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "numai ⟨de⟩ ⟨el⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:12.041437961Z",
+  "model": "glm-5.3"
+}

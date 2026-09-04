@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a fugit David din Naiot, în Rama, și a venit și a spus înaintea lui Ionatan: ce am făcut, care îmi este vina și care îmi este păcatul înaintea tatălui tău, căci îmi caută ⟨את⟩ viața?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Și a fugit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "din Naiot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "în Rama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea lui"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Ionatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "מה",
+      "gloss": "care"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "vina mea"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "și care"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "păcatul meu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "caută"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața mea"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "viața mea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:54:12.011578462Z",
+  "model": "glm-5.3"
+}

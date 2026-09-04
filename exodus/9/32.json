@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Iar grâul și spelledul nu au fost loviți, căci târzii ⟨sunt⟩ ele.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "Iar grâul"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "și spelledul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "au fost loviți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "târzii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:15:40.563939729Z",
+  "model": "glm-5.3"
+}

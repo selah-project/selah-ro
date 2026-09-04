@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și l-au ridicat pe Iona și l-au aruncat în mare, și marea s-a oprit din furia ei.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Și l-au ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "pe Iona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "și l-au aruncat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "și s-a oprit"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "din furia ei"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:09.507256855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "și ⟨את⟩ spărturile cetății lui David ați văzut, pentru că s-au înmulțit, și ați strâns ⟨את⟩ apele iazului de jos.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "spărturile cetății lui David"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "spărturile"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ați văzut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "s-au înmulțit"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "și ați strâns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apele iazului de jos"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apele"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "iazului"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "de jos"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:24.879494334Z",
+  "model": "glm-5.3"
+}

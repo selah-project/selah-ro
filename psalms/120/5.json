@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 120,
+  "translation": "Vai mie, că am pribegit la Meșec, am locuit împreună cu corturile lui Chedar!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "am pribegit"
+    },
+    {
+      "surface": "משך",
+      "gloss": "la Meșec"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "am locuit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "corturile lui"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Chedar"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:06.861000027Z",
+  "model": "glm-5.3"
+}

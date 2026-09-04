@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Iar noi, poporul tău și turma pășunii tale, îți vom mulțumi ⟨ție⟩ în veci, din neam în neam vom povesti lauda ta.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Iar noi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "și turma"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "pășunii tale"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "vom mulțumi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "vom povesti"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lauda ta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:32.640328511Z",
+  "model": "glm-5.3"
+}

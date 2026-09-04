@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Binecuvântați pe Yahve, îngerii lui, vitejii puterii, împlinitori ai cuvântului lui, ca să asculte de glasul cuvântului lui.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Binecuvântați"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "îngerii lui"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "vitejii"
+    },
+    {
+      "surface": "כח",
+      "gloss": "puterii"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "împlinitori"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ai cuvântului lui"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ca să asculte"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "cuvântului lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:49.176682731Z",
+  "model": "glm-5.3"
+}

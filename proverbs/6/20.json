@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Păzește, fiule, porunca tatălui tău și nu părăsi Tora mamei tale,",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiule"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "părăsi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamei tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:53.386160489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Nu este sănătate în trupul meu din pricina mâniei tale, nu este pace în oasele mele din pricina păcatului meu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nu este"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sănătate"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "în trupul meu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "mâniei tale"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "în oasele mele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "păcatului meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:58.686958594Z",
+  "model": "glm-5.3"
+}

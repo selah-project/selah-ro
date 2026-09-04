@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Căci nu cu sabia lor au moștenit pământul, și brațul lor nu le-a dat mântuire; ci dreapta ta, și brațul tău, și lumina feței tale, căci i-ai primit cu bunăvoință.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "cu sabia lor"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "au moștenit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "și brațul lor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "a dat mântuire"
+    },
+    {
+      "surface": "למו",
+      "gloss": "le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "și brațul tău"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "și lumina"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "feței tale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "i-ai primit cu bunăvoință"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:29.381709456Z",
+  "model": "glm-5.3"
+}

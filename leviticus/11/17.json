@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ cucuveaua, și ⟨את⟩ cormoranul, și ⟨את⟩ bufnița cea mare",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cucuveaua"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "cucuveaua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cormoranul"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "cormoranul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bufnița cea mare"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "bufnița cea mare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:19.958177127Z",
+  "model": "glm-5.3"
+}

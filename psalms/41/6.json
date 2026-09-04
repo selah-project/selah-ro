@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Dușmanii mei vor spune rău împotriva mea: „Când va muri și va pieri numele lui?”",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Dușmanii mei"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vor spune"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "לי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "va muri"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "și va pieri"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:06:59.349776847Z",
+  "model": "glm-5.3"
+}

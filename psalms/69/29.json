@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Să fie șterși din cartea celor vii și cu drepții să nu fie scriși.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "să fie șterși"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "din cartea"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "celor vii"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "drepții"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "fie scriși"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:26.861672117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 32:20",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Voi vorbi și mă voi ușura, îmi voi deschide buzele și voi răspunde.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "voi vorbi"
+    },
+    {
+      "surface": "וירוח",
+      "gloss": "și mă voi ușura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mă⟩"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "îmi voi deschide"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele"
+    },
+    {
+      "surface": "ואענה",
+      "gloss": "și voi răspunde"
+    }
+  ],
+  "timestamp": "2026-09-04T05:33:57.145102548Z",
+  "model": "glm-5.3"
+}

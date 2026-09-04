@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Gura mea am căscat-o și am gâfâit, căci poruncilor tale le-am poftit.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Gura mea"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "am căscat-o"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "și am gâfâit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "poruncilor tale"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "le-am poftit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:41.975635557Z",
+  "model": "glm-5.3"
+}

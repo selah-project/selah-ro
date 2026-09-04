@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Tot cel de parte bărbătească dintre coheni o va mânca ⟨את⟩; sfânt al sfintelor este.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "cel de parte bărbătească"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "dintre coheni"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "va mânca"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "o (jertfa — obiectul mâncat)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "al sfintelor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:48.065304959Z",
+  "model": "glm-5.3"
+}

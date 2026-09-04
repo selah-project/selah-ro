@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Vocea lui Yahve ⟨este⟩ peste ape; El al gloriei a tunat — Yahve peste ape multe.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vocea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "al gloriei"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "a tunat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ape"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:59.270110212Z",
+  "model": "glm-5.3"
+}

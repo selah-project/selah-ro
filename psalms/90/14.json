@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Saturează-ne în zori cu hesedul tău, și vom cânta și ne vom bucura în toate zilele noastre.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Saturează-ne"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "în zori"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "cu hesedul tău"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "și vom cânta"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "și ne vom bucura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "zilele noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:16.967516560Z",
+  "model": "glm-5.3"
+}

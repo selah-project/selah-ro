@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și acestea sunt spițele de neam ale lui Esav, tatăl lui Edom, în muntele Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "spițele de neam"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ale lui Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "lui Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în muntele"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:29.803093404Z",
+  "model": "glm-5.3"
+}

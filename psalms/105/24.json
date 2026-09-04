@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Și a înmulțit ⟨את⟩ poporul lui foarte și l-a făcut mai puternic decât asupritorii lui.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "și a înmulțit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul lui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "și l-a făcut mai puternic"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "decât asupritorii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:01.715992976Z",
+  "model": "glm-5.3"
+}

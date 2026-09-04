@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Drept ești tu, Yahve, și drepte sunt judecățile tale.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Drept"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu",
+      "marks": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "și drepte"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:14.375064584Z",
+  "model": "glm-5.3"
+}

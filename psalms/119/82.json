@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "S-au stins ochii mei după cuvântul tău, zicând: când mă vei mângâia?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "s-au stins"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "după cuvântul tău"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "mă vei mângâia"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:36.818855940Z",
+  "model": "glm-5.3"
+}

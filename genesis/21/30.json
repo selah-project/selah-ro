@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a spus: tu vei lua ⟨את⟩ șapte oi din mâna mea, ca să-mi fie ⟨את⟩ ele mărturie că am săpat ⟨את⟩ fântâna aceasta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "șapte oi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "oi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vei lua"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "din mâna mea"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "mărturie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "am săpat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fântâna aceasta"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "fântâna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:59.281270484Z",
+  "model": "glm-5.3"
+}

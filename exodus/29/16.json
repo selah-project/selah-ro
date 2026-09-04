@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și să junghii ⟨את⟩ berbecul, și să iei ⟨את⟩ sângele lui și să stropești pe altar, de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "și să junghii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berbecul"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbecul"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "și să iei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sângele lui"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sângele lui"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "și să stropești"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:02.491647414Z",
+  "model": "glm-5.3"
+}

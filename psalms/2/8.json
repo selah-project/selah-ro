@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Cere de la mine, și-ți voi da neamurile moștenirea ta și stăpânirea ta marginile pământului.”",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Cere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "și-ți voi da"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "moștenirea ta"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "și stăpânirea ta"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "marginile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:32.072938035Z",
+  "model": "glm-5.3"
+}

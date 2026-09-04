@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Din strivirea săracilor, din gemetul nevoiașilor — acum Mă voi ridica, zice Yahve; îl voi așeza în mântuirea pe care o gâfâie.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "din strivirea"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "săracilor"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "din gemetul"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "nevoiașilor"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "Mă voi ridica"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "îl voi așeza"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "în mântuire"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "gâfâie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "spre ea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:15.726670384Z",
+  "model": "glm-5.3"
+}

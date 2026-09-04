@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a iubit Mikal, fiica lui Șaul, ⟨את⟩ pe David, și i s-a spus lui Șaul, și lucrul a fost drept în ochii lui.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "Și a iubit"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "pe David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "și i s-a spus"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "și a fost drept"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:10:30.127833853Z",
+  "model": "glm-5.3"
+}

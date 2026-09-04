@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "ca să vestești dimineața hesedul tău (îndurarea) și credincioșia ta în nopți,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ca să vestești"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "și credincioșia ta"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "în nopți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:07.096770266Z",
+  "model": "glm-5.3"
+}

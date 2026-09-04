@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Până când veți năvăli asupra unui om, ca să-l ucideți — voi toți? Ca un zid înclinat, ca un gard surpat ⟨veți fi⟩.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "când"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "veți năvăli"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "ca să-l ucideți"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "voi toți"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "ca un zid"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "înclinat"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "un gard"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "surpat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:10.880897711Z",
+  "model": "glm-5.3"
+}

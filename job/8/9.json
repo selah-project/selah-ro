@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Căci de ieri suntem și nu știm nimic, căci umbră sunt zilele noastre pe pământ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "de ieri"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "suntem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "știm nimic"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "צל",
+      "gloss": "umbră"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "zilele noastre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:38.341729594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Nu da, Yahve, dorințele celui rău; uneltirea lui nu o împlini, ⟨ca⟩ să nu se înalțe. Șela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "să dai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "dorințele"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "celui rău"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "uneltirea lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "să împlinești"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "să se înalțe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Șela"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:46.321866407Z",
+  "model": "glm-5.3"
+}

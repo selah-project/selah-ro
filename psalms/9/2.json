@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Voi mulțumi lui Yahve din toată inima mea, voi povesti toate minunile tale.",
+  "tokens": [
+    {
+      "surface": "אוֹדֶה",
+      "gloss": "Voi mulțumi"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "din toată"
+    },
+    {
+      "surface": "לִבִּי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "אֲסַפְּרָה",
+      "gloss": "voi povesti"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶיךָ",
+      "gloss": "minunile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:38.218108877Z",
+  "model": "glm-5.3"
+}

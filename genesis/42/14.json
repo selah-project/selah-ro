@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și a zis Iosif către ei: Acela este ce v-am spus vouă, zicând: Voi sunteți spioni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Acela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "v-am spus"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi sunteți"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:14.057755873Z",
+  "model": "glm-5.3"
+}

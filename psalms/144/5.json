@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Yahve, pleacă-ți cerurile și coboară; atinge munții și vor fumega.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "pleacă"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "și coboară"
+    },
+    {
+      "surface": "גע",
+      "gloss": "atinge"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "și vor fumega"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:56.806389709Z",
+  "model": "glm-5.3"
+}

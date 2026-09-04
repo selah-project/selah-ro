@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Tu vei mânca și nu te vei sătura, și goliciunea ta va fi în mijlocul tău; vei pune mâna și nu vei izbăvi, și pe ce vei izbăvi, sabiei îl voi da.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "vei mânca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "te vei sătura"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "și goliciunea ta"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "în mijlocul tău"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "vei pune mâna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "vei izbăvi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și pe ce"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "vei izbăvi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "îl voi da"
+    }
+  ],
+  "timestamp": "2026-09-04T04:45:46.715382285Z",
+  "model": "glm-5.3"
+}

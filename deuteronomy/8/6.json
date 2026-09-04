@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și să păzești ⟨את⟩ poruncile lui Yahve, Elohimul tău, umblând în căile lui și temându-te ⟨את⟩ de el.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Și să păzești"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poruncile lui Yahve"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "umblând"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "în căile lui"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "și temându-te"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ de el",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-04T02:02:06.280667140Z",
+  "model": "glm-5.3"
+}

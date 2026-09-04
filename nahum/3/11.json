@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Chiar și tu te vei îmbăta, vei fi ascunsă; chiar și tu vei căuta fortăreață din pricina vrăjmașului.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "te vei îmbăta"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "vei fi"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "ascunsă"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "vei căuta"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fortăreață"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "din pricina vrăjmașului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:06:31.012093107Z",
+  "model": "glm-5.3"
+}

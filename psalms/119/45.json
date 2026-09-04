@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Și voi umbla în loc larg, căci poruncile tale le-am căutat.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "Și voi umbla"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "în loc larg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "le-am căutat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:22.746849938Z",
+  "model": "glm-5.3"
+}

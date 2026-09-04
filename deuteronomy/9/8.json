@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și la Horev voi L-ați întărâtat la mânie pe ⟨את⟩ Yahve, și Yahve s-a aprins de mânie împotriva voastră, ca să vă nimicească.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Și la Horev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "ați întărâtat la mânie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "și s-a aprins de mânie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "împotriva voastră"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ca să nimicească"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi"
+    }
+  ],
+  "timestamp": "2026-09-04T10:10:31.535837927Z",
+  "model": "glm-5.3"
+}

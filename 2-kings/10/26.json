@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și au scos ⟨את⟩ stâlpii casei lui Baal și i-au ars.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "și au scos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpii"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "stâlpii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "lui Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "și i-au ars"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:15.347306583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Pomul a crescut și s-a întărit, și înălțimea lui ajungea până la cer, și vederea lui până la capătul întregului pământ.",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "a crescut"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "Pomul"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "și s-a întărit"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "și înălțimea lui"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "ajungea"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "până la cer"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "și vederea lui"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "până la capătul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregului"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:50:17.733899378Z",
+  "model": "glm-5.3"
+}

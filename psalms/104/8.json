@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Se ridică munții, coboară văile, către locul acesta pe care l-ai întemeiat pentru ele.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "se ridică"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "coboară"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "văile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "l-ai întemeiat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pentru ele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:28.229375523Z",
+  "model": "glm-5.3"
+}

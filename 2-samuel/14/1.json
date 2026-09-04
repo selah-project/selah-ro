@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a aflat Ioav, fiul Țeruiei, că inima regelui ⟨este⟩ asupra lui Avșalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "și a aflat"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Țeruiei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "lui Avșalom"
+    }
+  ],
+  "timestamp": "2026-09-04T03:00:42.714976938Z",
+  "model": "glm-5.3"
+}

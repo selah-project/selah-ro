@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și să facă un chivot din lemn de șitim: două coturi și jumătate lungimea lui, un cot și jumătate lățimea lui, și un cot și jumătate înălțimea lui.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Și să facă"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "un chivot"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemn de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "șitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "două coturi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "și jumătate"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lungimea lui"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "și un cot"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "și jumătate"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lățimea lui"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "și un cot"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "și jumătate"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "înălțimea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:48.823700822Z",
+  "model": "glm-5.3"
+}

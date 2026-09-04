@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a tânjit David și a zis: Cine mă va adăpa cu apă din fântâna Beit-Lehemului, care ⟨este⟩ la poartă?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "și a tânjit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "mă va adăpa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cu apă"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "din fântâna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "la poartă"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:20.675031268Z",
+  "model": "glm-5.3"
+}

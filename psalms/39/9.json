@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Din toate fărădelegile mele scapă-mă; ocara nebunului să nu mă faci.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "din toate"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "fărădelegile mele"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "scapă-mă"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ocara"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebunului"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "mă faci"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:59.178943651Z",
+  "model": "glm-5.3"
+}

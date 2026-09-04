@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Lăudați ⟨pe⟩ lui Yahve cu chinnor, cu nevel de zece coarde; cântați-i",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Lăudați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "cu chinnor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "cu nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "de zece coarde"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cântați"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-i"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:59.869575402Z",
+  "model": "glm-5.3"
+}

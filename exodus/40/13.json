@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și vei îmbrăca ⟨את⟩ pe Aharon ⟨את⟩ hainele sfântului, și îl vei unge ⟨את⟩ și îl vei sfinți ⟨את⟩, și va fi cohen pentru Mine.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "și vei îmbrăca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele sfântului"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "hainele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfântului"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "și îl vei unge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl",
+      "marks": "pe Aharon"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "și îl vei sfinți"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl",
+      "marks": "pe Aharon"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "și va fi cohen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru Mine"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:10.001638066Z",
+  "model": "glm-5.3"
+}

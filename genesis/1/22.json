@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a binecuvântat ⟨את⟩ pe ei Elohim, zicând: Prindeți roade și înmulțiți-vă și umpleți ⟨את⟩ apele în mări, și pasărea să se înmulțească pe pământ.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Și a binecuvântat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei — ființele din ape și păsările"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Prindeți roade"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "și înmulțiți-vă"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "și umpleți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apele"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "în mări"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "și pasărea"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "să se înmulțească"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:02.864855948Z",
+  "model": "glm-5.3"
+}

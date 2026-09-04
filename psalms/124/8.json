@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 124,
+  "translation": "Ajutorul nostru ⟨este⟩ în numele lui Yahve, făcătorul cerurilor și al pământului.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Ajutorul nostru"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în numele lui Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făcătorul"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "și al pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:32.617303632Z",
+  "model": "glm-5.3"
+}

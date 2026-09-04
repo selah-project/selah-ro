@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și au rupt toate ⟨את⟩ inelele de aur care erau în urechile lor și le-au adus la Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Și au rupt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inelele de aur"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "inelele"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "în urechile lor"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "și le-au adus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:13.619055458Z",
+  "model": "glm-5.3"
+}

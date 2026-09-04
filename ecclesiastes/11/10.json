@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și îndepărtează supărarea din inima ta și fă să treacă răul din trupul tău, căci copilăria și floarea vârstei sunt hevel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "și îndepărtează"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "supărarea"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "din inima ta"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "și fă să treacă"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "din trupul tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "copilăria"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "și floarea vârstei"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sunt hevel"
+    }
+  ],
+  "timestamp": "2026-09-04T10:20:07.044843073Z",
+  "model": "glm-5.3"
+}

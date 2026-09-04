@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Iar ⟨את⟩ Biniamin, fratele lui Iosif, nu l-a trimis Iaacov cu frații săi, ⟨את⟩ căci a zis: Nu cumva să i se întâmple o nenorocire.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "Biniamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Biniamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratele"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a trimis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frații săi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nu cumva"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "să i se întâmple"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "o nenorocire"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:31.903617413Z",
+  "model": "glm-5.3"
+}

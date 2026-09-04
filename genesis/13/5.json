@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și lui Lot cel care mergea cu ⟨את⟩ Avram i-au fost oi și vite și corturi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "lui Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "cel care mergea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i-au fost"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "oi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "și vite"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "și corturi"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:43.608651424Z",
+  "model": "glm-5.3"
+}

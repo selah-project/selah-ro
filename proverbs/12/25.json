@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Îngrijorarea în inima omului o doboară, dar un cuvânt bun o veselește.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "Îngrijorarea"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "în inima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "o doboară"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dar un cuvânt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "o veselește"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:01.460044542Z",
+  "model": "glm-5.3"
+}

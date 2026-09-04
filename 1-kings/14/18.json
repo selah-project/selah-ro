@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și l-au îngropat ⟨את⟩ și au jelit după el tot Israelul, după cuvântul lui Yahve pe care l-a grăit prin mâna slugii sale Ahiya, naviul.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Și l-au îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (pe copil)"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "și au jelit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a grăit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slugii sale"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:17:19.246022432Z",
+  "model": "glm-5.3"
+}

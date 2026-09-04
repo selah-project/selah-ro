@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 124,
+  "translation": "dacă nu ar fi fost Yahve pentru noi, când s-a ridicat împotriva noastră omul,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "dacă nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ar fi fost Yahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ar fi fost"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "când s-a ridicat"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "împotriva noastră"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:57.194941300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și l-au adăpat pe ⟨את⟩ tatăl lor cu vin în noaptea aceea, și a intrat cea întâi-născută și s-a culcat cu ⟨את⟩ tatăl ei, și nu a știut nici când s-a culcat ea, nici când s-a sculat.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "Și l-au adăpat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl lor"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "tatăl lor"
+    },
+    {
+      "surface": "יין",
+      "gloss": "cu vin"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "în noaptea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "și a intrat"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "cea întâi-născută"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "și s-a culcat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl ei"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "tatăl ei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a știut"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "când s-a culcat ea"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "nici când s-a sculat"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:38.862931684Z",
+  "model": "glm-5.3"
+}

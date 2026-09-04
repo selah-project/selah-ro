@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 82,
+  "translation": "Eu am spus: dumnezei sunteți voi, și fii ai Celui Preaînalt, toți voi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am spus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sunteți voi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "și fii ai"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Celui Preaînalt"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "toți voi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:25.808777808Z",
+  "model": "glm-5.3"
+}

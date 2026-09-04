@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "S-au acoperit munții de umbra ei, și ramurile ei ⟨erau⟩ cedri ai lui El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "s-au acoperit"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "umbra ei"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "și ramurile ei"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ai lui El"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:32.850929335Z",
+  "model": "glm-5.3"
+}

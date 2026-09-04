@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "de ciuma care umblă în întuneric, de molima care pustiește la amiază.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "de ciuma"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "în întuneric"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "care umblă"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "de molima"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "care pustiește"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "la amiază"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:56.083456435Z",
+  "model": "glm-5.3"
+}

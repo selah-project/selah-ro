@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și v-am purtat ⟨את⟩ pe voi patruzeci de ani în pustie; nu s-au tocit hainele voastre de pe voi, și sandaua ta nu s-a tocit de pe piciorul tău.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "și v-am purtat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi — patruzeci de ani"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "s-au tocit"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "hainele voastre"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "de pe voi"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "și sandaua ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "s-a tocit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "piciorul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:21.487998462Z",
+  "model": "glm-5.3"
+}

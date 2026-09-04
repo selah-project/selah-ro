@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a zis: Ai cerut un lucru greu la cerere; dacă mă vei vedea luat de la ⟨את⟩ tine, să fie ție așa; iar dacă nu, nu va fi ⟨așa⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "ai cerut un lucru greu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "la cerere"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vei vedea"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "luat"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "de la ⟨את⟩ tine"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iar dacă"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:53.883182262Z",
+  "model": "glm-5.3"
+}

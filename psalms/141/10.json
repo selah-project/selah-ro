@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 141,
+  "translation": "Să cadă cei răi în lațurile lor ⟨însuși⟩; eu ⟨sunt⟩ deoparte, până când voi trece.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Să cadă"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "în lațurile lor"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "deopreună"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până când"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "voi trece"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:21.130341789Z",
+  "model": "glm-5.3"
+}

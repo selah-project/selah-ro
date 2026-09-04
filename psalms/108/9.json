@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Al meu este Gilad, al meu este Menașe, și Efraim este întărirea capului meu, Iehuda este cârmuitorul meu.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "al meu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "este Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "al meu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "este Menașe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "și Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "întărirea"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capului meu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "cârmuitorul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:42.188356302Z",
+  "model": "glm-5.3"
+}

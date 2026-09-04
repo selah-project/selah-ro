@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "Dreapta lui Yahve ⟨este⟩ înălțată, dreapta lui Yahve face vitejie.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "dreapta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "înălțată"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dreapta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitejie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:47.670739043Z",
+  "model": "glm-5.3"
+}

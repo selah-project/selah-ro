@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Iar David mergea și se întorcea de la Șaul, ca să pască ⟨את⟩ turma tatălui său, la Beit-Lehem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Iar David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mergea"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "și se întorcea"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ca să pască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turma"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "turma"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:34.757684752Z",
+  "model": "glm-5.3"
+}

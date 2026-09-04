@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 100,
+  "translation": "Știți că Yahve ⟨este⟩ Elohim; el ne-a făcut pe noi, și nu noi ⟨înșine⟩; ⟨suntem⟩ poporul lui și turma pășunii lui.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Știți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ne-a făcut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "și turma"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "pășunii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:59.864476481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Cel ce se învelește în lumină ca o haină, întinde cerurile ca un cort.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "se învelește"
+    },
+    {
+      "surface": "אור",
+      "gloss": "în lumină"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "ca o haină"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "întinde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "ca un cort"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:28.249949118Z",
+  "model": "glm-5.3"
+}

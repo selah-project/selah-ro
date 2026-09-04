@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 33:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a spus Iaacov: Nu, te rog! Dacă, te rog, am aflat har în ochii tăi, ia darul meu din mâna mea, căci de aceea am văzut fața ta, ca la vederea feței lui Elohim, și m-ai primit cu bunăvoință.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "am aflat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "har"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ia"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "darul meu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "din mâna mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "ca la vederea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ותרצני",
+      "gloss": "și m-ai primit cu bunăvoință"
+    }
+  ],
+  "timestamp": "2026-09-04T10:09:32.496147382Z",
+  "model": "glm-5.3"
+}

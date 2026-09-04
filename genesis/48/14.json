@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 48:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Și a întins Israel ⟨את⟩ dreapta lui și a așezat-o pe capul lui Efrahim — și el era cel mai tânăr — și ⟨את⟩ stânga lui pe capul lui Menașe; și-a îndreptat mâinile cu bună-știință, căci Menașe era cel întâi-născut.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a întins"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dreapta lui"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dreapta lui"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "și a așezat-o"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrahim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "cel mai tânăr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "stânga lui"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "stânga lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menașe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "cu bună-știință"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lui"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinile lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menașe"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "cel întâi-născut"
+    }
+  ],
+  "timestamp": "2026-09-04T01:11:47.323028259Z",
+  "model": "glm-5.3"
+}

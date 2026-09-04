@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 13:21",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Ce vei spune când îți va cerceta ⟨el⟩ pe tine? Tu i-ai învățat pe ⟨את⟩ ei asupra ta — prieteni căpetenii! Nu durerile te vor apuca, ca pe o femeie care naște?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "vei spune"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "va cerceta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pe tine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "i-ai învățat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "asupra ta"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "prieteni căpetenii"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "căpetenii"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "durerile"
+    },
+    {
+      "surface": "יאחזוך",
+      "gloss": "te vor apuca"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca pe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "o femeie"
+    },
+    {
+      "surface": "לדה",
+      "gloss": "care naște"
+    }
+  ],
+  "timestamp": "2026-09-04T04:02:48.191098920Z",
+  "model": "glm-5.3"
+}

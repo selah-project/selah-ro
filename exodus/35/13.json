@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "⟨את⟩ masa și ⟨את⟩ barele ei și ⟨את⟩ toate uneltele ei și ⟨את⟩ pâinile feței;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "barele ei"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "barele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uneltele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pâinile feței"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinile"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "feței"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:24.125608742Z",
+  "model": "glm-5.3"
+}

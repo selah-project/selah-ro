@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 98,
+  "translation": "Râurile să bată din palme, împreună munții să chiuie de bucurie.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "râurile"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "să bată"
+    },
+    {
+      "surface": "כף",
+      "gloss": "din palme"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "să chiuie de bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:26.232957597Z",
+  "model": "glm-5.3"
+}

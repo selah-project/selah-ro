@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a ieșit Satan de la ⟨את⟩ fața lui Yahve și l-a lovit pe ⟨את⟩ Iov cu o bubă rea, de la talpa piciorului lui până la creștetul lui.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și l-a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "cu o bubă"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rea"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "de la talpa"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "piciorului lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "creștetul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:59.320899898Z",
+  "model": "glm-5.3"
+}

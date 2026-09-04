@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Am spus lui Yahve: Adonai, tu ⟨ești⟩; binele meu nu ⟨este⟩ fără de tine.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Am spus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "binele meu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fără de tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:28.557162752Z",
+  "model": "glm-5.3"
+}

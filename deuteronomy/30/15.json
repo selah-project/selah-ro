@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Vezi, am pus înaintea ta astăzi ⟨את⟩ viața și ⟨את⟩ binele, și ⟨את⟩ moartea și ⟨את⟩ răul.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vezi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am pus"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viața"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "viața"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "binele"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "moartea"
+    },
+    {
+      "surface": "המות",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "răul"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "răul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:13:20.872128860Z",
+  "model": "glm-5.3"
+}

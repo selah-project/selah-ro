@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a chemat Ițhac ⟨spre⟩ Iaacov, și l-a binecuvântat, și i-a poruncit, și i-a spus: să nu iei femeie dintre fiicele Chenaanului.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨spre⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și l-a binecuvântat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-l"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "și i-a poruncit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "iei"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "femeie"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dintre fiicele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaanului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:25.721138642Z",
+  "model": "glm-5.3"
+}

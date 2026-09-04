@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Azaria a născut ⟨את⟩ Amaria, și Amaria a născut ⟨את⟩ Ahituv.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaria"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaria"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "și Amaria"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahituv"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:47.580028679Z",
+  "model": "glm-5.3"
+}

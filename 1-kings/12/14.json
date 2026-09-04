@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și le-a vorbit după sfatul tinerilor, zicând: Tatăl meu a îngreunat ⟨את⟩ jugul vostru, iar eu voi adăuga peste jugul vostru; tatăl meu v-a pedepsit ⟨את⟩ voi cu biciuri, iar eu vă voi pedepsi ⟨את⟩ voi cu scorpioni.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și le-a vorbit"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "după sfatul"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "tinerilor"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Tatăl meu"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "a îngreunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jugul vostru"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jugul vostru"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "voi adăuga"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jugul vostru"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "a pedepsit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "cu biciuri"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "vă voi pedepsi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "cu scorpioni"
+    }
+  ],
+  "timestamp": "2026-09-04T10:11:44.474448500Z",
+  "model": "glm-5.3"
+}

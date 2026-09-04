@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și eu ⟨sunt⟩ Yahve, Elohim al tău, din țara Mițraim; și un dumnezeu în afară de mine nu vei cunoaște, și mântuitor nu ⟨este⟩ fără mine.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Și eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "și un dumnezeu"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "în afară de mine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "vei cunoaște"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "și mântuitor"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "fără mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:49.963179091Z",
+  "model": "glm-5.3"
+}

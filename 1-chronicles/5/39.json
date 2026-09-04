@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și Șalum a născut ⟨את⟩ Hilchia, și Hilchia a născut ⟨את⟩ Azaria.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "și Șalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilchia"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilchia"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "și Hilchia"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:47.580343969Z",
+  "model": "glm-5.3"
+}

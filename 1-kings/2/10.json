@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și s-a culcat David cu părinții săi și a fost îngropat în cetatea lui David.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Și s-a culcat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții săi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "și a fost îngropat"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetatea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:58.528765447Z",
+  "model": "glm-5.3"
+}

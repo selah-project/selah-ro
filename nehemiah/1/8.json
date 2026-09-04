@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Adu-ți aminte, te rog, ⟨את⟩ cuvântul pe care l-ai poruncit ⟨את⟩ lui Moșe, slujitorul tău, zicând: voi veți vicleni, eu vă voi împrăștia ⟨את⟩ printre popoare.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "adu-ți aminte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ai poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "veți vicleni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "voi împrăștia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "printre popoare"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "printre popoare"
+    }
+  ],
+  "timestamp": "2026-09-04T09:14:26.347187019Z",
+  "model": "glm-5.3"
+}

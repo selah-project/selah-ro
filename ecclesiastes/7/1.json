@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Mai bun ⟨este⟩ un nume decât untdelemn bun, și ziua morții decât ziua nașterii.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mai bun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "un nume"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "decât untdelemn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "și ziua"
+    },
+    {
+      "surface": "המות",
+      "gloss": "morții"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "decât ziua"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "nașterii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:34.021602846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "⟨את⟩ sfeșnicul cel curat, ⟨את⟩ candelele lui, candelele rânduirii, și ⟨את⟩ toate uneltele lui, și ⟨את⟩ untdelemnul luminii",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfeșnicul cel curat"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sfeșnicul"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "cel curat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "candelele lui"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "candelele lui"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "candelele"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "rânduirii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "uneltele lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "untdelemnul luminii"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "untdelemnul"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "luminii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:11.781721124Z",
+  "model": "glm-5.3"
+}

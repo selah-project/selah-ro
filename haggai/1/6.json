@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 1:6",
+  "book": "haggai",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Ați semănat mult și ați adus puțin: mâncați și nu ⟨este⟩ săturare, beți și nu ⟨este⟩ îmbuibare, vă îmbrăcați și nu ⟨este⟩ căldură pentru el; și cel ce se tocmește cu plata se tocmește cu plata spre un săculeț găurit.",
+  "tokens": [
+    {
+      "surface": "זרעתם",
+      "gloss": "Ați semănat"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mult"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "și ați adus"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "mâncați"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "⟨este⟩ săturare"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "beți"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "⟨este⟩ îmbuibare"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "vă îmbrăcați"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "căldură"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "והמשתכר",
+      "gloss": "și cel ce se tocmește cu plata"
+    },
+    {
+      "surface": "משתכר",
+      "gloss": "se tocmește cu plata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "un săculeț"
+    },
+    {
+      "surface": "נקוב",
+      "gloss": "găurit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:48:11.046265832Z",
+  "model": "glm-5.3"
+}

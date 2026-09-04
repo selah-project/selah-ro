@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și acum mergi, și eu voi fi cu gura ta și te voi învăța ce să vorbești.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "și eu"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "voi fi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gura ta"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "și te voi învăța"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "să vorbești"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:41.481125626Z",
+  "model": "glm-5.3"
+}

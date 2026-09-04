@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Tu, Yahve, nu vei opri îndurările tale de la mine; hesedul tău și adevărul tău mereu mă vor păzi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "vei opri"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "îndurările tale"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "și adevărul tău"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mereu"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "mă vor păzi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:07.099349190Z",
+  "model": "glm-5.3"
+}

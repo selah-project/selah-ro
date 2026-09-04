@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Yahve îl va sprijini pe patul lâncovelii; tot culcușul lui l-ai întors în boala lui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "îl va sprijini"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "patul"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "lâncovelii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "culcușul lui"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "l-ai întors"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "în boala lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:46.297815528Z",
+  "model": "glm-5.3"
+}

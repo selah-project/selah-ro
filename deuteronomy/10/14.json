@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Iată, ale lui Yahve, Elohimului tău, sunt cerurile și cerurile cerurilor, pământul și tot ce este în el;",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ale lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimului tău"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "și cerurile"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בה",
+      "gloss": "este în el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:45.390490806Z",
+  "model": "glm-5.3"
+}

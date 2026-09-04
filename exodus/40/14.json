@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și ⟨את⟩ fiii lui vei aduce aproape, și îi vei îmbrăca ⟨את⟩ cu tunici.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "vei aduce aproape"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "și îi vei îmbrăca"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ îi",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tunici"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:10.001946301Z",
+  "model": "glm-5.3"
+}

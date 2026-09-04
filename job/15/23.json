@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Hoinărește el după pâine — unde este? Știe că gata, în mâna lui, ⟨este⟩ ziua întunericului.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "hoinărește"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "după pâine"
+    },
+    {
+      "surface": "איה",
+      "gloss": "unde este?"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "știe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gata"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întunericului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:30:27.302742287Z",
+  "model": "glm-5.3"
+}

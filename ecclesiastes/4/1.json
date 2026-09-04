@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și m-am întors eu și am văzut ⟨את⟩ pe toți asupriții care se fac sub soare, și iată lacrima asupriților, și nu ⟨este⟩ pentru ei mângâietor, și din mâna asupritorilor lor ⟨vine⟩ putere, și nu ⟨este⟩ pentru ei mângâietor.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Și m-am întors"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "și am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți asupriții"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "asupriții"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "se fac"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "lacrima"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "asupriților"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pentru ei"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "mângâietor"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "și din mâna"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "asupritorilor lor"
+    },
+    {
+      "surface": "כח",
+      "gloss": "putere"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pentru ei"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "mângâietor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:35.218825314Z",
+  "model": "glm-5.3"
+}

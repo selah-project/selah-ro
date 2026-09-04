@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a aruncat Șaul ⟨את⟩ sulița, căci a zis: Îl voi lovi pe David, chiar în perete! Și s-a ferit David de fața lui de două ori.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "Și a aruncat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sulița"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "sulița"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "căci a zis"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "Îl voi lovi"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "pe David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "chiar în perete"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "Și s-a ferit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de fața lui"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "de două ori"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:29.242442502Z",
+  "model": "glm-5.3"
+}

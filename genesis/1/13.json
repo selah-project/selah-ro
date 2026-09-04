@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a fost seară, și a fost dimineață — ziua a treia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "seară"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineață"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "a treia"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:27.805873689Z",
+  "model": "glm-5.3"
+}

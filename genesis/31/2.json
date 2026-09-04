@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a văzut Iaacov ⟨את⟩ fața lui Lavan, și iată nu mai era cu el ca ieri, alaltăieri.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața lui Lavan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "lui Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nu mai era"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ca ieri"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "alaltăieri"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:46.420988675Z",
+  "model": "glm-5.3"
+}

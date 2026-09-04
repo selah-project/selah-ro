@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Când ⟨era⟩ copil Israel, îl iubeam, și din Mițraim i-am chemat pe fiul Meu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "נער",
+      "gloss": "copil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "îl iubeam"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "și din Mițraim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "i-am chemat"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pe fiul Meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:20.057197894Z",
+  "model": "glm-5.3"
+}

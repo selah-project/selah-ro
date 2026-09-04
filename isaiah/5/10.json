@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căci zece pogoane de vie vor face un bat, și sămânța unui homer va face un efa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zece"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "pogoane (perechi de boi) de"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vie"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "vor face"
+    },
+    {
+      "surface": "בת",
+      "gloss": "un bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "unul (o singură)"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "și sămânța"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "homer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "un efa"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:05.126847440Z",
+  "model": "glm-5.3"
+}

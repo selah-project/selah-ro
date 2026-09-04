@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "Iată, am auzit-o în Efrata, am găsit-o în câmpiile pădurii.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "am auzit-o"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "în Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "am găsit-o"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "în câmpiile"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pădurii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:43.739576150Z",
+  "model": "glm-5.3"
+}

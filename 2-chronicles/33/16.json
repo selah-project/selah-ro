@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a întocmit ⟨את⟩ altarul lui Yahve și a jertfit pe el jertfe de pace și de mulțumire, și a zis lui Iehuda să slujească ⟨את⟩ pe Yahve, Elohim al lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "și a întocmit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarul lui Yahve"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "și a jertfit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "jertfe"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "de pace"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "și de mulțumire"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "să slujească"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:30:43.274282804Z",
+  "model": "glm-5.3"
+}

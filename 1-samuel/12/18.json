@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "A chemat Șemuel către Yahve, și Yahve a dat glasuri și ploaie în ziua aceea; și tot poporul s-a temut foarte ⟨את⟩ de Yahve și ⟨את⟩ de Șemuel.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "A chemat"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "glasuri"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "și ploaie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "și s-a temut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:44:03.113874046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Ca jertfa de păcat, așa și jertfa de vină — o singură Tora ⟨este⟩ pentru ele; cohenul care face despăgubirea cu ea, a lui să fie.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "Ca jertfa de păcat"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "așa și jertfa de vină"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "o singură"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pentru ele"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "face despăgubirea"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cu ea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:09.531702915Z",
+  "model": "glm-5.3"
+}

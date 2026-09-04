@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Două lucruri am cerut de la tine: nu mi le refuza înainte să mor.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Două"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "am cerut"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "de la ⟨את⟩ tine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "refuza"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "înainte să"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:41.180284793Z",
+  "model": "glm-5.3"
+}

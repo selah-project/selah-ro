@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Ce este strâmb nu poate fi îndreptat, și ce lipsește nu poate fi numărat.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Ce este strâmb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "poate"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "fi îndreptat"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "și ce lipsește"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "poate"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "fi numărat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:42:59.058838370Z",
+  "model": "glm-5.3"
+}

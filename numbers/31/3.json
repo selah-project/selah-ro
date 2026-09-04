@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Și a vorbit Moșe către popor, zicând: Înarmați din ⟨את⟩ voi oameni pentru oștire, și să fie împotriva Midian, ca să dea răzbunarea lui Yahve asupra Midian.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "Înarmați"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "din ⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "pentru oștire"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și să fie"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ca să dea"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "răzbunarea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "asupra Midian"
+    }
+  ],
+  "timestamp": "2026-09-04T01:55:41.518978050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Căci săgețile tale s-au înfipt în mine și mâna ta s-a lăsat peste mine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "săgețile tale"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "s-au înfipt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "și s-a lăsat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:58.686815687Z",
+  "model": "glm-5.3"
+}

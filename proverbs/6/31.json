@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Iar de este găsit, va înapoia de șapte ori: ⟨את⟩ tot avutul casei lui va da.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "iar de este găsit"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "va înapoia"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "de șapte ori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot avutul casei lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הון",
+      "gloss": "avutul"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casei lui"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:29.864705502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și era temuită cu pietre scumpe, pietre mari, pietre de zece coți și pietre de opt coți.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "Și era temuită"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "scumpe"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mari"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pietre de"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zece"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coți"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "și pietre de"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "opt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coți"
+    }
+  ],
+  "timestamp": "2026-09-04T08:56:24.241381360Z",
+  "model": "glm-5.3"
+}

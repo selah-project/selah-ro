@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Lăudați-l, soare și lună, lăudați-l, toate stelele de lumină!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "și lună"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "stelele"
+    },
+    {
+      "surface": "אור",
+      "gloss": "de lumină"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:54.560106226Z",
+  "model": "glm-5.3"
+}

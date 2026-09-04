@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "ochi pentru ochi, dinte pentru dinte, mână pentru mână, picior pentru picior —",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ochi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dinte"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dinte"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mână"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mână"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "picior"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "picior"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:42.539498682Z",
+  "model": "glm-5.3"
+}

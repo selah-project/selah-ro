@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și s-a întors ⟨את⟩ cu el, și a mâncat pâine în casa lui, și a băut apă.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și s-a întors"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el",
+      "marks": "s-a întors"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "și a mâncat"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "în casa lui"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "și a băut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:27.557574052Z",
+  "model": "glm-5.3"
+}

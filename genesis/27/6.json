@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Rivka a vorbit către Iaacov, fiul ei, zicând: Iată, l-am auzit ⟨את⟩ pe tatăl tău vorbind către Esav, fratele tău, zicând:",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "iar Rivka"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fiul ei"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe tatăl tău"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "pe tatăl tău"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "vorbind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:15.767877078Z",
+  "model": "glm-5.3"
+}

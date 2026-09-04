@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Căci Atalia, cea răufăcătoare — fiii ei au sfărâmat ⟨את⟩ casa lui Elohim, și chiar toate lucrurile sfinte ale casei lui Yahve le-au făcut pentru Baali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "cea răufăcătoare"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "fiii ei"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "au sfărâmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "lucrurile sfinte ale"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "le-au făcut"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "pentru Baali"
+    }
+  ],
+  "timestamp": "2026-09-04T08:22:58.344242383Z",
+  "model": "glm-5.3"
+}

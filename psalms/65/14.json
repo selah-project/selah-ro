@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "S-au îmbrăcat pășunile cu turme, și văile se învelesc cu grâu; chiuiesc, chiar și cântă.",
+  "tokens": [
+    {
+      "surface": "לָבְשׁ֬וּ",
+      "gloss": "s-au îmbrăcat"
+    },
+    {
+      "surface": "כָּרִ֨ים",
+      "gloss": "pășunile"
+    },
+    {
+      "surface": "הַצֹּ֗אן",
+      "gloss": "cu turme"
+    },
+    {
+      "surface": "וַעֲמָקִ֥ים",
+      "gloss": "și văile"
+    },
+    {
+      "surface": "יַֽעַטְפוּ",
+      "gloss": "se învelesc"
+    },
+    {
+      "surface": "בָּ֑ר",
+      "gloss": "cu grâu"
+    },
+    {
+      "surface": "יִ֝תְרוֹעֲע֗וּ",
+      "gloss": "chiuiesc"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "יָשִֽׁירוּ",
+      "gloss": "cântă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:51.242184219Z",
+  "model": "glm-5.3"
+}

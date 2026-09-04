@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Fiți tari, și să-și întărească inima voastră, toți cei ce nădăjduiesc către Yahve!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Fiți tari"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "și să-și întărească"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inima voastră"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "cei ce nădăjduiesc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:15.348661278Z",
+  "model": "glm-5.3"
+}

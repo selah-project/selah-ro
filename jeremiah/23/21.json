@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Nu i-am trimis ⟨את⟩ profeții, și totuși au alergat; nu le-am vorbit, și totuși au profețit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "i-am trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeții"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeții"
+    },
+    {
+      "surface": "והם",
+      "gloss": "și totuși"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "au alergat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "le-am vorbit"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "(lor)"
+    },
+    {
+      "surface": "והם",
+      "gloss": "și totuși"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "au profețit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:06:50.598711051Z",
+  "model": "glm-5.3"
+}

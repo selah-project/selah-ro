@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și via ta să nu o curăți de tot, și boabele căzute ale viei tale să nu le aduni: săracului și străinului să le lași ⟨את⟩ pe ele; eu sunt Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "Și via ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "să curăți (de tot)"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "și boabele căzute"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "viei tale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "să aduni"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "săracului"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "și străinului"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "să lași"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ele",
+      "marks": "ele (colțul, spicele căzute și boabele lăsate)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:40.530999258Z",
+  "model": "glm-5.3"
+}

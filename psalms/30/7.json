@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Iar eu am zis în liniștea mea: niciodată nu mă voi clătina, în veci.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "în liniștea mea"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niciodată"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nu mă voi clătina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veci"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:57.560947987Z",
+  "model": "glm-5.3"
+}

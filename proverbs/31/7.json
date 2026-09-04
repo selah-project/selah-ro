@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Să bea și să-și uite sărăcia, și necazul lui să nu și-l mai amintească.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "să bea"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "și să-și uite"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "sărăcia"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "și necazul lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "și-l mai amintească"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "(nimic)"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:08.865348585Z",
+  "model": "glm-5.3"
+}

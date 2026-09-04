@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Fiii tăi au leșinat, zac la capătul tuturor străzilor, ca antilopa într-o plasă, plini de mânia lui Yahve, de mustrarea lui Elohim, al tău.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Fiii tăi"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "au leșinat"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "zac"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "la capătul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "străzilor"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "ca antilopa"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "într-o plasă"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "plini"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "de mânia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "de mustrarea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "lui Elohim, al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:56.406782850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și cei rătăciți în duh vor cunoaște înțelegerea, și cei care murmură vor învăța învățătura.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "vor cunoaște"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "cei rătăciți"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "în duh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "înțelegerea"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "și cei care murmură"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "vor învăța"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "învățătura"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:22.687354751Z",
+  "model": "glm-5.3"
+}

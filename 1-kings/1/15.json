@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a intrat Bat-Șeva la rege, în odaia lui, iar regele era foarte bătrân, și Avișag șunamita îl slujea ⟨את⟩ regele.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Și a intrat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "în odaia lui"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "iar regele"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "era bătrân"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "și Avișag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "șunamita"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "îl slujea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:15:47.666114408Z",
+  "model": "glm-5.3"
+}

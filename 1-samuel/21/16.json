@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Îmi lipsesc nebunii, că ați adus ⟨את⟩ acesta să-și piardă mințile înaintea mea? Acesta să intre în casa mea?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Îmi lipsesc"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "nebunii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨mie⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ați adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acesta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "să-și piardă mințile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Acesta"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "să intre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "casa mea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:20:09.816589138Z",
+  "model": "glm-5.3"
+}

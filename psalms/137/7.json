@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 137,
+  "translation": "Adu-ți aminte, Yahve, de fiii Edomului, de ⟨את⟩ ziua Ierușalaimului — cei care ziceau: «Dărâmați-o, dărâmați-o, până la temeliile ei!»",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Adu-ți aminte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "de fiii"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziua Ierușalaimului"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "cei care ziceau"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "«Dărâmați-o"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dărâmați-o"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "temeliile"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ei»"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:17.775083244Z",
+  "model": "glm-5.3"
+}

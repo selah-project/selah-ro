@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și s-a spus casei lui David, zicând: s-a așezat Aram peste Efraim; și i s-a clătinat inima și inima poporului său, cum se clatină copacii pădurii din fața vântului.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și s-a spus"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "s-a așezat"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "și i s-a clătinat"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "și inima"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporului său"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "cum se clatină"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "copacii"
+    },
+    {
+      "surface": "יער",
+      "gloss": "pădurii"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din fața"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vântului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:41.163959758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "și îi vor face să poarte ⟨את⟩ vina vinovăției, când mănâncă ⟨את⟩ sfințiile lor; căci eu sunt Yahve, cel care îi sfințește.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "și îi vor face să poarte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vina"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "vinovăției"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "când mănâncă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfințiile lor"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "sfințiile lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "cel care îi sfințește"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:33.864791693Z",
+  "model": "glm-5.3"
+}

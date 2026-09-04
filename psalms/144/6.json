@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Trimite fulgerul și îi va împrăștia; slobozește-ți săgețile și îi va tulbura.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "trimite fulgerul"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "fulgerul"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "și îi va împrăștia"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "slobozește"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "săgețile"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "și îi va tulbura"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:56.806688445Z",
+  "model": "glm-5.3"
+}

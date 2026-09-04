@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și au vorbit către Moșe, zicând: Poporul înmulțește aducerea, mai mult decât destul pentru slujba lucrării pe care a poruncit Yahve să o facă ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au vorbit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "înmulțesc"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "să aducă"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "mai mult decât"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "slujba"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "pentru lucru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ o",
+      "marks": "lucrarea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:19.480030989Z",
+  "model": "glm-5.3"
+}

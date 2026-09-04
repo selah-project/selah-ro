@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Inima înțelepților ⟨este⟩ în casa doliului, și inima nebunilor ⟨este⟩ în casa veseliei.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Inima"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "înțelepților"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "doliului"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "și inima"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nebunilor"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veseliei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:34.022188932Z",
+  "model": "glm-5.3"
+}

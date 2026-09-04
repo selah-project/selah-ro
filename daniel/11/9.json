@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și va intra în împărăția regelui sudului, și se va întoarce la pământul lui.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Și va intra"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "în împărăția"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "sudului"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "și se va întoarce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "pământul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:54:29.204491294Z",
+  "model": "glm-5.3"
+}

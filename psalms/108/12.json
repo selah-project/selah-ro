@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Nu ne-ai lepădat, oare, Elohim, și nu vei ieși, Elohim, cu oștirile noastre?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nu… oare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ne-ai lepădat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vei ieși"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "cu oștirile noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:35.383640918Z",
+  "model": "glm-5.3"
+}

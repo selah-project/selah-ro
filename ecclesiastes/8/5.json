@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Cel ce păzește porunca nu va cunoaște lucru rău, și vreme și judecată cunoaște inima înțeleptului.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Cel ce păzește"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "va cunoaște"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lucru"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "și vreme"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și judecată"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțeleptului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:44.021828889Z",
+  "model": "glm-5.3"
+}

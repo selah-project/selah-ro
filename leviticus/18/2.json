@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Vorbește către fiii lui Israel și le vei spune: Eu ⟨sunt⟩ Yahve, Elohim vostru.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și vei spune"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:50.323900631Z",
+  "model": "glm-5.3"
+}

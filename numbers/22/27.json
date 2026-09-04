@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 22:27",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a văzut iapa ⟨את⟩ îngerul lui Yahve și s-a culcat sub Bilam; și s-a aprins mânia lui Bilam, și a lovit ⟨את⟩ iapa cu toiagul.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "iapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "îngerul"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "îngerul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ותרבץ",
+      "gloss": "și s-a culcat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "și s-a aprins"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "lui Bilam"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iapa"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "iapa"
+    },
+    {
+      "surface": "במקל",
+      "gloss": "cu toiagul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:52:16.849809795Z",
+  "model": "glm-5.3"
+}

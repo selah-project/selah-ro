@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Veniți, auziți, și le voi povesti tuturor temătorilor lui Elohim ce a făcut pentru sufletul meu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "auziți"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "și le voi povesti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "temătorilor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pentru sufletul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:56.507579676Z",
+  "model": "glm-5.3"
+}

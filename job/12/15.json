@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Iată, oprește ⟨apele⟩ și seacă; le trimite și răstoarnă pământul.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "oprește"
+    },
+    {
+      "surface": "במים",
+      "gloss": "⟨apele⟩"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "și seacă"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "și le trimite"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "și răstoarnă"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:25.004611389Z",
+  "model": "glm-5.3"
+}

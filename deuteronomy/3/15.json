@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Iar lui Machir i-am dat ⟨את⟩ Ghilead.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Iar lui Machir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ghilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Ghilead"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:42.421665134Z",
+  "model": "glm-5.3"
+}

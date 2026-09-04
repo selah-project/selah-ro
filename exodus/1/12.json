@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Dar pe cât îi asupreau ⟨את⟩, pe atât se înmulțeau și pe atât se răspândeau; și le era groază din pricina fiilor lui Israel.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "dar pe cât"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "îi asupreau"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ei (Israelul)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pe atât"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "se înmulțeau"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "și pe atât"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "se răspândeau"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "și le era groază"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "din pricina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:33.258095086Z",
+  "model": "glm-5.3"
+}

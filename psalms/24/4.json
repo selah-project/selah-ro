@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Cel cu mâini curate și inimă curată, care nu și-a ridicat spre deșărtăciune sufletul și nu s-a jurat cu înșelăciune.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "curate"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mâini"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "și curată"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "și-a ridicat"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "spre deșărtăciune"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "s-a jurat"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "cu înșelăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:39.024193103Z",
+  "model": "glm-5.3"
+}

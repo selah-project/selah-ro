@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și aceasta ⟨este⟩ Tora nezirului: în ziua împlinirii zilelor închinării lui, îl va aduce ⟨את⟩ la intrarea cortului întâlnirii.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Și aceasta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "nezirului"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "împlinirii"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilelor"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "închinării lui"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "îl va aduce"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "el — nezirul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "intrarea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:52:31.385708441Z",
+  "model": "glm-5.3"
+}

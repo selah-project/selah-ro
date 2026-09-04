@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Șigaion al lui David, pe care l-a cântat lui Yahve, despre cuvintele lui Kuș, fiul lui Iemini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Șigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שר",
+      "gloss": "a cântat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "despre"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuș"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "al lui Iemini"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:01.784847225Z",
+  "model": "glm-5.3"
+}

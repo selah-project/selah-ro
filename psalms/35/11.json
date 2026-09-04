@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Se ridică martori ai violenței; ce nu am știut mă întreabă.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Se ridică"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "martori"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ai violenței"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "am știut"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "mă întreabă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:47.259716743Z",
+  "model": "glm-5.3"
+}

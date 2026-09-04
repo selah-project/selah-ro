@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "din locașul șederii lui își pleacă privirea către toți locuitorii pământului.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "din locașul"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "șederii lui"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "își pleacă privirea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:21.475022535Z",
+  "model": "glm-5.3"
+}

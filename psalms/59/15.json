@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Și să se întoarcă seara, să mârâie ca un câine și să dea târcoale cetății.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Și să se întoarcă"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "seara"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "să mârâie"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ca un câine"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "și să dea târcoale"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetății"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:33.442063257Z",
+  "model": "glm-5.3"
+}

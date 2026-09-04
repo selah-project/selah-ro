@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a apropiat Moșe ⟨את⟩ Aharon și ⟨את⟩ fiii lui, și i-a spălat ⟨את⟩ pe ei cu apă.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Și a apropiat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "și i-a spălat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei"
+    },
+    {
+      "surface": "במים",
+      "gloss": "cu apă"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:44.111039052Z",
+  "model": "glm-5.3"
+}

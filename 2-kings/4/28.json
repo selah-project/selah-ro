@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și ea a zis: Am cerut eu un fiu de la ⟨את⟩ domnul meu? Nu ți-am spus eu: Să nu ⟨את⟩ mă amăgești?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și ea a zis"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Am cerut eu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "domnul meu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "domnul meu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ți-am spus eu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "să mă amăgești"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:24:54.951604056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Păzește ⟨את⟩ luna abibului și să faci Pesah lui Yahve, Elohim al tău, căci în luna abibului te-a scos Yahve, Elohim al tău, din Mițraim, noaptea.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luna abibului"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "luna"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "abibului"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și să faci"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "în luna"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "abibului"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "te-a scos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noaptea"
+    }
+  ],
+  "timestamp": "2026-09-04T02:07:26.222771396Z",
+  "model": "glm-5.3"
+}

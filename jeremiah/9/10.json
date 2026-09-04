@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și voi pune ⟨את⟩ Ierușalaim în grămezi de pietre, adăpost de șacali, și ⟨את⟩ cetățile lui Iehuda le voi da pustiire, fără locuitor.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Și voi pune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "în grămezi de pietre"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "adăpost"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "de șacali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cetățile lui Iehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cetățile"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "le voi da"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustiire"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "fără"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "locuitor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:01:45.627507143Z",
+  "model": "glm-5.3"
+}

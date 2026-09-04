@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Căci eu ⟨sunt⟩ gata să șchiopătez, și durerea mea ⟨este⟩ neîncetat înaintea mea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "să șchiopătez"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gata"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "și durerea mea"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:44.312660266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și tânărul Șemuël slujea ⟨את⟩ lui Yahve înaintea lui Eli, și cuvântul lui Yahve era rar în zilele acelea — ⟨nu⟩ era vedenie deschisă.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Și tânărul"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "slujea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lui Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "și cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "rar"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "acelea"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨nu⟩ era"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "vedenie"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "deschisă"
+    }
+  ],
+  "timestamp": "2026-09-04T02:39:51.861350213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Yahve, nu este ca tine și nu este Elohim afară de tine, în tot ce am auzit cu urechile noastre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ca tine"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "afară de tine"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "cu urechile noastre"
+    }
+  ],
+  "timestamp": "2026-09-04T09:26:31.647376210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a tăgăduit Sara, zicând: nu am râs — căci s-a temut. Și a spus ⟨el⟩: nu, ci ai râs.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Și a tăgăduit"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "am râs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "s-a temut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "ai râs"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:32.147429377Z",
+  "model": "glm-5.3"
+}

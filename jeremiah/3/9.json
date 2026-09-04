@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a fost din ușurătatea curviei ei ⟨את⟩ pământul — l-a pângărit — și a preacurvit cu ⟨את⟩ piatra și cu ⟨את⟩ lemnul.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "din ușurătatea"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "curviei ei"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "a pângărit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "și a preacurvit"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "piatra"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "piatra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și cu ⟨את⟩",
+      "marks": "lemnul"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lemnul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:58:02.714469059Z",
+  "model": "glm-5.3"
+}

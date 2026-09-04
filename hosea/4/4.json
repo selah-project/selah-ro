@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Totuși nimeni să nu se ceartă și nimeni să nu mustere, căci poporul tău ⟨sunt⟩ ca cei ce se ceartă cu ⟨את⟩ cohenul.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Totuși"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "se ceartă"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "mustere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "căci poporul tău"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "ca cei ce se ceartă cu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "cohenul"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.568020569Z",
+  "model": "glm-5.3"
+}

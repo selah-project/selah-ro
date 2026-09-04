@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a fost războiul lung între casa lui Șaul și între casa lui David, iar David mergea și se întărea, iar casa lui Șaul mergea și slăbea.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "războiul"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "lung"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "iar David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mergea"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "și se întărea"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iar casa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "mergeau"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "și slăbeau"
+    }
+  ],
+  "timestamp": "2026-09-04T02:54:38.416629891Z",
+  "model": "glm-5.3"
+}

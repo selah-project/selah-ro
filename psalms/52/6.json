@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Ai iubit toate cuvintele înghițitoare, limbă de înșelăciune!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Ai iubit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "îngițitoare"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "limbă"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "de înșelăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:56.848417343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a auzit David, și a trimis ⟨את⟩ pe Ioav și ⟨את⟩ toată oastea vitejilor.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Ioav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată oastea vitejilor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "oastea"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "vitejilor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:21:05.400054737Z",
+  "model": "glm-5.3"
+}

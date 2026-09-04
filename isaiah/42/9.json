@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Iată, cele dintâi au venit, și lucruri noi eu vestesc; înainte să răsară, vi le fac să le auziți.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "cele dintâi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "și lucruri noi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "vestesc"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "înainte să"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "răsară"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "fac să auziți"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "pronume, nu semn: אֶתְכֶם = pe voi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:28:32.382816973Z",
+  "model": "glm-5.3"
+}

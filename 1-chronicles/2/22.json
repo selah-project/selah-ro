@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și Segub a născut ⟨את⟩ Iair, și i-au fost douăzeci și trei de cetăți în țara lui Ghilad.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "Și Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iair"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Iair"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "și trei"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cetăți"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "lui Ghilad"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:29.497683351Z",
+  "model": "glm-5.3"
+}

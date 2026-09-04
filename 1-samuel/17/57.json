@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și la întoarcerea lui David de la uciderea ⟨את⟩ filisteanului, l-a luat Avner și l-a adus înaintea lui Șaul, iar capul filisteanului era în mâna lui.",
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "și la întoarcerea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "de la uciderea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisteanului"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteanului"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "l-a luat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "pe el (David)"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "și l-a adus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șaul"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "iar capul"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteanului"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "era în mâna lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:06.148080228Z",
+  "model": "glm-5.3"
+}

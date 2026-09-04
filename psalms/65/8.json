@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Cel ce potolește vuietul mărilor, vuietul valurilor lor și zarva neamurilor.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "potolește"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "vuietul"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mărilor"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "vuietul"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "valurilor lor"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "și zarva"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "neamurilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:08.214042407Z",
+  "model": "glm-5.3"
+}

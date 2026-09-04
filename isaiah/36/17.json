@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Până ce vin și iau ⟨את⟩ voi către o țară ca țara voastră, o țară de grâu și must, o țară de pâine și vii.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "באי",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "și iau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o țară"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "ca țara voastră"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o țară"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "de grâu"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "și must"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o țară"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pâine"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "și vii"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:32.934086305Z",
+  "model": "glm-5.3"
+}

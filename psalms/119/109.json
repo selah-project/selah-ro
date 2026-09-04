@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Sufletul meu ⟨este⟩ neîncetat în palma mea, și Tora ta nu am uitat-o.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "în palma mea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neîncetat"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "și Tora ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "am uitat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:51.972185940Z",
+  "model": "glm-5.3"
+}

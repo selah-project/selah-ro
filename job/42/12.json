@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și Yahve a binecuvântat ⟨את⟩ sfârșitul lui Iov mai mult decât începutul lui; și au fost ale lui patru sprezece mii de oi, și șase mii de cămile, și o mie de perechi de boi, și o mie de măgări.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Și Yahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "a binecuvântat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfârșitul lui Iov"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sfârșitul"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "lui Iov"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "decât începutul lui"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ale lui"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "patru"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mii"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "de oi"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "și șase"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "de cămile"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "și o mie"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "de perechi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de boi"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "și o mie"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "de măgări"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:06.687428142Z",
+  "model": "glm-5.3"
+}

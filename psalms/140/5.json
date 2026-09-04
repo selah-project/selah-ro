@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Păzește-mă, Yahve, de mâinile celui rău, de omul violențelor mă vei păzi — cei care au urzit să-mi clatine pașii.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Păzește-mă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "de mâinile"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "celui rău"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de omul"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "violențelor"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "mă vei păzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "au urzit"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "să clatine"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "pașii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:08.242552224Z",
+  "model": "glm-5.3"
+}

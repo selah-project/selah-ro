@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Iar mană era ca sămânța de coriandru, iar privirea ei ca privirea bedoliului.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "Iar mană"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ca sămânța"
+    },
+    {
+      "surface": "גד",
+      "gloss": "de coriandru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "era"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "iar privirea ei"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "ca privirea"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedoliului"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:58.743730765Z",
+  "model": "glm-5.3"
+}

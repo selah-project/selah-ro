@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "să lase liber fiecare pe ⟨את⟩ robul său și fiecare pe ⟨את⟩ roaba sa, ebraicul și ebraica — liberi, ca să nu mai îi robească niciunul, un iudeu, fratele lui, un om",
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "să lase liber"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robul său"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "robul său"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "și fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roaba sa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "roaba sa"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "ebraicul"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "și ebraica"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "liberi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "îi robească"
+    },
+    {
+      "surface": "בם",
+      "gloss": "îi"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "unui iudeu"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    }
+  ],
+  "timestamp": "2026-09-04T09:01:44.647795531Z",
+  "model": "glm-5.3"
+}

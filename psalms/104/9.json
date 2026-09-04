@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Un hotar ai pus — nu vor trece, nu se vor întoarce să acopere pământul.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "hotar"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ai pus"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "vor trece"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "se vor întoarce"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "să acopere"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:16.966706109Z",
+  "model": "glm-5.3"
+}

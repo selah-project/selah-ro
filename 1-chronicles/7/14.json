@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Fiii lui Menașe: Asriel, ⟨pe care⟩ i l-a născut țiitoarea lui, arameica; ea a născut ⟨את⟩ Machir, tatăl lui Gilad.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiii"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "lui Menașe"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨pe care⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i l-a născut"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "țiitoarea lui"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "arameica"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ea a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Machir"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "lui Gilad"
+    }
+  ],
+  "timestamp": "2026-09-04T08:18:59.551399790Z",
+  "model": "glm-5.3"
+}

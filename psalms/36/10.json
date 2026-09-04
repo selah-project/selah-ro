@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Căci la tine ⟨este⟩ izvorul vieților; în lumina ta vom vedea lumină.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "izvorul"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vieților"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "în lumina ta"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "vom vedea"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumină"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:44.365528155Z",
+  "model": "glm-5.3"
+}

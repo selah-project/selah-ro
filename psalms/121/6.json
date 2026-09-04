@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 121,
+  "translation": "Ziua soarele nu te va lovi, nici luna noaptea.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Ziua"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "te va lovi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "nici luna"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noaptea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:57.867308481Z",
+  "model": "glm-5.3"
+}

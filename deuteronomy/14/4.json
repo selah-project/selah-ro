@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Aceasta este dobitoaca pe care o veți mânca: bou, oaie din oi și ied din capre.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Aceasta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobitoaca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "veți mânca"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bou"
+    },
+    {
+      "surface": "שה",
+      "gloss": "oaie"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "din oi"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "și ied"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "din capre"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:16.817383867Z",
+  "model": "glm-5.3"
+}

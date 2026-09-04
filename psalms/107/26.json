@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Se suiesc spre ceruri, coboară în adâncuri, sufletul lor se topește de rău.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Se suiesc"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "spre ceruri"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "coboară"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "în adâncuri"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sufletul lor"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "de rău"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "se topește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:27.408790713Z",
+  "model": "glm-5.3"
+}

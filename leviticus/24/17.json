@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și un om, dacă lovește ⟨את⟩ sufletul oricărui om, moarte va fi omorât.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Și un om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lovește"
+    },
+    {
+      "surface": "כל",
+      "gloss": "orice"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "om"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moarte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "va fi omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:28.562221893Z",
+  "model": "glm-5.3"
+}

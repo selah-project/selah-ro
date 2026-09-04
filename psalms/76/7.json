@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 76,
+  "translation": "De la mustrarea ta, Elohim al lui Iaacov, au căzut înmărmuriți carul și calul.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "De la mustrarea ta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "au căzut înmărmuriți"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "carul"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "și calul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:30.720018139Z",
+  "model": "glm-5.3"
+}

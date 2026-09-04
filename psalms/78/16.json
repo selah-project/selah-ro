@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și a scos pâraie din stâncă și a făcut apele să coboare ca râurile.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Și a scos"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "pâraie"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "din stâncă"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "și a făcut să coboare"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "ca râurile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:46.028629902Z",
+  "model": "glm-5.3"
+}

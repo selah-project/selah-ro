@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "atunci tu să asculți ⟨din⟩ ceruri și să faci și să judeci ⟨את⟩ robii tăi: să socotești vinovat pe cel rău, dându-i calea pe capul lui, și să socotești drept pe cel drept, dându-i după dreptatea lui.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "atunci tu"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "să asculți"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ceruri"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și să faci"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "și să judeci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robii tăi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robii tăi"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "să socotești vinovat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe cel rău"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dându-i"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "calea"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pe capul lui"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "și să socotești drept"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pe cel drept"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dându-i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "după dreptatea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:13:35.342054754Z",
+  "model": "glm-5.3"
+}

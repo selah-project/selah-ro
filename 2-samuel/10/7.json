@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a auzit David și a trimis ⟨את⟩ Ioav și ⟨את⟩ toată oștirea vitejilor.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată oștirea vitejilor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "oștirea"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "vitejilor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:57:42.090725494Z",
+  "model": "glm-5.3"
+}

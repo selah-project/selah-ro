@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și au îndepărtat fiii lui Israel ⟨את⟩ Baalii și ⟨את⟩ Astartele, și au slujit ⟨את⟩ lui Yahve, lui singur.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Și au îndepărtat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalii"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Astartele"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Astartele"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "și au slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lui singur"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:09.279038447Z",
+  "model": "glm-5.3"
+}

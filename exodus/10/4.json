@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Căci dacă refuzi tu să dai drumul ⟨את⟩ poporului meu, iată, aduc mâine lăcuste în hotarele tale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refuzi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "să dai drumul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporului meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului meu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "iată"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "aduc"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mâine"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "lăcuste"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "în hotarele tale"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:37.296742100Z",
+  "model": "glm-5.3"
+}

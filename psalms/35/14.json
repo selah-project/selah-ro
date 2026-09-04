@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Ca un prieten, ca un frate pentru mine, mă plimbam; ca un jelitor după o mamă, întunecat mă plecam.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ca un prieten"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "ca un frate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "mă plimbam"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "ca un jelitor"
+    },
+    {
+      "surface": "אם",
+      "gloss": "după o mamă"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "întunecat"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "mă plecam"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:56.105659553Z",
+  "model": "glm-5.3"
+}

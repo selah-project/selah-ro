@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Căci ⟨את⟩ cel pe care îl iubește Yahve îl ceartă, și ca un părinte ⟨את⟩ fiul îl binevoiește.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cel pe care îl iubește Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel pe care"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "îl iubește"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "îl ceartă"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "și ca un părinte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "îl binevoiește"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:59.314600648Z",
+  "model": "glm-5.3"
+}

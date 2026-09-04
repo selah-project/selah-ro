@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Să lovești vei lovi ⟨את⟩ locuitorii cetății aceleia cu ascuțișul sabiei; s-o dai blestemului, ⟨את⟩ pe ea și ⟨את⟩ tot ce este în ea, și ⟨את⟩ vitele ei, cu ascuțișul sabiei.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Să lovești"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "vei lovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locuitorii cetății aceleia"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "locuitorii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceleia"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "cu ascuțișul"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "să o dai blestemului"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ pe ea",
+      "marks": "cetatea (ea)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot ce este în ea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vitele ei"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "vitele ei"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "cu ascuțișul"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:08.700233917Z",
+  "model": "glm-5.3"
+}

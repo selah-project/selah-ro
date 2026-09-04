@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "De ce, Yahve, lepezi sufletul meu, îți ascunzi fața ta de la mine?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "lepezi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ascunzi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:56.423388590Z",
+  "model": "glm-5.3"
+}

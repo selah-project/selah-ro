@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "S-au uitat ⟨spre⟩ el și s-au luminat, și fețele lor nu vor fi date rușinii.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "S-au uitat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "spre el"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "și s-au luminat"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "și fețele lor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "vor fi date rușinii"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:26.003698817Z",
+  "model": "glm-5.3"
+}

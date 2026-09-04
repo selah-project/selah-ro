@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a povestit Moșe lui Aharon ⟨את⟩ toate cuvintele lui Yahve cu care l-a trimis și ⟨את⟩ toate semnele pe care i le-a poruncit.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Și a povestit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate cuvintele lui Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "l-a trimis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate semnele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "semnele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i le-a poruncit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:12.943342500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 2:15",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar noi vom tăia lemne din Levanon, după tot ce-ți trebuie, și ți le vom aduce ca plute pe mare la Iafo, iar tu le vei sui ⟨את⟩ pe ele la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Iar noi"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "vom tăia"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lemne"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "după tot"
+    },
+    {
+      "surface": "צרכך",
+      "gloss": "ce-ți trebuie"
+    },
+    {
+      "surface": "ונביאם",
+      "gloss": "și le vom aduce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ți"
+    },
+    {
+      "surface": "רפסדות",
+      "gloss": "ca plute"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "Iafo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iar tu"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "vei sui"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ele",
+      "marks": "lemnele — semnul את cu sufixul -ăm îndeplinește rolul pronumelui „pe ele”"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T08:22:01.087594964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și s-a făcut mai mare regele Șelomo decât toți regii pământului, în bogăție și în înțelepciune.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "s-a făcut mai mare"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "decât toți"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "în bogăție"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "și în înțelepciune"
+    }
+  ],
+  "timestamp": "2026-09-04T03:13:07.417989263Z",
+  "model": "glm-5.3"
+}

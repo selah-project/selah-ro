@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "și va scoate ca lumina dreptatea ta, și judecata ta ca amiaza.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "și va scoate"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "ca lumina"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "dreptatea ta"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "și judecata ta"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "ca amiaza"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:12.318625667Z",
+  "model": "glm-5.3"
+}

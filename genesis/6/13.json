@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "A spus Elohim lui Noa: Sfârșitul a tot trupul a venit înaintea mea, căci s-a umplut pământul de violență din pricina lor, și iată, îi pierd ⟨את⟩ pământul.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "lui Noa"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "Sfârșitul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a tot"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "s-a umplut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violență"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "din pricina lor"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "îi pierd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:49.988785228Z",
+  "model": "glm-5.3"
+}

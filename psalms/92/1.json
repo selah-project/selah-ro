@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 92,
+  "translation": "Un mizmor, un cântec, pentru ziua de Șabat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un cântec"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pentru ziua de"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Șabat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:07.096439750Z",
+  "model": "glm-5.3"
+}

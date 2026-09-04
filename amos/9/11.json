@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "În ziua aceea voi ridica ⟨את⟩ coliba lui David, cea căzută, voi împrejmu pri rupturile ei și dărâmăturile lui le voi ridica, și o voi zidi ca în zilele veșniciei",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "voi ridica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "coliba lui David"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "coliba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "cea căzută"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "voi împrejmui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rupturile ei"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "rupturile ei"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "și dărâmăturile lui"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "le voi ridica"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "și o voi zidi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ca în zilele"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșniciei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:10.199065334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "M-a săturat cu amare, m-a adăpat cu pelin.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "m-a săturat"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "cu amare"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "m-a adăpat"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "cu pelin"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:38.542549328Z",
+  "model": "glm-5.3"
+}

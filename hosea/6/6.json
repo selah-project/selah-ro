@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Căci hesed am voit, și nu jertfă, și cunoașterea lui Elohim mai mult decât arderile de tot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "am voit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfă"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "și cunoașterea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "mai mult decât arderile de tot"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:00.056304050Z",
+  "model": "glm-5.3"
+}

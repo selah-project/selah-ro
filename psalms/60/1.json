@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Către mai-marele cântăreților, peste „Șușan Edut”, un mihtam al lui David, spre învățare.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către mai-marele cântăreților"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Șușan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "un mihtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "spre învățare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:47.424450694Z",
+  "model": "glm-5.3"
+}

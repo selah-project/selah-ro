@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și dacă un om lovește ⟨את⟩ ochiul robului său sau ⟨את⟩ ochiul roabei sale și îl distruge, să-l lase liber pentru ochiul lui.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lovește"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochiul"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochiul"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "robiului său"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochiul"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochiul"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "roabei sale"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "și îl distruge"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "liber"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "să-l lase"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ochiul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:33.516674111Z",
+  "model": "glm-5.3"
+}

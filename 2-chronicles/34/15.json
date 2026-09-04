@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 34:15",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Și a răspuns Hilchia și a spus către Șafan scribul: Cartea Torei am găsit-o în casa lui Yahve. Și a dat Hilchia ⟨את⟩ cartea către Șafan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilchia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Șafan"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "scribul"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Cartea"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torei"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "am găsit-o"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilchia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cartea"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "cartea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Șafan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:32:22.344825832Z",
+  "model": "glm-5.3"
+}

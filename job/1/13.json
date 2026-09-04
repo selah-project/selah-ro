@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a fost ziua ⟨cea⟩ de când fiii lui și fiicele lui mâncau și beau vin în casa fratelui lor, cel întâi-născut.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "și fiicele lui"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mâncau"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "și beau"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "fratelui lor"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "cel întâi-născut"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:30.323375049Z",
+  "model": "glm-5.3"
+}

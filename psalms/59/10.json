@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Tăria mea, spre tine voi veghea, căci Elohim ⟨este⟩ turnul meu de scăpare.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Tăria"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "spre tine"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "voi veghea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "turnul meu de scăpare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:30.300139894Z",
+  "model": "glm-5.3"
+}

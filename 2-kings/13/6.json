@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Doar că nu s-au depărtat de păcatele casei lui Iarovam, cu care a făcut ⟨את⟩ Israel să păcătuiască; în ele au mers; și chiar și așera a rămas în Șomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Doar că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "s-au depărtat"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "de păcatele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casei"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "lui Iarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "a făcut să păcătuiască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "au mers"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar și"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "așera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "a rămas"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "în Șomron"
+    }
+  ],
+  "timestamp": "2026-09-04T03:29:19.832471702Z",
+  "model": "glm-5.3"
+}

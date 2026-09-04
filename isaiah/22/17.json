@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iată, Yahve te aruncă încoace și încolo — o aruncare deplină, omule puternic — și te învelește, o învelire deplină.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "te aruncă încoace și încolo"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "o aruncare deplină"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "omule puternic"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "și te învelește"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "o învelire deplină"
+    }
+  ],
+  "timestamp": "2026-09-04T03:42:36.484243021Z",
+  "model": "glm-5.3"
+}

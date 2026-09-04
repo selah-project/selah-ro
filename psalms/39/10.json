@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Am amuțit, nu-mi deschid gura, căci tu ai făcut ⟨aceasta⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "am amuțit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "deschid"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:59.179233027Z",
+  "model": "glm-5.3"
+}

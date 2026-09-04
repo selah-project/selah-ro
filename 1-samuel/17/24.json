@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și toți oamenii lui Israel, când l-au văzut ⟨את⟩ omul, au fugit din fața lui și s-au temut foarte.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Și toți"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "când l-au văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omul"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "au fugit"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "din fața lui"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "și s-au temut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:58.354260063Z",
+  "model": "glm-5.3"
+}

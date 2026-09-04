@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și Meonotai a născut ⟨את⟩ Ofra; și Serayah a născut ⟨את⟩ Ioav, tatăl văii Charașim, căci meșteșugari erau.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Și Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofra"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "și Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "văii"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Charașim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "meșteșugari"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:23.246795773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "S-a sculat Iehoșua dis-de-dimineață, în zori, și a numărat ⟨את⟩ poporul; și a urcat el și bătrânii lui Israel înaintea poporului, spre Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "s-a sculat dis-de-dimineață"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "în zori"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "și a numărat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și a urcat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "și bătrânii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    }
+  ],
+  "timestamp": "2026-09-04T07:02:23.749538430Z",
+  "model": "glm-5.3"
+}

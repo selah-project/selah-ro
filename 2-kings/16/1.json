@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "În anul al șaptesprezecelea al lui Pecah, fiul lui Remaliahu, a început să domnească Ahaz, fiul lui Iotam, regele lui Iehuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "În anul"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "al șaptesprezecelea"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "șaptesprezecelea"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anul"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "al lui Pecah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "lui Remaliahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a început să domnească"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "lui Iotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T09:39:08.801500015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Și au făcut ⟨את⟩ pietrele de șoham, încărcate în cisuri de aur, săpate cu săpături de pecete, pe numele fiilor lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "și au făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pietrele de șoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pietrele"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "de șoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "încărcate"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "în cisuri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "săpate"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "cu săpături"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "de pecete"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "numele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:13.270672142Z",
+  "model": "glm-5.3"
+}

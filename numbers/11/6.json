@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și acum sufletul nostru ⟨este⟩ uscat — nu ⟨este⟩ nimic, afară de mană, pentru ochii noștri.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "și acum"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sufletul nostru"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "uscat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nimic"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "afară de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mană"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ochii noștri"
+    }
+  ],
+  "timestamp": "2026-09-04T06:52:48.419903661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Căci Yahve iubește mișpatul (judecata) și nu își părăsește hassidim (cei credincioși) lui — ⟨את⟩ hassidim lui sunt păziți în veci, iar sămânța răufăcătorilor va fi nimicită.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iubește"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mișpatul (judecata)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "va părăsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hassidim lui"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hassidim (cei credincioși) lui"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "sunt păziți"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "iar sămânța"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "răufăcătorilor"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "va fi nimicită"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:19.887100354Z",
+  "model": "glm-5.3"
+}

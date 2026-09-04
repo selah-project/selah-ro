@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Nu ⟨este oare⟩ tot pământul înaintea ta? Desparte-te, te rog, de la mine: dacă ⟨la⟩ stânga, ⟨merg⟩ și eu la dreapta; și dacă ⟨la⟩ dreapta, ⟨merg⟩ și eu la stânga.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nu ⟨este oare⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "desparte-te"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "stânga"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "și eu la dreapta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "dreapta"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "și eu la stânga"
+    }
+  ],
+  "timestamp": "2026-09-04T06:35:16.451993042Z",
+  "model": "glm-5.3"
+}

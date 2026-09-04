@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 98,
+  "translation": "Un mizmor. Cântați-i lui Yahve o cântare nouă, că minuni a făcut; izbăvire i-a dat lui ⟨el⟩ mâna lui cea dreaptă și brațul sfințeniei lui.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Cântați-i"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "o cântare"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "minuni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "izbăvire a dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mâna lui cea dreaptă"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "și brațul"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sfințeniei lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:03.364876249Z",
+  "model": "glm-5.3"
+}

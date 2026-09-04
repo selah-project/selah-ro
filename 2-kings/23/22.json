@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Căci nu s-a făcut un Pesah ca acesta din zilele judecătorilor care au judecat ⟨את⟩ Israel, nici în toate zilele regilor lui Israel și ale regilor lui Iuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "s-a făcut"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "ca Pesah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "din zilele"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "judecătorilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "au judecat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nici în toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "și ale regilor"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iuda"
+    }
+  ],
+  "timestamp": "2026-09-04T03:33:32.460701831Z",
+  "model": "glm-5.3"
+}

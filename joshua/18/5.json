@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și să împartă ⟨את⟩ ⟨pământul⟩ în șapte părți: Yehuda să stea pe hotarul lui, spre miazăzi, și casa lui Yosif să stea pe hotarul lor, spre miazănoapte.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "și să împartă"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pământul (redat prin pronumele „o” în ebraică)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "în șapte"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "părți"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "să stea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "hotarul lui"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "spre miazăzi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "și casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Yosif"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "să stea"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "hotarul lor"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "spre miazănoapte"
+    }
+  ],
+  "timestamp": "2026-09-04T02:24:25.967813490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și am poruncit ⟨את⟩ judecătorilor vostru în vremea aceea, zicând: ascultați între frații voștri și judecați cu dreptate între un om și între fratele lui și între străinul lui.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Și am poruncit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "judecătorilor vostru"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "judecătorilor vostru"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "în vremea"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascultați"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "frații voștri"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "și judecați"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cu dreptate"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "străinul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:09.502357411Z",
+  "model": "glm-5.3"
+}

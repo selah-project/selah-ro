@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a fost: numele fiului său cel întâi-născut ⟨era⟩ Ioel, și numele celui de-al doilea Avia — judecători în Beer-Șeva.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiului său"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "cel întâi-născut"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Ioel"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "și numele"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "celui de-al doilea"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "judecători"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "în Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    }
+  ],
+  "timestamp": "2026-09-04T02:40:52.368075331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Elohim ⟨este⟩ în mijlocul ei — nu se va clăti; o va ajuta Elohim la ivirea zorilor.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "în mijlocul ei"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "se va clăti"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "o va ajuta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "la ivirea"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "zorilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:39.321423615Z",
+  "model": "glm-5.3"
+}

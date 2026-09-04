@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Și s-a îmbrăcat cu blestemul ca ⟨cu⟩ haina lui, și a intrat ca apa înăuntrul lui și ca untdelemnul în oasele lui.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "și s-a îmbrăcat"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "blestemul"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "ca haina lui"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "și a intrat"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ca apa"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "înăuntrul lui"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "și ca untdelemnul"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "în oasele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:06.915209815Z",
+  "model": "glm-5.3"
+}

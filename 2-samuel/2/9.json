@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și l-a făcut rege peste Ghilad, și peste așurieni, și peste Izreel, și peste Efraim, și peste Binyamin, și peste tot Israel.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "și l-a făcut rege"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Ghilad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "așurienii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Izreel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tot"
+    }
+  ],
+  "timestamp": "2026-09-04T02:53:58.460720581Z",
+  "model": "glm-5.3"
+}

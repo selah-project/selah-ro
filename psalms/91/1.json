@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Cel ce șade la adăpostul lui Elion (Cel Preaînalt), la umbra lui Șadai va poposi.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Cel ce șade"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "la adăpostul"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "lui Elion"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "la umbra"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "lui Șadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "va poposi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:21.043083291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și ⟨את⟩ Horiții în muntele lor Seir, până la El-Paran, care este lângă pustie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Horiții"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horiții"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "în muntele lor"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "este lângă"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustie"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:07.989343852Z",
+  "model": "glm-5.3"
+}

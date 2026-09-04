@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și a rămas însărcinată, și a născut un fiu, și a numit ⟨את⟩ numele lui Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "și a rămas însărcinată"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a numit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:29.920350388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cântarea cântărilor, care este al lui Șelomo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântarea"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "cântărilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "este al lui Șelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:02.049705102Z",
+  "model": "glm-5.3"
+}

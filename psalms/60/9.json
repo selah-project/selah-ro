@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Al meu este Gilad și al meu Menașe, și Efraim ⟨este⟩ întăritura capului meu, Iehuda ⟨este⟩ legiuitorul meu.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "al meu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "și al meu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menașe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "și Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "întăritura"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capului meu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "legiuitorul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:44.698822750Z",
+  "model": "glm-5.3"
+}

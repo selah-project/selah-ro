@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 11:15",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Așa cum a poruncit Yahve ⟨את⟩ lui Moșe, slujitorul său, așa a poruncit Moșe ⟨את⟩ lui Iehoșua; și așa a făcut Iehoșua — nu a abătut niciun cuvânt din tot ce a poruncit Yahve ⟨את⟩ lui Moșe.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "așa cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slujitorul său"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehoșua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "lui Iehoșua"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "și așa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a abătut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niciun cuvânt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lui Moșe"
+    }
+  ],
+  "timestamp": "2026-09-04T02:22:20.394551849Z",
+  "model": "glm-5.3"
+}

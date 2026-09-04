@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Căci nu sunt lanțuri la moartea lor, și trupul le este gras și puternic.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu sunt"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "lanțuri"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "la moartea lor"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "și este gras"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "trupul (puternic)"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:13.286519856Z",
+  "model": "glm-5.3"
+}

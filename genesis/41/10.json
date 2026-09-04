@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Paro s-a mâniat pe robii săi și l-a dat ⟨את⟩ pe mine în pază în casa căpeteniei bucătarilor: ⟨את⟩ pe mine și ⟨את⟩ pe căpetenia brutarilor.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "s-a mâniat"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "robii săi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și l-a dat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "în pază"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "căpeteniei"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "bucătarilor"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe căpetenia brutarilor"
+    },
+    {
+      "surface": "שר",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "brutarilor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:29.869200428Z",
+  "model": "glm-5.3"
+}

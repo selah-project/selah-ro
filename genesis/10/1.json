@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și acestea sunt neamurile fiilor lui Noa: Șem, Ham și Iafet; și li s-au născut fii după potop.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "sunt neamurile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "נח",
+      "gloss": "lui Noa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Șem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "și Iafet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "și li s-au născut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "după"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potop"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:06.735408532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și am ridicat ⟨את⟩ ochii mei și am văzut, și iată patru coarne.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Și am ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii mei"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii mei"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "și am văzut"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patru"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "coarne"
+    }
+  ],
+  "timestamp": "2026-09-04T04:49:27.359957518Z",
+  "model": "glm-5.3"
+}

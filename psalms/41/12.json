@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Prin aceasta știu că găsește plăcere în mine, că vrăjmașul meu nu va striga triumfător peste mine.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Prin aceasta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "găsește plăcere"
+    },
+    {
+      "surface": "בי",
+      "gloss": "în mine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "va striga triumfător"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vrăjmașul meu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    }
+  ],
+  "timestamp": "2026-09-04T09:39:43.259020249Z",
+  "model": "glm-5.3"
+}

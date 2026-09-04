@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "De aceea se întoarce poporul lui ⟨Elohim⟩ încoace, și ape de plinătate se stoarse pentru ei.",
+  "tokens": [
+    {
+      "surface": "לָכֵ֤ן",
+      "gloss": "De aceea"
+    },
+    {
+      "surface": "יִשׁוּב",
+      "gloss": "se întoarce"
+    },
+    {
+      "surface": "עַמּ֣וֹ",
+      "gloss": "poporul lui"
+    },
+    {
+      "surface": "הֲלֹ֑ם",
+      "gloss": "încoace"
+    },
+    {
+      "surface": "וּמֵ֥י",
+      "gloss": "și ape de"
+    },
+    {
+      "surface": "מָלֵ֗א",
+      "gloss": "plinătate"
+    },
+    {
+      "surface": "יִמָּ֥צוּ",
+      "gloss": "se stoarse"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "pentru ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:01.371380629Z",
+  "model": "glm-5.3"
+}

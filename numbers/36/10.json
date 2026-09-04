@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Cum a poruncit Yahve ⟨את⟩ lui Moșe, așa au făcut fiicele lui Țelofhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Moșe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiicele"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "lui Țelofhad"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:03.567461238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Căci pentru fiecare dorință este vreme și judecată, căci răul omului ⟨este⟩ mare peste el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru fiecare"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dorință"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vreme"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și judecată"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "răul"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:44.022103808Z",
+  "model": "glm-5.3"
+}

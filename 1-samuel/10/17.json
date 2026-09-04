@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a chemat Șmuel ⟨את⟩ poporul către Yahve la Mițpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "la Mițpa"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:25.764673782Z",
+  "model": "glm-5.3"
+}

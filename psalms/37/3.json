@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Încrede-te în Yahve și fă binele, locuiește ⟨în⟩ pământul și păște credincioșia.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Încrede-te"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și fă"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "locuiește"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "și păște"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "credincioșia"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:18.233490211Z",
+  "model": "glm-5.3"
+}

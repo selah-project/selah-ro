@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și casa pe care o zidesc eu ⟨este⟩ mare, căci mare este Elohim al nostru, mai presus de toți dumnezeii.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Și casa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "o zidesc"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mai presus de toți"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dumnezeii"
+    }
+  ],
+  "timestamp": "2026-09-04T09:16:03.595250331Z",
+  "model": "glm-5.3"
+}

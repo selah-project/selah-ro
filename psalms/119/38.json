@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Întărește-i robului tău cuvântul tău, ⟨cel⟩ care duce la frica de tine.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Întărește"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "robului tău"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨cel⟩ care"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "la frica de tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:51.557221542Z",
+  "model": "glm-5.3"
+}

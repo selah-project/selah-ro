@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "S-a jurat Yahve lui David în adevăr, nu Se va întoarce de la ea: din rodul pântecului tău voi pune pe tronul tău.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "S-a jurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "în adevăr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "Se va întoarce"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "de la ea"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "din rodul"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "pântecului tău"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "voi pune"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "pe tronul"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:33.189525468Z",
+  "model": "glm-5.3"
+}

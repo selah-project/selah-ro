@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Ne-ai pus ca pricină de ceartă vecinilor noștri, iar dușmanii noștri râd de ei.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ne-ai pus"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ca pricină de ceartă"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "vecinilor noștri"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "iar dușmanii noștri"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "râd"
+    },
+    {
+      "surface": "למו",
+      "gloss": "de ei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:45.778656399Z",
+  "model": "glm-5.3"
+}

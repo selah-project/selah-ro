@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a fost, la auzirea ⟨את⟩ cuvântului acestuia — el bea, el și regii, în corturi — că a spus către slujitorii săi: Așezați-vă! Și s-au așezat împotriva cetății.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "la auzirea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântului"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântului"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "bea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "și regii"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "în corturi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slujitorii săi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Așezați-vă"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "și s-au așezat"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:58.040254827Z",
+  "model": "glm-5.3"
+}

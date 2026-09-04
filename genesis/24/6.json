@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și i-a spus lui Avraham: „Păzește-te ca să nu întorci ⟨את⟩ fiul meu acolo!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "păzește-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "întorci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiul meu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T10:09:25.891599467Z",
+  "model": "glm-5.3"
+}

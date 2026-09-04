@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "și o vei aduce în mijlocul casei tale, și ea își va rade ⟨את⟩ capul ei și își va face ⟨את⟩ unghiile ei",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "și o vei aduce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mijlocul"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "casei tale"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "și ea va rade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "capul ei"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "capul ei"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "și ea va face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unghiile ei"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "unghiile ei"
+    }
+  ],
+  "timestamp": "2026-09-04T10:10:35.659779998Z",
+  "model": "glm-5.3"
+}

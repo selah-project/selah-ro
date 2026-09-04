@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Ah, Yahve, adu-ți aminte, te rog, ⟨את⟩ cum m-am purtat înaintea ta în adevăr și cu inimă întreagă, și binele în ochii tăi l-am făcut; și a plâns Hizqiahu plâns mare.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "adu-ți aminte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cum m-am purtat... și binele... am făcut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "m-am purtat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "în adevăr"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "și cu inimă"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "întreagă"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "și binele"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "și a plâns"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "plâns"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T08:57:51.049362515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Iată, eu trimit un înger înaintea ta, ca să te păzească pe drum și ca să te aducă în locul pe care l-am pregătit.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שֹׁלֵחַ",
+      "gloss": "trimit"
+    },
+    {
+      "surface": "מַלְאָךְ",
+      "gloss": "un înger"
+    },
+    {
+      "surface": "לְפָנֶיךָ",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "לִשְׁמָרְךָ",
+      "gloss": "ca să te păzească"
+    },
+    {
+      "surface": "בַּדֶּרֶךְ",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "וְלַהֲבִיאֲךָ",
+      "gloss": "și ca să te aducă"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הַמָּקוֹם",
+      "gloss": "locul"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הֲכִנֹתִי",
+      "gloss": "l-am pregătit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:16.618166536Z",
+  "model": "glm-5.3"
+}

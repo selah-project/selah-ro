@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Căci partea lui Yahve este poporul său; Iaacov este funia moștenirii lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "partea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "funia"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "moștenirii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:14:04.499106620Z",
+  "model": "glm-5.3"
+}

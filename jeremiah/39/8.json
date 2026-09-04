@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 39,
+  "translation": "Iar ⟨את⟩ casa regelui și ⟨את⟩ casa poporului au ars kașdimii cu foc; și ⟨את⟩ zidurile lui Ierușalaim le-au dărâmat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "casa regelui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casa poporului"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "au ars"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kașdimii"
+    },
+    {
+      "surface": "באש",
+      "gloss": "cu foc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "zidurile lui Ierușalaim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "zidurile"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "lui Ierușalaim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "le-au dărâmat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:13:26.406767931Z",
+  "model": "glm-5.3"
+}

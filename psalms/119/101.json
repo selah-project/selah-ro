@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "De la orice cale rea mi-am înfrânat picioarele, ca să păzesc cuvântul tău.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "de la orice"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "cale"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rea"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "mi-am înfrânat"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "picioarele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "păzesc"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:15.853574661Z",
+  "model": "glm-5.3"
+}

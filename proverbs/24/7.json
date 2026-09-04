@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Înălțimi ⟨sunt⟩ pentru nebun înțelepciunea; în poartă nu își va deschide gura.",
+  "tokens": [
+    {
+      "surface": "רָאמ֣וֹת",
+      "gloss": "Înălțimi"
+    },
+    {
+      "surface": "לֶֽאֱוִ֣יל",
+      "gloss": "pentru nebun"
+    },
+    {
+      "surface": "חָכְמ֑וֹת",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "בַּּ֝֗עַר",
+      "gloss": "în poartă"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יִפְתַּ֗ח",
+      "gloss": "va deschide"
+    },
+    {
+      "surface": "פִּֽיהוּ",
+      "gloss": "gura lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:51.693356191Z",
+  "model": "glm-5.3"
+}

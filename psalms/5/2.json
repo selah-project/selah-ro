@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Vorbele mele auzi-le, Yahve, pricepe murmurul meu.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Vorbele mele"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "auzi-le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pricepe"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "murmurul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:14.793540928Z",
+  "model": "glm-5.3"
+}

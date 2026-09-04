@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Eu, în dreptate voi privi fața ta; mă voi sătura, la trezire, de chipul tău.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "în dreptate"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "voi privi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "mă voi sătura"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "la trezire"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "de chipul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T07:52:49.723173591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și i-a spus Eli: Până când te vei îmbăta? Îndepărtează ⟨את⟩ vinul tău de la tine!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "i-a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "te vei îmbăta"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Îndepărtează"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinul tău"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "vinul tău"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "de la tine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:08:26.520747592Z",
+  "model": "glm-5.3"
+}

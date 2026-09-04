@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Calea celui drept ⟨este⟩ îndreptare; Tu, Cel drept, așezi cumpănind poteca dreptului.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Calea"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "celui drept"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "îndreptare"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Cel drept"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "poteca"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "dreptului"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "asezi cumpănind"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:01.950225632Z",
+  "model": "glm-5.3"
+}

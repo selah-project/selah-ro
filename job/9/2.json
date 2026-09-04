@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Cu adevărat știu că ⟨este⟩ așa; dar cum se va îndrepta un om muritor împreună cu El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Cu adevărat"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dar cum"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "se va îndrepta"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un om muritor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "împreună cu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:29.501732354Z",
+  "model": "glm-5.3"
+}

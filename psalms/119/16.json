@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "În hotărârile tale mă voi delecta, cuvântul tău nu-l voi uita.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "În hotărârile tale"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "mă voi delecta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "voi uita"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "cuvântul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:21.164869730Z",
+  "model": "glm-5.3"
+}

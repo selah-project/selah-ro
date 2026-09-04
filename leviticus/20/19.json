@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și goliciunea surorii mamei tale și a surorii tatălui tău să nu o descoperi, căci ⟨את⟩ ruda lui a dezgolit; nelegiuirea lor o vor purta.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "Și goliciunea"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "surorii"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamei tale"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "și a surorii"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "să descoperi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruda lui"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "ruda lui"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "a dezgolit"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "nelegiuirea lor"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "vor purta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:50:03.659265956Z",
+  "model": "glm-5.3"
+}

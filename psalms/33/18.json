@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Iată, ochiul lui Yahve ⟨este⟩ peste cei ce se tem de el, peste cei ce așteaptă hesedul lui —",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "עֵ֣ין",
+      "gloss": "ochiul"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "peste"
+    },
+    {
+      "surface": "יְרֵאָ֑יו",
+      "gloss": "cei ce se tem de el"
+    },
+    {
+      "surface": "לַֽמְיַחֲלִ֥ים",
+      "gloss": "cei ce așteaptă"
+    },
+    {
+      "surface": "לְחַסְדּֽוֹ",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:31.926444534Z",
+  "model": "glm-5.3"
+}

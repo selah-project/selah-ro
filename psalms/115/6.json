@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Urechi au și nu aud; nas au și nu miros.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "urechi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "au"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "aud"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "au"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "miros"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:12.428611001Z",
+  "model": "glm-5.3"
+}

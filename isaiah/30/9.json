@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Căci popor răzvrătit este acesta, fii mincinoși, fii care nu au vrut să audă Tora lui Yahve —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popor"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "răzvrătit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este acesta"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "mincinoși"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "au vrut"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "să audă"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T03:44:44.749569408Z",
+  "model": "glm-5.3"
+}

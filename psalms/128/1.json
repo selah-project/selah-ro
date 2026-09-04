@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 128,
+  "translation": "Cântare a urcărilor. Ferice de tot cel temător de Yahve, cel ce merge pe căile lui.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a urcărilor"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ferice"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "cel temător de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "cel ce merge"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "pe căile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:09.383772527Z",
+  "model": "glm-5.3"
+}

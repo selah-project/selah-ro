@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "⟨את⟩ argintul tău să nu-l dai lui cu dobândă, și pentru câștig să nu dai mâncarea ta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argintul tău"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "argintul tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "să dai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "cu dobândă"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "și pentru câștig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "să dai"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "mâncarea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:10.291600065Z",
+  "model": "glm-5.3"
+}

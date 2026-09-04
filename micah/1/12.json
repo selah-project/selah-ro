@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Căci a așteptat binele locuitoarea Marotului, căci a coborât răul de la ⟨את⟩ Yahve, până la poarta lui Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "a așteptat"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "locuitoarea"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a coborât"
+    },
+    {
+      "surface": "רע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "la poarta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:11.313555187Z",
+  "model": "glm-5.3"
+}

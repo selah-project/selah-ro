@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și cohenul care curăță să-l pună ⟨את⟩ pe omul care se curăță și ⟨את⟩ pe ele înaintea lui Yahve, la ușa cortului întâlnirii.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "și să pună să stea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "care curăță"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe omul"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "care se curăță"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe ele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la ușa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:33:37.215743954Z",
+  "model": "glm-5.3"
+}

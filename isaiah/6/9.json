@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a zis: Mergi și spune poporului acestuia: Auziți mereu, dar să nu înțelegeți; vedeți mereu, dar să nu cunoașteți.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mergi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și spune"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Auziți"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "mereu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dar să nu"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "înțelegeți"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "și vedeți"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "mereu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dar să nu"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "cunoașteți"
+    }
+  ],
+  "timestamp": "2026-09-04T03:37:24.150180889Z",
+  "model": "glm-5.3"
+}

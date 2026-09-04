@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 61,
+  "translation": "Vor sta străini și vor păstura turmele voastre, iar fiii străinătății vor fi plugarii voștri și paznicii viilor voastre.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "Vor sta"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "străini"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "și vor păstura"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "turmele voastre"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străinătății"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "plugarii voștri"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "paznicii viilor voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:56.092388829Z",
+  "model": "glm-5.3"
+}

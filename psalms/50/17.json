@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Tu ai urât mustrarea și ai aruncat cuvintele mele în urma ta.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ai urât"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mustrarea"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "și ai aruncat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele mele"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "în urma ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:53.666198885Z",
+  "model": "glm-5.3"
+}

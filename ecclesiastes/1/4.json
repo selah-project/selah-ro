@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "O generație trece și o generație vine, iar pământul rămâne în picioare pentru totdeauna.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "O generație"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "trece"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "și o generație"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "iar pământul"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "rămâne în picioare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:05.819352622Z",
+  "model": "glm-5.3"
+}

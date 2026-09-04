@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Toți îți vor răspunde și îți vor zice: și tu ai slăbit ca noi, nouă te-ai asemănat.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vor răspunde"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și vor zice"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "și tu"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ai slăbit"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "ca noi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "te-ai asemănat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:39.163714284Z",
+  "model": "glm-5.3"
+}

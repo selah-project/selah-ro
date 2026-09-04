@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Căci sunt vorbe multe care înmulțesc ⟨את⟩ deșertăciunea — ce-i rămâne omului?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יש",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "vorbe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "multe"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "care înmulțesc"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșertăciunea"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "-i rămâne"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T10:14:16.208103937Z",
+  "model": "glm-5.3"
+}

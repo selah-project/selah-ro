@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a adus Ezra preotul ⟨את⟩ Tora înaintea adunării, de la bărbați până la femei, și toți cei care înțelegeau să asculte, în ziua una a lunii a șaptea.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "Și a adus"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preotul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "adunării"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de la bărbați"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "femei"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "cel care înțelegea"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "să asculte"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a lunii"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a șaptea"
+    }
+  ],
+  "timestamp": "2026-09-04T06:03:08.797364961Z",
+  "model": "glm-5.3"
+}

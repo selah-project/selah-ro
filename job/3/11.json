@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "De ce n-am murit din pântec? Din pântec am ieșit și să expir!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "din pântec"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "am murit"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "din pântec"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "am ieșit"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "și să expir"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:32.037902681Z",
+  "model": "glm-5.3"
+}

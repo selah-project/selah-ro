@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și s-a apropiat Șaul de ⟨את⟩ Șemuel în mijlocul porții, și a zis: Spune-mi, te rog, unde este casa văzătorului?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Și s-a apropiat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "השער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "spune"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "unde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oare"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "văzătorului"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:56.717960923Z",
+  "model": "glm-5.3"
+}

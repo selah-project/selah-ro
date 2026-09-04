@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Dar pe ⟨את⟩ Natan naviul și pe Benaiahu și ⟨את⟩ vitejii și ⟨את⟩ pe Șelomo, fratele său, nu i-a chemat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "pe ⟨את⟩",
+      "marks": "Natan naviul"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviul"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "și pe Benaiahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vitejii"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "vitejii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "pe Șelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "i-a chemat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:27.150952114Z",
+  "model": "glm-5.3"
+}

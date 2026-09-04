@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și când secerați ⟨את⟩ secerișul pământului vostru, să nu seceri până la capăt colțul câmpului tău, și spicele căzute ale secerișului tău să nu le aduni.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Și când secerați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "secerișul"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "secerișul"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "pământului vostru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "să termini (până la capăt)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "colțul"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "câmpului tău"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "să seceri"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "și spicele căzute"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "secerișului tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "să aduni"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:40.530543576Z",
+  "model": "glm-5.3"
+}

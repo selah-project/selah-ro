@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a pus ⟨את⟩ slujnicele și ⟨את⟩ copiii lor cele dintâi, și ⟨את⟩ Lea și copiii ei la urmă, și ⟨את⟩ Rahela și ⟨את⟩ Iosif cei din urmă.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slujincele"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "slujincele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "copiii lor"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "copiii lor"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "cele dintâi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "și copiii ei"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "la urmă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Rahela"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iosif"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "cei din urmă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:09.477332742Z",
+  "model": "glm-5.3"
+}

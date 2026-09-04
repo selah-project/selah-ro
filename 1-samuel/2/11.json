@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a plecat Elcana la Rama, la casa lui, iar tânărul era slujind ⟨את⟩ Yahve, înaintea feței lui Eli, cohenul.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a plecat"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elcana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "la Rama"
+    },
+    {
+      "surface": "על",
+      "gloss": "spre"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "iar tânărul"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "slujind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața lui Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lui Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:38:46.060239969Z",
+  "model": "glm-5.3"
+}

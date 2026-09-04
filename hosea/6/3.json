@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și să cunoaștem, să alergăm să cunoaște ⟨את⟩ Yahve, ca zorii dimineții este ieșirea lui, care nu dă greș; și va veni la noi ca ploaia, ca ploaia târzie care udă pământul.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Și să cunoaștem"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "să alergăm"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "să cunoaște"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "ca zorii dimineții"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "care nu dă greș"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ieșirea lui"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "și va veni"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "ca ploaia"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "la noi"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "ca ploaia târzie"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "care udă"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:37:47.463108634Z",
+  "model": "glm-5.3"
+}

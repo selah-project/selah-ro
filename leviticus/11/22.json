@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "⟨את⟩ acestea din ele să mâncați: ⟨את⟩ lăcusta după soiul ei, și ⟨את⟩ solamul după soiul lui, și ⟨את⟩ hargolul după soiul lui, și ⟨את⟩ hagabul după soiul lui.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acestea"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "din ele"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lăcusta"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "lăcusta"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "după soiul ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "solamul"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solamul"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "după soiul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hargolul"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargolul"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "după soiul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hagabul"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagabul"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "după soiul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:47:45.362008035Z",
+  "model": "glm-5.3"
+}

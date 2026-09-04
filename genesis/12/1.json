@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a spus Yahve către Avram: Pleacă, din pământul tău, și din rudenia ta, și din casa tatălui tău, către pământul pe care ți-l voi arăta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pleacă"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "din pământul tău"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "și din rudenia ta"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "și din casa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ți-l voi arăta"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:24.687738494Z",
+  "model": "glm-5.3"
+}

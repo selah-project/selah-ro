@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Și Elohim, regele meu, din veac, săvârșind izbăviri în mijlocul pământului.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Și Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regele meu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "din veac"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "săvârșind"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "izbăviri"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:24.236941445Z",
+  "model": "glm-5.3"
+}

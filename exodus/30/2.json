@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Un cot lungimea lui și un cot lățimea lui; pătrat să fie; și doi coti înălțimea lui; din el cornele lui ⟨să fie⟩.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "un cot"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lungimea lui"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "și un cot"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lățimea lui"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pătrat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "și doi coti"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "înălțimea lui"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "cornele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:49.813129075Z",
+  "model": "glm-5.3"
+}

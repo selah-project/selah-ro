@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iar fiii lui Ketura, concubina lui Avraham: ea a născut ⟨את⟩ Zimran, și Iokșan, și Medan, și Midian, și Iișbak, și Șuah; iar fiii lui Iokșan: Șeba și Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Iar fiii"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "lui Ketura"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "concubina"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ea a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "și Iokșan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "și Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "și Midian"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "și Iișbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "și Șuah"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "iar fiii"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "lui Iokșan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șeba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "și Dedan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:57.333001083Z",
+  "model": "glm-5.3"
+}

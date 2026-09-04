@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 10:29",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Au trecut trecătoarea; la Giv'a ⟨este⟩ popas pentru noi; Rama tremură, Giv'at Șaul a fugit.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "au trecut"
+    },
+    {
+      "surface": "מעברה",
+      "gloss": "trecătoarea"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Giv'a"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "popas"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "tremură"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'at"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "a fugit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:22.913055990Z",
+  "model": "glm-5.3"
+}

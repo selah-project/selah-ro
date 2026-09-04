@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și s-a descoperit ⟨את⟩ acoperământul lui Iehuda, și te-ai uitat în ziua aceea la armele Casei Pădurii.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Și s-a descoperit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acoperământul"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "acoperământul"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lui Iehuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "și te-ai uitat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "arme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Casei"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Pădurii"
+    }
+  ],
+  "timestamp": "2026-09-04T07:26:09.198522600Z",
+  "model": "glm-5.3"
+}

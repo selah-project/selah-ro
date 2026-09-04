@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 130,
+  "translation": "Așteptat-am pe Yahve, a așteptat sufletul meu, și pentru cuvântul lui am răbdat.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "așteptat-am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "a așteptat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "și pentru cuvântul lui"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "am răbdat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:40.766632638Z",
+  "model": "glm-5.3"
+}

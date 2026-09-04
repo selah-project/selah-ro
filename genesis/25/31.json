@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a zis Iaacov: «Vinde-mi chiar astăzi ⟨את⟩ dreptul tău de întâi-născut.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "vinde"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "chiar astăzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dreptul tău de întâi-născut"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "dreptul tău de întâi-născut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "îmi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:00.053695653Z",
+  "model": "glm-5.3"
+}

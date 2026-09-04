@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Ne întorci îndărăt din fața vrăjmașului, și cei ce ne ursăc jefuiesc pentru sine.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Ne întorci"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "îndărăt"
+    },
+    {
+      "surface": "מני",
+      "gloss": "din fața"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vrăjmașului"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "și cei ce ne ursc"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "jefuiesc"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pentru sine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:06.332608460Z",
+  "model": "glm-5.3"
+}

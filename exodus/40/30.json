@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a pus ⟨את⟩ vasul de spălat între Cortul Întâlnirii și altar, și a pus acolo apă pentru spălare.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasul de spălat"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "vasul de spălat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apă"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "pentru spălare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:55.591598752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Pentru Șimon, Șelumiel, fiul lui Țuri-Șadai.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "Pentru Șimon"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Șelumiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "lui Țuri-Șadai"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:15.212864546Z",
+  "model": "glm-5.3"
+}

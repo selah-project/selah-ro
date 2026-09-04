@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Yahve cunoaște gândurile omului, că ele ⟨sunt⟩ deșărtăciune.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "gândurile"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ele"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deșărtăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:41.795747600Z",
+  "model": "glm-5.3"
+}

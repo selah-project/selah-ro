@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 150,
+  "translation": "Lăudați-l pe ⟨את⟩ El cu chimvale sunătoare, lăudați-l pe ⟨את⟩ El cu chimvale de strigăt!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l pe El"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "cu chimvale"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sunătoare"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lăudați-l pe El"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "cu chimvale"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "de strigăt"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.572207838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 138,
+  "translation": "De voi merge în mijlocul strâmtorării, mă vei face să trăiesc; împotriva mâniei dușmanilor mei vei întinde mâna ta, și mă va izbăvi dreapta ta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "De"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "voi merge"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "strâmtorării"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "mă vei face să trăiesc"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mâniei"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dușmanilor mei"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "vei întinde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "și mă va izbăvi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dreapta ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:52.330719696Z",
+  "model": "glm-5.3"
+}

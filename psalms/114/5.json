@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 114,
+  "translation": "Ce ai, marea, că fugi? Tu, Iardan, că te întorci înapoi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ai"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "fugi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Tu, Iardan"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "te întorci"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "înapoi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:54.889078978Z",
+  "model": "glm-5.3"
+}

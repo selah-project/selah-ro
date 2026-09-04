@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Gura mea va vorbi înțelepciuni, și cugetarea inimii mele, priceperi.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Gura mea"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "va vorbi"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "înțelepciuni"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "și cugetarea"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inimii mele"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "priceperi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:49.690302511Z",
+  "model": "glm-5.3"
+}

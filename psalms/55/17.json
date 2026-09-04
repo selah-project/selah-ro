@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Eu către Elohim voi striga, și Yahve mă va izbăvi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "voi striga"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "și Yahve"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "mă va izbăvi"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:39.589559524Z",
+  "model": "glm-5.3"
+}

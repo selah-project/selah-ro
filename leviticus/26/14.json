@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Iar dacă nu Mă veți asculta și nu veți face ⟨את⟩ toate poruncile acestea,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "veți asculta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pe Mine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "veți face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate poruncile acestea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "poruncile"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    }
+  ],
+  "timestamp": "2026-09-04T06:50:46.817505865Z",
+  "model": "glm-5.3"
+}

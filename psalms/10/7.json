@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Blestem ⟨este⟩ gura lui, plină ⟨de⟩ înșelăciune și asuprire; sub limba lui, struțină și nelegiuire.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "blestem"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "gura lui"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plină"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "și înșelăciune"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "și asuprire"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "limba lui"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "struțină"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "și nelegiuire"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:28.542680547Z",
+  "model": "glm-5.3"
+}

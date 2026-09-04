@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Și luați ⟨את⟩ tatăl vostru și ⟨את⟩ casele voastre și veniți la mine, și vă voi da vouă ⟨את⟩ belșugul țării lui Mițraim, și veți mânca ⟨את⟩ grăsimea pământului.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Și luați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl vostru"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "tatăl vostru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casele voastre"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "casele voastre"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "și veniți"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "și vă voi da"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belșugul"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "belșugul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lui Mițraim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "și veți mânca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:11:28.311985159Z",
+  "model": "glm-5.3"
+}

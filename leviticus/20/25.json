@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și să despărțiți între dobitocul curat și cel necurat, și între pasărea necurată și cea curată, și să nu vă faceți scârboase ⟨את⟩ sufletele voastre prin dobitoc, și prin pasăre, și prin tot ce se târăște pe pământul pe care l-am despărțit vouă ca necurat.",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "Și să despărțiți"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobitocul"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "curat"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "și cel necurat"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "pasărea"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "necurată"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "și cea curată"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "vă faceți scârboase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletele voastre"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "sufletele voastre"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "prin dobitoc"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "și prin pasăre"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "și prin tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "se târăște"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pe pământ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "am despărțit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "ca necurat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:12.292325189Z",
+  "model": "glm-5.3"
+}

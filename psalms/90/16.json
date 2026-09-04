@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 90,
+  "translation": "Să se arate către robii tăi lucrarea ta, și strălucirea ta peste fiii lor.",
+  "tokens": [
+    {
+      "surface": "ייראה",
+      "gloss": "Să se arate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robii tăi"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "lucrarea ta"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "și strălucirea ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiii lor"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:16.967790290Z",
+  "model": "glm-5.3"
+}

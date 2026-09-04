@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Către dirijor, despre Iedutun, lui Asaf. Un mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Către dirijor"
+    },
+    {
+      "surface": "על",
+      "gloss": "despre"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Iedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "lui Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:47.521263523Z",
+  "model": "glm-5.3"
+}

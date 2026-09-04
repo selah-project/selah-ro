@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Scoate-mă din vină de sânge, Elohim, Elohim al izbăvirii mele, și limba mea va cânta cu veselie dreptatea ta.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Scoate-mă"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "din vină de sânge"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "izbăvirii mele"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "va cânta cu veselie"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "limba mea"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "dreptatea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:23.675152448Z",
+  "model": "glm-5.3"
+}

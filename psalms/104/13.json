@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Adapă munții din cămările lui de sus; din rodul lucrărilor tale se satură pământul.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Adapă"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "munții"
+    },
+    {
+      "surface": "מעליותיv",
+      "gloss": "din cămările lui de sus"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "din rodul"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "lucrărilor tale"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "se satură"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:03.586679549Z",
+  "model": "glm-5.3"
+}

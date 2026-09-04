@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Căci s-au sfătuit cu inimă laolaltă; împotriva ta au încheiat legământ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "s-au sfătuit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "cu inimă"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "laolaltă"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "împotriva ta"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământ"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "au încheiat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:48.979453033Z",
+  "model": "glm-5.3"
+}

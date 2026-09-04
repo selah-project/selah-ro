@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Începutul aluatului vostru, o chalá, veți ridica ca terumá; ca teruma de la arie, așa veți ridica ⟨את⟩ ea.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Începutul"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "aluatului vostru"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "o chalá"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "veți ridica"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ca terumá"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "ca teruma de la"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "arie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "veți ridica"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ea"
+    }
+  ],
+  "timestamp": "2026-09-04T06:54:00.407743817Z",
+  "model": "glm-5.3"
+}

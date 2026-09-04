@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și s-a ridicat Iehoram peste împărăția tatălui său și s-a întărit și a ucis ⟨את⟩ pe toți frații săi cu sabia, și chiar pe căpeteniile lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și s-a ridicat"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Iehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "și s-a întărit"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "și a ucis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți frații săi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "cu sabia"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:25:53.514533806Z",
+  "model": "glm-5.3"
+}

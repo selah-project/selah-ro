@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 59,
+  "translation": "Ei rătăcesc după mâncare; dacă nu se satură, petrec noaptea.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "rătăcesc"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "după mâncare"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "se satură"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "petrec noaptea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:33.442195267Z",
+  "model": "glm-5.3"
+}

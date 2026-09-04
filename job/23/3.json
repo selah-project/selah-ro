@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Cine ar da să știu ⟨unde⟩ și să-l aflu, să vin până la locul lui de ședere!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ar da"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "să știu"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "și să-l aflu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "să vin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "locul lui de ședere"
+    }
+  ],
+  "timestamp": "2026-09-04T05:32:10.935433579Z",
+  "model": "glm-5.3"
+}

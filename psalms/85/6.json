@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Oare ⟨vei fi mânios⟩ pe noi pentru totdeauna? Îți vei întinde mânia din neam în neam?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Oare pentru totdeauna"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "te vei mânia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pe noi"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "vei întinde"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mânia ta"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "peste neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "și neam"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:39.685293738Z",
+  "model": "glm-5.3"
+}

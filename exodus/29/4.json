@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și ⟨את⟩ pe Aharon și ⟨את⟩ pe fiii lui îi vei aduce la intrarea Cortului Întâlnirii, și îi vei spăla ⟨את⟩ cu apă.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Și ⟨את⟩",
+      "marks": "pe Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "vei aduce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "intrarea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Întâlnirii"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "și vei spăla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "îi vei spăla (pe Aharon și pe fiii lui)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "cu apă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:25:00.687263771Z",
+  "model": "glm-5.3"
+}

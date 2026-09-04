@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Iehozavad, fiul lui Șimat, și Iehozavad, fiul lui Șomer, slujitorii lui, l-au lovit, și a murit; și l-au îngropat ⟨את⟩ cu părinții lui în cetatea lui David; și a domnit Amatția, fiul lui, în locul lui.",
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Iehozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "lui Șimat"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "și Iehozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "lui Șomer"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slujitorii lui"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "l-au lovit"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "și a murit"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "și l-au îngropat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l-au îngropat (pe el)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "părinții lui"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetatea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "și a domnit"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatția"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:01.085800258Z",
+  "model": "glm-5.3"
+}

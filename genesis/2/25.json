@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și erau amândoi goi, omul și soția lui, și nu se rușinau.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "și erau"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "goi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "și soția lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "se rușinau"
+    }
+  ],
+  "timestamp": "2026-09-04T06:32:55.706297313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și să păziți ⟨את⟩ toate rânduielile mele și ⟨את⟩ toate judecățile mele și să le faceți ⟨את⟩ pe ele; eu ⟨sunt⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "și să păziți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate rânduielile mele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rânduielile mele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate judecățile mele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecățile mele"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "și să le faceți"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ele",
+      "marks": "rânduielile și judecățile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:38.783475269Z",
+  "model": "glm-5.3"
+}

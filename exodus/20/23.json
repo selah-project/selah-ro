@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Să nu vă faceți ⟨את⟩ alături de mine dumnezei de argint și dumnezei de aur, să nu vă faceți vouă.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "vă faceți"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ alături de mine"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de argint"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "și dumnezei"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vă faceți"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:34.426474815Z",
+  "model": "glm-5.3"
+}

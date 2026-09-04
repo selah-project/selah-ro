@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și au luat filiștim ⟨את⟩ chivotul lui Elohim și l-au dus ⟨את⟩ în casa lui Dagon și l-au așezat ⟨את⟩ lângă Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Și au luat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul lui Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "și l-au dus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "în casa lui Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "lui Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "și l-au așezat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "lângă Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-09-04T02:41:18.482556192Z",
+  "model": "glm-5.3"
+}

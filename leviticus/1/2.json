@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Vorbește către fiii lui Israel și le vei spune: Om dintre voi, când aduce jertfă lui Yahve, din vite — din cirezi și din turme — să aduceți ⟨את⟩ jertfa voastră.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și vei spune"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Omul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "aduce"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dintre voi"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "jertfă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vite"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "cirezi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "și din"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "turme"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "să aduceți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa voastră"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "jertfa voastră"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:48.845877707Z",
+  "model": "glm-5.3"
+}

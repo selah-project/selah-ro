@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Chiar și robul tău este povățuit prin ele; în păzirea lor ⟨este⟩ răsplată mare.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robul tău"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "este povățuit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "prin ele"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "în păzirea lor"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "răsplată"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:13.872931572Z",
+  "model": "glm-5.3"
+}

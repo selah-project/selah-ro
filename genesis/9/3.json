@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Tot remesul care este viu ⟨să⟩ fie vouă de mâncare; ca iarba verde v-am dat vouă ⟨את⟩ totul.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "remesul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "de mâncare"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "ca iarba"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "verde"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "totul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "totul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:59.528440774Z",
+  "model": "glm-5.3"
+}

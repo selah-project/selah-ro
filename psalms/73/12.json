@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Iată, aceștia sunt cei răi și cei fără grijă ai veacului, și-și măresc averea.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אֵ֥לֶּה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "רְשָׁעִ֑ים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "וְשַׁלְוֵ֥י",
+      "gloss": "și cei fără grijă ai"
+    },
+    {
+      "surface": "עוֹלָ֗ם",
+      "gloss": "veacului"
+    },
+    {
+      "surface": "הִשְׂגּ֧וּ",
+      "gloss": "au sporit"
+    },
+    {
+      "surface": "חָ֛יִל",
+      "gloss": "avere"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:01.371699061Z",
+  "model": "glm-5.3"
+}

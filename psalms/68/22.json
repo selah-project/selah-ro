@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Chiar Elohim va zdrobi capul vrăjmașilor lui, creștetul păros al celui ce umblă în fărădelegile lui.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "va zdrobi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vrăjmașilor lui"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "creștetul"
+    },
+    {
+      "surface": "שער",
+      "gloss": "păros"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "al celui ce umblă"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "în fărădelegile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:36.424049228Z",
+  "model": "glm-5.3"
+}

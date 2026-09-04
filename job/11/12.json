@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Iar omul scobit va dobândi inimă, când mânzul măgarului sălbatic se va naște om.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "iar omul"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "scobit"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "va dobândi inimă"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "mânzul"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "măgarului sălbatic"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "om"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "se va naște"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:23.556635221Z",
+  "model": "glm-5.3"
+}

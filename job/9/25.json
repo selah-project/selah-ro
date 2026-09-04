@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și zilele mele au fost mai iuți decât ⟨un⟩ alergător; au fugit, nu au văzut binele.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "Și zilele mele"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "au fost mai iuți"
+    },
+    {
+      "surface": "מני",
+      "gloss": "decât"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "⟨un⟩ alergător"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "au fugit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "binele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:06:40.956386301Z",
+  "model": "glm-5.3"
+}

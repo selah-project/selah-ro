@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Până în veac voi întemeia sămânța ta, și voi zidi pentru neam și neam tronul tău. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "voi întemeia"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sămânța ta"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "și voi zidi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pentru neam"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "și neam"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tronul tău"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:54.231075421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 114,
+  "translation": "A ajuns Iehuda să fie sfântenia lui, Israel stăpânirile lui.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "A ajuns... să fie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "sfântenia lui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "stăpânirile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:02.193161186Z",
+  "model": "glm-5.3"
+}

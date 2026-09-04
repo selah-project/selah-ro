@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "atunci voi da ploile voastre la vremea lor, și va da pământul roada lui, și pomul câmpului va da fructul lui;",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "și voi da"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "ploile voastre"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "la vremea lor"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "și va da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "roada lui"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "și pomul"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpului"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "va da"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "fructul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:18.467959029Z",
+  "model": "glm-5.3"
+}

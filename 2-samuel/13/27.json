@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a stăruit Avșalom la el, și a trimis cu ⟨את⟩ el ⟨את⟩ pe Amnon și ⟨את⟩ pe toți fiii regelui.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Și a stăruit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cu ⟨את⟩ el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe toți fiii regelui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:00:02.058961765Z",
+  "model": "glm-5.3"
+}

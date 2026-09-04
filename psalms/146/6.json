@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 146,
+  "translation": "Cel ce face cerurile și pământul, ⟨את⟩ marea și ⟨את⟩ tot ce este în ele, Cel ce păzește adevărul în veci:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "face"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "și pământul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot ce este în ele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בם",
+      "gloss": "este în ele"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Cel ce păzește"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevărul"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veci"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.948762473Z",
+  "model": "glm-5.3"
+}

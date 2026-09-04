@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și va fi în ziua aceea: voi frânge ⟨את⟩ arcul lui Israel în valea Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Și va fi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "voi frânge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcul lui Israel"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arcul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "în valea"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:12.260463190Z",
+  "model": "glm-5.3"
+}

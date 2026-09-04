@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "În binele drepților se veselește cetatea, iar la pierderea celor răi este strigăt de veselie.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "În binele"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "drepților"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "se vesselește\/ se veselește"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "iar la pierderea"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "este strigăt de veselie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:06.683080469Z",
+  "model": "glm-5.3"
+}

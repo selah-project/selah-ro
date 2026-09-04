@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "A spus Iaacov către Rivka, mama lui: Iată, Esav, fratele meu, ⟨este⟩ om păros, iar eu ⟨sunt⟩ om neted.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama lui"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratele meu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "שער",
+      "gloss": "păros"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "neted"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:26.430161655Z",
+  "model": "glm-5.3"
+}

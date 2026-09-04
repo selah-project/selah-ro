@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "și ⟨את⟩ arvaditul, și ⟨את⟩ țemaritul, și ⟨את⟩ hamatitul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "arvaditul"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arvaditul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "țemaritul"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "țemaritul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hamatitul"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "hamatitul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:04:35.742454043Z",
+  "model": "glm-5.3"
+}

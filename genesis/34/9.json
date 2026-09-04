@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "și încuscriți-vă ⟨את⟩ cu noi: fiicele voastre să le dați nouă, și ⟨את⟩ fiicele noastre să le luați pentru voi.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "încuscriți-vă"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ cu noi",
+      "marks": "fiicele voastre"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "fiicele voastre"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "să dați"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiicele noastre"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "fiicele noastre"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "să luați"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:42.778372009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și chiar dacă ar trăi o mie de ani de două ori, și binele nu l-a văzut — oare nu către un singur loc totul merge?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "și chiar dacă"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ar trăi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "o mie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "de două ori"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "și binele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "oare nu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "loc"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un singur"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "totul"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "merge"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:17.929823523Z",
+  "model": "glm-5.3"
+}

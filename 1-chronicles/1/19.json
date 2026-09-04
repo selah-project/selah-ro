@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 1:19",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și lui Ever i s-au născut doi fii: numele unuia Peleg, căci în zilele lui s-a împărțit pământul, iar numele fratelui său Ioktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Și lui Ever"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "i s-au născut"
+    },
+    {
+      "surface": "שני",
+      "gloss": "doi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unuia"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "în zilele lui"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "s-a împărțit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "iar numele"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratelui său"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Ioktan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:05:06.145242779Z",
+  "model": "glm-5.3"
+}

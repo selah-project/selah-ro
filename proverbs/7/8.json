@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "trecând prin piață lângă colțul ei, și pașii lui se îndreptau spre casa ei,",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "trecând"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "prin piață"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "lângă"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "colțul ei"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "și calea"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "spre casa ei"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "mergea cu pași"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:07.039846665Z",
+  "model": "glm-5.3"
+}

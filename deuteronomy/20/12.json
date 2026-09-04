@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Iar dacă nu încheie pace cu tine, ci face cu tine război, atunci o vei împresura asupra ei.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "încheie pace"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ci face"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "război"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "atunci o vei împresura"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "asupra ei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:51:08.430152402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 80,
+  "translation": "Yahve Elohim Țevaot, până când ai să fumezi asupra rugăciunii poporului tău?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "ai să fumezi"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "asupra rugăciunii"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:45.778322600Z",
+  "model": "glm-5.3"
+}

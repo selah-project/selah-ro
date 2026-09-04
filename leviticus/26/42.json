@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și îmi voi aminti ⟨את⟩ legământul meu ⟨cu⟩ Iaacov, și de asemenea ⟨את⟩ legământul meu ⟨cu⟩ Ițhac, și de asemenea ⟨את⟩ legământul meu ⟨cu⟩ Avraham îmi voi aminti; și pământul îmi voi aminti.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Și îmi voi aminti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "și de asemenea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "și de asemenea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "îmi voi aminti"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "și pământul"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "îmi voi aminti"
+    }
+  ],
+  "timestamp": "2026-09-04T01:40:42.357838275Z",
+  "model": "glm-5.3"
+}

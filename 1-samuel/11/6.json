@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a năvălit duhul lui Elohim peste Șaul când a auzit ⟨את⟩ cuvintele acestea, și s-a aprins mânia lui foarte.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "și a năvălit"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duhul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "când a auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "și s-a aprins"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mânia lui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:31.157373907Z",
+  "model": "glm-5.3"
+}

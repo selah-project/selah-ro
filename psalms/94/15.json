@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Căci judecata va întoarce ⟨spre⟩ dreptate, și după ea toți cei drepți la inimă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptate"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se va întoarce"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judecata"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "și după ea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "cei drepți"
+    },
+    {
+      "surface": "לב",
+      "gloss": "la inimă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:05.725186983Z",
+  "model": "glm-5.3"
+}

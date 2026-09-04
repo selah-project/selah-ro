@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Iar de nu veți asculta de noi să vă tăiați împrejur, vom lua ⟨את⟩ fiica noastră și ne vom duce.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "veți asculta"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "de noi"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "să vă tăiați împrejur"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "vom lua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiica noastră"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "fiica noastră"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "și ne vom duce"
+    }
+  ],
+  "timestamp": "2026-09-04T01:06:18.172576678Z",
+  "model": "glm-5.3"
+}

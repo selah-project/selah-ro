@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Sufletul care păcătuiește, acela va muri; fiul nu va purta nelegiuirea tatălui, și tatăl nu va purta nelegiuirea fiului; dreptatea celui drept peste el va fi, și răutatea răului peste el va fi.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "sufletul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "care păcătuiește"
+    },
+    {
+      "surface": "היא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "va muri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va purta"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "האב",
+      "gloss": "tatălui"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "și tatăl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "va purta"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "nelegiuirea"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "fiului"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "celui drept"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "și răutatea"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "răului"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:25:17.809267686Z",
+  "model": "glm-5.3"
+}

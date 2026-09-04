@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a ieșit poporul și a prădat ⟨את⟩ tabăra lui Aram, și a fost: o măsură de făină bună ⟨la⟩ un șekel și două măsuri de orz ⟨la⟩ un șekel, după cuvântul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "și a prădat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabăra lui Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabăra"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "lui Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "o măsură"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de făină bună"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨la⟩ un șekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "și două măsuri"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "de orz"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨la⟩ un șekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:57:03.264569651Z",
+  "model": "glm-5.3"
+}

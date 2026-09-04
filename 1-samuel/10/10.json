@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și au venit acolo, la Giva, și iată o ceată de navi în întâmpinarea lui; și a năvălit peste el duhul lui Elohim și a profețit în mijlocul lor.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Și au venit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "la Giva"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "o ceată"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "de navi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "în întâmpinarea lui"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "și a năvălit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duhul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "și a profețit"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "în mijlocul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:07.206675309Z",
+  "model": "glm-5.3"
+}

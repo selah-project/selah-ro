@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și un duh peste fața mele a trecut; s-a zbârlit părul cărnii mele.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "Și un duh"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "a trecut"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "s-a zbârlit"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "părul"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "cărnii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:36.791024159Z",
+  "model": "glm-5.3"
+}

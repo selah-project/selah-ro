@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "și l-a scuturat pe Paro și oștirea lui în marea de Șuf, căci în veac ⟨durează⟩ hesedul lui:",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "și l-a scuturat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "pe Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "și oștirea lui"
+    },
+    {
+      "surface": "בים",
+      "gloss": "în marea"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Șuf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:22.506173346Z",
+  "model": "glm-5.3"
+}

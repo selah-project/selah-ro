@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cunoaște boul pe stăpânul său, și măgarul ieslea stăpânului său; Israel nu cunoaște, poporul meu nu pricepe.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Cunoaște"
+    },
+    {
+      "surface": "שור",
+      "gloss": "boul"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "pe stăpânul său"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "și măgarul"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ieslea"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "stăpânului său"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "cunoaște"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "pricepe"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:07.972341693Z",
+  "model": "glm-5.3"
+}

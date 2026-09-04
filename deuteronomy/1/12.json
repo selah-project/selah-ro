@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cum să duc singur osteneala voastră, și povara voastră, și neînțelegerile voastre?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "cum"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "să duc"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "singur"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "osteneala voastră"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "și povara voastră"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "și neînțelegerile voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T01:58:13.386446670Z",
+  "model": "glm-5.3"
+}

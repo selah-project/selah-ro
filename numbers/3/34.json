@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și cei numărați ai lor, după numărul întregului parte bărbătească, de la vârsta de o lună în sus: șase mii și două sute.",
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "Și cei numărați ai lor"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "după numărul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "întregului"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "parte bărbătească"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "de la vârsta de"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "o lună"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "în sus"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "șase"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "și două sute"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:32.521234256Z",
+  "model": "glm-5.3"
+}

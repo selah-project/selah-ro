@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a zidit Șaul altar lui Yahve; pe el ⟨את⟩ a început să zidească altar lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Și a zidit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pe el ⟨את⟩",
+      "marks": "altarul pe care l-a zidit Șaul"
+    },
+    {
+      "surface": "החל",
+      "gloss": "a început"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "să zidească"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:13.933304779Z",
+  "model": "glm-5.3"
+}

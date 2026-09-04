@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Iar oamenii de nimic ⟨sunt⟩ ca un spin măturat — toți; căci nu cu mâna se iau. ",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "Iar oamenii de nimic"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "ca un spin"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "măturat"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "cu mâna"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "se iau"
+    }
+  ],
+  "timestamp": "2026-09-04T07:15:29.770129301Z",
+  "model": "glm-5.3"
+}

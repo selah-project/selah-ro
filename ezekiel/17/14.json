@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "ca să fie împărăția smerită, să nu se înalțe, păzind ⟨את⟩ legământul lui, ca să stea.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "ca să fie"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "smerită"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "se înalțe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "păzind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul lui"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "legământul lui"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "ca să stea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:24:33.102913194Z",
+  "model": "glm-5.3"
+}

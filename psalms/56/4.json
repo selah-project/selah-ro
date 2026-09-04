@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "În ziua în care mă tem, eu în Tine îmi pun încrederea.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "în care mă tem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "în Tine"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "îmi pun încrederea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:02.588789494Z",
+  "model": "glm-5.3"
+}

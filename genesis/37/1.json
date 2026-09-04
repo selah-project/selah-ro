@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și a locuit Iaacov în pământul pribegiilor tatălui său, în pământul Chenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și a locuit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământul"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "pribegiilor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământul"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:12.560800826Z",
+  "model": "glm-5.3"
+}

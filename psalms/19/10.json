@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Frica de Yahve ⟨este⟩ curată, stând pentru totdeauna; judecățile lui Yahve ⟨sunt⟩ adevăr, drepte deopotrivă.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "frica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de Yahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "curată"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "stând"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecățile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevăr"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sunt drepte"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "deopotrivă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:55:13.872665176Z",
+  "model": "glm-5.3"
+}

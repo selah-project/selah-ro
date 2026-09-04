@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Ca zăpada vara și ca ploaia la seceriș, așa nu se cuvine nebunului slava.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "Ca zăpada"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "vara"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "și ca ploaia"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "la seceriș"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "se cuvine"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "nebunului"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:58.360101501Z",
+  "model": "glm-5.3"
+}

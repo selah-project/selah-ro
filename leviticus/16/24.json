@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și își va spăla trupul cu apă în loc sfânt, și își va pune veșmintele sale, și va ieși și va face ⟨את⟩ arderii-de-tot a lui și ⟨את⟩ arderii-de-tot a poporului, și va face ispășire pentru el și pentru popor.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "Și își va spăla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupul"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "במים",
+      "gloss": "cu apă"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "în loc"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "și își va pune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veșmintele sale"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "veșmintele sale"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și va ieși"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și va face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea-de-tot a lui"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "arderea-de-tot a lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "arderea-de-tot a poporului"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "arderea-de-tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a poporului"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "și va face ispășire"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "și pentru"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popor"
+    }
+  ],
+  "timestamp": "2026-09-04T06:48:23.493068704Z",
+  "model": "glm-5.3"
+}

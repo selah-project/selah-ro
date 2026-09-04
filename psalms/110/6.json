@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 110,
+  "translation": "Va judeca printre neamuri, umplând ⟨de⟩ trupuri ⟨moarte⟩, va zdrobi capul peste pământul cel mare.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "va judeca"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "printre neamuri"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "umplând"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "trupuri ⟨moarte⟩"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "va zdrobi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "cel mare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:47.983292297Z",
+  "model": "glm-5.3"
+}

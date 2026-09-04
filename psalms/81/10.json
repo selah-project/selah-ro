@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Să nu fie în tine un el străin, și să nu te închini unui dumnezeu străin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "un el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "străin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "te închini"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "unui dumnezeu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străin"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:13.592985477Z",
+  "model": "glm-5.3"
+}

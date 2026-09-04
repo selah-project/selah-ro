@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "și ⟨את⟩ cădelnițele și ⟨את⟩ străchinile de stropit, care (erau) de aur — aur, și care de argint — argint, a luat căpetenia călăilor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cădelnițele"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "cădelnițele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "străchinile de stropit"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "străchinile de stropit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aur"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și care"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de argint"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argint"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "călăilor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:23:51.670364056Z",
+  "model": "glm-5.3"
+}

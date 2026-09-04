@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Pentru păcatele lui Iaravam, pe care le-a săvârșit și cu care a făcut pe Israel să păcătuiască, prin mânia lui, cu care L-a mâniat pe Yahve, Elohimul Israelului.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pentru"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "păcatele"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "lui Iaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "le-a săvârșit"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și cu care"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a făcut să păcătuiască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "prin mânia lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "a mâniat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:17:31.411937490Z",
+  "model": "glm-5.3"
+}

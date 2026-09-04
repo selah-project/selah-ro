@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 38:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "O scriere a lui Hizchiahu, regele lui Iehuda, când s-a îmbolnavit și a trăit ⟨din⟩ boala lui.",
+  "tokens": [
+    {
+      "surface": "מכתב",
+      "gloss": "scriere"
+    },
+    {
+      "surface": "לחזקיהו",
+      "gloss": "a lui Hizchiahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "בחלתו",
+      "gloss": "când s-a îmbolnavit"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "și a trăit"
+    },
+    {
+      "surface": "מחליו",
+      "gloss": "din boala lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:04.491157304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 143,
+  "translation": "Căci a urmărit un dușman sufletul meu, a zdrobit până la pământ viața mea, m-a făcut să locuiesc în întunecimi, ca morții de demult.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "a urmărit"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "un dușman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "a zdrobit"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "până la pământ"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "viața mea"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "m-a făcut să locuiesc"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "în întunecimi"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ca morții"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "de demult"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:34.432997816Z",
+  "model": "glm-5.3"
+}

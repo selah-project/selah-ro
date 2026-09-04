@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Bun ⟨este⟩ Yahve către toți, și milele lui ⟨sunt⟩ peste toate lucrările lui.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "către toți"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "și milele lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "lucrările lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:56.726109135Z",
+  "model": "glm-5.3"
+}

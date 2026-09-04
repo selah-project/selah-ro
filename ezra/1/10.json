@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "cupe de aur treizeci, cupe de argint de-al doilea fel patru sute și zece, vase alte o mie",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "cupe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "cupe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de argint"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "de-al doilea fel"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patru"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "și zece"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "vase"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "alte"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "o mie"
+    }
+  ],
+  "timestamp": "2026-09-04T08:15:52.837929429Z",
+  "model": "glm-5.3"
+}

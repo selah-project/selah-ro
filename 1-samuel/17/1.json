@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și au adunat Plishtim ⟨את⟩ taberele lor pentru război, și s-au adunat la Soko, care ⟨este⟩ al lui Iehuda, și au tabărât între Soko și între Azeca, la Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "Și au adunat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taberele lor"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "taberele lor"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pentru război"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "și s-au adunat"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "la Soko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "al lui Iehuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "și au tabărât"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeca"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "la Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:49.352521956Z",
+  "model": "glm-5.3"
+}

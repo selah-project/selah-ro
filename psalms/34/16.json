@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Ochii lui Yahve ⟨sunt⟩ spre drepți și urechile lui spre strigătul lor.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "drepți"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "și urechile lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "strigătul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:44.467362416Z",
+  "model": "glm-5.3"
+}

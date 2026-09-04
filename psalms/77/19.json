@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Vocea tunetului tău în vârtej; fulgerele au luminat lumea; s-a cutremurat și s-a zguduit pământul.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vocea"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "tunetului tău"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "în vârtej"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "au luminat"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "fulgerele"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lumea"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "s-a cutremurat"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "și s-a zguduit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:31.670313368Z",
+  "model": "glm-5.3"
+}

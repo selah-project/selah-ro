@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Un fiu înțelept înveselește ⟨un⟩ tată, iar netotul de om disprețuiește pe mama sa.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "înveselește"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tată"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "iar netotul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de om"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "disprețuiește"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "pe mama sa"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:54.315856708Z",
+  "model": "glm-5.3"
+}

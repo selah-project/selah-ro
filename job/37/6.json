@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Căci zăpezii îi zice: «Fii pe pământ», și ploii ușoare, și ploilor torente ale puterii lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "zăpezii"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "îi zice"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Fii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pe pământ"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "și ploii"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ușoare"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "și ploilor"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "torent(e)"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "puterii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:56.445956275Z",
+  "model": "glm-5.3"
+}

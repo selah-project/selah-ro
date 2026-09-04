@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Cuvintele lui Kohelet, fiul lui David, rege în Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Cuvintele"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "în Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:05.818833798Z",
+  "model": "glm-5.3"
+}

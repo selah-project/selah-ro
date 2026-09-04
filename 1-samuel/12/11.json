@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a trimis Yahve ⟨את⟩ Ierubaal și ⟨את⟩ Bedan și ⟨את⟩ Iiftah și ⟨את⟩ Șmuël, și v-a izbăvit ⟨את⟩ din mâna dușmanilor voștri dimprejur, și ați locuit în siguranță.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Ierubaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Ierubaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe Iiftah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Iiftah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe Șmuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuël"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "și v-a izbăvit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dușmanilor voștri"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dimpresur"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "și ați locuit"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "în siguranță"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:36.645486825Z",
+  "model": "glm-5.3"
+}

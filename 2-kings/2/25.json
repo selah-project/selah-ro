@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a mers de acolo spre muntele ha-Karmel, și de acolo s-a întors în Șomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ha-Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "și de acolo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "în Șomron"
+    }
+  ],
+  "timestamp": "2026-09-04T03:21:48.671448502Z",
+  "model": "glm-5.3"
+}

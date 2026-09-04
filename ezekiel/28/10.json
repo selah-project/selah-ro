@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 28:10",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Morților celor netaiați împrejur vei muri, în mâna străinilor, căci eu am vorbit — oracle al Adonai Yahve.",
+  "tokens": [
+    {
+      "surface": "מותי",
+      "gloss": "morților"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "celor netaiați împrejur"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "vei muri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "străinilor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "am vorbit"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:28:13.783223225Z",
+  "model": "glm-5.3"
+}

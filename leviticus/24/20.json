@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Fractură în loc de fractură, ochi în loc de ochi, dinte în loc de dinte; cum dă el o vătămare unui om, așa i se va da lui.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Fractură"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în loc de"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "fractură"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în loc de"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ochi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dinte"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "în loc de"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dinte"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "מום",
+      "gloss": "o vătămare"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "i se va da"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:28.563202964Z",
+  "model": "glm-5.3"
+}

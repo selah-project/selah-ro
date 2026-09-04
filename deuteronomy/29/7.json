@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și am luat ⟨את⟩ pământul lor și l-am dat de moștenire lui Reuven, și lui Gad, și lui jumătate din seminția lui Menașe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Și am luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul lor"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "pământul lor"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "și l-am dat"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "de moștenire"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "lui Reuven"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "și lui Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "și lui jumătate"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "din seminția"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "lui Menașe"
+    }
+  ],
+  "timestamp": "2026-09-04T06:59:55.190035955Z",
+  "model": "glm-5.3"
+}

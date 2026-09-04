@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a ascultat Yahve ⟨către⟩ Iehizchiahu și a vindecat ⟨את⟩ poporul.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a ascultat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Iehizchiahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "și a vindecat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:30:17.828940778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și s-a înălțat inima lui în căile lui Yahve, și încă a îndepărtat ⟨את⟩ locurile înalte și ⟨את⟩ Așerele din Iehuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "s-a înălțat"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "în căile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "și încă"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a îndepărtat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locurile înalte"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "locurile înalte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Așerele"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Așerele"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "din Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T08:22:52.855912030Z",
+  "model": "glm-5.3"
+}

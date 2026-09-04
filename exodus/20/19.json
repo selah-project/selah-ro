@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și au spus ⟨către⟩ Moșe: Vorbește tu cu noi și vom asculta, dar să nu mai vorbească cu noi Elohim, ca să nu murim.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Și au spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cu noi"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "și vom asculta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dar să nu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "vorbească"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cu noi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "murim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:18.246673549Z",
+  "model": "glm-5.3"
+}

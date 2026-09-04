@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iar tânăra era foarte frumoasă și a fost îngrijitoarea împăratului și l-a slujit, dar împăratul n-a cunoscut-o.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "Iar tânăra"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "frumoasă"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "împăratului"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "îngrijitoarea"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "și l-a slujit"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "dar împăratul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "a cunoscut-o"
+    }
+  ],
+  "timestamp": "2026-09-04T03:07:47.257133879Z",
+  "model": "glm-5.3"
+}

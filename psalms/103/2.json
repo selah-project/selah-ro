@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Binecuvântează, suflete al meu, ⟨את⟩ Yahve, și nu uita toate răsplătirile lui!",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Binecuvântează"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "suflete al meu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "să uiți"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "răsplătirile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:45.027312012Z",
+  "model": "glm-5.3"
+}

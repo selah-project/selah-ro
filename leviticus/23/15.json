@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și vă numărați de a doua zi a Șabatului, din ziua în care ați adus ⟨את⟩ omerul legănării: șapte Șabaturi întregi să fie.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "și numărați"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vă"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "de a doua zi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "a Șabatului"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "din ziua"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "în care ați adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerul"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omerul"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "al legănării"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Șabaturi"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "întregi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "să fie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:49.172001683Z",
+  "model": "glm-5.3"
+}

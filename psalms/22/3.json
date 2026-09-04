@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Elohim al meu, strig ziua și nu răspunzi, și noaptea, și nu am tăcere pentru mine.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "strig"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "răspunzi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "și noaptea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tăcere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:32.525677262Z",
+  "model": "glm-5.3"
+}

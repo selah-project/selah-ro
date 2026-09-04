@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Căci stă la dreapta săracului, ca să-l scape de cei ce-i judecă viața.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stă"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "la dreapta"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "săracului"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ca să-l scape"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "de cei ce-i judecă"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viața"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:54.693669216Z",
+  "model": "glm-5.3"
+}

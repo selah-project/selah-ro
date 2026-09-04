@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și s-a întors Ravșake și l-a găsit ⟨את⟩ pe regele Așurului luptându-se împotriva Livnei, căci auzise că plecase de la Lachiș.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și s-a întors"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Șake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "și l-a găsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe regele Așurului"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "pe regele"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așurului"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "luptându-se"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "auzise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "plecase"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "de la Lachiș"
+    }
+  ],
+  "timestamp": "2026-09-04T08:57:46.548190073Z",
+  "model": "glm-5.3"
+}

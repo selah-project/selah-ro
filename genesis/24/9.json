@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a pus sluga ⟨את⟩ mâna sa sub coapsa lui Avraham, stăpânul său, și i s-a jurat pe lucrul acesta.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sluga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mâna sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "coapsa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "stăpânul său"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "și i s-a jurat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:45.312584357Z",
+  "model": "glm-5.3"
+}

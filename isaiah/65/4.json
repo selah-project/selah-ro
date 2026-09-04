@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Care șed în morminte și petrec noaptea în locuri închise; care mănâncă carne de porc, și în vasele lor ⟨este⟩ fiertură de lucruri scârboase.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "care șed"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "în morminte"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "și în locuri închise"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "petrec noaptea"
+    },
+    {
+      "surface": "האוכלים",
+      "gloss": "care mănâncă"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "de porc"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "și fiertură"
+    },
+    {
+      "surface": "פגולים",
+      "gloss": "de lucruri scârboase"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "în vasele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:57:23.654917930Z",
+  "model": "glm-5.3"
+}

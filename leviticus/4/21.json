@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și va scoate ⟨את⟩ taurul la afară de tabără și îl va arde ⟨את⟩ cum a ars ⟨את⟩ taurul cel dintâi; jertfă de păcat a adunării ⟨este⟩ el.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "și va scoate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taurul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "taurul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "afară"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "de tabără"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "și va arde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "îl ⟨את⟩",
+      "marks": "taurul"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "a ars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taurul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "taurul"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "cel dintâi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jertfă de păcat"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "a adunării"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:55.120287833Z",
+  "model": "glm-5.3"
+}

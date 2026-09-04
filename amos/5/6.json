@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căutați ⟨את⟩ Yahve și veți trăi, ca nu cumva să izbucnească ca focul în casa lui Ioséf și s-o mănânce, și nu va fi cine s-o stingă pentru Beit-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Căutați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "și veți trăi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "să izbucnească"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ca focul"
+    },
+    {
+      "surface": "בית",
+      "gloss": "în casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Ioséf"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "și s-o mănânce"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu va fi"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "cine s-o stingă"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pentru Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:42.295397772Z",
+  "model": "glm-5.3"
+}

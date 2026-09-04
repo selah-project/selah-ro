@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "cum se ridică din taurul jertfei shelamim, așa le va arde cohenul pe altarul arderii-de-tot.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "se ridică"
+    },
+    {
+      "surface": "משור",
+      "gloss": "din taurul"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jertfei"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "așa le va arde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarul"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-de-tot"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:19.596362677Z",
+  "model": "glm-5.3"
+}

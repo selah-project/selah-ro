@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Povara asupra Arabiei. În pădure, în Arabie, veți înnopta, o caravane ale celor din Dedan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Povara"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "asupra Arabiei"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "În pădure"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "în Arabie"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "veți înnopta"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "caravanele"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "ale celor din Dedan"
+    }
+  ],
+  "timestamp": "2026-09-04T07:26:02.831557267Z",
+  "model": "glm-5.3"
+}

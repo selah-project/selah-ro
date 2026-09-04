@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și la femeia aproapelui tău să nu dai culcarea ta, de sămânță, pentru necurăție cu ea.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Și la"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "aproapelui tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "să dai"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "culcarea ta"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "de sămânță"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "pentru necurăție"
+    },
+    {
+      "surface": "בה",
+      "gloss": "cu ea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:19:08.599072330Z",
+  "model": "glm-5.3"
+}

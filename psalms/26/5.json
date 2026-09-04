@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Am urât adunarea făptuitorilor de rău și cu rășații nu voi ședea.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "am urât"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "făptuitorilor de rău"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rășații"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "voi ședea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:33.085326127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Pe cine ⟨את⟩ va învăța cunoștință, și pe cine ⟨את⟩ va face să înțeleagă înștiințarea? Pe cei înțărcati de la lapte, pe cei smulsi de la sâni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "va învăța"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "cunoștință"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe cine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "va face să înțeleagă"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "înștiințarea"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "pe cei înțărcati"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "de la lapte"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "pe cei smulsi"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "de la sâni"
+    }
+  ],
+  "timestamp": "2026-09-04T03:43:21.530700057Z",
+  "model": "glm-5.3"
+}

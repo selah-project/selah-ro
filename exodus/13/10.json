@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și vei păzi ⟨את⟩ rânduiala aceasta la vremea ei hotărâtă, de la zile la zile.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Și vei păzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rânduiala aceasta"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "rânduiala"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "la vremea ei hotărâtă"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "de la zile"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "la zile"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:36.826409340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Moav este vasul meu de spălat, peste Edom arunc sandaua mea, peste Peleșet strig în triumf.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "vasul"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "de spălat al meu"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "arunc"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandaua mea"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleșet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "strig în triumf"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:42.188584842Z",
+  "model": "glm-5.3"
+}

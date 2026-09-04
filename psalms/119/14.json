@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "În calea mărturiilor tale m-am veselit, ca peste toată avuția.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "în calea"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "mărturiilor tale"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "m-am veselit"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "ca peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הון",
+      "gloss": "avuția"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:18.078462264Z",
+  "model": "glm-5.3"
+}

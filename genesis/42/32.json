@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Doisprezece suntem noi, frați, fii ai tatălui nostru; unul nu mai este, iar cel mai mic este azi cu ⟨את⟩ tatăl nostru în țara Chenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "Doisprezece (doi)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-sprezece)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "frați"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ai tatălui nostru"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nu mai este"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "iar cel mai mic"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatăl nostru"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "tatăl nostru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:03.391316141Z",
+  "model": "glm-5.3"
+}

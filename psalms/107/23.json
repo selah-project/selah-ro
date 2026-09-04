@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Cei ce coboară la mare în corăbii, făcători de lucru în ape multe:",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "coborâtori\/cei ce coboară"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mare"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "în corăbii"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "făcători de"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lucru\/muncă"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în ape"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:43.659489657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "În piețele lui ⟨s-au⟩ încins sacul; pe acoperișurile lui și în ulițele lui toate urlă, coborând în plâns.",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "În piețele lui"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "⟨s-au⟩ încins"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sacul"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "acoperișurile lui"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "și în ulițele lui"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "urlă"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "coborând"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "în plâns"
+    }
+  ],
+  "timestamp": "2026-09-04T08:58:46.985787819Z",
+  "model": "glm-5.3"
+}

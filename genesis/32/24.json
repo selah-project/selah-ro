@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și i-a luat și i-a trecut ⟨את⟩ pârâul, și a trecut ⟨את⟩ ce era al lui.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "și i-a luat"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "și i-a trecut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pârâul"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "pârâul"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "și a trecut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce era al lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "era al lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:01.754942357Z",
+  "model": "glm-5.3"
+}

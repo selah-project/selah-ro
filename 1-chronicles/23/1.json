@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "A îmbătrânit David și era sătul de zile, și l-a pus împărat ⟨את⟩ Șelomo, fiul lui, peste Israel.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a îmbătrânit"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "și era sătul"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de zile"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "și l-a pus împărat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:14:44.199110033Z",
+  "model": "glm-5.3"
+}

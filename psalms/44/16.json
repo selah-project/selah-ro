@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Toată ziua rușinea mea ⟨este⟩ înaintea mea, și ocara feței mele m-a acoperit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "rușinea mea"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "și ocara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței mele"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "m-a acoperit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:59.046743733Z",
+  "model": "glm-5.3"
+}

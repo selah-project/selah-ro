@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Cu ură desăvârșită i-am urât: dușmani mi-au fost mie.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "desăvârșită"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ură"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "i-am urât"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "dușmani"
+    },
+    {
+      "surface": "היו",
+      "gloss": "au fost"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:02.044018224Z",
+  "model": "glm-5.3"
+}

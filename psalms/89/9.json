@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Yahve, Elohim al Țevaot, cine este ca tine? Puternic ⟨ești⟩, Ya, și credincioșia ta ⟨este⟩ împrejurul tău.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "este ca tine"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "puternic"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "și credincioșia ta"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "împrejurul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:07.081448607Z",
+  "model": "glm-5.3"
+}

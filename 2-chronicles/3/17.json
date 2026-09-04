@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a ridicat ⟨את⟩ stâlpii din fața templului: unul la dreapta și unul la stânga; și a pus numele celui din dreapta Iahin, și numele celui din stânga Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Și a ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpii"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "stâlpii"
+    },
+    {
+      "surface": "על",
+      "gloss": "din"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templului"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "la dreapta"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "și unul"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "la stânga"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "și a pus numele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "celui din dreapta"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Iahin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "și numele"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "celui din stânga"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-04T08:21:27.410897111Z",
+  "model": "glm-5.3"
+}

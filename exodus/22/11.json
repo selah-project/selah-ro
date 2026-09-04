@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Iar dacă furat va fi furat de la el, să plătească stăpânului său.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iar dacă"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "furat"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "va fi furat"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "de la el"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "să plătească"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "stăpânului său"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:06.325865446Z",
+  "model": "glm-5.3"
+}

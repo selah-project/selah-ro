@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și a fost seara, și a luat ⟨את⟩ pe Lea, fiica lui, și a adus-o ⟨את⟩ la el; și a intrat la ea.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "seara"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Lea, fiica lui"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "fiica lui"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a adus-o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe ea (Lea)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a intrat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "la ea"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:29.041961909Z",
+  "model": "glm-5.3"
+}

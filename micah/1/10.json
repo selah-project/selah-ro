@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "În Gat nu vestiți, plângeți, nu plângeți; la Beit-LeAfra, în praf m-am tăvălit.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "În Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "vestiți"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "plângeți"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "plângeți"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "la Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "LeAfra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praf"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "m-am tăvălit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:11.313237174Z",
+  "model": "glm-5.3"
+}

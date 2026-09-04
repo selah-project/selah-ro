@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și s-a îngreunat bătălia peste Șaul, și l-au aflat arcașii, și a fost rănit de tragători.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "Și s-a îngreunat"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "bătălia"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "și l-au aflat"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "arcașii"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "cu arcul"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "și a fost rănit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "tragători"
+    }
+  ],
+  "timestamp": "2026-09-04T08:19:52.614811908Z",
+  "model": "glm-5.3"
+}

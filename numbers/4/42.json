@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Iar cei numărați din familiile fiilor lui Merari, după familiile lor, după casa părinților lor —",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Iar cei numărați"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "din familiile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "lui Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "după familiile lor"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "după casa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "părinților lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:33.212510655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 84,
+  "translation": "Căci soare și scut ⟨este⟩ Yahve Elohim; har și mărire dă Yahve; nu va opri ce este bun de la cei ce merg întru desăvârșire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "și scut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "har"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "și mărire"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "va opri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ce este bun"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "de la cei ce merg"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "întru desăvârșire"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:37.019314556Z",
+  "model": "glm-5.3"
+}

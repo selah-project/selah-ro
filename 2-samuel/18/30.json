@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și a spus regele: Ocolește, stai aici. Și a ocolit și a stat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "סב",
+      "gloss": "Ocolește"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "stai"
+    },
+    {
+      "surface": "כה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "Și a ocolit"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "și a stat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:28.471633196Z",
+  "model": "glm-5.3"
+}

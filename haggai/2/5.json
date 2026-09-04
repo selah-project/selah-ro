@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "⟨את⟩ cuvântul pe care l-am încheiat cu ⟨את⟩ voi la ieșirea voastră din Mițraim — și duhul meu stă în mijlocul vostru: nu vă temeți.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "am încheiat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "cu ⟨את⟩ voi"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "la ieșirea voastră"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "și duhul meu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stă"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "în mijlocul vostru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vă temeți"
+    }
+  ],
+  "timestamp": "2026-09-04T04:47:47.526316079Z",
+  "model": "glm-5.3"
+}

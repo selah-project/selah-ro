@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "și se va întoarce Yahve, Elohimul tău, cu ⟨את⟩ întoarcerea robiei tale, și te va îndura, și se va întoarce să te adune din mijlocul tuturor popoarelor acolo unde te-a împrăștiat Yahve, Elohimul tău.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "și se va întoarce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "întoarcerea robiei tale"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "întoarcerea robiei tale"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "și te va îndura"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "și se va întoarce"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "și te va aduna"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "din mijlocul tuturor"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "popoarelor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "te-a împrăștiat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "acolo"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:58.801648755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Păzește-te ca nu cumva să uiți ⟨את⟩ Yahve Elohimul tău, nesupraveghind poruncile lui și hotărârile lui și legile lui pe care ți le poruncesc eu azi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Păzește-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pe tine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "să uiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nesupraveghind"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "păzind"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "poruncile lui"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "și hotărârile lui"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "și legile lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "îți poruncesc"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:47.234934456Z",
+  "model": "glm-5.3"
+}

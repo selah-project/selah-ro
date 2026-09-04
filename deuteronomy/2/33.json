@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și l-a dat Yahve Elohim al nostru înaintea noastră, și l-am lovit ⟨את⟩ pe el, și ⟨את⟩ fiii lui, și ⟨את⟩ tot poporul lui.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "și l-a dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "înaintea noastră"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "și l-am lovit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el (אתו = את + sufix)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot poporul lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:57:17.915416189Z",
+  "model": "glm-5.3"
+}

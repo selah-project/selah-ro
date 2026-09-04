@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Nu se va coace dospită — partea lor am dat-o ⟨את⟩ din darurile mele de foc; sfânt al sfintelor ⟨este⟩ ea, ca jertfa de păcat și ca jertfa de vină.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "se va coace"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "dospită"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "partea lor"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat-o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "partea lor — darurile mele de foc"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "din darurile mele de foc"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "al sfintelor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "ca jertfa de păcat"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "și ca jertfa de vină"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:04.787106751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și să-l acoperi pe el cu aur curat: ⟨את⟩ acoperișul lui și ⟨את⟩ pereții lui de jur împrejur și ⟨את⟩ cornele lui; și să-i faci lui o cunună de aur de jur împrejur.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Și să-l acoperi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "altarul"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cu aur"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "curat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acoperișul lui"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "acoperișul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pereții lui"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "pereții lui"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cornele lui"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "cornele lui"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "și să-i faci"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "זר",
+      "gloss": "o cunună"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:49.813374796Z",
+  "model": "glm-5.3"
+}

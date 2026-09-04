@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Nu vei urî un edomit, căci fratele tău ⟨este⟩ el; nu vei urî un egiptean, căci străin ai fost în țara lui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "vei urî"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "un edomit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "vei urî"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "un egiptean"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גר",
+      "gloss": "străin"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ai fost"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "în țara lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:51.950307887Z",
+  "model": "glm-5.3"
+}

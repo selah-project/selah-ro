@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Sufletul lui va rămâne în bine, și sămânța lui va moșteni țara.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "sufletul lui"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "în bine"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "va rămâne"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "și sămânța lui"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "va moșteni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țara"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:25.516328619Z",
+  "model": "glm-5.3"
+}

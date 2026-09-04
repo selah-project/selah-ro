@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Căci nu vei părăsi sufletul meu în Șeol, nu vei da pe credinciosul tău să vadă groapa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "vei părăsi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "în Șeol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vei da"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "pe credinciosul tău"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "groapa"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:37.349111673Z",
+  "model": "glm-5.3"
+}

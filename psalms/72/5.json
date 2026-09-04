@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Se vor teme de tine cât soarele, și înaintea lunii, neam de neamuri.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "se vor teme de tine"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cât"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarele"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "și înaintea"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "lunii"
+    },
+    {
+      "surface": "דור",
+      "gloss": "neam"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "de neamuri"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:07.612043701Z",
+  "model": "glm-5.3"
+}

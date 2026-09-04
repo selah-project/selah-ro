@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Nu vei mânca nicio urâciune.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "vei mânca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nicio"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "urâciune"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:16.817260098Z",
+  "model": "glm-5.3"
+}

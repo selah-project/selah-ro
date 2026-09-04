@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Pasărea cerurilor și peștii mării, ⟨ceea ce⟩ trece prin cărările mărilor.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Pasărea"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "și peștii"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "trece"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "prin cărările"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mărilor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:28.584532341Z",
+  "model": "glm-5.3"
+}

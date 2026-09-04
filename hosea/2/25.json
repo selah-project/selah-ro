@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și o voi semăna pentru mine în pământ, și mă voi îndura de ⟨את⟩ Lo-Ruhamá (Neadăugata-la-îndurare), și voi spune lui Lo-Ami (Nu-poporul-meu): Poporul meu ești tu, și el va spune: Elohim al meu.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "Și o voi semăna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământ"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "și mă voi îndura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nu-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamá (îndurată)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "și voi spune"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "lui Nu-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Poporul meu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și el"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "va spune"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:36:59.942252009Z",
+  "model": "glm-5.3"
+}

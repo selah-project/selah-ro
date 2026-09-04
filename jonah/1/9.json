@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și le-a spus lor: «Ebraic sunt, și ⟨את⟩ Yahve, Elohim al cerurilor, mă tem eu — care a făcut ⟨את⟩ marea și ⟨את⟩ uscatul.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ebraic"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mă tem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "uscatul"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "uscatul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:27.211519014Z",
+  "model": "glm-5.3"
+}

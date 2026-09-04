@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Căci a văzut Yahve ⟨את⟩ mizeria lui Israel — foarte amară: și nimic închis și nimic lăsat, și niciun ajutor pentru Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizeria"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mizeria"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "amară"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "וואפס",
+      "gloss": "și nimic"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "închis"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "și nimic"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "lăsat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ajutor"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pentru Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:28:42.311172085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Iar regele se va bucura în Elohim; se va lăuda tot cel ce jură pe el, căci va fi închisă gura celor ce grăiesc minciună.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Iar regele"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se va bucura"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "în Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "se va lăuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "cel ce jură"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "va fi închisă"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "celor ce grăiesc"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciună"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:47.927932638Z",
+  "model": "glm-5.3"
+}

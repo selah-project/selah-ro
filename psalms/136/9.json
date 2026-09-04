@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 136,
+  "translation": "⟨את⟩ luna și stelele, să stăpânească noaptea; căci în veac ⟨durează⟩ hesedul lui ⟨Elohim⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luna"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "luna"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "și stelele"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "să stăpânească"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:27.161146639Z",
+  "model": "glm-5.3"
+}

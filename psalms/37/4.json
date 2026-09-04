@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și desfă-te pe ⟨în⟩ Yahve, și îți va da cererile inimii tale.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Și desfă-te"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "și ⟨el⟩ va da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "cererile"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "inimii tale"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:18.233701219Z",
+  "model": "glm-5.3"
+}

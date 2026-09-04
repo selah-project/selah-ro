@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și s-a dus de la ⟨את⟩ el și a închis ușa în spatele ei și în spatele fiilor ei; ei îi aduceau ⟨את⟩ vasele, iar ea turna.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "și s-a dus"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "de la ⟨את⟩ el"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "și a închis"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ușa"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "în spatele ei"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "și în spatele"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "fiilor ei"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "aduceau"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "către ea"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "iar ea"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "turna"
+    }
+  ],
+  "timestamp": "2026-09-04T03:24:55.059570052Z",
+  "model": "glm-5.3"
+}

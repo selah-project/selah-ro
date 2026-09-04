@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "care au zis: „Să luăm în stăpânire pentru noi ⟨את⟩ pășunile lui Elohim.”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "au zis"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "să luăm în stăpânire"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pășunile lui Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pășunile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:41.383915511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Bine este să te ții de aceasta, și nici de aceasta să nu-ți lași ⟨את⟩ mâna să se lase, căci cel ce se teme de Elohim iese ⟨את⟩ toate acestea.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "să"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "te ții de"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și nici"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "de aceasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lași să se lase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna ta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "cel ce se teme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate acestea"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toate acestea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:23.185941950Z",
+  "model": "glm-5.3"
+}

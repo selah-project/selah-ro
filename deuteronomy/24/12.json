@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și dacă om sărman este el, să nu te culci ⟨cu⟩ garanția lui.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "איש",
+      "gloss": "om"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărman"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "să te culci"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "cu garanția lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:57.462660305Z",
+  "model": "glm-5.3"
+}

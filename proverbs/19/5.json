@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Un martor al minciunilor nu va rămâne nepedepsit, și cel ce suflă minciuni nu va scăpa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "un martor"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "al minciunilor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "va rămâne nepedepsit"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "și cel ce suflă"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "minciuni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "va scăpa"
+    }
+  ],
+  "timestamp": "2026-09-04T05:23:06.841595684Z",
+  "model": "glm-5.3"
+}

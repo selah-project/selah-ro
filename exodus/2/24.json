@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a auzit Elohim ⟨את⟩ geamătul lor, și a adus aminte Elohim ⟨את⟩ legământul lui, cu ⟨את⟩ Avraham, cu ⟨את⟩ Ițhac și cu ⟨את⟩ Iaacov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geamătul lor"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "geamătul lor"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "și a adus aminte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul lui"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "legământul lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "cu Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "cu Ițhac"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și cu ⟨את⟩",
+      "marks": "cu Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:26.117148454Z",
+  "model": "glm-5.3"
+}

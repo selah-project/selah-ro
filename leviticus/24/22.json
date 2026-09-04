@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "O judecată una să fie pentru voi: ca străinul, ca băștinașul să fie, căci Eu sunt Yahve, Elohim vostru.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "Judecată"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "ca străinul"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "ca băștinașul"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:13.558574579Z",
+  "model": "glm-5.3"
+}

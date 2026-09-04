@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Cu toate acestea au mai păcătuit și nu au crezut în minunile lui.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Cu toate"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "au mai păcătuit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "au crezut"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "în minunile lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:11.681533905Z",
+  "model": "glm-5.3"
+}

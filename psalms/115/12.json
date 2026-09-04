@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Yahve ne-a adus aminte; va binecuvânta, va binecuvânta ⟨את⟩ casa lui Israel, va binecuvânta ⟨את⟩ casa lui Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "ne-a adus aminte"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "va binecuvânta"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "va binecuvânta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "va binecuvânta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa lui Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:32.645022077Z",
+  "model": "glm-5.3"
+}

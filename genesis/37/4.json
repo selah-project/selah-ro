@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și au văzut frații lui că ⟨את⟩ pe el iubea tatăl lor mai mult decât toți frații lui, și l-au urât ⟨את⟩ pe el, și nu puteau să-i vorbească pașnic.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "și au văzut"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe Iosif"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iubea"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tatăl lor"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mai mult decât toți"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "și l-au urât"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe Iosif"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "puteau"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "să-i vorbească"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "pașnic"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:32.034572298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și au trimis ⟨את⟩ Rivka, sora lor, și ⟨את⟩ doica ei, și ⟨את⟩ sluga lui Avraham și ⟨את⟩ oamenii lui.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Și au trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "sora lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "doica ei"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "doica ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "sluga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sluga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "oamenii lui"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "oamenii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:00:56.739306882Z",
+  "model": "glm-5.3"
+}

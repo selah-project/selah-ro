@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Am vestit dreptatea în adunare mare; iată, buzele mele nu le-am oprit: Yahve, tu știi.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "am vestit"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "în adunare"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele mele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "le-am oprit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "știi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:07.099032853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "A păcătuit Israel, și chiar au călcat ⟨את⟩ legământul meu pe care le-am poruncit; și chiar au luat din lucrul nimicit, și chiar au furat, și chiar au tăgăduit, și chiar au pus printre lucrurile ⟨את⟩ lor.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "a păcătuit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au călcat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legământul meu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "legământul meu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "am poruncit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ lor"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "au luat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "lucrul nimicit"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "au furat"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "au tăgăduit"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "au pus"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "printre lucrurile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T02:18:42.155706908Z",
+  "model": "glm-5.3"
+}

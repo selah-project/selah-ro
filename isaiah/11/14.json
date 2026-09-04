@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și vor zbura pe umărul Peleșteților spre apus, împreună vor prăda ⟨את⟩ fiii răsăritului; Edom și Moav ⟨vor fi⟩ întinderea mâinii lor, iar fiii lui Amon — ascultarea lor.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "și vor zbura"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "pe umărul"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleșteților"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "spre apus"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "vor prăda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii răsăritului"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "răsăritului"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "și Moav"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "întinderea"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mâinii lor"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "iar fiii"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "lui Amon"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "ascultarea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:39:45.107051056Z",
+  "model": "glm-5.3"
+}

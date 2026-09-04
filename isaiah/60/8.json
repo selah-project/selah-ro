@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 60,
+  "translation": "Cine sunt aceștia ⟨care⟩ zboară ca norul și ca porumbeii spre cotețele lor?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sunt aceștia"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "ca norul"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "zboară"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "și ca porumbeii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "cotețele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:02.834470066Z",
+  "model": "glm-5.3"
+}

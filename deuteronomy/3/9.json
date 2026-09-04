@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Țidonenii numesc Hermonul Șirion, iar Emorienii îl numesc Snir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Țidonenii"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "numesc"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Hermonul"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Șirion"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "iar Emorienii"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "numesc"
+    },
+    {
+      "surface": "לו",
+      "gloss": "îl"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Snir"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:27.355002783Z",
+  "model": "glm-5.3"
+}

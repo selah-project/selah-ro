@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și i-a dat ⟨את⟩ Bilha, roaba ei, de femeie, și a intrat Iaacov la ea.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Și a dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "roaba ei"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de femeie"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a intrat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "la ea"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:02.189397893Z",
+  "model": "glm-5.3"
+}

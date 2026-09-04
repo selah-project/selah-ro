@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Iubitorii mei și prietenii mei departe de rana mea stau, și apropiații mei de departe stau.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "iubitorii mei"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "și prietenii mei"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "departe de"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "rana mea"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stau"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "și apropiații mei"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "de departe"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "stau"
+    }
+  ],
+  "timestamp": "2026-09-04T04:59:08.965293321Z",
+  "model": "glm-5.3"
+}

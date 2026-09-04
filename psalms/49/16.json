@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Dar Elohim va răscumpăra sufletul meu din mâna lui Șeol, căci mă va lua. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "va răscumpăra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lui Șeol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "mă va lua"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:31.774706878Z",
+  "model": "glm-5.3"
+}

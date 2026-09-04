@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 140,
+  "translation": "Scoate-mă, Yahve, de la omul rău, de la omul silniciilor păzește-mă.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Scoate-mă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "de la omul"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rău"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de la omul"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "silniciilor"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "păzește-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:44.830254042Z",
+  "model": "glm-5.3"
+}

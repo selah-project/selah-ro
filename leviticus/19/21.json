@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și va aduce ⟨את⟩ vinovat-jertfa lui către Yahve, la ușa cortului întâlnirii: un berbec pentru vinovăție.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "și va aduce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jertfa lui de vinovăție"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "vinovat-jertfa lui"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ușa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    },
+    {
+      "surface": "איל",
+      "gloss": "un berbec"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "pentru vinovăție"
+    }
+  ],
+  "timestamp": "2026-09-04T01:36:47.006695111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și pe un străin să nu-l asuprești și să nu-l apăsa, căci străini ați fost în pământul Mițraimului.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "și pe un străin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "să asuprești"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "să-l apăsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "străini"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ați fost"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:12.041597421Z",
+  "model": "glm-5.3"
+}

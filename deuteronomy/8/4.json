@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Haina ta nu s-a învechit de pe tine și piciorul tău nu s-a umflat — acești patruzeci de ani.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Haina ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "s-a învechit"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "de pe tine"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "și piciorul tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "s-a umflat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acești"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patruzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    }
+  ],
+  "timestamp": "2026-09-04T08:51:49.325684179Z",
+  "model": "glm-5.3"
+}

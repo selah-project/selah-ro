@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a ascultat de el regele Așur, și a urcat regele Așur la Damesc, și a pus mâna pe ea, și a dus-o în robie la Kir, iar ⟨את⟩ Rețin l-a omorât.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a ascultat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și a urcat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesc"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "și a pus mâna pe ea"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "și a dus-o în robie"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "la Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "Rețin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Rețin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "l-a omorât"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:38.831542976Z",
+  "model": "glm-5.3"
+}

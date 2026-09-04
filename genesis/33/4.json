@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a alergat Esav în întâmpinarea lui și l-a îmbrățișat, și a căzut pe grumazul lui și l-a sărutat, și au plâns.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "Și a alergat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "în întâmpinarea lui"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "și l-a îmbrățișat"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "și a căzut"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "grumazul lui"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "și l-a sărutat"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "și au plâns"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:09.477700697Z",
+  "model": "glm-5.3"
+}

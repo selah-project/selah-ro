@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "⟨את⟩ tot cuvântul pe care vi-l poruncesc eu ⟨את⟩ vouă, ⟨את⟩ pe el să-l păziți, ca să-l faceți; să nu adăugați peste el și să nu scădeți din el.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot cuvântul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "poruncesc"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vouă"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "să păziți"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ca să faceți"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "veți adăuga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "veți scădea"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:58:31.466769893Z",
+  "model": "glm-5.3"
+}

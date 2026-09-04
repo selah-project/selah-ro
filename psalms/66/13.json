@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 66,
+  "translation": "Voi intra în casa ta cu arderi-de-tot; îți voi plăti făgăduielile mele.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "voi intra"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "în casa ta"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "cu arderi-de-tot"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "voi plăti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "făgăduielile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:37.968805851Z",
+  "model": "glm-5.3"
+}

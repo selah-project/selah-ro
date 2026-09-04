@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Căci s-a netezit lui în ochii lui, ca să-și găsească nelegiuirea și s-o urască.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "s-a netezit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ca să găsească"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "nelegiuirea lui"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "să urască"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:56.853590218Z",
+  "model": "glm-5.3"
+}

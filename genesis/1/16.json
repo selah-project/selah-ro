@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a făcut Elohim ⟨את⟩ cele două luminile cele mari: ⟨את⟩ lumina cea mare pentru stăpânirea zilei, și ⟨את⟩ lumina cea mică pentru stăpânirea nopții — și ⟨את⟩ stelele.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cele două luminile cele mari"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cele două"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "luminile"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "cele mari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumina cea mare"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "lumina"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pentru stăpânirea"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zilei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lumina cea mică"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "lumina"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "cea mică"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pentru stăpânirea"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nopții"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "stelele"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "stelele"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:27.807875869Z",
+  "model": "glm-5.3"
+}

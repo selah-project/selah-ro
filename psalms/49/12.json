@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Lăuntrul lor: casele lor ⟨sunt⟩ pentru totdeauna, locuințele lor din neam în neam; au numit pământuri cu numele lor.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Lăuntrul lor"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "casele lor"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pentru totdeauna"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "locuințele lor"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "au numit"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "cu numele lor"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "pământuri"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:16.310719793Z",
+  "model": "glm-5.3"
+}

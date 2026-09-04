@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "M-au înconjurat cu minciună ⟨este⟩ Efraim, și cu înșelăciune casa lui Israel; și Iuda încă rătăcește cu El și cu sfinții ⟨este⟩ credincios.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "m-au înconjurat"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "cu minciună"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "și cu înșelăciune"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "și Iuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "רד",
+      "gloss": "rătăcește"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "sfinții"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "credincios"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:39.375769216Z",
+  "model": "glm-5.3"
+}

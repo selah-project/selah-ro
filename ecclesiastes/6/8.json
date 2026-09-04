@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Căci ce are în plus înțeleptul față de nebun? Ce are săracul care știe să meargă înaintea celor vii?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "are în plus"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "înțeleptul"
+    },
+    {
+      "surface": "מן",
+      "gloss": "față de"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "nebunul"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "are săracul"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "care știe"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "să meargă"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "celor vii"
+    }
+  ],
+  "timestamp": "2026-09-04T10:14:04.216082396Z",
+  "model": "glm-5.3"
+}

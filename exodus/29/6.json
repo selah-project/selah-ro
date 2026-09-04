@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și să pui mitra pe capul lui, și să pui ⟨את⟩ nezerul sfințeniei pe mitră.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitra"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "capul lui"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "și să pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezerul sfințeniei"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezerul"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfințeniei"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitră"
+    }
+  ],
+  "timestamp": "2026-09-04T01:23:37.724633395Z",
+  "model": "glm-5.3"
+}

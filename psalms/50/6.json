@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Și au vestit cerurile dreptatea lui, căci Elohim este el judecător. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Și au vestit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "dreptatea lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "judecător"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:32.309071338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Despre ea povestiți fiilor voștri, și fiii voștri fiilor lor, și fiii lor neamului de după.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Despre ea"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "fiilor voștri"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "povestiți"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "și fiii voștri"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fiilor lor"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "și fiii lor"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "neamului"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "de după"
+    }
+  ],
+  "timestamp": "2026-09-04T04:40:05.002227968Z",
+  "model": "glm-5.3"
+}

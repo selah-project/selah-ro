@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Să-i scriu ⟨eu⟩ nenumărate lucruri din Tora mea — ca un lucru străin au fost ele socotite!",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Să scriu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nenumărate lucruri"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "din Tora mea"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "זר",
+      "gloss": "un lucru străin"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "au fost socotite"
+    }
+  ],
+  "timestamp": "2026-09-04T07:48:31.379565303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 2:12",
+  "book": "malachi",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Să taie Yahve, pentru omul care face aceasta, pe cel care trezește și pe cel care răspunde, din corturile lui Iaacov, și pe cel care aduce un dar de mâncare lui Yahve Țevaot.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Să taie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pentru omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "face aceasta"
+    },
+    {
+      "surface": "ער",
+      "gloss": "pe cel care trezește"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "și pe cel care răspunde"
+    },
+    {
+      "surface": "מאהלי",
+      "gloss": "din corturile"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "ומגיש",
+      "gloss": "și pe cel care aduce"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "un dar de mâncare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:40.194083726Z",
+  "model": "glm-5.3"
+}

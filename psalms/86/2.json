@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Păzește-mi ⟨sufletul⟩, căci evlavios sunt eu; mântuiește pe slujitorul tău, ⟨את⟩ tu, Elohim al meu, cel ce se încrede în tine.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "păzește"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨sufletul⟩ meu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "evlavios"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "mântuiește"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "pe slujitorul tău"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "cel ce se încrede"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "în tine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:04.073870099Z",
+  "model": "glm-5.3"
+}

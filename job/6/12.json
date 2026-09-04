@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Oare puterea mea ⟨este⟩ puterea pietrelor? Oare carnea mea ⟨este⟩ de aramă?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Oare"
+    },
+    {
+      "surface": "כח",
+      "gloss": "puterea"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietrelor"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "puterea mea"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Oare"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "carnea mea"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "de aramă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:46.106616813Z",
+  "model": "glm-5.3"
+}

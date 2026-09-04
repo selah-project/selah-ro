@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a auzit tot Iaveșul-Gilad ⟨את⟩ tot ce făcuseră filistenii lui Șaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Și a auzit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Iaveș"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot ce făcuseră filistenii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "făcuseră"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenii"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "lui Șaul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:08:50.871943629Z",
+  "model": "glm-5.3"
+}

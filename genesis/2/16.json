@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a poruncit Yahve Elohim omului, zicând: De la orice pom al grădinii să mănânci vei mânca.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Și a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "omului"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨asupra⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "De la orice"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pom"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "al grădinii"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "să mănânci"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "vei mânca"
+    }
+  ],
+  "timestamp": "2026-09-04T06:33:10.290860238Z",
+  "model": "glm-5.3"
+}

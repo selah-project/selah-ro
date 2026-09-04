@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 13:18",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Sărăcie și rușine ⟨lăsate pe⟩ cel care leapădă învățătura, iar cel care păzește mustrarea va fi cinstit.",
+  "tokens": [
+    {
+      "surface": "ריש",
+      "gloss": "Sărăcie"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "și rușine"
+    },
+    {
+      "surface": "פורע",
+      "gloss": "celui care leapădă"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "învățătura"
+    },
+    {
+      "surface": "ושומר",
+      "gloss": "iar cel care păzește"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "mustrarea"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "va fi cinstit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:24.611539010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și să ia din sânge și să pună ⟨pe⟩ cele două ușori și pe pragul de sus, pe casele în care îl vor mânca ⟨את⟩ în ele.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Și să ia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sânge"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "și să pună"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pe⟩"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "cele două"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ușori"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "pragul de sus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "casele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "îl vor mânca"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "el (mielul)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:36.715406223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a lovit poporul țării ⟨את⟩ pe toți cei care uneltiseră împotriva regelui Amon, și poporul țării l-a făcut rege ⟨את⟩ pe Ieșiahu, fiul lui, în locul lui.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Și a lovit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți cei care uneltiseră"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "cei care uneltiseră"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "și l-a făcut rege"
+    },
+    {
+      "surface": "עם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ieșiahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Ieșiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiul lui"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "în locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:32:35.931387953Z",
+  "model": "glm-5.3"
+}

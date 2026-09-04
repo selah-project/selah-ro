@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Oare nu am plâns pentru cel a cărui zi ⟨este⟩ grea? S-a amărât sufletul meu pentru cel nevoit.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Oare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "am plâns"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "pentru cel apăsat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "în ziua lui"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "s-a amărât"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "pentru cel nevoit"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:29.735226636Z",
+  "model": "glm-5.3"
+}

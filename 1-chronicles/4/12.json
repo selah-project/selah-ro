@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și Eșton a născut ⟨את⟩ Beit-Rafa, și ⟨את⟩ Pseaḥ, și ⟨את⟩ Tehina, tatăl Ir-Nahaș; aceștia sunt oamenii din Reka.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Și Eșton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Pseaḥ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pseaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Tehina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tehina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahaș"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "sunt oamenii"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "din Reka"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:38.259589784Z",
+  "model": "glm-5.3"
+}

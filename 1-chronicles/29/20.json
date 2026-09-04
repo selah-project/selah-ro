@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și a spus David întregii adunări: binecuvântați, rogu-vă, ⟨את⟩ Yahve, Elohim vostru! Și a binecuvântat toată adunarea pe Yahve, Elohim al părinților lor, și s-au plecat și s-au închinat lui Yahve și regelui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "întregii"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "adunări"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "binecuvântați"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rogu-vă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostru"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "și a binecuvântat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "adunarea"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "părinților lor"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "și s-au plecat"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "și s-au închinat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "și regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:16:49.680402231Z",
+  "model": "glm-5.3"
+}

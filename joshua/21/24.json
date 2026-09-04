@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "⟨את⟩ Aialon și ⟨את⟩ pășunile lui, ⟨את⟩ Gat-Rimon și ⟨את⟩ pășunile lui: cetăți patru.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aialon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aialon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile lui"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pășunile lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pășunile lui"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pășunile lui"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cetăți"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patru"
+    }
+  ],
+  "timestamp": "2026-09-04T07:03:51.366376600Z",
+  "model": "glm-5.3"
+}

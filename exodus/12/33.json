@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și s-a întărit Mițraim asupra poporului, ca să grăbească să-i trimită din țară, căci au zis: cu toții ⟨suntem⟩ morți.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "s-a întărit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporului"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "să grăbească"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "să-i trimită"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "au zis"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "cu toții"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "morți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:30.086091926Z",
+  "model": "glm-5.3"
+}

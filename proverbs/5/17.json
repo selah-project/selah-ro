@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Să fie ale tale, ale tale singur, și să nu fie ⟨nimic⟩ pentru străini cu tine.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ale tale"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ale tale singur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și să nu fie"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "pentru străini"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu ⟨את⟩ tine",
+      "marks": "sufixul de persoană a doua; aici את este prepoziția «cu», nu markerul de acuzativ"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:26.185779367Z",
+  "model": "glm-5.3"
+}

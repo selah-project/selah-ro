@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a spălat ⟨את⟩ măruntaiele și ⟨את⟩ picioarele, și le-a ars pe arderea de tot, pe altar.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "și a spălat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măruntaiele"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaiele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "picioarele"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "picioarele"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "și le-a ars"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea de tot"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarul"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:44.678349901Z",
+  "model": "glm-5.3"
+}

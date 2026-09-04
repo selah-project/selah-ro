@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 96,
+  "translation": "Prosterneazăți-vă înaintea lui Yahve în splendoarea sfințeniei; cutremurați-vă de fața lui, tot pământul!",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "Prosterneazăți-vă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "înaintea lui Yahve"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "în splendoarea"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sfințeniei"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "cutremurați-vă"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de fața lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:39.170910430Z",
+  "model": "glm-5.3"
+}

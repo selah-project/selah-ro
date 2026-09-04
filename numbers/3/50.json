@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "de la ⟨את⟩ întâiul-născut al fiilor lui Israel a luat ⟨את⟩ argintul: cinci și șaizeci și trei de sute și o mie, după șechelul sfântului.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "întâiul-născut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argintul"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintul"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "și șaizeci"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "și trei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "de sute"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "și o mie"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "după șechelul"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfântului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:06.205697918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Intri în stâncă și te ascunzi în praf, de la fața fricii de Yahve și de la strălucirea măreției lui.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "Intri"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "în stâncă"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "și te ascunzi"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "în praf"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de la fața"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "frica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "și de la strălucirea"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "măreției lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:34:37.635194095Z",
+  "model": "glm-5.3"
+}

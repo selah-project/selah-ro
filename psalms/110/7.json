@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 110,
+  "translation": "Din pârâu pe drum va bea; de aceea își va înălța capul.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Din pârâu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "va bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "de aceea"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(de aceea)"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "va înălța"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:47.983574339Z",
+  "model": "glm-5.3"
+}

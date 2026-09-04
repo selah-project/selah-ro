@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "și să nu intre să vadă, chiar și pentru-o clipă, ⟨את⟩ sfântul, și să moară.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "intre"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "să vadă"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "chiar și pentru-o clipă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sfântul"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfântul"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "și să moară"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:07.659868622Z",
+  "model": "glm-5.3"
+}

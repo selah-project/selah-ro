@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Cel care a spus tatălui său și mamei sale: «Nu l-am văzut», și ⟨את⟩ frații săi nu i-a cunoscut, și ⟨את⟩ fiii săi nu i-a știut — căci au păzit cuvântul tău și legământul tău îl vor păzi.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "cel care a spus"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "și mamei sale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "l-am văzut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "frații săi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații săi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "a cunoscut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii săi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiii săi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a știut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "au păzit"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "cuvântul tău"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "și legământul tău"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "îl vor păzi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:13:39.075419468Z",
+  "model": "glm-5.3"
+}

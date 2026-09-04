@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Așa a spus Adonai Yahve: și voi face să înceteze ⟨את⟩ mulțimea Mițraimului prin mâna lui Nevucadrețar, regele Bavelului.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "și voi face să înceteze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulțimea Mițraimului"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mulțimea"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "prin mâna"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevucadrețar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelului"
+    }
+  ],
+  "timestamp": "2026-09-04T04:28:49.986103697Z",
+  "model": "glm-5.3"
+}

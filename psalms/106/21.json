@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Au uitat de El, salvatorul lor, cel ce făcea lucruri mari în Mițraim —",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "au uitat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "salvatorul lor"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cel ce făcea"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lucruri mari"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "în Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:50.632007288Z",
+  "model": "glm-5.3"
+}

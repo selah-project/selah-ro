@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Precum ⟨este⟩ numele tău, Elohim, așa ⟨este⟩ lauda ta, până la capăturile pământului; dreptatea ți-a umplut mâna dreaptă.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Precum numele tău"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lauda ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "până la"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "capăturile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "a umplut"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mâna ta dreaptă"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:12.937401492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Alungă pe batjocoritor, și va ieși cearta, și vor înceta judecata și ocara.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Alungă"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "pe batjocoritor"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și va ieși"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "cearta"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "și vor înceta"
+    },
+    {
+      "surface": "דין",
+      "gloss": "judecata"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "și ocara"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:47.085849418Z",
+  "model": "glm-5.3"
+}

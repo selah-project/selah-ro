@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și a trimis David iscozi și a aflat că venise Șaul la Necon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a trimis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "iscozi"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "a aflat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venise"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Necon"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:29.821557534Z",
+  "model": "glm-5.3"
+}

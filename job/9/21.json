@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Nevinovat sunt eu — nu îmi cunosc nefeșul, îmi disprețuiesc viața mea.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Nevinovat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "cunosc"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeșul meu"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "disprețuiesc"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "viața mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:55.139718851Z",
+  "model": "glm-5.3"
+}

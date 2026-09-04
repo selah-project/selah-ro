@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și Ben-Hadad, regele lui Aram, a adunat ⟨את⟩ toată oștirea lui, și treizeci și doi regi ⟨את⟩ cu el, și cai și care; și a urcat și a încercuit Șomronul, și a luptat împotriva lui.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Și Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "lui Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "a adunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată oștirea lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "oștirea lui"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "și treizeci"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "și doi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "și cai"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "și care"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "și a urcat"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "și a încercuit"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Șomronului"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "și a luptat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "împotriva lui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:20:47.667731991Z",
+  "model": "glm-5.3"
+}

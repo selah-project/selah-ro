@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Ridică-te, judecătorul pământului; întoarce răsplata peste cei trufași!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Ridică-te"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "judecătorul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "השב",
+      "gloss": "întoarce"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "răsplata"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "cei trufași"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:15.916878862Z",
+  "model": "glm-5.3"
+}

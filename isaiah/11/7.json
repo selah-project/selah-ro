@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Vacă și urs vor paște împreună, puii lor se vor culca laolaltă, și leul ca boul va mânca paie.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "și vaca"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "și ursul"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "vor paște"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "se vor culca"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "puii lor"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "și leul"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "ca boul"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "va mânca"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "paie"
+    }
+  ],
+  "timestamp": "2026-09-04T08:57:43.864638797Z",
+  "model": "glm-5.3"
+}

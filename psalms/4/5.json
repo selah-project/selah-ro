@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Cutremurați-vă și nu păcătuiți; spuneți în inima voastră, pe patul voastră, și tăceți. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Cutremurați-vă"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "păcătuiți"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "spuneți"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "în inima voastră"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "patul voastră"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "și tăceți"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:23.135013951Z",
+  "model": "glm-5.3"
+}

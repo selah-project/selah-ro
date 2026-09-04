@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Sunt aduse cu bucurie și veselie, intră în palatul regelui.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "Sunt aduse"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "cu bucurie"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "și veselie"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "intră"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "în palatul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:06:49.597320989Z",
+  "model": "glm-5.3"
+}

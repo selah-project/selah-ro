@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "în munte și în Șefela și în Arava și în povârnișuri și în pustiu și în Neguev — hititul, emoritul și canaanitul, perizitul, hivitul și iebusitul.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "în munte"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "și în Șefela"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "și în Arava"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "și în povârnișuri"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "și în pustiu"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "și în Neguev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititul"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoritul"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "și canaanitul"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizitul"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivitul"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "și iebusitul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:21:45.520283884Z",
+  "model": "glm-5.3"
+}

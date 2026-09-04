@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 101,
+  "translation": "Dimineață de dimineață voi stârpi pe toți cei răi ai țării, ca să tai din cetatea lui Yahve pe toți făptuitorii de nelegiuire.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "dimineață de dimineață"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "voi stârpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "cei răi ai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "țării"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ca să tai"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "din cetatea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "făptuitorii de"
+    },
+    {
+      "surface": "און",
+      "gloss": "nelegiuire"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:15.855455805Z",
+  "model": "glm-5.3"
+}

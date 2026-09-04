@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 52,
+  "translation": "Te voi lăuda în veci, căci tu ai făcut ⟨aceasta⟩, și sper în numele tău, căci ⟨este⟩ bun în fața credincioșilor tăi.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Te voi lăuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "și sper"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "credincioșilor tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:46.167109492Z",
+  "model": "glm-5.3"
+}

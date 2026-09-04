@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "iar pe ⟨את⟩ Esav l-am urât; și am făcut ⟨את⟩ munții lui pustiu și ⟨את⟩ moștenirea lui pentru șacali de pustiu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "am urât"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "și am făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munții lui"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "munții lui"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustiu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "moștenirea lui"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "moștenirea lui"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "pentru șacali"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "de pustiu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:51.072068037Z",
+  "model": "glm-5.3"
+}

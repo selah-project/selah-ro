@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Încearcă, te rog, ⟨את⟩ slujitorii tăi zece zile, și să ni se dea din semințe și să mâncăm, și apă și să bem.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Încearcă"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slujitorii tăi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "slujitorii tăi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zece"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "și să ni se dea"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "semințe"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "și să mâncăm"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "și apă"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "și să bem"
+    }
+  ],
+  "timestamp": "2026-09-04T05:47:53.905244408Z",
+  "model": "glm-5.3"
+}

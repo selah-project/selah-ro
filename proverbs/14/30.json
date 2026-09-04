@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "O inimă vindecătoare ⟨este⟩ viața cărnii, iar putrezirea oaselor ⟨este⟩ invidia.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "viața"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "cărnii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "vindecătoare"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "iar putrezirea"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "oaselor"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "invidia"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:15.419821527Z",
+  "model": "glm-5.3"
+}

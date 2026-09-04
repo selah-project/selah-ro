@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "și a așezat-o lui Iaacov ca lege, lui Israel ca legământ veșnic:",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "și a așezat-o"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ca lege"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "legământ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veșnic"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:35.035939641Z",
+  "model": "glm-5.3"
+}

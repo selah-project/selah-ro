@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a răspuns și a spus: Oare nu ⟨את⟩ ceea ce pune Yahve în gura mea ⟨את⟩ aceea voi păzi să vorbesc?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce pune Yahve în gura mea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "pune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "în gura mea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "aceea voi păzi să vorbesc"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "voi păzi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "să vorbesc"
+    }
+  ],
+  "timestamp": "2026-09-04T01:51:59.878455256Z",
+  "model": "glm-5.3"
+}

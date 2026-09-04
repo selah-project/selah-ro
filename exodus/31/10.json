@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "și ⟨את⟩ veșmintele de țesut alăturat, și ⟨את⟩ veșmintele sfințeniei pentru Aharon cohenul, și ⟨את⟩ veșmintele fiilor lui, pentru slujire caoheni;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "veșmintele de țesut alăturat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "veșmintele"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "de țesut alăturat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "veșmintele sfințeniei"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "veșmintele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfințeniei"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pentru Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "veșmintele fiilor lui"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "veșmintele"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiilor lui"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pentru slujire caoheni"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:26.610632505Z",
+  "model": "glm-5.3"
+}

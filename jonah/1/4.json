@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și Yahve a aruncat un vânt mare spre mare, și a fost o furtună mare pe mare, iar corabia socotea să se sfârme.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Și Yahve"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "a aruncat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un vânt"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "סער",
+      "gloss": "o furtună"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "בים",
+      "gloss": "pe mare"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "iar corabia"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "socotea"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "să se sfârme"
+    }
+  ],
+  "timestamp": "2026-09-04T07:49:42.879634883Z",
+  "model": "glm-5.3"
+}

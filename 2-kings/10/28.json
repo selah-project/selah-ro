@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a nimicit Iehu ⟨את⟩ Baal din Israel.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "și a nimicit"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "din Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:26:15.347688437Z",
+  "model": "glm-5.3"
+}

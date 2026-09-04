@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și s-a ascuns David în câmp, și a fost luna nouă, și a șezut regele la pâine, să mănânce.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "Și s-a ascuns"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "în câmp"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "luna nouă"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și a șezut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "să mănânce"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:30.271406959Z",
+  "model": "glm-5.3"
+}

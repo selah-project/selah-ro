@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Ai cercetat pământul și l-ai adăpat, din belșug o îmbogățești; pârâul lui Elohim ⟨este⟩ plin de apă; le pregătești grâul lor, căci așa o pregătești.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "Ai cercetat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "ו תשקקה",
+      "gloss": "și l-ai adăpat"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "din belșug"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "o îmbogățești"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "pârâul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de apă"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "pregătești"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "grâul lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "o pregătești"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:25.831453947Z",
+  "model": "glm-5.3"
+}

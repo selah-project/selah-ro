@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 138,
+  "translation": "În ziua în care am strigat, m-ai răspuns; m-ai îmbărbătat în sufletul meu cu tărie.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "în care am strigat"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "m-ai răspuns"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "m-ai îmbărbătat"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "în sufletul meu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "cu tărie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:57.212037536Z",
+  "model": "glm-5.3"
+}

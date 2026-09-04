@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a intrat Elișa în casă, și iată, copilul mort, întins pe patul lui.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Și a intrat"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elișa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "în casă"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "copilul"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mort"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "întins"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "patul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:21:52.403811399Z",
+  "model": "glm-5.3"
+}

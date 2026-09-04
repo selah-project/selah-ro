@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Cuvântul minciunosii îl urăște cel drept, iar cel rău aduce scârbă și rușine.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciunosii"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "urăște"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cel drept"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "iar cel rău"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "aduce scârbă"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "și rușine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:05.522373488Z",
+  "model": "glm-5.3"
+}

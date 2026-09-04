@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a zis: nu poți să vezi ⟨את⟩ fața mea, căci nu mă va vedea omul și va trăi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "poți"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "să vezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața mea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "mă va vedea"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "și va trăi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:31.470374519Z",
+  "model": "glm-5.3"
+}

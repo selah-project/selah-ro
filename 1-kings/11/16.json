@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Căci șase luni a stat acolo Ioab și tot Israelul, până a stârpit tot bărbatul din Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "șase"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "luni"
+    },
+    {
+      "surface": "יישב",
+      "gloss": "a stat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "a stârpit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "bărbatul"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "din Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:04.002576756Z",
+  "model": "glm-5.3"
+}

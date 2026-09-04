@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a văzut Șemuel ⟨את⟩ Șaul, și Yahve i-a răspuns: Iată omul despre care ți-am spus! Acesta va stăpâni peste poporul meu.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Și Șemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "și Yahve"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "i-a răspuns"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iată"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "despre care"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ți-am spus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "câtre tine"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "va stăpâni"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "peste poporul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T02:43:56.717451599Z",
+  "model": "glm-5.3"
+}

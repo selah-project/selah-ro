@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 65,
+  "translation": "Nu se vor trudi degeaba și nu vor naște pentru spaimă, căci sămânță binecuvântată de Yahve ⟨sunt⟩ ei, și urmașii lor împreună cu ⟨את⟩ ei.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "se vor trudi"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "degeaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "vor naște"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "pentru spaimă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sămânță"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "binecuvântată de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sunt ei"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "și urmașii lor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    }
+  ],
+  "timestamp": "2026-09-04T07:31:07.543341496Z",
+  "model": "glm-5.3"
+}

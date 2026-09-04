@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 111,
+  "translation": "Lucrările mâinilor lui ⟨sunt⟩ adevăr și dreptate; întemeiate sunt toate așezămintele lui.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Lucrările"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mâinilor lui"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevăr"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și dreptate"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "întemeiate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "așezămintele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:07.257134451Z",
+  "model": "glm-5.3"
+}

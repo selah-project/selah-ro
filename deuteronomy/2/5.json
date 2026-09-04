@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Nu-i provocați, căci nu vă voi da din țara lor nici cât un călcâi de talpă a piciorului, ca moștenire lui Esav am dat ⟨את⟩ muntele Seir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "îi provocați"
+    },
+    {
+      "surface": "בם",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "voi da"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "din țara lor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nici cât"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "un călcâi"
+    },
+    {
+      "surface": "כף",
+      "gloss": "de talpă"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "a piciorului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ca"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "moștenire"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "lui Esav"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muntele Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "muntele"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:01.743155004Z",
+  "model": "glm-5.3"
+}

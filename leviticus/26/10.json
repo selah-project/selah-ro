@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și veți mânca recoltă veche, îmbătrânită, și pe cea veche veți scoate dinaintea celei noi.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Și veți mânca"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "recoltă veche"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "îmbătrânită"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "și pe cea veche"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dinaintea"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "celei noi"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "veți scoate"
+    }
+  ],
+  "timestamp": "2026-09-04T01:39:51.359518453Z",
+  "model": "glm-5.3"
+}

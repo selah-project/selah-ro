@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a lăsat ⟨את⟩ boii și a alergat după Eliahu, și a spus: „Lasă-mă, te rog, să-mi sărut tatăl și mama, și mă voi duce după tine.” Iar el i-a spus: „Du-te, întoarce-te, căci ce ți-am făcut?”",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "și a lăsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boii"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "boii"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "și a alergat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "să sărut"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te rog"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "pe tatăl meu"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "și pe mama mea"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "și mă voi duce"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "după tine"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du-te"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "întoarce-te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ți-am făcut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T07:20:13.031194430Z",
+  "model": "glm-5.3"
+}

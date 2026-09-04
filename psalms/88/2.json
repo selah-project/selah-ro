@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Yahve, Elohim al mântuirii mele, ziua am strigat, noaptea înaintea ta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mântuirii mele"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "am strigat"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "înaintea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:31.283005849Z",
+  "model": "glm-5.3"
+}

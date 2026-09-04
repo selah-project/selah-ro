@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Mai bine să nu făgăduiești decât să făgăduiești și să nu împlinești.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mai bine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "făgăduiești"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "decât să făgăduiești"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "împlinești"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:40.687126706Z",
+  "model": "glm-5.3"
+}

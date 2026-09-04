@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Și întoarce vecinilor noștri, de șapte ori în sânul lor, ocara cu care te-au ocarât, Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Și întoarce"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "vecinilor noștri"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "de șapte ori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "sânul lor"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ocara lor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cu care"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "te-au ocarât"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:40.825319987Z",
+  "model": "glm-5.3"
+}

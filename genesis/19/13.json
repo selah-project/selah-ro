@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Căci distrugem ⟨את⟩ locul acesta, căci s-a făcut mare strigătul lor înaintea feței lui Yahve, și ne-a trimis Yahve să o distrugă.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "distrugem"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locul acesta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "locul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "s-a făcut mare"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "strigătul lor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața lui Yahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "și ne-a trimis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "să o distrugă"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:27.257416969Z",
+  "model": "glm-5.3"
+}

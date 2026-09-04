@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Elohim a grăit în sfințenia lui: voi exulta, voi împărți Șehemul și valea Sucot o voi măsura.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a grăit"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "în sfințenia lui"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "voi exulta"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "voi împărți"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Șehemul"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "și valea"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sucot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "o voi măsura"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:55.060450215Z",
+  "model": "glm-5.3"
+}

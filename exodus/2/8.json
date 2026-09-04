@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și i-a spus fiica lui Paro: Du-te! Și a mers tânăra fată și a chemat-o ⟨את⟩ pe mama copilului.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lui Paro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Du-te"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "tânăra fată"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "și a chemat-o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mama copilului"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "copilului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:37.257488052Z",
+  "model": "glm-5.3"
+}

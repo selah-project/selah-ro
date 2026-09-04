@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a fost, când ⟨l⟩-au văzut ⟨את⟩ el, și au luat treizeci de tovarăși, și au fost ⟨את⟩ cu el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "când au văzut"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ el",
+      "marks": "el (pe Șimșon)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "și au luat"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "tovarăși"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el",
+      "marks": "cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T02:33:51.542347423Z",
+  "model": "glm-5.3"
+}

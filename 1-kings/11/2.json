@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 11:2",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "din neamurile despre care a spus Yahve către fiii lui Israel: să nu intrați la ele și ele să nu intre la voi, căci acestea vor abate ⟨את⟩ inima voastră după dumnezeii lor; de ele s-a alipit Șelomo, în iubire.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "despre care"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "să intrați"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "la ele"
+    },
+    {
+      "surface": "והם",
+      "gloss": "și ele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "să intre"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "la voi"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "căci acestea"
+    },
+    {
+      "surface": "יטו",
+      "gloss": "vor abate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima voastră"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inima voastră"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dumnezeii lor"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "de ele"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "s-a alipit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "în iubire"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:49.942217876Z",
+  "model": "glm-5.3"
+}

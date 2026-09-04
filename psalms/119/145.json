@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Am strigat cu tot inima: răspunde-mi, Yahve; hotărârile tale le voi păzi.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "am strigat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu tot"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "răspunde-mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotărârile tale"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "le voi păzi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:31.391565794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Nu măreția lui vă va ⟨את⟩ îngrozi, și spaima lui va cădea peste voi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "măreția lui"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "va îngrozi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "și spaima lui"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "va cădea"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "peste voi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:17.017584564Z",
+  "model": "glm-5.3"
+}

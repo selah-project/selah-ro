@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Căci nu este nimic temeinic în gura lor, înlăuntrul lor ⟨sunt⟩ prăpăduri, mormânt deschis este grumazul lor, limba lor o netezesc.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "în gura lor"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "nimic temeinic"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "înlăuntrul lor"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "prăpăduri"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mormânt"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "deschis"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "grumazul lor"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "limba lor"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "o netezesc"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:02.686156247Z",
+  "model": "glm-5.3"
+}

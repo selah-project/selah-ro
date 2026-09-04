@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "M-ai așezat în groapa de jos, în întunecimi, în adâncuri.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "m-ai așezat"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "în groapa"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "de jos"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "în întunecimi"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "în adâncuri"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:05.804521875Z",
+  "model": "glm-5.3"
+}

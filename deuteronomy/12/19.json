@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Păzește-ți, ca să nu lași ⟨את⟩ levițul, toate zilele tale, pe solul tău.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Păzește"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ți"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca să nu"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "lași"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levițul"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levițul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "zilele tale"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "solul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:36.648701759Z",
+  "model": "glm-5.3"
+}

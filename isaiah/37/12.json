@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Oare i-au izbăvit ⟨את⟩ ei dumnezeii neamurilor pe care i-au nimicit părinții mei — ⟨את⟩ Gozan și ⟨את⟩ Haran, și Rețef și fiii Edenului, care sunt în Telasar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Oare i-au izbăvit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ei",
+      "marks": "dumnezeii neamurilor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "i-au nimicit"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "părinții mei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "și Rețef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "și fiii"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "în Telasar"
+    }
+  ],
+  "timestamp": "2026-09-04T08:59:43.355722028Z",
+  "model": "glm-5.3"
+}

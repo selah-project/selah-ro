@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Să nu ia un om ⟨את⟩ femeia tatălui său și să nu descopere poala tatălui său.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "femeia"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "descopere"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "poala"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:11.381177286Z",
+  "model": "glm-5.3"
+}

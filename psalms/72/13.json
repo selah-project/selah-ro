@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Va avea milă de sărac și de nevoiaș, și viețile nevoiașilor le va mântui.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "va avea milă"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "דל",
+      "gloss": "sărac"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și de nevoiaș"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "și viețile"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "nevoiașilor"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "le va mântui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:33.641683463Z",
+  "model": "glm-5.3"
+}

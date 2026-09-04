@@ -1,0 +1,93 @@
+#:rendering{:label "Română",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305477},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :process
+              :checks
+              :people
+              :adjudication
+              :open-questions]},
+            :role :served,
+            :produced {:from "2026-09-04", :to "2026-09-04"},
+            :id "ro.v1",
+            :catalog {:ui "resources/i18n/ui/ro.edn"},
+            :license "CC BY-SA 4.0 (The Selah Romanian Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23197, "fable-5-hand" 16},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ro.md",
+             :rails-commit "f09419ff",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonai",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloa",
+              "ג" "g / gh",
+              "ד" "d",
+              "ה" "h",
+              "ו" "v",
+              "ז" "z",
+              "ח" "h",
+              "ט" "t",
+              "י" "i",
+              "יה" "Ya",
+              "יהוה" "Yahve",
+              "ל" "l",
+              "מ" "m",
+              "נ" "n",
+              "ס" "s",
+              "צ" "ț",
+              "צבאות" "Țevaot",
+              "ק" "c",
+              "ר" "r",
+              "שדי" "Șadai",
+              "ת" "t"},
+             :open-questions
+             [:elohimul-enclitic-class
+              :yahve-vs-iahve
+              :tsevaot-orthography
+              :cornilescu-not-pd-witness-candidates
+              :el-pronoun-collision]},
+            :status :rendering,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :ro}

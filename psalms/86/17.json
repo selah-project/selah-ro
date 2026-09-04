@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Fă un semn cu mine spre bine, și să vadă cei ce mă urăsc și să fie rușinați, căci tu, Yahve, m-ai ajutat și m-ai mângâiat.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fă"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "אות",
+      "gloss": "un semn",
+      "marks": "un semn"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "spre bine"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "și să vadă"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "cei ce mă urăsc"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "și să fie rușinați"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "m-ai ajutat"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "și m-ai mângâiat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.571881512Z",
+  "model": "glm-5.3"
+}

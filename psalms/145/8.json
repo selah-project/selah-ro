@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Îndurător și milostiv ⟨este⟩ Yahve, încet la mânie și mare în hesed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Îndurător"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "și milostiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "încet"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "la mânie"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "și mare"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "în hesed"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:48.589683054Z",
+  "model": "glm-5.3"
+}

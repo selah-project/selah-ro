@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și se va apropia Moșe singur la Yahve, iar ei nu se vor apropia, iar poporul nu va sui împreună cu el.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Și se va apropia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "singur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והם",
+      "gloss": "iar ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "se vor apropia"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "iar poporul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "va sui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "împreună cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:42.916301493Z",
+  "model": "glm-5.3"
+}

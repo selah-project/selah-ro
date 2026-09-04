@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și a făcut ⟨את⟩ masa din lemn de salcâm: doi coți lungimea lui, și un cot lățimea lui, și un cot și jumătate înălțimea lui.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lemn de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "salcâm"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "doi coți"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lungimea lui"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "și un cot"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lățimea lui"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "și un cot"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "și jumătate"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "înălțimea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:27:28.450940568Z",
+  "model": "glm-5.3"
+}

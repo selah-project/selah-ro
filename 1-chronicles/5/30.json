@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Elazar a născut ⟨את⟩ Pinhas, Pinhas a născut ⟨את⟩ Avișua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinhas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avișua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avișua"
+    }
+  ],
+  "timestamp": "2026-09-04T06:06:20.521013031Z",
+  "model": "glm-5.3"
+}

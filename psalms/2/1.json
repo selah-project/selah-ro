@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Pentru ce s-au răsculat neamurile și popoarele cugetă deșertăciune?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pentru ce"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "s-au răsculat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "și popoarele"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "cugetă"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "deșertăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:46.795413631Z",
+  "model": "glm-5.3"
+}

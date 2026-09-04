@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Să asculte cel înțelept și să-și adauge învățătură, și cel priceput să dobândească sfaturi iscusite.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "Să asculte"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "cel înțelept"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "și să-și adauge"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "învățătură"
+    },
+    {
+      "surface": "וונבון",
+      "gloss": "și cel priceput"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "sfaturi iscusite"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "să dobândească"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:02.871523580Z",
+  "model": "glm-5.3"
+}

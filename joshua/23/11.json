@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și veți păzi cu mare luare-aminte sufletele voastre, ca să iubiți ⟨את⟩ pe Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "și veți păzi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cu mare luare-aminte"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "sufletele voastre"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ca să iubiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve, Elohim al vostru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T02:26:54.705834324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Să taie Yahve toate buzele netede, limba care vorbește lucruri mari —",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Să taie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "neteDE"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "limba"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "care vorbește"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lucruri mari"
+    }
+  ],
+  "timestamp": "2026-09-04T09:42:05.571304616Z",
+  "model": "glm-5.3"
+}

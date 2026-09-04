@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 85,
+  "translation": "Ai ridicat toată urgia ta, te-ai întors din iuțimea nării tale.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Ai ridicat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "urgia ta"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "te-ai întors"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "iuțimea"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nării tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:36.212358506Z",
+  "model": "glm-5.3"
+}

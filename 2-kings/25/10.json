@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "iar ⟨את⟩ zidurile Ierușalaimului de jur împrejur le-a dărâmat toată oștirea haldeilor care ⟨era⟩ cu căpetenia călăilor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "zidurile Ierușalaimului"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zidurile"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "le-a dărâmat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "oștirea"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "haldeilor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "רב",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "călăilor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:35:01.271740888Z",
+  "model": "glm-5.3"
+}

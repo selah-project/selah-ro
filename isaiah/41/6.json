@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Fiecare pe ⟨את⟩ aproapele lui îl ajută, și fratelui său îi spune: Fii tare!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Fiecare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aproapele lui"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapele lui"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "îl ajută"
+    },
+    {
+      "surface": "וילאחיו",
+      "gloss": "și fratelui său"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "îi spune"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Fii tare"
+    }
+  ],
+  "timestamp": "2026-09-04T03:49:00.549971312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a spus Șaul către Șemuel: Ba da, am ascultat la glasul lui Yahve și am mers pe calea pe care m-a trimis Yahve, și am adus ⟨את⟩ pe Agag, împărat al lui Amalec, și ⟨את⟩ Amalec l-am nimicit prin hirem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șemuel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am ascultat"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la glasul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "și am mers"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe calea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "m-a trimis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "și am adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "împărat"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "al lui Amalec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Amalec"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalec"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "am nimicit prin hirem"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:17.247309529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și am zis: După ce a făcut ⟨את⟩ toate acestea, se va întoarce către mine; dar nu s-a întors; și a văzut-o cea-trădătoare, sora ei, Iehuda.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Și am zis"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după ce"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se va întoarce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "cea-trădătoare"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "sora ei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T03:58:12.461604914Z",
+  "model": "glm-5.3"
+}

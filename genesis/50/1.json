@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 50,
+  "translation": "Și a căzut Iosif pe fața tatălui său, a plâns peste el și l-a sărutat.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Și a căzut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatălui său"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a plâns"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "peste el"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "și l-a sărutat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(pe) el"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:52.408319946Z",
+  "model": "glm-5.3"
+}

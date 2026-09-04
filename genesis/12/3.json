@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și îi voi binecuvânta pe cei ce te binecuvântează, iar pe cel ce te blestemă îl voi blestema; și se vor binecuvânta în tine toate familiile pământului.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Și îi voi binecuvânta"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "pe cei ce te binecuvântează"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "iar pe cel ce te blestemă"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "îl voi blestema"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "și se vor binecuvânta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familiile"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:24.688141514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și toată vitele și prada cetăților le-am prădat pentru noi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Și toată"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "vitele"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "și prada"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "cetăților"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "le-am prădat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    }
+  ],
+  "timestamp": "2026-09-04T06:57:03.720681359Z",
+  "model": "glm-5.3"
+}

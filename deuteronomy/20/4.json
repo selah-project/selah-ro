@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Căci Yahve, Elohimul vostru, ⟨este⟩ cel care merge cu voi, ca să lupte pentru voi cu vrăjmașii voștri, ca să vă mântuiască ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimul vostru"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "cel care merge"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cu voi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ca să lupte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vrăjmașii voștri"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ca să vă mântuiască"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pe voi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:09:23.481126863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și mai bun decât amândoi ⟨este⟩ ⟨את⟩ acela care încă nu a fost, care nu a văzut ⟨את⟩ fapta cea rea care se face sub soare.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Și mai bun"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "decât amândoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acela care"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "încă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fapta cea rea"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "fapta"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "cea rea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "se face"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:35.219245024Z",
+  "model": "glm-5.3"
+}

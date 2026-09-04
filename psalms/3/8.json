@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Scoală-Te, Yahve! Mântuiește-mă, Elohimul meu! Căci i-ai lovit ⟨את⟩ pe toți dușmanii mei de falcă, dinții răufăcătorilor i-ai sfărâmat.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Scoală-Te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Mântuiește-mă"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimul meu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ai lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe toți dușmanii mei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pe toți"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dușmanii mei"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "de falcă"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dinții"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "răufăcătorilor"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ai sfărâmat"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:34.507656796Z",
+  "model": "glm-5.3"
+}

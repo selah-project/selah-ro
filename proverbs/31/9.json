@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Deschide gura ta, judecă dreptatea, și ⟨את⟩ cel apăsat și ⟨את⟩ cel nevoiaș!",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Deschide"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gura ta"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "judecă"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "și apără"
+    },
+    {
+      "surface": "עני",
+      "gloss": "cel apăsat"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și cel nevoiaș"
+    }
+  ],
+  "timestamp": "2026-09-04T10:31:19.568620207Z",
+  "model": "glm-5.3"
+}

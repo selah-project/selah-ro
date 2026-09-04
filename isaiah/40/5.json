@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și se va descoperi slava lui Yahve, și o va vedea tot carul împreună, căci gura lui Yahve a vorbit.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "Și se va descoperi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "și va vedea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carul"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:49.770337391Z",
+  "model": "glm-5.3"
+}

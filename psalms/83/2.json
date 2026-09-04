@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Elohim, nu fie tăcere la tine; nu tăcea și nu te liniști, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "fie tăcere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tăcea"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "te liniști"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:50.937419533Z",
+  "model": "glm-5.3"
+}

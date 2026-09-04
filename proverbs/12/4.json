@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "O femeie de vază este cununa bărbatului ei, iar cea ce face rușine este ca putregaiul în oasele lui.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "O femeie"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de vază"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "cununa"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "bărbatului ei"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "iar ca putregaiul"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "în oasele lui"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "cea ce face rușine"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:01.207570501Z",
+  "model": "glm-5.3"
+}

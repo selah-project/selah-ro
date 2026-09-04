@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Despre râs am zis: nebun ⟨este⟩; și despre bucurie: ce face aceasta?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Despre râs"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "nebun"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "și despre bucurie"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "face"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:28.748736884Z",
+  "model": "glm-5.3"
+}

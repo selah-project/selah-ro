@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Te înalț pe tine, Yahve, căci m-ai scos din groapă și nu i-ai lăsat pe vrăjmașii mei să se bucure de mine.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Te înalț pe tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "m-ai scos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "i-ai lăsat să se bucure"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "pe vrăjmașii mei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:18.571533073Z",
+  "model": "glm-5.3"
+}

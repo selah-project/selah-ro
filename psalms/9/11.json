@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și să se încreadă în tine cei ce cunosc Numele tău, căci nu ai părăsit pe cei ce te caută, Yahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "Și să se încreadă"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "cei ce cunosc"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Numele tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "ai părăsit"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "pe cei ce te caută"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:33.940146634Z",
+  "model": "glm-5.3"
+}

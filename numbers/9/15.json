@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și în ziua ridicării ⟨את⟩ Mișkanului, norul a acoperit ⟨את⟩ Mișkanul, cortul mărturiei, și seara era peste Mișkan ca o înfățișare de foc până dimineața.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "și în ziua"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ridicării"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mișkanul"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mișkanul"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "a acoperit"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "norul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mișkanul"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mișkanul"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mărturiei"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "și seara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "era"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mișkan"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ca o înfățișare"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de foc"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineața"
+    }
+  ],
+  "timestamp": "2026-09-04T01:46:30.188497309Z",
+  "model": "glm-5.3"
+}

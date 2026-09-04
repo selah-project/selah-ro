@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și te va aduce Yahve, Elohim al tău, în pământul pe care l-au moștenit părinții tăi, și îl vei moșteni; și îți va face bine și te va înmulți mai mult decât părinții tăi.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "și te va aduce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "au moștenit"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "părinții tăi"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "și îl vei moșteni"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "și îți va face bine"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "și te va înmulți"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "mai mult decât părinții tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:13:24.646680726Z",
+  "model": "glm-5.3"
+}

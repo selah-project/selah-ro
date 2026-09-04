@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Să nu faceți strâmbătate în judecată, în măsură de lungime, în greutate și în măsură de lichid.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "să faceți"
+    },
+    {
+      "surface": "עול",
+      "gloss": "strâmbătate"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "în judecată"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "în măsură"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "în greutate"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "și în măsură de lichid"
+    }
+  ],
+  "timestamp": "2026-09-04T01:37:00.155446042Z",
+  "model": "glm-5.3"
+}

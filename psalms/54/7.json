@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Întoarce răul asupra potrivnicilor mei; în adevărul tău, nimicește-i.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Întoarce"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "asupra potrivnicilor mei"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "în adevărul tău"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "nimicește-i"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:50.049620733Z",
+  "model": "glm-5.3"
+}

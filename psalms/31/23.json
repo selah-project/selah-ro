@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Iar eu am zis în graba mea: „Sunt tăiat de dinaintea ochilor tăi!” Totuși ai auzit glasul cererilor mele când am strigat către tine.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "am zis"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "în graba mea"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "Sunt tăiat"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "de dinaintea"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ochilor tăi"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Totuși"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ai auzit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "cererilor mele"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "când am strigat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:38.185259463Z",
+  "model": "glm-5.3"
+}

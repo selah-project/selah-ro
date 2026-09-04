@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Căci lui Yahve ⟨este⟩ mânia peste toate neamurile și furia peste toată oștirea lor: le-a dat blestemului, le-a dat la măcelărire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "și furia"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "oștirea lor"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "le-a dat blestemului"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "le-a dat"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "la măcelărire"
+    }
+  ],
+  "timestamp": "2026-09-04T03:46:28.840015852Z",
+  "model": "glm-5.3"
+}

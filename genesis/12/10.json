@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și a fost foamete în țară, și a coborât Avram în Mițraim ca să locuiască acolo ca străin, căci era grea foametea în țară.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "foamete"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "și a coborât"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "în Mițraim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ca să locuiască ca străin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "era grea"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "foametea"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:11.092391723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "De aceea nu se vor ridica cei răi la judecată, nici păcătoșii în adunarea celor drepți.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "De"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "se vor ridica"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cei răi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "la judecată"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "nici păcătoșii"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "în adunarea"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "celor drepți"
+    }
+  ],
+  "timestamp": "2026-09-04T09:39:20.811354143Z",
+  "model": "glm-5.3"
+}

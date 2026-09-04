@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Cântă înaintea oamenilor și spune: Am greșit, și ce era drept am strâmbat, și nu mi-a folosit la nimic.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "Cântă"
+    },
+    {
+      "surface": "על",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "oamenilor"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și spune"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Am greșit"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "și ce era drept"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "am strâmbat"
+    },
+    {
+      "surface": "וירא ... ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "mi-a folosit la nimic"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:34:48.247033088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Pentru că nu a închis ușile pântecelui meu și nu a ascuns osteneala de ochii mei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "a închis"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "ușile"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "pântecelui meu"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "și a ascuns"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "osteneala"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "de ochii mei"
+    }
+  ],
+  "timestamp": "2026-09-04T05:26:32.037647879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a luat Mikal ⟨את⟩ terafimii și i-a pus pe pat, și ⟨את⟩ pânza de păr de capre a pus-o la căpătâiul lui, și l-a acoperit cu o haină.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimii"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimii"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "și i-a pus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "pat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pânza de păr de capre"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "pânza"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "de capre"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "a pus-o"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "la căpătâiul lui"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "și l-a acoperit"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "cu o haină"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:59.497875375Z",
+  "model": "glm-5.3"
+}

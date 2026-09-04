@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și dreptate va fi ⟨ pentru ⟩ noi, dacă vom păzi să facem ⟨את⟩ toată porunca aceasta înaintea lui Yahve, Elohim al nostru, cum ne-a poruncit.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "Și dreptate"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨pentru⟩ noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "vom păzi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată porunca aceasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "porunca"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim al nostru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "ne-a poruncit"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:47.648166320Z",
+  "model": "glm-5.3"
+}

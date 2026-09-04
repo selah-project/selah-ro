@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și va moșteni Yahve ⟨את⟩ Iehuda, partea lui, peste pământul cel sfânt, și va alege din nou Ierușalaimul.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "și va moșteni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "partea lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cel sfânt"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "și va alege"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "din nou"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ierușalaimul"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:45.323798908Z",
+  "model": "glm-5.3"
+}

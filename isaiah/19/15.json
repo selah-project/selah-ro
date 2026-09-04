@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și nu va mai fi pentru Mițraim nicio lucrare pe care s-o facă capul și coada, ramura de finic și trestia.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va mai fi"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "pentru Mițraim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "nicio lucrare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "s-o facă"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "și coada"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ramura de finic"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "și trestia"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:21.412505315Z",
+  "model": "glm-5.3"
+}

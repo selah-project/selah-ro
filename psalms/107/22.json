@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "și să aducă jertfe de todá, și să povestească faptele lui în cântare de bucurie:",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "și să aducă jertfe"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "jertfe de"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "todá (mulțumire)"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "și să povestească"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "faptele lui"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "în cântare de bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:43.659282072Z",
+  "model": "glm-5.3"
+}

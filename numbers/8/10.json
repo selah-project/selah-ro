@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și să aduci ⟨את⟩ leviții înaintea lui Yahve, și fiii lui Israel să își sprijine ⟨את⟩ mâinile lor peste leviți.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "Și să aduci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviții"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviții"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "și să sprijine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lor"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinile lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:45:49.916983342Z",
+  "model": "glm-5.3"
+}

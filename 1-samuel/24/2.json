@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a fost, când s-a întors Șaul din urma filistenilor, că i s-a spus lui, zicând: Iată, David ⟨este⟩ în pustia En-Ghedi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "din urma"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistenilor"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "că i s-a spus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustia"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Ghedi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:21.784256261Z",
+  "model": "glm-5.3"
+}

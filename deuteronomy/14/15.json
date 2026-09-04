@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și ⟨את⟩ fiica-struțului, și ⟨את⟩ cucuveaua-de-noapte, și ⟨את⟩ pescărușul, și ⟨את⟩ șoimul, după felul lui",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiica-struțului"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "struțului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cucuveaua-de-noapte"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "cucuveaua-de-noapte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pescărușul"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "pescărușul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "șoimul"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "șoimul"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "după felul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:05:09.573563978Z",
+  "model": "glm-5.3"
+}

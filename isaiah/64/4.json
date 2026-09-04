@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 64,
+  "translation": "L-ai întâlnit ⟨את⟩ pe cel care se bucură și săvârșește dreptatea; în drumurile tale își amintesc de tine. Iată, tu te-ai mâniat — și noi am greșit; în ele ⟨suntem⟩ din veac și vom fi mântuiți.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "L-ai întâlnit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cel care se bucură"
+    },
+    {
+      "surface": "שש",
+      "gloss": "pe cel care se bucură"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "și săvârșește"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "în drumurile tale"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "își amintesc de tine"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "te-ai mâniat"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "și noi am greșit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "din veac"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "și vom fi mântuiți"
+    }
+  ],
+  "timestamp": "2026-09-04T03:55:32.536539623Z",
+  "model": "glm-5.3"
+}

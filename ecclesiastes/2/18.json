@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și am urât eu ⟨את⟩ toată osteneala mea cu care mă osteneam sub soare, pe care o voi lăsa omului care va fi după mine.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Și am urât"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată osteneala mea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "osteneala mea"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "căci eu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mă osteneam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "pe care o voi lăsa"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "omului"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "care va fi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:29.269986781Z",
+  "model": "glm-5.3"
+}

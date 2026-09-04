@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iar fiii lui Eli erau fii ai nimicniciei; nu cunoșteau ⟨את⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Iar fiii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lui Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ai nimicniciei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "cunoșteau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T02:38:46.060391886Z",
+  "model": "glm-5.3"
+}

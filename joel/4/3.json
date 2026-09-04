@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și asupra poporului Meu au aruncat sorți, și au dat un băiat pentru o curvă, și pe o fată au vândut-o pentru vin, și l-au băut.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "și asupra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporului Meu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "au aruncat"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "sorți"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "și au dat"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "un băiat"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "pentru o curvă"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "și pe o fată"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "au vândut-o"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "pentru vin"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "și l-au băut"
+    }
+  ],
+  "timestamp": "2026-09-04T09:23:51.484187043Z",
+  "model": "glm-5.3"
+}

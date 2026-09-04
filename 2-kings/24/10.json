@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "În vremea aceea s-au suit robii lui Nevucadnețar, împăratul Babilonului, împotriva Ierușalaimului, și a intrat cetatea în împresurare.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "În vremea"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "aceea"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "s-au suit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robii"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "lui Nevucadnețar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "împăratul"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonului"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "și a intrat"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "în împresurare"
+    }
+  ],
+  "timestamp": "2026-09-04T08:57:56.550601146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și Sarai, soția lui Avram, nu i-a născut; iar ea avea o sclavă mițriteancă, iar numele ei Hagar.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Și Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "soția"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "lui Avram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "iar ei"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "o sclavă"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "mițriteancă"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "iar numele ei"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    }
+  ],
+  "timestamp": "2026-09-04T00:58:51.472362014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și au pregătit ⟨את⟩ darul până la venirea lui Iosif la amiază, căci auziseră că acolo vor mânca pâine.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "Și au pregătit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "venirea"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "la amiază"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "auziseră"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:01.562796837Z",
+  "model": "glm-5.3"
+}

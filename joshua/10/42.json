@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și ⟨את⟩ toți regii aceștia și ⟨את⟩ țara lor a prins Iehoșua dintr-o singură dată, căci Yahve, Elohim al lui Israel, Se lupta pentru Israel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toți regii aceștia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "regii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "țara lor"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "țara lor"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "a prins"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "dată"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "Se lupta"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pentru Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:20:56.144308457Z",
+  "model": "glm-5.3"
+}

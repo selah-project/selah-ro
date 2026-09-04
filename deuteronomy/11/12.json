@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Pământ pe care Yahve Elohim al tău cercetează ⟨את⟩-o pururea; ochii lui Yahve Elohim al tău ⟨sunt⟩ pe ea, de la începutul anului și până la sfârșitul anului.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Pământ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "cercetează"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-o",
+      "marks": "pe ea (pământul)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pururea"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pe ea"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "de la începutul"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "anului"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sfârșitul"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anului"
+    }
+  ],
+  "timestamp": "2026-09-04T08:51:15.502741818Z",
+  "model": "glm-5.3"
+}

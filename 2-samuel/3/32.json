@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au îngropat ⟨את⟩ pe Avner în Hevron; și regele și-a ridicat ⟨את⟩ glasul său și a plâns la mormântul lui Avner, și a plâns tot poporul.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Și au îngropat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "în Hevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "și a ridicat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul său"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glasul său"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "și a plâns"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mormântul"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "lui Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "și a plâns"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:55:28.784501494Z",
+  "model": "glm-5.3"
+}

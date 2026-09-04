@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Cuvintele gurii înțeleptului ⟨sunt⟩ har, iar buzele nesăbuitului îl înghit.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Cuvintele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gurii"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțeleptului"
+    },
+    {
+      "surface": "חן",
+      "gloss": "har"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "iar buzele"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nesăbuitului"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "îl înghit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:43:47.864566935Z",
+  "model": "glm-5.3"
+}

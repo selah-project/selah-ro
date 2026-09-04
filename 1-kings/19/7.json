@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și s-a întors îngerul lui Yahve a doua oară și l-a atins și a spus: Scoală-te, mănâncă, căci prea mare ⟨este⟩ pentru tine drumul.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și s-a întors"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "îngerul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "a doua oară"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "și l-a atins"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pe el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Scoală-te"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mănâncă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רב",
+      "gloss": "prea mare"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "drumul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:18.305173719Z",
+  "model": "glm-5.3"
+}

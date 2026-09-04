@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și s-a întors Arnan și a văzut ⟨את⟩ îngerul, și cei patru fii ai lui cu el se ascundeau; și Arnan treiera grâu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și s-a întors"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "îngerul"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "îngerul"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "și cei patru"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fii ai lui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "ascunzându-se"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "și Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "treiera"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "grâu"
+    }
+  ],
+  "timestamp": "2026-09-04T06:13:29.515653122Z",
+  "model": "glm-5.3"
+}

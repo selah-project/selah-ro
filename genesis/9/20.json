@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a început Noach, omul pământului, și a sădit o vie.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Și a început"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "și a sădit"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "o vie"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:52.738408947Z",
+  "model": "glm-5.3"
+}

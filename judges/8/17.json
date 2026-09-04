@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și ⟨את⟩ turnul lui Penuel l-a dărâmat, și a ucis ⟨את⟩ oamenii cetății.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "turnul lui Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "turnul"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "lui Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "a dărâmat"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "și a ucis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii cetății"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:46.126789759Z",
+  "model": "glm-5.3"
+}

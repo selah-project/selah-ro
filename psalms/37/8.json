@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Lasă mânia și părăsește iuțimea; nu te aprinde — ⟨asta⟩ duce doar la rău.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Lasă"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "și părăsește"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "iuțimea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "te aprinde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "la rău"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:12.318909525Z",
+  "model": "glm-5.3"
+}

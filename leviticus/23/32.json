@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Șabat, Șabaton ⟨este⟩ pentru voi, și vă veți smeri ⟨את⟩ sufletele voastre; în a noua zi a lunii, seara, de la seară până seara să țineți Șabatul vostru.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Șabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Șabaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "și vă veți smeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sufletele voastre"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "sufletele voastre"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "în a noua (zi)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a lunii"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "seara"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "de la seară"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "seara"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "să țineți"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Șabatul vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T06:49:22.528902627Z",
+  "model": "glm-5.3"
+}

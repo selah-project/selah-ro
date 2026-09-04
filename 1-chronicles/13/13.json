@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și nu a mutat David ⟨את⟩ chivotul la el, în cetatea lui David, ci l-a abătut spre casa lui Oved-Edom ghititul.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a mutat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ci l-a abătut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "lui Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ghititul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:09:57.517885609Z",
+  "model": "glm-5.3"
+}

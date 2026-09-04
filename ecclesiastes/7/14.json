@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "În ziua cea bună fii în cel bun, iar în ziua cea rea vezi: pe ⟨את⟩ acesta l-a făcut Elohim în fața acestuia, pentru ca omul să nu găsească după el nimic.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "cea bună"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "în cel bun"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "iar în ziua"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "cea rea"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vezi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acesta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "זה",
+      "gloss": "acestuia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "l-a făcut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ca"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "găsească"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nimic"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:06.470958727Z",
+  "model": "glm-5.3"
+}

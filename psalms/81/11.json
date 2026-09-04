@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 81,
+  "translation": "Eu sunt Yahve, Elohim al tău, cel ce te-a suit din țara Mițraimului: deschide-ți larg gura și o voi umple.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "cel ce te-a suit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "deschide larg"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "gura ta"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "și o voi umple"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:13.593136975Z",
+  "model": "glm-5.3"
+}

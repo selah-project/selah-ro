@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Ție, numai ție, am păcătuit, și răul în ochii tăi am făcut, ca să fii drept în cuvintele tale, nevinovat în judecata ta.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ție"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "numai ție"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "am păcătuit"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "și răul"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "în ochii tăi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "am făcut"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "fii drept"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "în cuvintele tale"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "în judecata ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:28.833417749Z",
+  "model": "glm-5.3"
+}

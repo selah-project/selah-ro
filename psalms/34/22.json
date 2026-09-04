@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 34,
+  "translation": "Răul va omorî pe cel rău, și cei ce urăsc pe cel drept vor fi osândiți.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "va omorî"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pe cel rău"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "și cei ce urăsc"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pe cel drept"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "vor fi osândiți"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:23.663483124Z",
+  "model": "glm-5.3"
+}

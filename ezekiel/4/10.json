@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Iar mâncarea ta pe care o vei mânca ⟨să fie⟩ la greutate: douăzeci de șecheli pe zi; de la un timp până la alt timp o vei mânca.",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "Iar mâncarea ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "o vei mânca"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "la greutate"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "douăzeci"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "șecheli"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pe zi"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "de la un timp"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un timp"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "o vei mânca"
+    }
+  ],
+  "timestamp": "2026-09-04T07:41:00.380736934Z",
+  "model": "glm-5.3"
+}

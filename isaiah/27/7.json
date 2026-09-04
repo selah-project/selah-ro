@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Ca lovirea celui ce-l lovește, l-a lovit? Sau ca uciderea celor uciși de el, a fost ucis?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "ca lovirea"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "a celui ce-l lovește"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "l-a lovit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "ca uciderea"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "a celor uciși de el"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a fost ucis"
+    }
+  ],
+  "timestamp": "2026-09-04T07:27:37.565440293Z",
+  "model": "glm-5.3"
+}

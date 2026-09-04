@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Al tău ⟨este⟩ ziua, și al tău ⟨este⟩ noaptea; Tu ai așezat lumina și soarele.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "al tău"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "אף",
+      "gloss": "și"
+    },
+    {
+      "surface": "לך",
+      "gloss": "al tău"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ai așezat"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "lumina"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "și soarele"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:16.074362748Z",
+  "model": "glm-5.3"
+}

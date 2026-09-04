@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Că străini s-au ridicat asupra mea și asupritori caută nefișul meu; nu ⟨l⟩-au pus pe Elohim înaintea lor. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "străini"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "s-au ridicat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "asupra mea"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "și asupriți"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "caută"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefișul meu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "au pus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "înaintea lor"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:50.049219323Z",
+  "model": "glm-5.3"
+}

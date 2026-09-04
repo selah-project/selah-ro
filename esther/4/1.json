@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Iar Mordehai a aflat ⟨את⟩ tot ce s-a făcut, și a rupt Mordehai ⟨את⟩ hainele sale, și s-a îmbrăcat cu sac și cenușă, și a ieșit în mijlocul cetății, și a strigat un strigăt mare și amar.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "Iar Mordehai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a aflat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "s-a făcut"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "și a rupt"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hainele sale"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele sale"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "și s-a îmbrăcat"
+    },
+    {
+      "surface": "שק",
+      "gloss": "cu sac"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "și cenușă"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "și a ieșit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "și a strigat"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "un strigăt"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "și amar"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:39.225572346Z",
+  "model": "glm-5.3"
+}

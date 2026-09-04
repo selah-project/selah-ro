@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "care nu ascultă glasul celor ce șoptesc vrăji, al vrăjitorului iscusit în legarea vrăjilor",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascultă"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "al celor ce șoptesc (vrăji)"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "al vrăjitorului"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "vrăji"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "iscusit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:11.636249317Z",
+  "model": "glm-5.3"
+}

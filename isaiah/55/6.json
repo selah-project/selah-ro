@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Căutați-l pe Yahve cât poate fi găsit, chemați-l cât timp ⟨este⟩ aproape.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Căutați-l"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "cât poate fi găsit"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "chemați-l"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "cât timp"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "aproape"
+    }
+  ],
+  "timestamp": "2026-09-04T03:53:07.047516827Z",
+  "model": "glm-5.3"
+}

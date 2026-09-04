@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Doar în păcatele lui Iarovam, fiul lui Nevat, care a făcut să păcătuiască ⟨את⟩ Israel, s-a lipit; nu s-a abătut de la ele.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Doar"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "în păcatele"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "lui Iarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "lui Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a făcut să păcătuiască"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "s-a lipit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סר",
+      "gloss": "s-a abătut"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "de la ea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:19.640427359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "ci deschizând să deschizi ⟨את⟩ mâna ta către el, și dând cu împrumut să-i dai împrumut destul pentru lipsa lui, care îi lipsește lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ci"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "deschizând"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "să deschizi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna ta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "dând cu împrumut"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "să-i dai împrumut"
+    },
+    {
+      "surface": "די",
+      "gloss": "destul"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "pentru lipsa lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "îi lipsește"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:48.700739385Z",
+  "model": "glm-5.3"
+}

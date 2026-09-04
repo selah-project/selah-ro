@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și s-a întors Rav Șakeh și l-a găsit ⟨את⟩ regele Așur luptând împotriva Livnei, căci auzise că a plecat de la Lahiș.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Și s-a întors"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Șakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "și l-a găsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "luptând"
+    },
+    {
+      "surface": "על",
+      "gloss": "împotriva"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "auzise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "a plecat"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "de la Lahiș"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:41.895684730Z",
+  "model": "glm-5.3"
+}

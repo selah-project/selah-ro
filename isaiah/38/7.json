@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și acesta îți ⟨este⟩ semnul de la ⟨את⟩ Yahve, că Yahve va face ⟨את⟩ lucrul acesta pe care l-a vorbit:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Și acesta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "îți"
+    },
+    {
+      "surface": "האות",
+      "gloss": "semnul"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "va face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrul acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "l-a vorbit"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:23.953773150Z",
+  "model": "glm-5.3"
+}

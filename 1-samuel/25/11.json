@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și să-mi iau ⟨את⟩ pâinea mea și ⟨את⟩ apa mea și ⟨את⟩ vitele mele înjunghiate, pe care le-am înjunghiat pentru cei ce mă tund, și să le dau unor oameni pe care nu-i cunosc de unde sunt ei?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Și să-mi iau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pâinea mea"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "pâinea mea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "apa mea"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "apa mea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "vitele mele înjunghiate"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "vitele mele înjunghiate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "le-am înjunghiat"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "pentru cei ce mă tund"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "și să le dau"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "unor oameni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "(nu-i) cunosc"
+    },
+    {
+      "surface": "אי",
+      "gloss": "de unde"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "(de) unde"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sunt ei"
+    }
+  ],
+  "timestamp": "2026-09-04T02:50:06.711365135Z",
+  "model": "glm-5.3"
+}

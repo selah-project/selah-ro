@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Pașii noștri acum ne-au înconjurat — ochii lor și-au așezat ⟨să⟩ ne doboare la pământ.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "pașii noștri"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ne-au înconjurat"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ochii lor"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "au așezat"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "să doboare"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "la pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:45.034626157Z",
+  "model": "glm-5.3"
+}

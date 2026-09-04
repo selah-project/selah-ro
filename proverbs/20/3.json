@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Onoare ⟨este⟩ pentru om încetarea din ceartă, dar orice nebun se lăcomește la sfadă.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "onoare"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pentru om"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "încetarea"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "din ceartă"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dar orice"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nebun"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "se lăcomește la sfadă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:01.244275273Z",
+  "model": "glm-5.3"
+}

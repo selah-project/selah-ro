@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ Țora, și ⟨את⟩ Aialon, și ⟨את⟩ Hevron, care sunt în Iehuda și în Binyamin — cetăți întărite",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Țora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Țora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Aialon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aialon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "în Iehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "și în Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cetăți"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "întărite"
+    }
+  ],
+  "timestamp": "2026-09-04T08:21:36.694631798Z",
+  "model": "glm-5.3"
+}

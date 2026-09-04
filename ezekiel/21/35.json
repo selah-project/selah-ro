@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Întoarce-o în teaca ei! În locul în care ai fost creată, în țara nașterii tale, te voi judeca ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Întoarce-o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "teaca ei"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "În locul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "ai fost creată"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "nașterii tale"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "te voi judeca"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tu (sabia)"
+    }
+  ],
+  "timestamp": "2026-09-04T04:25:44.565071472Z",
+  "model": "glm-5.3"
+}

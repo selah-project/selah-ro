@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și au murit și amândoi, Mahlon și Kilion; și a rămas femeia fără cei doi copii ai ei și fără bărbatul ei.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "și au murit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "și Kilion"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "și a rămas"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "משני",
+      "gloss": "fără cei doi"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "copiii ei"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "și fără bărbatul ei"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:33.310690684Z",
+  "model": "glm-5.3"
+}

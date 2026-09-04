@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a luat Moșe ⟨את⟩ soția sa și ⟨את⟩ fiii săi, i-a pus să călărească pe măgar și s-a întors spre pământul Mițraimului; și a luat Moșe ⟨את⟩ toiagul lui Elohim în mâna sa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soția sa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "soția sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii săi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii săi"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "i-a pus să călărească"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "măgarul"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "și s-a întors"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "spre pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toiagul"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "toiagul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna sa"
+    }
+  ],
+  "timestamp": "2026-09-04T06:41:01.437854253Z",
+  "model": "glm-5.3"
+}

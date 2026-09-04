@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "De glasul suspinării mele s-a lipit osul meu de carnea mea.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "al suspinării mele"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "s-a lipit"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "osul meu"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "de carnea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:04.105807399Z",
+  "model": "glm-5.3"
+}

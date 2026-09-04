@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a spus Iehoșafat: Nu este aici niciun navi al lui Yahve, încă, și să întrebăm de la ⟨את⟩ el?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Iehoșafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "nu este"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "ליהוָה",
+      "gloss": "al lui Yahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "și să întrebăm"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "de la ⟨את⟩ el",
+      "marks": "el — navi al lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T07:20:24.477203833Z",
+  "model": "glm-5.3"
+}

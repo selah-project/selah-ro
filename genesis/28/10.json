@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și a ieșit Iaacov din Beer-Șeva și a mers spre Haran.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Și a ieșit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "din Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Șeva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "spre Haran"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:36.674929472Z",
+  "model": "glm-5.3"
+}

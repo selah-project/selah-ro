@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "și ⟨את⟩ patrusimii și ⟨את⟩ casluhimii, dintre care au ieșit de acolo filiștienii — și ⟨את⟩ kaftorimii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "patrusimii"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusimii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casluhimii"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "casluhimii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dintre care"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "au ieșit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiștienii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "kaftorimii"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftorimii"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:34.446200355Z",
+  "model": "glm-5.3"
+}

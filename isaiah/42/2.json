@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Nu va striga și nu va înălța și nu va face să se audă în afară glasul lui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יִצְעַק",
+      "gloss": "va striga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "va înălța"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יַשְׁמִיעַ",
+      "gloss": "va face să se audă"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "în afară"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glasul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:29:15.470767076Z",
+  "model": "glm-5.3"
+}

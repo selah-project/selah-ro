@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Numai cu ochii tăi vei privi și răsplata celor răi o vei vedea.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "cu ochii tăi"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "vei privi"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "și răsplata"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o vei vedea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:56.083818382Z",
+  "model": "glm-5.3"
+}

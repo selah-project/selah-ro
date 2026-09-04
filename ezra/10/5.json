@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "S-a sculat Ezra și a pus să jure ⟨את⟩ căpeteniile cohanilor, pe leviți și tot Israel să facă după cuvântul acesta, și au jurat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "S-a sculat"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a pus să jure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "căpeteniile cohanilor"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "căpeteniile"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohanilor"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviții"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "după cuvântul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "și au jurat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:57:54.908792495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Căci ai fost un ajutor pentru mine, și la umbra aripilor tale voi cânta de bucurie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ai fost"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "un ajutor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "și la umbra"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "aripilor tale"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "voi cânta de bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:24.483657034Z",
+  "model": "glm-5.3"
+}

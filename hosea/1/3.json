@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a mers și a luat ⟨את⟩ Gomer, fata lui Divlaim; și ea a rămas însărcinată și i-a născut un fiu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fata"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "lui Divlaim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "și ea a rămas însărcinată"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    }
+  ],
+  "timestamp": "2026-09-04T07:47:40.350052853Z",
+  "model": "glm-5.3"
+}

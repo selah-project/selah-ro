@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Atunci a cântat Moșe și fiii lui Israel ⟨את⟩ cântarea aceasta către Yahve, și au grăit, zicând: Voi cânta lui Yahve, căci s-a înălțat cu înălțare, calul și călărețul lui i-a aruncat în mare.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Atunci"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "a cântat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "și fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cântarea aceasta"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "cântarea"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "către Yahve"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au grăit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "voi cânta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "s-a înălțat"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "cu înălțare"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "calul"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "și călărețul lui"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "a aruncat"
+    },
+    {
+      "surface": "בים",
+      "gloss": "în mare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:18:24.013598893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,169 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 7:24",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și a luat Iehoșua ⟨את⟩ Acan, fiul lui Zerah, și ⟨את⟩ argintul, și ⟨את⟩ mantia, și ⟨את⟩ limba de aur, și ⟨את⟩ fiii lui, și ⟨את⟩ fiicele lui, și ⟨את⟩ boul lui, și ⟨את⟩ măgarul lui, și ⟨את⟩ turma lui, și ⟨את⟩ cortul lui și ⟨את⟩ tot ce era al lui — și tot Israelul cu el — și i-au suit ⟨את⟩ în valea Acor.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Acan"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Acan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "lui Zerah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "argintul"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "argintul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mantia"
+    },
+    {
+      "surface": "האדרת",
+      "gloss": "mantia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "limba"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "limba"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiicele lui"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "fiicele lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "boul lui"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "boul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "măgarul lui"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "măgarul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "turma lui"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "turma lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cortul lui"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "cortul lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot ce era al lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "al lui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "și i-au suit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pe ei"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "valea"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Acor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:51:54.891286048Z",
+  "model": "glm-5.3"
+}

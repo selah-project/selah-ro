@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și le vei duce tatălui tău, și el va mânca, pentru ca să te binecuvânteze înaintea morții lui.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "și vei duce"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "tatălui tău"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "și va mânca"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "pentru ca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "să"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "te binecuvânteze"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "morții lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:36:56.172350574Z",
+  "model": "glm-5.3"
+}

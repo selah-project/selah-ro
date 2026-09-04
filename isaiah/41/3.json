@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "Îi urmărește, trece în pace — pe un drum ⟨pe care⟩ cu picioarele lui nu pășește.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Îi urmărește"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "trece"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "în pace"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "pe un drum"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "cu picioarele lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "pășește"
+    }
+  ],
+  "timestamp": "2026-09-04T07:28:50.488451251Z",
+  "model": "glm-5.3"
+}

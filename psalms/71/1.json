@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "În tine, Yahve, m-am adăpostit; să nu fiu rușinat în veac.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "În tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m-am adăpostit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "fiu rușinat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "în veac"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:28.795859279Z",
+  "model": "glm-5.3"
+}

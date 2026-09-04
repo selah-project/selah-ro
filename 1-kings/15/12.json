@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și a alungat pe cei sfințiți ⟨את⟩ toți idolii pe care îi făcuseră tații lui, din pământ.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Și a alungat"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pe cei sfințiți"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "și a îndepărtat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toți idolii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "idolii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "făcuseră"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "tații lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:19:36.520584242Z",
+  "model": "glm-5.3"
+}

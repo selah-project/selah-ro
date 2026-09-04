@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Căci așa a spus Adonai către mine: mergi, așază străjerul; ce va vedea, să vestească.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "așază"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "străjerul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "va vedea"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "să vestească"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:07.773328248Z",
+  "model": "glm-5.3"
+}

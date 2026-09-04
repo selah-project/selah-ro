@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și va ridica cohenul din darul de mâncare ⟨את⟩ partea lui de aducere-aminte și o va arde pe altar, jertfă de foc, mireasmă de odihnă pentru Yahve.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "Și va ridica"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darul de mâncare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "partea lui de aducere-aminte"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "partea lui de aducere-aminte"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "și o va arde"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jertfă de foc"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mireasmă"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "de odihnă"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:03.288434325Z",
+  "model": "glm-5.3"
+}

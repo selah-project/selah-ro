@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a plecat pe alt drum și nu s-a întors pe drumul pe care venise la Bet-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a plecat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "alt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venise"
+    },
+    {
+      "surface": "בה",
+      "gloss": "prin el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:27.623296201Z",
+  "model": "glm-5.3"
+}

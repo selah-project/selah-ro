@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a zidit cetatea de jur împrejur, de la Milo și până în împrejurimi; iar Ioab a restaurat ⟨את⟩ restul cetății.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Și a zidit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "de jur împrejur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "împrejurimi"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "iar Ioab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "a restaurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "restul cetății"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "restul"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    }
+  ],
+  "timestamp": "2026-09-04T06:08:32.893511004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "și ⟨את⟩ casele Ierușalaimului le-ați numărat, și ați dărâmat casele ca să întăriți zidul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "casele Ierușalaimului"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "casele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "ați numărat"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "și ați dărâmat"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "casele"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ca să întăriți"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "zidul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:24.879782733Z",
+  "model": "glm-5.3"
+}

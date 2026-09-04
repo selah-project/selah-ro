@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Iar șarpele a zis către femeie: «Nu, cu moarte nu veți muri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Iar a zis"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "șarpele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "cu moarte"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "veți muri"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:27.701138495Z",
+  "model": "glm-5.3"
+}

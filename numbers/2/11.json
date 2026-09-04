@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "și oștirea lui și cei numărați ai lui: șase și patruzeci de mii și cinci sute.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "și oștirea lui"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "și cei numărați ai lui"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "șase"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "și patruzeci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mii"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "și cinci"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    }
+  ],
+  "timestamp": "2026-09-04T01:42:02.769685Z",
+  "model": "glm-5.3"
+}

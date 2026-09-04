@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 104,
+  "translation": "Voi cânta lui Yahve în viața mea, voi cânta laude lui Elohim cât voi fi.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "Voi cânta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "în viața mea"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "voi cânta (cu instrument)"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "cât voi fi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:32.046376570Z",
+  "model": "glm-5.3"
+}

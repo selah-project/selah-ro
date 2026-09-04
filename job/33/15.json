@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "În vis, în vedenie de noapte, când cade toropeala peste oameni, în ațipiri pe pat;",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "În vis"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "vedenie"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "de noapte"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "când cade"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "toropeala"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "oameni"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "în ațipiri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "pat"
+    }
+  ],
+  "timestamp": "2026-09-04T09:12:12.800596578Z",
+  "model": "glm-5.3"
+}

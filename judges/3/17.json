@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a adus ⟨את⟩ darul lui Eglon, regele lui Moab; iar Eglon ⟨era⟩ un om foarte gras.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darul"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darul"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "lui Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "iar Eglon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "gras"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    }
+  ],
+  "timestamp": "2026-09-04T02:29:35.880822735Z",
+  "model": "glm-5.3"
+}

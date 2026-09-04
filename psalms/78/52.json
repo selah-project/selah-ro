@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Și a făcut pe poporul lui să iasă ca pe o turmă de oi și i-a călăuzit ca pe o cireadă în pustie.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Și a făcut să iasă"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ca pe o turmă de oi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pe poporul lui"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "și i-a călăuzit"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "ca pe o cireadă"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:01.910781793Z",
+  "model": "glm-5.3"
+}

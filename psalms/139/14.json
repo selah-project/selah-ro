@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Te voi lăuda, căci cu înfricoșare sunt deosebit; minunate sunt lucrările tale, și nefeșul meu știe aceasta foarte bine.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Te voi lăuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "cu înfricoșare"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "sunt deosebit"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "minunate"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sunt lucrările tale"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "și nefeșul meu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "știe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte bine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:38.498309088Z",
+  "model": "glm-5.3"
+}

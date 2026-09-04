@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Poruncește ⟨את⟩ lui Aharon și ⟨את⟩ fiii lui, zicând: aceasta este Tora arderii-de-jertfă: ea ⟨este⟩ ardea-de-jertfă pe rugul ei, pe altar, toată noaptea până dimineața; și focul altarului va arde în el.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Poruncește"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lui Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii lui"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderii-de-jertfă"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ardea-de-jertfă"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "rugul"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "și focul"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarului"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "va arde"
+    },
+    {
+      "surface": "בו",
+      "gloss": "în el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:17.608839960Z",
+  "model": "glm-5.3"
+}

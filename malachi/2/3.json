@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Iată, Eu mustru ⟨את⟩ sămânța voastră și voi împrăștia balega pe fețele voastre, balega sărbătorilor voastre, și ⟨ea⟩ vă va ridica la sine.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Iată, Eu"
+    },
+    {
+      "surface": "גער",
+      "gloss": "mustru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voastră"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sămânța"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "sămânța"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "și voi împrăștia"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "balega"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "fețele voastre"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "balega"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "sărbătorilor voastre"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "și ⟨ea⟩ va ridica"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la sine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:27.120347156Z",
+  "model": "glm-5.3"
+}

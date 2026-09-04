@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Căci în multă înțelepciune ⟨este⟩ multă mâhnire, și cine adaugă cunoaștere adaugă durere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "în multă"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciune"
+    },
+    {
+      "surface": "רב",
+      "gloss": "multă"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "mâhnire"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "și cine adaugă"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "cunoaștere"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "adaugă"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "durere"
+    }
+  ],
+  "timestamp": "2026-09-04T09:13:12.173917414Z",
+  "model": "glm-5.3"
+}

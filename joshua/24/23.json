@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și acum, îndepărtați ⟨את⟩ dumnezeii străinului care ⟨sunt⟩ în mijlocul vostru și înclinați ⟨את⟩ inima voastră către Yahve, Elohim al lui Israel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "îndepărtați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dumnezeii străinului"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dumnezeii"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "străinului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "în mijlocul vostru"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "și înclinați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima voastră"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inima voastră"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T02:26:49.931053826Z",
+  "model": "glm-5.3"
+}

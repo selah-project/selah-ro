@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Dacă te vei culca, nu te vei teme, și te vei culca și somnul tău va fi dulce.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "te vei culca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "te vei teme"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "și te vei culca"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "și va fi dulce"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "somnul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:49.149661183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Hesed-ul meu și fortăreața mea, înălțimea mea și scăparea mea; scutul meu, cel în care m-am adăpostit, cel ce supune poporul meu sub mine.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed-ul meu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "și fortăreața mea"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "înălțimea mea"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "și scăparea mea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "al meu"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "scutul meu"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "și în el"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m-am adăpostit"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "cel ce supune"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "sub mine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:29.445198365Z",
+  "model": "glm-5.3"
+}

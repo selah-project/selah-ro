@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și regele a acoperit ⟨את⟩ fața sa, și a strigat regele cu glas mare: Fiul meu, Avșalom! Avșalom, fiul meu, fiul meu!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Și regele"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "a acoperit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața sa"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "și a strigat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avșalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:05:38.384987475Z",
+  "model": "glm-5.3"
+}

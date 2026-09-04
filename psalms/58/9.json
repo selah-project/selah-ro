@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Ca un melc, topire, va merge; ca un avorton de femeie — nu au văzut soarele.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ca"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "un melc"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "topire"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "va merge"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "un avorton"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de femeie"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soarele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:50.502967375Z",
+  "model": "glm-5.3"
+}

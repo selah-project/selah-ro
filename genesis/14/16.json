@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Și a adus înapoi ⟨את⟩ tot avutul, și de asemenea ⟨את⟩ Lot, fratele lui — avutul lui l-a adus înapoi — și de asemenea ⟨את⟩ femeile și ⟨את⟩ poporul.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "și a adus înapoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot avutul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "avutul"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și de asemenea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele lui"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "și avutul lui"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "l-a adus înapoi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și de asemenea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "femeile"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "femeile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    }
+  ],
+  "timestamp": "2026-09-04T00:57:25.170003633Z",
+  "model": "glm-5.3"
+}

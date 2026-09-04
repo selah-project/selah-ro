@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Yahve nu-l va părăsi în mâna lui și nu-l va osândi la judecata lui.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "îl va părăsi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "îl va osândi"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "la judecata lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:54:58.085554088Z",
+  "model": "glm-5.3"
+}

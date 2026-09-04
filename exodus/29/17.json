@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "și ⟨את⟩ berbeacul îl vei tăia în bucățile lui, și vei spăla măruntaiele lui și picioarele lui, și le vei pune peste bucățile lui și peste capul lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "berbeacul"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbeacul"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "vei tăia (în bucăți)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "în bucățile lui"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "și vei spăla"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "măruntaiele lui"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "și picioarele lui"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "și vei pune"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "bucățile lui"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și peste"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "capul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:55.631854888Z",
+  "model": "glm-5.3"
+}

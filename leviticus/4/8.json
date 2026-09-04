@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și ⟨את⟩ toată grăsimea taurului de jertfă de păcat o va ridica din el: ⟨את⟩ grăsimea care acoperă peste măruntaie și ⟨את⟩ toată grăsimea care este pe măruntaiele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată grăsimea taurului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "פר",
+      "gloss": "taurului"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "de jertfă de păcat"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "va ridica"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grăsimea care acoperă peste măruntaie"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "care acoperă"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaiele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată grăsimea care este pe măruntaiele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaiele"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:18.667992936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 128,
+  "translation": "Să te binecuvânteze Yahve din Țion, și să vezi ⟨את⟩ binele Ierușalaimului toate zilele vieții tale!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "să te binecuvânteze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "din Țion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și să vezi"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "binele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "vieții tale"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:21.672606774Z",
+  "model": "glm-5.3"
+}

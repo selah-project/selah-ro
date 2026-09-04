@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și pe un gher să nu îl apasă nimeni, căci voi cunoașteți ⟨את⟩ suflarea gherului — fiindcă gherim ați fost în țara Mițraim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Și pe un gher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "să apese"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "căci voi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "cunoașteți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suflarea gherului"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "suflarea"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "gherului"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fiindcă"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "gherim"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ați fost"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:35.233850639Z",
+  "model": "glm-5.3"
+}

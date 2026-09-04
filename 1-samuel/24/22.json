@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și acum jură-mi pe Yahve: dacă vei nimici ⟨את⟩ sămânța mea după mine, și dacă vei șterge ⟨את⟩ numele meu din casa tatălui meu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "jură"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pe Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "vei nimici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sămânța mea"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "sămânța mea"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după mine"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "vei șterge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele meu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "numele meu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatălui meu"
+    }
+  ],
+  "timestamp": "2026-09-04T02:48:52.334859332Z",
+  "model": "glm-5.3"
+}

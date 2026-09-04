@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Nu mă tem de zeci de mii de popor care de pretutindeni s-au așezat împotriva mea.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mă tem"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "de zeci de mii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "de popor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "de pretutindeni"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "s-au așezat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:34.507477708Z",
+  "model": "glm-5.3"
+}

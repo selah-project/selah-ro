@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și i-au spus ei: Cu ⟨את⟩ tine ne vom întoarce la poporul tău.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "și i-au spus"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cu ⟨את⟩ tine",
+      "marks": "cu ⟨את⟩ tine"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "ne vom întoarce"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "la poporul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T08:09:24.366849327Z",
+  "model": "glm-5.3"
+}

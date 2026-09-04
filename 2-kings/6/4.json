@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a mers ⟨את⟩ ei și au venit la Iardan și au tăiat lemnii.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Și a mers"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ei"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au venit"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "la Iardan"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "și au tăiat"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "lemnii"
+    }
+  ],
+  "timestamp": "2026-09-04T03:25:39.091988484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 35:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Și să ne ridicăm și să suim la Beit-El, și voi face acolo un altar lui El, care a răspuns ⟨את⟩ mie în ziua necazului meu, și a fost cu mine pe drumul pe care am mers.",
+  "tokens": [
+    {
+      "surface": "ונקומה",
+      "gloss": "și să ne ridicăm"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "și să suim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "și voi face"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "lui El"
+    },
+    {
+      "surface": "הענה",
+      "gloss": "care a răspuns"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pe mine"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "necazului meu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drumul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "am mers"
+    }
+  ],
+  "timestamp": "2026-09-04T06:38:02.843255184Z",
+  "model": "glm-5.3"
+}

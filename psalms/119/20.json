@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Zdrobit ⟨este⟩ nefeșul meu de dorul judecăților tale, în toată vremea.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Zdrobit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeșul meu"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "de dorul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toată"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vremea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:04.469282582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Ei sunt cei care au vorbit cu Paro, regele Mițraimului, ca să scoată ⟨את⟩ fiii lui Israel din Mițraim; acesta ⟨este⟩ Moșe și Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "sunt cei care au vorbit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ca să scoată"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "și Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:52.776824067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Șederea ta ⟨este⟩ în mijlocul înșelăciunii; prin înșelăciune au refuzat să cunoască ⟨את⟩ ⟨pe mine⟩, oracolul lui Yahve.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "Șederea ta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "înșelăciunii"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "prin înșelăciune"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "au refuzat"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "să cunoască"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨pe mine⟩",
+      "marks": "cunoașterea lui Elohim refuzată"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:01:29.381488006Z",
+  "model": "glm-5.3"
+}

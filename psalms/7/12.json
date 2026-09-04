@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Elohim ⟨este⟩ judecător drept, și El se mânie în fiecare zi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "judecător"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "drept"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "se mânie"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în fiecare"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:53.948193457Z",
+  "model": "glm-5.3"
+}

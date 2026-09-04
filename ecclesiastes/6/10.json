@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Ceea ce a fost — de mult i s-a chemat numele, și este cunoscut că ⟨el⟩ este om; și nu va putea să se judece cu cel mai puternic decât el.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ceea ce"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "de mult"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "s-a chemat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "și este cunoscut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "că"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "va putea"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "să se judece"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "cel mai puternic"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "decât el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:33.415993930Z",
+  "model": "glm-5.3"
+}

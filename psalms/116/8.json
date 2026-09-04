@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Căci ai smuls sufletul meu de la moarte, ⟨את⟩ ochiul meu de la lacrimi, ⟨את⟩ piciorul meu de la cădere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "ai smuls"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la moarte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochiul meu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ochiul meu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "lacrimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piciorul meu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "piciorul meu"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "de la cădere"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:51.599098560Z",
+  "model": "glm-5.3"
+}

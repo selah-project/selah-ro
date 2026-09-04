@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 94,
+  "translation": "Poporul tău, Yahve, ⟨ei⟩ strivesc, și moștenirea ta ⟨ei⟩ apasă.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "poporul tău"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "strivesc"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "și moștenirea ta"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "apasă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:39.865780637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Căci nu dorm dacă nu fac rău, și somnul le este furat dacă nu fac pe cineva să se poticnească.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "dorm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "fac rău"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "și le este furat"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "somnul"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "fac pe cineva să se poticnească"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:17.002564813Z",
+  "model": "glm-5.3"
+}

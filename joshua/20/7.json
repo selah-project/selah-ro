@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și au sfințit ⟨את⟩ Kedeș în Galil, în muntele Naftali, și ⟨את⟩ Șechem în muntele Efraim, și ⟨את⟩ Kiriat-Arba — ea este Hevron — în muntele Iehuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Și au sfințit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeș"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeș"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "în Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în muntele"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Șechem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Șechem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în muntele"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Kiriat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ea"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "în muntele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T02:26:22.447195480Z",
+  "model": "glm-5.3"
+}

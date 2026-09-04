@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Al lui David. Yahve ⟨este⟩ lumina mea și mântuirea mea — de cine mă voi teme? Yahve ⟨este⟩ fortăreața vieții mele — de cine mă voi spăimânta?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Al lui David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "lumina mea"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "și mântuirea mea"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "de cine"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mă voi teme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fortăreața"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "vieții mele"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "de cine"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "mă voi spăimânta"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:02.290406546Z",
+  "model": "glm-5.3"
+}

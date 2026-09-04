@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 105,
+  "translation": "Mulțumiți lui Yahve, chemați în Numele lui, faceți cunoscute printre popoare faptele lui!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mulțumiți"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "chemați"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "în Numele lui"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "faceți cunoscute"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "printre popoare"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "faptele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:51.331300882Z",
+  "model": "glm-5.3"
+}

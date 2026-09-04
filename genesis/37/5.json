@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Și a visat Iosif un vis, și l-a spus fraților lui, și au mai adăugat încă să urască ⟨את⟩ pe el.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "Și a visat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "un vis"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "fraților lui"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "și au adăugat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "să urască"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pe el",
+      "marks": "pe el (Iosif)"
+    }
+  ],
+  "timestamp": "2026-09-04T01:06:45.214298802Z",
+  "model": "glm-5.3"
+}

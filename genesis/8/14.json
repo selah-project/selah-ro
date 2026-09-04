@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și în luna a doua, în ziua de douăzeci și șapte ale lunii, s-a uscat pământul.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Și în luna"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a doua"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "în șapte"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "și douăzeci"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ale lunii"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "s-a uscat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    }
+  ],
+  "timestamp": "2026-09-04T06:34:27.586856689Z",
+  "model": "glm-5.3"
+}

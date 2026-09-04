@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Binecuvântat ⟨este⟩ Yahve, că a auzit glasul rugăminților mele.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Binecuvântat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasul"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "rugăminților mele"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:43.972169273Z",
+  "model": "glm-5.3"
+}

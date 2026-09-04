@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Buzele celui drept cunosc ce ⟨este⟩ plăcut, iar gura celor răi — perversitate.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Buzele"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "celui drept"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "cunosc"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ce plăcut"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "iar gura"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "celor răi"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "perversitate"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:07.286790256Z",
+  "model": "glm-5.3"
+}

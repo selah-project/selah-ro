@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Cel prevăzător a văzut răul și ⟨s-a⟩ ascuns; cei naivi au trecut mai departe și sunt pedepsiți.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Cel prevăzător"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a văzut"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ascuns"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "cei naivi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "au trecut mai departe"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "sunt pedepsiți"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:58.726524283Z",
+  "model": "glm-5.3"
+}

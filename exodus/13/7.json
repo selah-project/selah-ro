@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Mațot se vor mânca ⟨את⟩ cele șapte zile, și nu ți se va vedea dospit, și nu ți se va vedea plămadă în tot hotarul tău.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Mațot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se vor mânca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cele șapte zile"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "cele șapte"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se va vedea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "dospit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se va vedea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "plămadă"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în tot"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "hotarul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T01:17:32.082588434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Scoală-te, mergi către Ninive, cetatea cea mare, și strigă împotriva ei, căci răutatea lor a suit înaintea mea.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Scoală-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "și strigă"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "împotriva ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "a suit"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "răutatea lor"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:09.263490893Z",
+  "model": "glm-5.3"
+}

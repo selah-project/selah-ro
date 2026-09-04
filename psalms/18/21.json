@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "M-a răsplătit Yahve după dreptatea mea; după curăția mâinilor mele mi-a întors ⟨răsplată⟩.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "M-a răsplătit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "după dreptatea mea"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "după curăția"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâinilor mele"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mi-a întors"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mie⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:53.723679974Z",
+  "model": "glm-5.3"
+}

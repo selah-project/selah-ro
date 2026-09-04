@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 144,
+  "translation": "Întinde-ți mâinile din înălțime; smulge-mă și scapă-mă din ape multe, din mâna fiilor străinilor.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Întinde"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mâinile"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "din înălțime"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "smulge-mă"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "și scapă-mă"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "din ape"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "străinilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:56.806881223Z",
+  "model": "glm-5.3"
+}

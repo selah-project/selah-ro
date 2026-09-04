@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "A întărit Yahve ⟨את⟩ împărăția în mâna lui, și a dat tot Iehuda dar lui Iehoșafat, și a fost lui avere și slavă în belșug.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "a întărit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "împărăția"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "în mâna lui"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "și a dat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "lui Iehoșafat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a fost"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "avere"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "și slavă"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "în belșug"
+    }
+  ],
+  "timestamp": "2026-09-04T08:22:52.855663864Z",
+  "model": "glm-5.3"
+}

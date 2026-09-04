@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Aceștia sunt fiii Leei, pe care i-a născut lui Iaacov în Padan-Aram, și ⟨את⟩ Dina, fiica lui; toate sufletele fiilor lui și fiicelor lui: treizeci și trei.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aceștia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a născut"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "lui Iaacov"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "în Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "fiica lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sufletele"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiilor lui"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "și fiicelor lui"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treizeci"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "și trei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:10:26.949153415Z",
+  "model": "glm-5.3"
+}

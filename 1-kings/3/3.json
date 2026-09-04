@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a iubit Șelomo ⟨את⟩ Yahve, ca să meargă în rânduielile lui David, tatăl său; numai că în înălțimi el jertfea și tămâia.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Și a iubit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ca să meargă"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "în rânduielile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "רק",
+      "gloss": "numai că"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "în înălțimi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jertfea"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "și tămâia"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:21.963186608Z",
+  "model": "glm-5.3"
+}

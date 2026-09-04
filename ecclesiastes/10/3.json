@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și chiar pe drum, ca un nesăbuit, merge — inima lui lipsește, și spune tuturor că nesăbuit este el.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pe drum"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ca un nesăbuit"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "merge"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "lipsește"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "și spune"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "nesăbuit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:44:27.437654311Z",
+  "model": "glm-5.3"
+}

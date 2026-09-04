@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Când căile unui om plac lui Yahve, chiar și dușmanii lui împacă ⟨cu⟩ el ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Când plac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "căile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "dușmanii lui"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "împacă"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cu el",
+      "marks": "cu el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:40.673134719Z",
+  "model": "glm-5.3"
+}

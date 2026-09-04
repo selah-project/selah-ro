@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 9:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Nu spune în inima ta, când va alunga Yahve, Elohim al tău, ⟨את⟩ pe ei de dinaintea ta, zicând: «În dreptatea mea m-a adus Yahve să moștenesc ⟨את⟩ țara aceasta»; ci pentru răutatea neamurilor acestora îi dezmoștenește Yahve dinaintea ta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "să spui"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "în inima ta"
+    },
+    {
+      "surface": "בהדף",
+      "gloss": "când va alunga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pe ei",
+      "marks": "pe ei — neamurile"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "de dinaintea ta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "בצדקתי",
+      "gloss": "În dreptatea mea"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "m-a adus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "să moștenesc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "țara aceasta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "țara"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "וברשעת",
+      "gloss": "ci pentru răutatea"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מורישם",
+      "gloss": "îi dezmoștenește"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dinaintea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:36.332844051Z",
+  "model": "glm-5.3"
+}

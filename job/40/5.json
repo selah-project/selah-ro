@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "O dată am vorbit și nu voi răspunde, și de două ori și nu voi mai adăuga.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "O dată"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "am vorbit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "voi răspunde"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "și de două ori"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "voi mai adăuga"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:55.660252617Z",
+  "model": "glm-5.3"
+}

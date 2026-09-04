@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Căci voi ați știut ⟨את⟩ cum am locuit în țara lui Mițraim și ⟨את⟩ cum am trecut prin mijlocul popoarelor pe lângă care ați trecut",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ați știut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cum am locuit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "am locuit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lui Mițraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cum am trecut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "am trecut"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "prin mijlocul"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "popoarelor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe lângă care"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "ați trecut"
+    }
+  ],
+  "timestamp": "2026-09-04T02:12:43.106430633Z",
+  "model": "glm-5.3"
+}

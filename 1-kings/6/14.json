@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "A zidit Șelomo ⟨את⟩ casa și a terminat-o.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "A zidit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "și a terminat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T03:11:15.548970617Z",
+  "model": "glm-5.3"
+}

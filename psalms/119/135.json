@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Fața ta fă să strălucească asupra slujitorului tău, și învață-mă ⟨את⟩ hotărârile tale.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "Fața ta"
+    },
+    {
+      "surface": "האר",
+      "gloss": "fă să strălucească"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "asupra slujitorului tău"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "și învață-mă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hotărârile tale"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "hotărârile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:43.689574791Z",
+  "model": "glm-5.3"
+}

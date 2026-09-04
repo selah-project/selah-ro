@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "V-am pus sub jurământ, fiicele Ierușalaimului: cum ați deștepta și cum ați trezi ⟨את⟩ dragostea, până când va vrea!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "V-am pus sub jurământ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "fiicele Ierușalaimului"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "fiicele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaimului"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cum"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ați deștepta"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "și cum"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "ați trezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dragostea"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "dragostea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până când"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "va vrea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:19.712742480Z",
+  "model": "glm-5.3"
+}

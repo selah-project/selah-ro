@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Pentru maiestrul de cor. Nu distruge. Un mikhtam al lui David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pentru maiestrul de cor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "distruge"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "un mikhtam"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:16.531581152Z",
+  "model": "glm-5.3"
+}

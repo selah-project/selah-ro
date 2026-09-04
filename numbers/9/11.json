@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "În luna a doua, în patrusprezece zile ale lunii, între seri să-l facă ⟨את⟩; peste azime și ierburi amare să-l mănânce.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "În luna"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a doua"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "în patru"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "spre zece"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zile"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "seri"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "să-l facă"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ îl",
+      "marks": "Pesahul"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "azime"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "și ierburi amare"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "să-l mănânce"
+    }
+  ],
+  "timestamp": "2026-09-04T01:46:21.568783130Z",
+  "model": "glm-5.3"
+}

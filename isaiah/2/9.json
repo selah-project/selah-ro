@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și s-a plecat omul și s-a smerit bărbatul — și nu-i ierta ⟨pe ei⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "și s-a plecat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "și s-a smerit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bărbatul"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ierta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "îi"
+    }
+  ],
+  "timestamp": "2026-09-04T03:34:37.634960454Z",
+  "model": "glm-5.3"
+}

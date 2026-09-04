@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Paie nu se dau robilor tăi, iar cărămizi ni se spun: «Faceți!» — și iată, robii tăi sunt loviți, iar păcatul poporului tău ⟨este⟩.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "Paie"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "se dau"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "robilor tăi"
+    },
+    {
+      "surface": "ו לבנים",
+      "gloss": "iar cărămizi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ni se spun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Faceți"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "și iată"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "robii tăi"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "sunt loviți"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "iar păcatul"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "poporului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T01:14:20.044922846Z",
+  "model": "glm-5.3"
+}

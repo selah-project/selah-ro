@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Cuget la zilele din vechime, la anii veacurilor de demult.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Cuget"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "la zilele"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "din vechime"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "la anii"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "veacurilor de demult"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:06.124248522Z",
+  "model": "glm-5.3"
+}

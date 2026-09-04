@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și i s-a socotit lui ca dreptate, din neam în neam, până în veac.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "și s-a socotit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ca dreptate"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "din neam"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "în neam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până în"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "veac"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:57.474610315Z",
+  "model": "glm-5.3"
+}

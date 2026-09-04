@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și s-a îngreunat mâna lui Yahve asupra așdoditenilor și i-a pustiit și i-a lovit cu ofelim — ⟨את⟩ Așdod și ⟨את⟩ hotarele lui.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "Și s-a îngreunat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mâna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "așdoditenilor"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "și i-a pustiit"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și i-a lovit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ cu ele (ofelim)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "cu ofelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Așdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Așdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "hotarele lui"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "hotarele lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:09:03.100669197Z",
+  "model": "glm-5.3"
+}

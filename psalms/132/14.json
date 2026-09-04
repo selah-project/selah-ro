@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 132,
+  "translation": "„Aceasta este odihna mea pentru totdeauna; aici voi locui, căci am dorit-o.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Aceasta"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "odihna mea"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdeauna"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "voi locui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "am dorit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:43.273100007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 62,
+  "translation": "Numai către Elohim ⟨este⟩ tăcere pentru sufletul meu; de la el ⟨vine⟩ izbăvirea mea.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tăcere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de la el"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "izbăvirea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:10.880601001Z",
+  "model": "glm-5.3"
+}

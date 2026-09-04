@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și judecau ei ⟨את⟩ poporul la orice vreme; pricina grea o aduceau la Moșe, iar orice pricina măruntă o judecau ei înșiși.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Și judecau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "la orice"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vreme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pricina grea"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pricina"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "grea"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "o aduceau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iar orice"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pricina"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "măruntă"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "o judecau"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ei înșiși"
+    }
+  ],
+  "timestamp": "2026-09-04T01:19:00.706468212Z",
+  "model": "glm-5.3"
+}

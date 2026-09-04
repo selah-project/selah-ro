@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a zis regele: Aduceți-mi o sabie. Și au adus sabia înaintea regelui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "aduceți"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "o sabie"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "și au adus"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sabia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:40.109580061Z",
+  "model": "glm-5.3"
+}

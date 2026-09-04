@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și numele fratelui său ⟨era⟩ Iuval: el a fost tatăl tuturor celor care cântă din chinnor și din ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Și numele"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "al fratelui său"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Iuval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "celor care cântă din"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "chinnor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "și ugav"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:11.477042957Z",
+  "model": "glm-5.3"
+}

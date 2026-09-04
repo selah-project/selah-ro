@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 68,
+  "translation": "Elohim așază singuraticii în casă, scoate pe cei legați ⟨cu⟩ belșug; doar cei răzvrătiți au locuit într-un ținut pârjolit.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "așază"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "singuraticii"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "în casă"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "scoate"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "pe cei legați"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "⟨cu⟩ belșug"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doar"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "cei răzvrătiți"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "au locuit"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "într-un ținut pârjolit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:05.926566400Z",
+  "model": "glm-5.3"
+}

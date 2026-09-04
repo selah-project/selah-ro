@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Unde sunt hesed-urile tale cele dintâi, Adonai, pe care le-ai jurat lui David în credincioșia ta?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Unde"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "sunt hesed-urile tale"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "cele dintâi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "le-ai jurat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "în credincioșia ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:30.616471072Z",
+  "model": "glm-5.3"
+}

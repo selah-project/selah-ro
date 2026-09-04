@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Ascunde-ți fața de păcatele mele și toate fărădelegile mele șterge-le.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Ascunde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fața ta"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "de păcatele mele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toate"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "fărădelegile mele"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "șterge-le"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:22.366090460Z",
+  "model": "glm-5.3"
+}

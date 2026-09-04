@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Și a fost: când a isprăvit Ițhac să-l binecuvânteze ⟨את⟩ Iaacov, și abia ieșise Iaacov de la fața lui Ițhac, tatăl său, Esav, fratele său, a venit de la vânătoarea lui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "a isprăvit"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "să binecuvânteze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și"
+    },
+    {
+      "surface": "אך",
+      "gloss": "abia"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ieșise"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ieșind"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "lui Ițhak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatăl său"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "și Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratele său"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a venit"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "de la vânătoarea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:03:11.696076526Z",
+  "model": "glm-5.3"
+}

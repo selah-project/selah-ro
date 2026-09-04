@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Căci fărădelegile mele eu le cunosc, și păcatul meu ⟨este⟩ mereu înaintea mea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "fărădelegile mele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "cunosc"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "și păcatul meu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "înaintea mea"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mereu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:28.833199198Z",
+  "model": "glm-5.3"
+}

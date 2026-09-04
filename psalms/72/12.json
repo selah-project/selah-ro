@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Căci va scăpa pe cel lipsit care strigă, și pe cel sărac, și ⟨pe cel care⟩ nu are ajutor pentru el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "va scăpa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "pe cel lipsit"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "care strigă"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "și pe cel sărac"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ajutor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:14.293204323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a isprăvit David de a mai adus arderea-de-tot și jertfele de pace, și a binecuvântat ⟨את⟩ poporul în Numele lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "și a isprăvit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "de a mai adus"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "arderea-de-tot"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "și jertfele de pace"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și a binecuvântat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în Numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T06:11:33.420332966Z",
+  "model": "glm-5.3"
+}

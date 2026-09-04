@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și despre Izevel a vorbit Yahve, zicând: Câinii vor mânca ⟨את⟩ Izevel la zidul Iizreelului.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "și de asemenea"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "despre Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "câinii"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "la zidul"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Iizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:36.699418191Z",
+  "model": "glm-5.3"
+}

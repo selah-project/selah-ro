@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Cei doi sâni ai tăi ⟨sunt⟩ ca doi pui de căprioară, gemeni ai unei gazele, care pasc printre crini.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "cei doi"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "sâni ai tăi"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ca doi"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "pui de căprioară"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "gemeni"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ai unei gazele"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "care pasc"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "printre crini"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:27.697661416Z",
+  "model": "glm-5.3"
+}

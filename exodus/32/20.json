@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a luat ⟨את⟩ vițelul pe care îl făcuseră și l-a ars în foc, și l-a pisat până s-a făcut praf, și l-a presărat pe fața apelor, și i-a dat să bea ⟨את⟩ fiii lui Israel.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vițelul"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "vițelul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "îl făcuseră"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "și l-a ars"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "și l-a pisat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "דק",
+      "gloss": "s-a făcut praf"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "și l-a presărat"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apelor"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "și i-a dat să bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:45:04.711115942Z",
+  "model": "glm-5.3"
+}

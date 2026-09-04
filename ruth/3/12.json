@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și acum, este într-adevăr adevărat că eu sunt răscumpărător, dar este și un răscumpărător mai aproape decât mine.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "este într-adevăr adevărat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אם",
+      "gloss": "totuși"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "răscumpărător"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dar și"
+    },
+    {
+      "surface": "יש",
+      "gloss": "este"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "un răscumpărător"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "mai aproape"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "decât mine"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:43.387463456Z",
+  "model": "glm-5.3"
+}

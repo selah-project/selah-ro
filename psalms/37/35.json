@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Am văzut un rău tiranic, și se întindea ca un pom băștinaș înverzit.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Am văzut"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "un rău"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "tiranic"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "și se întindea"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "ca un pom băștinaș"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "înverzit"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:23.041539880Z",
+  "model": "glm-5.3"
+}

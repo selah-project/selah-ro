@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Iar eu, ca un surd, nu aud, și ca un mut, nu își deschide gura lui.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Iar eu"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ca un surd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "aud"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "și ca un mut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "își deschide"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "gura lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:42.146085059Z",
+  "model": "glm-5.3"
+}

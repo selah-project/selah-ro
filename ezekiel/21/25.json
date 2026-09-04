@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Un drum vei face ca să vină sabia — ⟨את⟩ Raba a fiilor lui Amon, și ⟨את⟩ Iehuda, ⟨cel⟩ din Ierușalaim, cel întărit.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "un drum"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ca să vină"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raba"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a fiilor"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "lui Amon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Iehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "în Ierușalaim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "cel întărit"
+    }
+  ],
+  "timestamp": "2026-09-04T04:25:48.160301019Z",
+  "model": "glm-5.3"
+}

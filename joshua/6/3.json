@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Veți înconjura ⟨את⟩ orașul — toți oamenii războiului — înconjurând ⟨את⟩ orașul o dată; așa să faci șase zile.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "Veți înconjura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orașul"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "orașul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "războiului"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "înconjurând"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orașul"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "orașul"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "dată"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "o"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să faci"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "șase"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-09-04T02:18:19.641260691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 14:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Căci îi va îndura Yahve ⟨את⟩ Iaacov și va alege încă în Israel și îi va așeza pe pământul lor, și străinul se va alipi de ei și se vor lipi de casa lui Iaacov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "îi va îndura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "și va alege"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "încă"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "și îi va așeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "pământul lor"
+    },
+    {
+      "surface": "ונלוה",
+      "gloss": "și se va alipi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "străinul"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "de ei"
+    },
+    {
+      "surface": "ונספחו",
+      "gloss": "și se vor lipi"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "lui Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T03:40:09.262597723Z",
+  "model": "glm-5.3"
+}

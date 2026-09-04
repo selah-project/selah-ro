@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Un mizmor al lui David. Dați lui Yahve, fii ai Elilor; dați lui Yahve glorie și tărie.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "al lui David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Dați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ai Elilor"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "dați"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glorie"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "și tărie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:59.269740232Z",
+  "model": "glm-5.3"
+}

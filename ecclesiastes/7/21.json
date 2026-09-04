@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "De asemenea, la toate cuvintele pe care le grăiesc, nu-ți da inima, ca să nu auzi ⟨את⟩ slujitorul tău blestemându-te.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "De asemenea"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "la toate"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "le grăiesc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "să dai"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "inima ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "să auzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slujitorul tău"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slujitorul tău"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "blestemându-te"
+    }
+  ],
+  "timestamp": "2026-09-04T08:12:29.476370168Z",
+  "model": "glm-5.3"
+}

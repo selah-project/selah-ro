@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a pus ⟨את⟩ masa în Cortul-întâlnirii, pe coasta de miază-noapte a Cortului, în afară de perdeaua-despărțitoare.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "și a pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "în Cortul"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "coasta"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Cortului"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "spre miază-noapte"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "în afară"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "de perdeaua-despărțitoare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:28:34.944595180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Căci tu îți vei uita trudă, ca apele care au trecut o vei aminti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "truda"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "îți vei uita"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ca apele"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "care au trecut"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "vei aminti"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:21.782030696Z",
+  "model": "glm-5.3"
+}

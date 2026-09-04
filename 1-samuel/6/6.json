@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și de ce să vă îngreunați ⟨את⟩ inima voastră, cum au îngreunat Mițraim și Paro ⟨את⟩ inima lor? Oare nu, când i-a chinuit, i-au trimis și au plecat?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Și de ce"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "să vă îngreunați"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima voastră"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inima voastră"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "au îngreunat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "și Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima lor"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "inima lor"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Oare nu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "când"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "i-a chinuit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pe ei"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "i-au trimis"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "și au plecat"
+    }
+  ],
+  "timestamp": "2026-09-04T02:42:03.384618353Z",
+  "model": "glm-5.3"
+}

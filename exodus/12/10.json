@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și să nu lăsați din el nimic până dimineața; și ce rămâne din el până dimineața, în foc să ardeți.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și să nu"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "lăsați"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "și ce rămâne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "să ardeți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:51.203095966Z",
+  "model": "glm-5.3"
+}

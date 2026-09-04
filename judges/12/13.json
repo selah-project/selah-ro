@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Și după el a judecat ⟨את⟩ Israel Avdon, fiul lui Hillel, Piratonitul.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a judecat"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "după el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "lui Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Piratonitul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:33:46.325142032Z",
+  "model": "glm-5.3"
+}

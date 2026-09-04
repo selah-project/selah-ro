@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Faptele lor nu-i lasă să se întoarcă către Elohim al lor, căci duh de desfrâu ⟨este⟩ în mijlocul lor, și ⟨את⟩ Yahve nu L-au cunoscut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "lasă"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "faptele lor"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "să se întoarcă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim al lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "de desfrâu"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "în mijlocul lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "au cunoscut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:38:22.059169235Z",
+  "model": "glm-5.3"
+}

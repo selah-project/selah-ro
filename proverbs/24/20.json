@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "căci nu va fi viitor celui rău, candela nelegiuiților se va stinge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "viitor"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "celui rău"
+    },
+    {
+      "surface": "נר",
+      "gloss": "candela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nelegiuiților"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "se va stinge"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:20.787789449Z",
+  "model": "glm-5.3"
+}

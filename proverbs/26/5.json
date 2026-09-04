@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Răspunde nebunului după nebunia lui, ca nu cumva să fie înțelept în ochii lui.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Răspunde"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nebunului"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "după nebunia lui"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ca nu cumva"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "în ochii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:48.416379265Z",
+  "model": "glm-5.3"
+}

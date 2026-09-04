@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Yahve, tu rânduiești pace pentru noi, căci chiar toate lucrările noastre tu le-ai făcut pentru noi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "rânduiești"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "lucrările noastre"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "le-ai făcut"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pentru noi"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:26.190846751Z",
+  "model": "glm-5.3"
+}

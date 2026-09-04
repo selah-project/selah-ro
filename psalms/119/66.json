@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Bună cuviință și cunoștință învață-mă, că în poruncile tale am crezut.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bună"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "cuviință"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "și cunoștință"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "învăță-mă"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "în poruncile tale"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "am crezut"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:39.498593650Z",
+  "model": "glm-5.3"
+}

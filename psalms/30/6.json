@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Căci o clipă ⟨durează⟩ mânia lui, o viață ⟨este⟩ în bunăvoința lui; seara rămâne plânsul, iar dimineața strigătul de bucurie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "o clipă"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "în mnia lui"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "o viață"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "în bunăvoința lui"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "seara"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "rămâne"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "plânsul"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "iar dimineața"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "strigătul de bucurie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:57.560812624Z",
+  "model": "glm-5.3"
+}

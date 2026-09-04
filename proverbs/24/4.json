@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "și prin cunoștință se umplu camerele cu toată avuția scumpă și plăcută.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "și prin cunoștință"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "camerele"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "se umplu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "הון",
+      "gloss": "avuția"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "scumpă"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "și plăcută"
+    }
+  ],
+  "timestamp": "2026-09-04T05:24:26.685643127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Nu se lua stâlpul de nor ziua, nici stâpul de foc noaptea, dinaintea poporului.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "יָמִ֞ישׁ",
+      "gloss": "se lua"
+    },
+    {
+      "surface": "עַמּ֤וּד",
+      "gloss": "stâlpul"
+    },
+    {
+      "surface": "הֶֽעָנָן֙",
+      "gloss": "de nor"
+    },
+    {
+      "surface": "יוֹמָ֔ם",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "וְעַמּ֥וּד",
+      "gloss": "nici stâlpul"
+    },
+    {
+      "surface": "הָאֵ֖שׁ",
+      "gloss": "de foc"
+    },
+    {
+      "surface": "לָ֑יְלָה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "dinaintea"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "poporului"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:50.888327763Z",
+  "model": "glm-5.3"
+}

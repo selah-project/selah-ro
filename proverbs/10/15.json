@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Averea bogatului ⟨este⟩ cetatea tăriei lui; prăbușirea săracilor ⟨este⟩ sărăcia lor.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "averea"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogatului"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "tăriei lui"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "prăbușirea"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "săracilor"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "sărăcia lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:19:49.721076371Z",
+  "model": "glm-5.3"
+}

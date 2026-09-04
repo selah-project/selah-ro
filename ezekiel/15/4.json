@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 15:4",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Iată, focului a fost dat spre mâncare: ⟨את⟩ amândouă capetele lui le-a mâncat focul, iar mijlocul lui e pârlit — mai este el bun de vreo lucrare?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "focului"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a fost dat"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "spre mâncare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amândouă capetele lui"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amândouă"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "capetele lui"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "le-a mâncat"
+    },
+    {
+      "surface": "האש",
+      "gloss": "focul"
+    },
+    {
+      "surface": "ותוכו",
+      "gloss": "iar mijlocul lui"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "e pârlit"
+    },
+    {
+      "surface": "היצלח",
+      "gloss": "mai este el bun?"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "de vreo lucrare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:23:14.455582308Z",
+  "model": "glm-5.3"
+}

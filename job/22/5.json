@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Oare nu ⟨este⟩ răul tău mare, și nu este sfârșit nelegiuirilor tale?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "oare nu"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "răul tău"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu este"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "sfârșit"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "nelegiuirilor tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:31:41.931389476Z",
+  "model": "glm-5.3"
+}

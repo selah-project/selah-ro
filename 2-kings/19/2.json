@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și a trimis pe ⟨את⟩ Elyakim, cel peste casă, și pe Șevna scribul, și ⟨את⟩ bătrânii cohenilor, înveliți în saci, către Ișaiahu naviul, fiul lui Amoț.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "pe ⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel care"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "casă"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "și pe Șevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "scribul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "bătrânii cohenilor"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cohenilor"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "înveliți"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "în saci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ișaiahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "lui Amoț"
+    }
+  ],
+  "timestamp": "2026-09-04T07:22:24.434244398Z",
+  "model": "glm-5.3"
+}

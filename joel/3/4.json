@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Soarele se va schimba în întuneric, și luna în sânge, înainte de a veni ziua lui Yahve, cea mare și cea înfricoșătoare.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Soarele"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "se va schimba"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "în întuneric"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "și luna"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "în sânge"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înainte"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "de a veni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "și cea înfricoșătoare"
+    }
+  ],
+  "timestamp": "2026-09-04T04:41:08.901409123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "A spus Yahve către Moșe: intră la Paro, căci eu am îngreunat ⟨את⟩ inima lui și ⟨את⟩ inima robilor lui, ca să pun semnele mele acestea în mijlocul lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "intră"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "am îngreunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inima lui"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "inima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inima"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "robilor lui"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "să pun"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "semnele mele"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "în mijlocul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:16:37.295908620Z",
+  "model": "glm-5.3"
+}

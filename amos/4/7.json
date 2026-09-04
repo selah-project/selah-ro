@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și chiar Eu am oprit de la voi ⟨את⟩ ploaia, când mai erau trei luni până la seceriș; și am plouat peste o cetate, iar peste o altă cetate nu am plouat; o bucată a fost ploită, iar bucații peste care nu s-a plouat i-a uscat.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și chiar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "am oprit"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "de la voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ploaia"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ploaia"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "când mai erau"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "luni"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "până la seceriș"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "și am plouat"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "o cetate"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iar peste"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "o cetate"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "alta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "am plouat"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "o bucată"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "a fost ploită"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "iar bucații"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "s-a plouat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pe ea"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "s-a uscat"
+    }
+  ],
+  "timestamp": "2026-09-04T07:49:52.534823770Z",
+  "model": "glm-5.3"
+}

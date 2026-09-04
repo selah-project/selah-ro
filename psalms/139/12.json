@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 139,
+  "translation": "Chiar și întunericul nu întunecă nimic dinaintea ta, și noaptea ca ziua va lumina: ca întunericul, ca lumina.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "întunericul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "va întuneca nimic"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dinaintea ta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "și noaptea"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ca ziua"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "va lumina"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ca întunericul"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ca lumina"
+    }
+  ],
+  "timestamp": "2026-09-04T05:15:45.353702687Z",
+  "model": "glm-5.3"
+}

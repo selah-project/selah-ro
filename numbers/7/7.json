@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "⟨את⟩ două căruțe și ⟨את⟩ patru boi a dat fiilor lui Gerșon, după slujba lor.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "două căruțe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "două"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "căruțe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "patru boi"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "patru"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "boi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a dat"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fior"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "lui Gerșon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "după"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "slujba lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:43:32.832126284Z",
+  "model": "glm-5.3"
+}

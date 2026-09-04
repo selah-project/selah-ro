@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Mă voi scula, rog, și voi umbla prin cetate, prin piețe și prin străzi; voi căuta ⟨את⟩ pe cel pe care îl iubește sufletul meu; l-am căutat și nu l-am aflat.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "mă voi scula"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rog"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "și voi umbla"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "prin cetate"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "prin piețe"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "și prin străzi"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "voi căuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe cel pe care îl iubește sufletul meu"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "pe care îl iubește"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sufletul meu"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "l-am căutat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "l-am aflat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:38:05.703725010Z",
+  "model": "glm-5.3"
+}

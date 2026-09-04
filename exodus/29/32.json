@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și să mănânce Aharon și fiii lui ⟨את⟩ carnea berbecului și ⟨את⟩ pâinea care este în coș, la ușa cortului întâlnirii.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Și să mănânce"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "și fiii lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carnea berbecului"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carnea"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbecului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pâinea"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "este în coș"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la ușa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:28.272291540Z",
+  "model": "glm-5.3"
+}

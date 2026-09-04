@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Ce știi tu și nu știm noi? Ce înțelegi și nu este ⟨el⟩ cu noi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "știi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "știm"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "înțelegi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cu noi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-09-04T05:30:17.303010739Z",
+  "model": "glm-5.3"
+}

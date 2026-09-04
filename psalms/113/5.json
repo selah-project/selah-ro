@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 113,
+  "translation": "Cine este ca Yahve, Elohimul nostru — cel ce se înalță ca să șadă ⟨pe tron⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ca Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimul nostru"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "cel ce se înalță"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ca să șadă"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:59.489229204Z",
+  "model": "glm-5.3"
+}

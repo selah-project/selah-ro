@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și a răspuns Yahve ⟨את⟩ Iov din furtună și a zis:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "din"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "furtună"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    }
+  ],
+  "timestamp": "2026-09-04T05:35:55.660657310Z",
+  "model": "glm-5.3"
+}

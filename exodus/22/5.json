@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Dacă va ieși foc și va găsi spini, și va fi mâncat snopul clădit sau cultura sau ogorul, să plătească negreșit cel ce a aprins ⟨את⟩ arderea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "va ieși"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "și va găsi"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "spini"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "și va fi mâncat"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "snopul clădit"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "cultura"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ogorul"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "să plătească"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "negreșit"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "cel ce a aprins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arderea"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "arderea"
+    }
+  ],
+  "timestamp": "2026-09-04T06:42:52.317535317Z",
+  "model": "glm-5.3"
+}

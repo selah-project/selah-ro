@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Veți purta ⟨את⟩ Sicut, regele vostru, și ⟨את⟩ Kiun, chipurile voastre, steaua dumnezeului vostru, pe care v-ați făcut-o vouă.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Veți purta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sicut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sicut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "regele vostru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Kiun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "chipurile voastre"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "steaua"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "dumnezeului vostru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "v-ați făcut-o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vouă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:42:19.469804469Z",
+  "model": "glm-5.3"
+}

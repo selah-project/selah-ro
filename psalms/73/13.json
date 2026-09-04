@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 73,
+  "translation": "Doar în zadar mi-am curățat inima mea și m-am spălat în nevinovăție mâinile mele.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Doar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "în zadar"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "mi-am curățat"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "și m-am spălat"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "în nevinovăție"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mâinile mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:02.698512251Z",
+  "model": "glm-5.3"
+}

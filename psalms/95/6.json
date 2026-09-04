@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 95,
+  "translation": "Veniți, să ne închinăm și să ne plecăm, să îngenunchem înaintea lui Yahve, care ne-a făcut.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Veniți"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "să ne închinăm"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "și să ne plecăm"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "să îngenunchem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "care ne-a făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:22.038589716Z",
+  "model": "glm-5.3"
+}

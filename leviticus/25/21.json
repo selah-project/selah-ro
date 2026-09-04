@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și voi porunci ⟨את⟩ binecuvântarea mea pentru voi în anul al șaselea, și va face ⟨את⟩ roada pentru trei ani.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "Și voi porunci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binecuvântarea mea"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "binecuvântarea mea"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "în anul"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "al șaselea"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "și va face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roada"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "roada"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "pentru trei"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:45.440324219Z",
+  "model": "glm-5.3"
+}

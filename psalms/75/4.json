@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 75,
+  "translation": "Se topesc pământul și toți locuitorii lui; eu i-am așezat stâlpii lui. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Se topesc"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și toți"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "locuitorii lui"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "am așezat"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "stâlpii lui"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:39.923378397Z",
+  "model": "glm-5.3"
+}

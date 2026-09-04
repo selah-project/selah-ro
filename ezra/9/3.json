@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și când am auzit ⟨את⟩ cuvântul acesta, am rupt ⟨את⟩ haina mea și mantia mea, și mi-am smuls părul capului meu și al bărbii mele, și am șezut uluit.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Și când am auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul acesta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "am rupt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haina mea"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "haina mea"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "și mantia mea"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "și mi-am smuls"
+    },
+    {
+      "surface": "משער",
+      "gloss": "părul"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capului meu"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "și al bărbii mele"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "și am șezut"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "uluit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:58:46.134261130Z",
+  "model": "glm-5.3"
+}

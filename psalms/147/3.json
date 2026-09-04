@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Cel care vindecă pe cei frânși în inimă și le bandajează durerile lor.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Cel care vindecă"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "pe cei frânși în"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inimă"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "și le bandajează"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "durerile lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:22.398584425Z",
+  "model": "glm-5.3"
+}

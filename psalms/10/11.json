@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "A zis în inima lui: El a uitat, își ascunde fața, nu va vedea niciodată.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "a zis"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "în inima lui"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "a uitat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ascunde"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fața lui"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "va vedea"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "niciodată"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:43.538968773Z",
+  "model": "glm-5.3"
+}

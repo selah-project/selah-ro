@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și a adunat Iehu ⟨את⟩ tot poporul și le-a spus: Ahab a slujit ⟨את⟩ pe Baal puțin, Iehu îl va sluji mult.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Și a adunat"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot poporul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "către ei"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "a slujit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "pe Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "puțin"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "îl va sluji"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mult"
+    }
+  ],
+  "timestamp": "2026-09-04T07:21:30.563285336Z",
+  "model": "glm-5.3"
+}

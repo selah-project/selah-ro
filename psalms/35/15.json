@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Iar la poticnirea mea s-au bucurat și s-au adunat; s-au adunat împotriva mea niște bătăuși — și nu am știut; au sfâșiat și nu au tăcut.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "Iar la poticnirea mea"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "s-au bucurat"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "și s-au adunat"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "s-au adunat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "bătăuși"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "am știut"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "au sfâșiat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "au tăcut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:56.105813636Z",
+  "model": "glm-5.3"
+}

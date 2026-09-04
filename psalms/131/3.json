@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 131,
+  "translation": "Să spere Israel către Yahve, de acum și până în veac.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Să spere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "de acum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:27.583554945Z",
+  "model": "glm-5.3"
+}

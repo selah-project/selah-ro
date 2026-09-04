@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Și a făcut omul cum a spus Iosif, și a adus omul ⟨את⟩ oamenii la casa lui Iosif.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a adus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "lui Iosif"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:43.285747730Z",
+  "model": "glm-5.3"
+}

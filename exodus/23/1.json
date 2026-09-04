@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Să nu înalți un știre deșartă; să nu pui mâna ta cu cel rău, ca să fii martor al violenței.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "să înalți"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o știre"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "deșartă"
+    },
+    {
+      "surface": "אל",
+      "gloss": "să nu"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "să pui"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cel rău"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ca să fii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "martor"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "al violenței"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:11.122858189Z",
+  "model": "glm-5.3"
+}

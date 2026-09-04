@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 71,
+  "translation": "Îmi vor cânta buzele, că îți cânt ție; și sufletul meu, pe care l-ai răscumpărat.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "vor cânta"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "buzele mele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "îmi cânt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "și sufletul meu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "l-ai răscumpărat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:16.566727026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "Ai văzut, Yahve, nu tăcea; Adonai, nu te depărta de mine!",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ai văzut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tăcea"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "te depărta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mine"
+    }
+  ],
+  "timestamp": "2026-09-04T09:39:38.616378095Z",
+  "model": "glm-5.3"
+}

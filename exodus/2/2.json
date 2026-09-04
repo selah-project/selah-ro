@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a rămas însărcinată femeia și a născut un fiu; și a văzut ⟨את⟩ el că bun este el, și l-a ascuns trei luni.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Și a rămas însărcinată"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fiu"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ el",
+      "marks": "el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "și l-a ascuns"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "luni"
+    }
+  ],
+  "timestamp": "2026-09-04T06:40:40.346462451Z",
+  "model": "glm-5.3"
+}

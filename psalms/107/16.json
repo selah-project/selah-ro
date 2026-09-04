@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 107,
+  "translation": "Căci a spart porți de aramă și drugi de fier i-a tăiat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "a spart"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "porți"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "de aramă"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "și drugi de"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "fier"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "i-a tăiat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:13.266032462Z",
+  "model": "glm-5.3"
+}

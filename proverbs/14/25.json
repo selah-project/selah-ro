@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "Cel care scapă suflete ⟨este⟩ un martor al adevărului, iar cel care suflă minciuni ⟨este⟩ înșelăciune.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "scapă"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "suflete"
+    },
+    {
+      "surface": "עד",
+      "gloss": "un martor"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "al adevărului"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "iar cel care suflă"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "minciuni"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "înșelăciune"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:11.204489483Z",
+  "model": "glm-5.3"
+}

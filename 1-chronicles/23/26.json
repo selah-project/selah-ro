@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și leviților de acum nu le mai este ⟨să⟩ ducă ⟨את⟩ cortul și ⟨את⟩ toate uneltele lui pentru slujba lui.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și ... de acum"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "leviților"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu le mai este"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "⟨să⟩ ducă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cortul"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "cortul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uneltele lui"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "pentru slujba lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:14:31.570238886Z",
+  "model": "glm-5.3"
+}

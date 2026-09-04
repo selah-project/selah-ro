@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și a trăit Enoș nouăzeci de ani, și l-a născut pe ⟨את⟩ Chenan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Și a trăit"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoș"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "nouăzeci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și l-a născut pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Chenan"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:54.941981053Z",
+  "model": "glm-5.3"
+}

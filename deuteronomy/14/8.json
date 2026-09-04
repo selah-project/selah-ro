@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și ⟨את⟩ porcul — căci despică copita el, dar nu rumegă rumegatul — necurat este el pentru voi; din carnea lor să nu mâncați și de stârvul lor să nu vă atingeți.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "porcul"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "porcul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "despică"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "copita"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumegă"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "necurat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "din carnea lor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să mâncați"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "și de stârvul lor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "să vă atingeți"
+    }
+  ],
+  "timestamp": "2026-09-04T02:06:56.057832941Z",
+  "model": "glm-5.3"
+}

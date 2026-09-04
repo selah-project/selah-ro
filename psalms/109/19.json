@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Să-i fie ca haina cu care se învelește și ca un brâu cu care e încins pururea.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru el"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ca o haină"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "cu care se învelește"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "și ca un brâu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pururea"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "e încins"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:06.915547945Z",
+  "model": "glm-5.3"
+}

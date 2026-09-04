@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 89,
+  "translation": "Căci podoaba puterii lor ⟨ești⟩ tu, și în bunăvoința ta se va înălța cornul nostru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "podoaba"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "puterii lor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "și în bunăvoința ta"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "se va înălța"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "cornul nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:01.420799049Z",
+  "model": "glm-5.3"
+}

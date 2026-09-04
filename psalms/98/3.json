@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 98,
+  "translation": "Și-a adus aminte de hesedul lui și de credincioșia lui față de casa lui Israel; au văzut toate capetele pământului ⟨את⟩ izbăvirea lui Elohim, al nostru.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Și-a adus aminte"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "de hesedul lui"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "și de credincioșia lui"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "față de casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "capetele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izbăvirea"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "izbăvirea"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lui Elohim, al nostru"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:03.366432998Z",
+  "model": "glm-5.3"
+}

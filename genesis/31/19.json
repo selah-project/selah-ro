@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 31,
+  "translation": "Iar Lavan se dusese să tundă ⟨את⟩ oile sale, și Rahel a furat ⟨את⟩ terafimii care erau ai tatălui său.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Iar Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "se dusese"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "să tundă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oile sale"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "oile sale"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "și a furat"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimii"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "erau ai tatălui său"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:25.133150309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "La cel din robii tăi la care se va găsi ⟨את⟩ el, acela să moară, și chiar noi vom fi ai domnului meu robi.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "la care"
+    },
+    {
+      "surface": "יִמָּצֵ֥א",
+      "gloss": "se va găsi"
+    },
+    {
+      "surface": "אִתּוֹ֛",
+      "gloss": "cu ⟨את⟩ el",
+      "marks": "obiectul găsit (paharul)"
+    },
+    {
+      "surface": "מֵעֲבָדֶ֖יךָ",
+      "gloss": "dintre robii tăi"
+    },
+    {
+      "surface": "וָמֵ֑ת",
+      "gloss": "și să moară"
+    },
+    {
+      "surface": "וְגַ֥ם",
+      "gloss": "și chiar"
+    },
+    {
+      "surface": "אֲנַ֕חְנוּ",
+      "gloss": "noi"
+    },
+    {
+      "surface": "נִֽהְיֶ֥ה",
+      "gloss": "vom fi"
+    },
+    {
+      "surface": "לַֽאדֹנִ֖י",
+      "gloss": "ai domnului meu"
+    },
+    {
+      "surface": "לַעֲבָדִֽים",
+      "gloss": "robi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:27.190386830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Cel ce se încrede în inima lui, el ⟨este⟩ un netot, dar cel ce merge în înțelepciune, el va scăpa.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "Cel ce se încrede"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "în inima lui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "un netot"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "dar cel ce merge"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "în înțelepciune"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "va scăpa"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:43.678274766Z",
+  "model": "glm-5.3"
+}

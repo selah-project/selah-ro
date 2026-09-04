@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "și ⟨את⟩ Ofir, și ⟨את⟩ Havila, și ⟨את⟩ Iovav; toți aceștia sunt fiii lui Ioktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Havila"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Iovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Iovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "lui Ioktan"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:35.371549688Z",
+  "model": "glm-5.3"
+}

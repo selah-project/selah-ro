@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și a sărutat Iaacov pe Rahel, și a ridicat ⟨את⟩ glasul său și a plâns.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "Și a sărutat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "pe Rahel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "și a ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasul său"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "glasul său"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "și a plâns"
+    }
+  ],
+  "timestamp": "2026-09-04T01:02:45.935388040Z",
+  "model": "glm-5.3"
+}

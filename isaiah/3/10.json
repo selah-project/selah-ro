@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Spuneți: celui drept că bine ⟨îi va fi⟩, căci rodul faptelor lui vor mânca.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Spuneți"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "celui drept"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "rodul"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "faptelor lui"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vor mânca"
+    }
+  ],
+  "timestamp": "2026-09-04T03:36:06.595425358Z",
+  "model": "glm-5.3"
+}

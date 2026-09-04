@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Există un rău pe care l-am văzut sub soare, și este mare asupra omului.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Există"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un rău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soare"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "și mare"
+    },
+    {
+      "surface": "היא",
+      "gloss": "este"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:02.985455333Z",
+  "model": "glm-5.3"
+}

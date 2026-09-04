@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Iată, adevărul îl dorești în lăuntruri, și în ascuns înțelepciunea mă vei face să cunosc.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevărul"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "dorești"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "în lăuntruri"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "și în ascuns"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "mă vei face să cunosc"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:28.833672551Z",
+  "model": "glm-5.3"
+}

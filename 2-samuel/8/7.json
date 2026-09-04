@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a luat David ⟨את⟩ scuturile de aur care erau pe robii lui Hadadezer și le-a adus la Ierușalaim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "scuturile de aur"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "scuturile"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de aur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "robii"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "lui Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "și le-a adus"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Ierușalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T07:14:02.277225362Z",
+  "model": "glm-5.3"
+}

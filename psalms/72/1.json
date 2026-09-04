@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 72,
+  "translation": "Pentru Șelomo. Elohim, judecățile tale dă regelui, și dreptatea ta fiului regelui!",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Pentru Șelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "judecățile tale"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "תן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "și dreptatea ta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fiului"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de rege"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:37.384404876Z",
+  "model": "glm-5.3"
+}

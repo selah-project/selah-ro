@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "S-a sculat de dimineață Lavan, a sărutat fiii lui și fiicele lui și i-a binecuvântat ⟨את⟩; și a plecat și s-a întors Lavan la locul lui.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "s-a sculat devreme"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "și a sărutat"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "וילבנותיו",
+      "gloss": "și fiicele lui"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "și a binecuvântat"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ i-a",
+      "marks": "fiii lui și fiicele lui"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a plecat"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "s-a întors"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "la locul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:05:09.977077230Z",
+  "model": "glm-5.3"
+}

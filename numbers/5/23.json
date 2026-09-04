@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și va scrie ⟨את⟩ blestemele acestea cohenul în carte, și va șterge ⟨את⟩ ele în apa amară.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "Și va scrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blestemele"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "blestemele"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "în carte"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "și va șterge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "מי",
+      "gloss": "apa"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "amară"
+    }
+  ],
+  "timestamp": "2026-09-04T06:51:45.764682267Z",
+  "model": "glm-5.3"
+}

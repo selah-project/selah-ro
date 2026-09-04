@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "În ziua aceea va fi Israel al treilea, pentru Mițraim și pentru Așșur, o binecuvântare în mijlocul pământului.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "În ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "va fi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "al treilea"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "pentru Mițraim"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "și pentru Așșur"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "o binecuvântare"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T07:26:24.771797804Z",
+  "model": "glm-5.3"
+}

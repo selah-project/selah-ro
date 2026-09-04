@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Cel ce păzește Tora ⟨este⟩ fiu înțelept, iar cel ce se ține cu mâncăii rușinează pe tatăl lui.",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "Cel ce păzește"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiu"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "înțelept"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "iar cel ce se ține cu"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "mâncăii"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "rușinează"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "pe tatăl lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:25:32.554005970Z",
+  "model": "glm-5.3"
+}

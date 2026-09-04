@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 98,
+  "translation": "A făcut cunoscut Yahve izbăvirea lui; înaintea ochilor neamurilor a descoperit dreptatea lui.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "A făcut cunoscut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "izbăvirea lui"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "înaintea ochilor"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "a descoperit"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "dreptatea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:10:03.365732153Z",
+  "model": "glm-5.3"
+}

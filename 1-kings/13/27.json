@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a vorbit către fiii lui, zicând: Înșeuați-mi ⟨את⟩ măgarul; și l-au înșeuat.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Și a vorbit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiii lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Înșeuați"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măgarul"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "măgarul"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "și l-au înșeuat"
+    }
+  ],
+  "timestamp": "2026-09-04T03:15:05.026487912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Pâine nu ați mâncat, și vin și băutură tare nu ați băut, ca să știți că eu ⟨sunt⟩ Yahve, Elohim al vostru.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Pâine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ați mâncat"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "și vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "și băutură tare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "ați băut"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ca să"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "știți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim al vostru"
+    }
+  ],
+  "timestamp": "2026-09-04T08:50:47.343939699Z",
+  "model": "glm-5.3"
+}

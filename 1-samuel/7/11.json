@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și au ieșit oamenii lui Israel din Mițpa și i-au urmărit ⟨את⟩ pe peliștimi și i-au bătut până sub Bet-Car.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Și au ieșit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mițpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "și i-au urmărit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe peliștimi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peliștimii"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "și i-au bătut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Car"
+    }
+  ],
+  "timestamp": "2026-09-04T07:08:50.195654766Z",
+  "model": "glm-5.3"
+}

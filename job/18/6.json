@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 18:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Lumina se întunecă în cortul lui, și candela de peste el se stinge.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "lumina"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "se întunecă"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "în cortul lui"
+    },
+    {
+      "surface": "ונרו",
+      "gloss": "și candela lui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "de peste el"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "se stinge"
+    }
+  ],
+  "timestamp": "2026-09-04T08:07:21.084812643Z",
+  "model": "glm-5.3"
+}

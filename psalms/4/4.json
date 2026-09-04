@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și știți că Yahve l-a deosebit pe cel evlavios pentru sine; Yahve va auzi când strig eu către el.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Și știți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "a deosebit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "pe cel evlavios"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pentru sine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "va auzi"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "când strig eu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:48.761944506Z",
+  "model": "glm-5.3"
+}

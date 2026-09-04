@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Străin sunt ⟨eu⟩ pe pământ; nu ascunde de mine poruncile tale.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Străin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sunt eu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pe pământ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ascunde"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "poruncile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:04.469101120Z",
+  "model": "glm-5.3"
+}

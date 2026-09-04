@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Iată, eu trimit către voi ⟨את⟩ pe Eliia profetul, înainte de venirea zilei lui Yahve, cea mare și înfricoșătoarea.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "trimit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "către voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Eliia"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profetul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înainte"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "de venirea"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zilei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "cea mare"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "și înfricoșătoarea"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:40.633493994Z",
+  "model": "glm-5.3"
+}

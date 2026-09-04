@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a iubit Ițhac ⟨את⟩ Esav, pentru că vânatul era în gura lui; iar Rivka iubea ⟨את⟩ Iaacov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "și a iubit"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ițhac"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "vânatul"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "în gura lui"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "iar Rivka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "iubea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaacov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Iaacov"
+    }
+  ],
+  "timestamp": "2026-09-04T01:01:31.576798894Z",
+  "model": "glm-5.3"
+}

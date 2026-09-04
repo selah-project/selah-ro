@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Minciuna am urât-o și am scârbit-o; Tora ta am iubit-o.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Minciuna"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "am urât-o"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "și am scârbit-o"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora ta"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "am iubit-o"
+    }
+  ],
+  "timestamp": "2026-09-04T05:13:23.688872130Z",
+  "model": "glm-5.3"
+}

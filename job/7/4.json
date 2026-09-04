@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Dacă mă culc, zic: «Când mă voi scula?» Și se măsoară seara, și mă satur de frământări până în zori.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "mă culc"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "zic"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "mă voi scula"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "Și se măsoară"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "seara"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "și mă satur"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "de frământări"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "până în"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "zori"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:16.582081258Z",
+  "model": "glm-5.3"
+}

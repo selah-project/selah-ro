@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "El este lauda ta și El este Elohim al tău, care a făcut ⟨את⟩ lucrurile mari și ⟨את⟩ cele înfricoșătoare, acestea pe care le-au văzut ochii tăi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lauda ta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "și El"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrurile mari"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "lucrurile mari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "cele înfricoșătoare"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "cele înfricoșătoare"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acestea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "au văzut"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ochii tăi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:01:46.440341649Z",
+  "model": "glm-5.3"
+}

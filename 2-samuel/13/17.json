@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a chemat ⟨את⟩ băiatul lui, slujitorul lui, și a zis: Trimiteți, rog, ⟨את⟩ aceasta de la mine afară, și zăvorâți ușa după ea.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "și a chemat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "băiatul lui"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "băiatul lui"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "slujitorul lui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "trimiteți"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aceasta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de la mine"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "afară"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "și zăvorâți"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ușa"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "după ea"
+    }
+  ],
+  "timestamp": "2026-09-04T03:00:13.015295258Z",
+  "model": "glm-5.3"
+}

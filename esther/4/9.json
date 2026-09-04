@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a venit Hatah și a spus-o Esterei ⟨את⟩ cuvintele lui Mordehai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatah"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "lui Mordehai"
+    }
+  ],
+  "timestamp": "2026-09-04T05:45:29.372348822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "și ⟨את⟩ fiica struțului și ⟨את⟩ șoimul-de-noapte și ⟨את⟩ pescărușul și ⟨את⟩ șoimul, după felul lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiica struțului"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "struțului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "șoimul-de-noapte"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "șoimul-de-noapte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pescărușul"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "pescărușul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "șoimul"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "șoimul"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "după felul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:31:54.965982596Z",
+  "model": "glm-5.3"
+}

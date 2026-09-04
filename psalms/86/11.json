@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 86,
+  "translation": "Învăță-mă, Yahve, calea ta; voi merge în adevărul tău; unește inima mea să se teamă de Numele tău.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Învăță-mă"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "calea ta"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "voi merge"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "în adevărul tău"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "unește"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "să se teamă"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "de Numele tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:07:19.495471039Z",
+  "model": "glm-5.3"
+}

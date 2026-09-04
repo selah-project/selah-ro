@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Iar poporul meu șovăie la întoarcerea mea, și către Cel Preaînalt îl strigă pe el; împreună nu se înalță.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "Iar poporul meu"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "șovăie"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "la întoarcerea mea"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și către"
+    },
+    {
+      "surface": "על",
+      "gloss": "Cel Preaînalt"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "îl strigă pe el"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "se înalță"
+    }
+  ],
+  "timestamp": "2026-09-04T04:39:31.701559569Z",
+  "model": "glm-5.3"
+}

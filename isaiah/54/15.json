@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Iată, se va aduna un venitic — dar nu ⟨את⟩ de la mine; cine s-a adunat ⟨את⟩ cu tine? Asupra ta va cădea.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "גור",
+      "gloss": "un venitic"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "se va aduna"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "dar nu"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ de la mine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "גר",
+      "gloss": "s-a adunat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cu tine",
+      "marks": "cu tine"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "asupra ta"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "va cădea"
+    }
+  ],
+  "timestamp": "2026-09-04T07:30:23.389277821Z",
+  "model": "glm-5.3"
+}

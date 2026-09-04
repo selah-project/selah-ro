@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "După numărul pe care îl veți face, așa să faceți pentru fiecare după numărul lor.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "După numărul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "îl veți face"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "să faceți"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "pentru fiecare"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "după numărul lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:49:03.581324857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și tu, Yahve — până când? Nefeușa mea ⟨este⟩ foarte înspăimântată.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Nefeușa mea"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "⟨este⟩ înspăimântată"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Și tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:34.874252172Z",
+  "model": "glm-5.3"
+}

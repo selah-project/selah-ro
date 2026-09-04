@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Te-au văzut apele, Elohim, te-au văzut apele, s-au zvârcolit; chiar și adâncurile s-au cutremurat.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "te-au văzut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "te-au văzut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "s-au zvârcolit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chiar și"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "s-au cutremurat"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "adâncurile"
+    }
+  ],
+  "timestamp": "2026-09-04T09:40:04.306560828Z",
+  "model": "glm-5.3"
+}

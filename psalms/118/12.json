@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "M-au înconjurat ca albinele, s-au stins ca focul de spini; în Numele lui Yahve, da, îi voi stârpi.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "m-au înconjurat"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "ca albinele"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "s-au stins"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ca focul"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "de spini"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "în Numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "îi voi stârpi"
+    }
+  ],
+  "timestamp": "2026-09-04T10:06:19.754390074Z",
+  "model": "glm-5.3"
+}

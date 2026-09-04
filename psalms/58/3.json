@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 58,
+  "translation": "Ba, în inimă voi lucrați nelegiuire; în țară cântăriți violența mâinilor voastre.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "în inimă"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "nelegiuire"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "voi lucrați"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violența"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "mâinilor voastre"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "cântăriți"
+    }
+  ],
+  "timestamp": "2026-09-04T05:02:16.531936603Z",
+  "model": "glm-5.3"
+}

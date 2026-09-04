@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și acestea sunt numele fiilor lui Aharon: întâiul născut Nadav, și Avihu, Elazar și Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunt numele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "întâiul născut"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "și Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "și Itamar"
+    }
+  ],
+  "timestamp": "2026-09-04T09:18:43.493465374Z",
+  "model": "glm-5.3"
+}

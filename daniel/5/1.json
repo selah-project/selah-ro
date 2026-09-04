@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 5:1",
+  "book": "daniel",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Belșațar împăratul a făcut un ospăț mare marilor săi, ⟨în număr de⟩ o mie, și în fața celor o mie a băut vin.",
+  "tokens": [
+    {
+      "surface": "בלשאצר",
+      "gloss": "Belșațar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "împăratul"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ospăț"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mare"
+    },
+    {
+      "surface": "לרברבנוהי",
+      "gloss": "marilor săi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "o mie"
+    },
+    {
+      "surface": "ולקבל",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "אלפא",
+      "gloss": "miei"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "a băut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:50:44.749233039Z",
+  "model": "glm-5.3"
+}

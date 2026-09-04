@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Urcați spre mine și ajutați-mă, și să lovim ⟨את⟩ Ghibon, căci a făcut pace cu ⟨את⟩ Iehoșua și cu ⟨את⟩ fiii lui Israel.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Urcați"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "spre mine"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "și ajutați-mă"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "și să lovim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ghibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Ghibon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "a făcut pace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehoșua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T07:03:04.809453898Z",
+  "model": "glm-5.3"
+}

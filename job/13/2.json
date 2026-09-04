@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Ce știți voi, știu și eu; nu sunt mai prejos de voi.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "ce știți voi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "știu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "sunt mai prejos"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "de voi"
+    }
+  ],
+  "timestamp": "2026-09-04T05:29:35.936130799Z",
+  "model": "glm-5.3"
+}

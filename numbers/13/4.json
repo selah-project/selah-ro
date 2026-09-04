@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și acestea sunt numele lor: pentru seminția lui Reuven, Șamua fiul lui Zaccur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Și acestea"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "sunt numele lor"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pentru seminția"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "lui Reuven"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Șamua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "lui Zaccur"
+    }
+  ],
+  "timestamp": "2026-09-04T06:53:25.322589711Z",
+  "model": "glm-5.3"
+}

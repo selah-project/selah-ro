@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "ca să deschizi ochii orbilor, ca să scoți din temniță pe cel închis, din casa de închisoare pe cei ce șed în întuneric;",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "ca să deschizi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ochii"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "orbilor"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ca să scoți"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "din temniță"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "pe cel închis"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "de închisoare"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "pe cei ce șed"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "în întuneric"
+    }
+  ],
+  "timestamp": "2026-09-04T03:48:53.174861781Z",
+  "model": "glm-5.3"
+}

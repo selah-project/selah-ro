@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Ai cercetat inima mea, m-ai controlat noaptea, m-ai trecut prin topitorie — și nimic nu ai găsit; gândul meu nu va trece de gura mea.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Ai cercetat"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inima mea"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "m-ai controlat"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noaptea"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "m-ai trecut prin topitorie"
+    },
+    {
+      "surface": "בל",
+      "gloss": "și nimic"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nu ai găsit"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "gândul meu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "va trece"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de gura mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:40.303951533Z",
+  "model": "glm-5.3"
+}

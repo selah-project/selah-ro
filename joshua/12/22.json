@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "regele Kedeșului, unul; regele lui Iokneam din Karmel, unul;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeșului"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Iokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "din Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    }
+  ],
+  "timestamp": "2026-09-04T07:02:16.582026839Z",
+  "model": "glm-5.3"
+}

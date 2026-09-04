@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Până când voi pune sfaturi în sufletul meu, tristețe în inima mea toată ziua? Până când se va înălța vrăjmașul meu peste mine?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "când"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "voi pune"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "sfaturi"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "în sufletul meu"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "tristețe"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "în inima mea"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "toată ziua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "când"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "se va înălța"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vrăjmașul meu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peste mine"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:22.620697804Z",
+  "model": "glm-5.3"
+}

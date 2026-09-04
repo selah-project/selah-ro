@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 120,
+  "translation": "Yahve, smulge-nefeșul meu din buza minciunii, din limba vicleșugului!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "smulge"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeșul meu"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "din buza"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "minciunii"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "din limba"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "vicleșugului"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:06.658744572Z",
+  "model": "glm-5.3"
+}

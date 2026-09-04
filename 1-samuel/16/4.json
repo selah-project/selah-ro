@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a făcut Șmuvel ⟨את⟩ ceea ce vorbise Yahve și a venit la Bet-Lehem; și au tremurat bătrânii cetății la întâmpinarea lui și au spus: ⟨Este⟩ pace venirea ta?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Și a făcut"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Șmuvel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceea ce vorbise Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceea ce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vorbise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "și au tremurat"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "la întâmpinarea lui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și au spus"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pace"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "venirea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:21.910874216Z",
+  "model": "glm-5.3"
+}

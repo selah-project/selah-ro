@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "Iar hesed-ul lui Yahve ⟨este⟩ din veac și până în veac peste cei care se tem de el, și dreptatea lui ⟨este⟩ pentru fiii fiilor.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Iar hesed-ul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "din veac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "în veac"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "cei care se tem de el"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "și dreptatea lui"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pentru fiii"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:49.174118230Z",
+  "model": "glm-5.3"
+}

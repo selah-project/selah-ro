@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 12,
+  "translation": "Nebunului, chiar în ziua aceea, îi ⟨este⟩ cunoscută mânia, iar ocara o acoperă cel chibzuit.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "Nebunului"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chiar în ziua aceea"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "îi ⟨este⟩ cunoscută"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "mânia"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "iar acoperă"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ocara"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "cel chibzuit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:20:37.162510208Z",
+  "model": "glm-5.3"
+}

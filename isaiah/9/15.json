@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și cei care fericesc pe poporul acesta îl duc în rătăcire, și cei fericiți de el sunt înghițiți.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Și sunt"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "cei care fericesc"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "duc în rătăcire"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "și cei fericiți de el"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "sunt înghițiți"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:55.493410128Z",
+  "model": "glm-5.3"
+}

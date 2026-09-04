@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Am fost de râs pentru tot poporul meu, cântecul lor toată ziua.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "de râs"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pentru tot"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "poporul meu"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "cântecul lor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    }
+  ],
+  "timestamp": "2026-09-04T05:40:38.542324770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 51,
+  "translation": "Fă-mă să aud bucurie și veselie, să se veselească oasele ⟨pe care⟩ le-ai zdrobit.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Fă-mă să aud"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "bucurie"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "și veselie"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "să se veselească"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "oasele"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "le-ai zdrobit"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:22.365854238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "⟨El⟩ Și-a întors fața spre rugăciunea celui pustiit și nu a disprețuit ⟨את⟩ rugăciunea lor.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Și-a întors fața"
+    },
+    {
+      "surface": "אל",
+      "gloss": "spre"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "rugăciunea"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "celui pustiit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "a disprețuit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rugăciunea lor"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "rugăciunea lor"
+    }
+  ],
+  "timestamp": "2026-09-04T08:00:10.764547156Z",
+  "model": "glm-5.3"
+}

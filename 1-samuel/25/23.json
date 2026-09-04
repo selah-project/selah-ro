@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 25:23",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și a văzut Avigail ⟨את⟩ David și s-a grăbit și a coborât de pe măgar și a căzut înaintea lui David cu fața la pământ și s-a închinat până la pământ.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "אביגיל",
+      "gloss": "Avigail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "și s-a grăbit"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "și a coborât"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "măgar"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "și a căzut"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "על",
+      "gloss": "cu"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "fața"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "și s-a închinat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "până la pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T02:49:41.821656077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 78,
+  "translation": "Cât de des s-au răzvrătit împotriva lui în pustiu și l-au întristat în pustiul stâncos!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Cât de des"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "s-au răzvrătit împotriva lui"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "în pustiu"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "l-au întristat"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "în pustiul stâncos"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:58.536102654Z",
+  "model": "glm-5.3"
+}

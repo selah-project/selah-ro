@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și au găsit ⟨את⟩ pe Adoni-Bezek în Bezek, și s-au luptat cu el, și au lovit ⟨את⟩ pe canaanit și ⟨את⟩ pe perizit.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "Și au găsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "-Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "în Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "și s-au luptat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cu el"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "și au lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe canaanit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "canaanitul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe perizit"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizitul"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:46.796449455Z",
+  "model": "glm-5.3"
+}

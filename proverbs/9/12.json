@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Dacă ai fost înțelept, înțelept ai fost pentru tine; și dacă te-ai batjocorit, de unul singur vei purta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ai fost înțelept"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "înțelept ai fost"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "și te-ai batjocorit"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "de unul singur"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "vei purta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:55.558436399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Și Amatiahu s-a întărit și a condus ⟨את⟩ poporul său și a mers la valea sării și a lovit ⟨את⟩ fiii lui Seir — zece mii.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "Și Amatiahu"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "s-a întărit"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "și a condus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul său"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul său"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "și a mers"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "valea"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "sării"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "și a lovit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Seir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "lui Seir"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zece"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:28:12.456936954Z",
+  "model": "glm-5.3"
+}

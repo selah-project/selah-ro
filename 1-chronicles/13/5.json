@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a adunat David ⟨את⟩ tot Israelul, de la Șihorul din Mițraim până la intrarea în Hamat, ca să aducă ⟨את⟩ chivotul lui Elohim din Kiriat-Iearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Și a adunat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot Israelul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de la"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Șihorul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "intrarea"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ca să aducă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivotul"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivotul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "din Kiriat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Iearim"
+    }
+  ],
+  "timestamp": "2026-09-04T08:20:14.724870220Z",
+  "model": "glm-5.3"
+}

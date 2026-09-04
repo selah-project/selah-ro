@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-samuel 17:45",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a spus David către filistean: tu vii la mine cu sabie și cu suliță și cu scut, iar eu vin la tine cu numele lui Yahve Țevaot, Elohim al rândurilor de bătălie ale lui Israel, pe care l-ai batjocorit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteanul"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "la mine"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "cu sabie"
+    },
+    {
+      "surface": "ובחנית",
+      "gloss": "și cu suliță"
+    },
+    {
+      "surface": "ובכידון",
+      "gloss": "și cu scut"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "la tine"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "cu numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rândurilor de bătălie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "l-ai batjocorit"
+    }
+  ],
+  "timestamp": "2026-09-04T02:47:31.102983520Z",
+  "model": "glm-5.3"
+}

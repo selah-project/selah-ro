@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și cohenul va lua coșul din mâna ta și îl va pune înaintea altarului lui Yahve, Elohimului tău.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "și va lua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohenul"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "coșul"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "din mâna ta"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "și îl va pune"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarului"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimului tău"
+    }
+  ],
+  "timestamp": "2026-09-04T07:00:01.891389241Z",
+  "model": "glm-5.3"
+}

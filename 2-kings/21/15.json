@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "pentru că au făcut ⟨את⟩ răul în ochii mei și m-au mâniat, din ziua în care au ieșit părinții lor din Mițraim și până în ziua aceasta.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "pentru că"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "au făcut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "răul"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "răul"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii mei"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "și au fost"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "mâniind"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pe mine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "în care"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "au ieșit"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "părinții lor"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "din Mițraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până în"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    }
+  ],
+  "timestamp": "2026-09-04T03:33:29.693866803Z",
+  "model": "glm-5.3"
+}

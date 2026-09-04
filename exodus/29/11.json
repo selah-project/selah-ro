@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "Și să înjunghii ⟨את⟩ taurul înaintea lui Yahve, la ușa cortului întâlnirii.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "Și să înjunghii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taurul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "taurul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la ușa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii"
+    }
+  ],
+  "timestamp": "2026-09-04T06:44:13.128402600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și de ce nu porți revolta mea și nu treci ⟨את⟩ vina mea? Căci acum în țărână mă voi culca, și mă vei căuta, și nu voi mai fi.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Și de ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "vei purta"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "revolta mea"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "și vei trece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vina mea"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "vina mea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "acum"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "în țărână"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "mă voi culca"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "și mă vei căuta"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "și nu voi mai fi"
+    }
+  ],
+  "timestamp": "2026-09-04T08:06:02.578549927Z",
+  "model": "glm-5.3"
+}

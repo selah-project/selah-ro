@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "și ⟨את⟩ Bosmat, fiica lui Ișmael, sora lui Nebaiot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ișmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sora"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebaiot"
+    }
+  ],
+  "timestamp": "2026-09-04T06:37:56.542824572Z",
+  "model": "glm-5.3"
+}

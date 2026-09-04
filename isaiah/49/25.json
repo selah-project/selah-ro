@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Căci așa a vorbit Yahve: chiar și robia viteazului va fi luată, și prada tiranului va fi smulsă; și ⟨את⟩ pârâșul tău Eu voi judeca, și ⟨את⟩ fiii tăi Eu îi voi mântui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "כה",
+      "gloss": "așa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "robia"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "viteazului"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va fi luată"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "și prada"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "tiranului"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "va fi smulsă"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pârâșul tău"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "pârâșul tău"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "voi judeca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "fiii tăi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiii tăi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "îi voi mântui"
+    }
+  ],
+  "timestamp": "2026-09-04T03:52:46.736493811Z",
+  "model": "glm-5.3"
+}

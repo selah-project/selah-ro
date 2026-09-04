@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și dacă boul unui om va lovi ⟨את⟩ boul aproapelui său și moare, atunci vor vinde ⟨את⟩ boul viu și vor împărți ⟨את⟩ argintul lui; și ⟨את⟩ mortul de asemenea îl vor împărți.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Și dacă"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "va lovi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "boul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unui om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boul aproapelui său"
+    },
+    {
+      "surface": "שור",
+      "gloss": "boul"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapelui său"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "și moare"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "vor vinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boul viu"
+    },
+    {
+      "surface": "השור",
+      "gloss": "boul"
+    },
+    {
+      "surface": "החי",
+      "gloss": "viu"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "și vor împărți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argintul lui"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "argintul lui"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și de asemenea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mortul"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mortul"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "îl vor împărți"
+    }
+  ],
+  "timestamp": "2026-09-04T01:20:54.776157044Z",
+  "model": "glm-5.3"
+}

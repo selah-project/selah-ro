@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Dacă vor săpa până în Șeol, de acolo mâna mea îi va lua; și dacă se vor sui în ceruri, de acolo îi voi coborî.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "vor săpa"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "până în Șeol"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mâna mea"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "îi va lua"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "se vor sui"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "în ceruri"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de acolo"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "îi voi coborî"
+    }
+  ],
+  "timestamp": "2026-09-04T07:50:09.814423231Z",
+  "model": "glm-5.3"
+}

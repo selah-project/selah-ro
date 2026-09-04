@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 128,
+  "translation": "Osteneala palmelor tale o vei mânca; ferice de tine, și bine ⟨va fi⟩ ție.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Osteneala"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "palmelor tale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "vei mânca"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ferice de tine"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "și bine"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:09.384102555Z",
+  "model": "glm-5.3"
+}

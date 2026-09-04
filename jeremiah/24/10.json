@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și voi trimite împotriva lor ⟨את⟩ sabia, ⟨את⟩ foametea și ⟨את⟩ ciuma, până vor fi sfârșiți de pe pământul pe care l-am dat lor și părinților lor.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Și voi trimite"
+    },
+    {
+      "surface": "בם",
+      "gloss": "împotriva lor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabia"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sabia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foametea"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "foametea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "ciuma"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ciuma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "vor fi sfârșiți"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de pe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "l-am dat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "și părinților lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:36:15.953848083Z",
+  "model": "glm-5.3"
+}

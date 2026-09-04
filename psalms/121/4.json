@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 121,
+  "translation": "Iată, nu va ațipi și nu va dormi păzitorul lui Israel.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "va ațipi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "va dormi"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "păzitorul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:08.904635333Z",
+  "model": "glm-5.3"
+}

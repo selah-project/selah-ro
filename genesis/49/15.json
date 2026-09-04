@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Și a văzut odihna că ⟨este⟩ bună, și ⟨את⟩ pământul că ⟨este⟩ plăcut, și și-a plecat umărul să care, și a ajuns să plătească bir muncind.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "odihna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bună"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "plăcut"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "și și-a plecat"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "umarul"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "să care"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "și a ajuns"
+    },
+    {
+      "surface": "למס",
+      "gloss": "să plătească bir"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muncind"
+    }
+  ],
+  "timestamp": "2026-09-04T01:12:00.320978106Z",
+  "model": "glm-5.3"
+}

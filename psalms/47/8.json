@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 47,
+  "translation": "Căci rege al întregului pământ ⟨este⟩ Elohim; cântați, ⟨cel⟩ înțelept!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rege"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al întregului"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cântați"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "înțelept"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:50.312685935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "și să nu vă facă ⟨את⟩ pe voi Hizchiahu să vă încredeți în Yahve, zicând: Desigur va scăpa — ne va scăpa Yahve; nu va fi dată cetatea aceasta în mâna regelui Așurului.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "să vă încredeți"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "Hizchiahu (obiectul verbului)"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizchiahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "în"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "Desigur va scăpa"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ne va scăpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "va fi dată"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetatea"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "în mâna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Așurului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:47:55.720395683Z",
+  "model": "glm-5.3"
+}

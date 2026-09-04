@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Ca ele să fie făcătorii lor; toți cei ce se încred în ele.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Ca ele"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "făcătorii lor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toți"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cei ce"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "se încred"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "în ele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:01:10.729549012Z",
+  "model": "glm-5.3"
+}

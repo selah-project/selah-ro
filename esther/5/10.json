@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Și s-a stăpânit Haman și a venit la casa lui; și a trimis și a adus ⟨את⟩ prietenii lui și ⟨את⟩ pe Zereș, femeia lui.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "Și s-a stăpânit"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "și a trimis"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "și a adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prietenii lui"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "prietenii lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pe Zereș"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereș"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "femeia lui"
+    }
+  ],
+  "timestamp": "2026-09-04T05:46:40.850368684Z",
+  "model": "glm-5.3"
+}

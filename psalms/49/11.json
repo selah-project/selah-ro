@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Căci vede ⟨el⟩: înțelepții mor, deopotrivă nebunul și brutul pier, și lasă altora avuția lor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "înțelepții"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mor"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "deopotrivă"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nebunul"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "și brutul"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "pier"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "și lasă"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "altora"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "avuția lor"
+    }
+  ],
+  "timestamp": "2026-09-04T07:57:16.310489298Z",
+  "model": "glm-5.3"
+}

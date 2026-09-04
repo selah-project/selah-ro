@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "A auzit Yahve rugămintea mea; Yahve va primi rugăciunea mea.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "A auzit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "rugămintea mea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "va primi"
+    }
+  ],
+  "timestamp": "2026-09-04T04:51:46.703626403Z",
+  "model": "glm-5.3"
+}

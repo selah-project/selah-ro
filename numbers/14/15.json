@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "dacă vei omorî ⟨את⟩ poporul acesta ca pe un singur om, atunci neamurile care au auzit ⟨את⟩ faima ta vor spune:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "dacă vei omorî"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poporul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ca pe un om"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "singur"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "vor spune"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "au auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faima ta"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "faima ta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-04T01:48:07.405068005Z",
+  "model": "glm-5.3"
+}

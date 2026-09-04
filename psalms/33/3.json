@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Cântați-i o cântare nouă; cântați frumos la instrument, cu strigăt de veselie.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cântați"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-i"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "o cântare"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouă"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "cântați frumos"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "la instrument"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "cu strigăt de veselie"
+    }
+  ],
+  "timestamp": "2026-09-04T04:57:59.869700079Z",
+  "model": "glm-5.3"
+}

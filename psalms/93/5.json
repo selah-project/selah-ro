@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 93,
+  "translation": "Mărturiile tale s-au făcut foarte credincioase; casei tale îi stă bine sfințenia, Yahve, pentru lungime de zile.",
+  "tokens": [
+    {
+      "surface": "עֵדֹתֶיךָ",
+      "gloss": "mărturiile tale"
+    },
+    {
+      "surface": "נֶאֶמְנוּ",
+      "gloss": "s-au făcut credincioase"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "לְבֵיתְךָ",
+      "gloss": "casei tale"
+    },
+    {
+      "surface": "נָאֲוָה",
+      "gloss": "îi stă bine"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "sfințenia"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לְאֹרֶךְ",
+      "gloss": "pentru lungime"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "de zile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:24.309481768Z",
+  "model": "glm-5.3"
+}

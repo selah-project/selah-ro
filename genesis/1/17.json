@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Și a pus Elohim ⟨את⟩ ele în întinderea cerurilor, ca să lumineze peste pământ,",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ele",
+      "marks": "ele (luminătorile)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "în întinderea"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ca să lumineze"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământ"
+    }
+  ],
+  "timestamp": "2026-09-04T00:53:26.649861072Z",
+  "model": "glm-5.3"
+}

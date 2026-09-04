@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 63,
+  "translation": "Așa, în locul sfânt, te-am privit, ca să văd puterea ta și slava ta.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "în locul sfânt"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "te-am privit"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ca să văd"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "puterea ta"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "și slava ta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:03:31.039023247Z",
+  "model": "glm-5.3"
+}

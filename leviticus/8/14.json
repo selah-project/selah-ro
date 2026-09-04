@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a adus ⟨את⟩ taurul jertfei pentru păcat, și Au sprijinit Aharon și fiii lui ⟨את⟩ mâinile lor pe capul taurului jertfei pentru păcat.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "și a adus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taurul jertfei pentru păcat"
+    },
+    {
+      "surface": "פר",
+      "gloss": "taurul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfei pentru păcat"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "și au sprijinit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "și fiii lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lor"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinile lor"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capul"
+    },
+    {
+      "surface": "פר",
+      "gloss": "taurului"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jertfei pentru păcat"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:23.958659923Z",
+  "model": "glm-5.3"
+}

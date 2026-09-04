@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "Îmi amintesc de Elohim și gem; cuget, și duhul meu amețește. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Îmi amintesc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "și gem"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "cuget"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "și amețește"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "duhul meu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:47.521816082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Zilele mele sunt mai iuți decât suveica, și s-au sfârșit fără nicio nădejde.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "zilele mele"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sunt mai iuți"
+    },
+    {
+      "surface": "מני",
+      "gloss": "decât"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "suveica"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "și s-au sfârșit"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "la capătul"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "nădejdii"
+    }
+  ],
+  "timestamp": "2026-09-04T05:28:30.943524398Z",
+  "model": "glm-5.3"
+}

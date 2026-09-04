@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Yahve, cum s-au înmulțit asupritorii mei! Mulți sunt cei care se ridică împotriva mea.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cum"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "s-au înmulțit"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "asupritorii mei"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Mulți"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "se ridică"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "împotriva mea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:18.592350960Z",
+  "model": "glm-5.3"
+}

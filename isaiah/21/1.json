@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Povara pustiului mării. Ca vânturi-vârtej în Neghev trecând, din pustiu vine, din ⟨o⟩ țară înfricoșătoare.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Povara"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustiului"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mării"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "Ca vânturi-vârtej"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "în Neghev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "trecând"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "din pustiu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vine"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din ⟨o⟩ țară"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "înfricoșătoare"
+    }
+  ],
+  "timestamp": "2026-09-04T03:41:17.355412978Z",
+  "model": "glm-5.3"
+}

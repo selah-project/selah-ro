@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 128,
+  "translation": "Iată, căci așa este binecuvântat bărbatul temător de Yahve.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "este binecuvântat"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "bărbatul"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "temător de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T09:09:09.384416518Z",
+  "model": "glm-5.3"
+}

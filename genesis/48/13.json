@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 48,
+  "translation": "Și a luat Iosif ⟨את⟩ amândoi, ⟨את⟩ Efrahim în dreapta lui, spre stânga lui Israel, și ⟨את⟩ Menașe în stânga lui, spre dreapta lui Israel, și i-a apropiat de el.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amândoi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amândoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrahim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrahim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "în dreapta lui"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "spre stânga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "Menașe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menașe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "în stânga lui"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "spre dreapta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "și a apropiat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:11:47.322708568Z",
+  "model": "glm-5.3"
+}

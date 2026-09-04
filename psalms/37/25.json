@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Tânăr am fost, și am îmbătrânit, și n-am văzut ⟨pe⟩ un drept părăsit, nici urmașul lui cerșind pâine.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "Tânăr"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "am fost"
+    },
+    {
+      "surface": "גם",
+      "gloss": "și"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "am îmbătrânit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și n-"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "am văzut"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "un drept"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "părăsit"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "nici urmașul lui"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cerșind"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    }
+  ],
+  "timestamp": "2026-09-04T07:55:09.763167891Z",
+  "model": "glm-5.3"
+}

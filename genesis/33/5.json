@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și a ridicat ⟨את⟩ ochii lui și a văzut ⟨את⟩ femeile și ⟨את⟩ copiii, și a zis: Cine sunt aceștia ai tăi? Și a zis: Copiii pe care i-a îndurat Elohim pe robul tău.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Și a ridicat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochii lui"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochii lui"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și a văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "femeile"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "femeile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "copiii"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "copiii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cine"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aceștia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ai tăi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "copiii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "a îndurat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robul tău"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "robul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T01:04:16.860039050Z",
+  "model": "glm-5.3"
+}

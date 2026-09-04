@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 106,
+  "translation": "Și au crezut în cuvintele lui, au cântat lauda lui.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Și au crezut"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "în cuvintele lui"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "au cântat"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lauda lui"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:51.517562136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Izbăvește-mă, Elohim, căci au venit apele până la suflet!",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Izbăvește-mă"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "apele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "suflet"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:22.820438191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Cel ce trimite spusa sa pământului, foarte repede aleargă cuvântul său.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Cel ce trimite"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "spusa sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    },
+    {
+      "surface": "עד",
+      "gloss": "foarte"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "repede"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "aleargă"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "cuvântul său"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:14.539079874Z",
+  "model": "glm-5.3"
+}

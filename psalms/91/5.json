@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Nu te vei teme de frica nopții, de săgeata care zboară ziua,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "te vei teme"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "de frica"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nopții"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "de săgeata"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "care zboară"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ziua"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:56.083157769Z",
+  "model": "glm-5.3"
+}

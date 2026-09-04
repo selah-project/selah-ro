@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Dacă ⟨ești dispus⟩ să trimiți ⟨את⟩ fratele nostru ⟨את⟩ cu noi, vom coborî și-ți vom cumpăra hrană.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "⟨ești dispus⟩"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "să trimiți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fratele nostru"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "fratele nostru"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ cu noi"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "vom coborî"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "și vom cumpăra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ți"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrană"
+    }
+  ],
+  "timestamp": "2026-09-04T01:09:34.832368645Z",
+  "model": "glm-5.3"
+}

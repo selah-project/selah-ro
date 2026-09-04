@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a văzut Elohim ⟨את⟩ faptele lor, că s-au întors de la calea lor cea rea; și s-a căit Elohim de răul pe care îl vorbise să le facă, și nu l-a făcut.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Și a văzut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faptele lor"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "faptele lor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "s-au întors"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "de la calea lor"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "cea rea"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "și s-a căit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "îl vorbise"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "l-a făcut"
+    }
+  ],
+  "timestamp": "2026-09-04T04:43:33.513867189Z",
+  "model": "glm-5.3"
+}

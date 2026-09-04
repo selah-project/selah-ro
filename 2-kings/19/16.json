@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Înclină, Yahve, urechea ta și auzi; deschide, Yahve, ochii tăi și vezi; și auzi cuvintele lui Sanherib, pe care l-a trimis să hulească Elohim cel viu.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Înclină"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "urechea ta"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "și auzi"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "deschide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ochii tăi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și vezi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "și auzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvintele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cuvintele"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "lui Sanherib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "l-a trimis"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "să hulească"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "cel viu"
+    }
+  ],
+  "timestamp": "2026-09-04T03:32:10.613182043Z",
+  "model": "glm-5.3"
+}

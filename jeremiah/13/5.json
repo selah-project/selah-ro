@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și m-am dus și l-am ascuns la Perat, cum a poruncit Yahve ⟨את⟩ mie.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Și m-am dus"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "și l-am ascuns"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "la Perat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mie",
+      "marks": "pe mine (Ieremia)"
+    }
+  ],
+  "timestamp": "2026-09-04T04:03:15.654107525Z",
+  "model": "glm-5.3"
+}

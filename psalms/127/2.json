@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 127,
+  "translation": "În deșert ⟨este⟩ pentru voi cei ce vă sculați de dimineață devreme, cei ce întârziați ⟨să vă⟩ așezați, mâncând pâinea trudelor dureroase; așa dă El preaiubitului său somnul.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "În deșert"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pentru voi"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "cei ce vă sculați de dimineață devreme"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sculați"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "cei ce întârziați"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "așezați"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mâncând"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâinea"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "trudelor dureroase"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dă El"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "preaiubitului său"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "somnul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:31.945112554Z",
+  "model": "glm-5.3"
+}

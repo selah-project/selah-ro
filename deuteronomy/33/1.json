@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 33,
+  "translation": "Și aceasta este binecuvântarea cu care a binecuvântat Moșe, omul lui Elohim, ⟨את⟩ fiii lui Israel înaintea morții lui.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Și aceasta"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "binecuvântarea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "a binecuvântat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiii lui Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "morții lui"
+    }
+  ],
+  "timestamp": "2026-09-04T02:14:28.749978906Z",
+  "model": "glm-5.3"
+}

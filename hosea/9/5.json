@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Ce veți face în ziua întâlnirii și în ziua sărbătorii lui Yahve?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "veți face"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "întâlnirii (a vremii rânduite)"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "și în ziua"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sărbătorii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T04:40:15.542391922Z",
+  "model": "glm-5.3"
+}

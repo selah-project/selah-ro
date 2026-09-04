@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Până când, leneșule, te vei culca? Când te vei scula din somnul tău?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Până"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leneșule"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "te vei culca"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "te vei scula"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "din somnul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:56.251514148Z",
+  "model": "glm-5.3"
+}

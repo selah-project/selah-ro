@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Ale omului sunt rânduielile inimii, iar de la Yahve ⟨este⟩ răspunsul limbii.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "ale omului"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "rânduielile"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inimii"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "iar de la Yahve"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "răspunsul"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "limbii"
+    }
+  ],
+  "timestamp": "2026-09-04T08:04:10.375662909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Și voi trimite printre voi ⟨את⟩ fiara câmpului, și vă va lipsi de copii, și va stârpi ⟨את⟩ vitele voastre, și vă va împuțina ⟨את⟩ pe voi, și drumurile voastre vor fi pustii.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Și voi trimite"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "printre voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiara câmpului"
+    },
+    {
+      "surface": "חית",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "câmpului"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "și vă va lipsi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi (obiectul sufixat al lui ושכלה)"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "și va stârpi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitele voastre"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "vitele voastre"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "și vă va împuțina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi (obiectul sufixat al lui והמעיטה)"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "și vor fi pustii"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "drumurile voastre"
+    }
+  ],
+  "timestamp": "2026-09-04T09:38:43.848542205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 49,
+  "translation": "Aplec spre pildă urechea mea, deschid cu harpa ghicitoarea mea.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Aplec"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "spre pildă"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "urechea mea"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "deschid"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "cu harpa"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ghicitoarea mea"
+    }
+  ],
+  "timestamp": "2026-09-04T05:00:14.317276040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a fost un potrivnic lui Israel toate zilele lui Șelomo, și ⟨את⟩ răul pe care l-a făcut Hadad; și s-a săturat de Israel și a domnit peste Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "un potrivnic"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zilele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "răul"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "răul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "și s-a săturat"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "de Israel"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "și a domnit"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:08.953528133Z",
+  "model": "glm-5.3"
+}

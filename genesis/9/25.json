@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a zis: Blestemat ⟨fie⟩ Chenaan, rob al robilor ⟨să fie⟩ fraților lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Blestemat"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Chenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robilor"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "să fie"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "fraților lui"
+    }
+  ],
+  "timestamp": "2026-09-04T00:55:21.477321104Z",
+  "model": "glm-5.3"
+}

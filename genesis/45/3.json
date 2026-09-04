@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 45,
+  "translation": "Și a zis Iosef către frații lui: Eu ⟨sunt⟩ Iosef — oare mai trăiește tatăl meu? Și n-au putut frații lui să răspundă ⟨את⟩l, căci s-au înspăimântat de fața lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "oare mai"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatăl meu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "trăiește"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "au putut"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frații lui"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "să răspundă"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩l",
+      "marks": "pe el (pe Iosef)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "s-au înspăimântat"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de fața lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:39:46.537096014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Când mergi, pasul tău nu va fi strâmtorat, și dacă vei alerga, nu te vei împiedica.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Când mergi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "va fi strâmtorat"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "pasul tău"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "vei alerga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "te vei împiedica"
+    }
+  ],
+  "timestamp": "2026-09-04T05:18:11.078704634Z",
+  "model": "glm-5.3"
+}

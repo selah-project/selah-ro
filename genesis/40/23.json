@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 40,
+  "translation": "Și nu și-a adus aminte căpetenia picătorilor ⟨את⟩ de Iosef, ci l-a uitat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Și nu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "și-a adus aminte"
+    },
+    {
+      "surface": "שר",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "picătorilor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ de",
+      "marks": "pe Iosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Iosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ci l-a uitat"
+    }
+  ],
+  "timestamp": "2026-09-04T08:46:31.187436070Z",
+  "model": "glm-5.3"
+}

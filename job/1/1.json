@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 1:1",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Un om era în țara Țuț, Iov era numele lui, și omul acela era întreg și drept, temându-se de Elohim și întorcându-se de la rău.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Un om"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țara"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Țuț"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "numele lui"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "și era"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acela"
+    },
+    {
+      "surface": "תם",
+      "gloss": "întreg"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "și drept"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "și temându-se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "și întorcându-se"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "de la rău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:27:00.862583071Z",
+  "model": "glm-5.3"
+}

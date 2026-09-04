@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 29:18",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "și vei arde ⟨את⟩ tot berbeacul pe altar: ardere deplină este el pentru Yahve, mireasmă de odihnă, ofrandă de foc pentru Yahve este el.",
+  "tokens": [
+    {
+      "surface": "והקטרת",
+      "gloss": "și vei arde (ca fum)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot berbeacul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berbeacul"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pe altar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ardere deplină"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mireasmă"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "de odihnă"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofrandă de foc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "este el"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:55.632113741Z",
+  "model": "glm-5.3"
+}

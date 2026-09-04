@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 16:15",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "În lumina feței unui rege ⟨este⟩ viața, iar bunăvoința lui ca un nor al ploii de târziu.",
+  "tokens": [
+    {
+      "surface": "באור",
+      "gloss": "În lumina"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "unui rege"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "viața"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "iar bunăvoința lui"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "ca un nor"
+    },
+    {
+      "surface": "מלקוש",
+      "gloss": "al ploii de târziu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:35.358106872Z",
+  "model": "glm-5.3"
+}

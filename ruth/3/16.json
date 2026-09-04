@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a venit ea la soacră-sa, și aceasta a zis: Cine ești tu, fiica mea? Și i-a povestit ei ⟨את⟩ tot ce îi făcuse ei omul.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Și a venit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "soacră-sa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Cine"
+    },
+    {
+      "surface": "את",
+      "gloss": "ești tu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "fiica mea"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "și a povestit"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "făcuse"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ei"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omul"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:31.438002714Z",
+  "model": "glm-5.3"
+}

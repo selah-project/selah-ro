@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 79,
+  "translation": "Un mizmor al lui Asaf. Elohim, au venit neamurile în moștenirea ta, au pângărit ⟨את⟩ templul sfințeniei tale, au pus ⟨את⟩ Ierușalaim în dărâmături.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "al lui Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "au venit"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "neamurile"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "în moștenirea ta"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "au pângărit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "templul sfințeniei tale"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templul"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sfințeniei tale"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "au pus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierușalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ierușalaim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "în dărâmături"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:24.258478595Z",
+  "model": "glm-5.3"
+}

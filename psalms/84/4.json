@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 84,
+  "translation": "Chiar și pasărea a găsit o casă, și rândunica un cuib pentru sine, unde își așază puii: ⟨את⟩ altarele tale, Yahve Țevaot, împăratul meu și Elohim al meu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Chiar"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "și pasărea"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "a găsit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "o casă"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "și rândunica"
+    },
+    {
+      "surface": "קן",
+      "gloss": "un cuib"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pentru sine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unde"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "își așază"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "puii ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarele tale"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "altarele tale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "împăratul meu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "și Elohim al meu"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:17.119840762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "și va aduce din el jertfa sa, jertfă de foc pentru Yahve: ⟨את⟩ grăsimea care acoperă măruntaiele și ⟨את⟩ toată grăsimea care este pe măruntaie.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "și va aduce"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jertfa lui"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jertfă de foc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grăsimea"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "care acoperă"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "măruntaiele"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaiele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "grăsimea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "măruntaie"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:48.349602400Z",
+  "model": "glm-5.3"
+}

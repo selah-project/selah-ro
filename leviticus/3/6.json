@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și dacă din turmă ⟨este⟩ darul lui, pentru jertfă de șelamim pentru Yahve, parte bărbătească sau parte femeiească, fără meteahnă ⟨o⟩ va aduce.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "מן",
+      "gloss": "din"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "turmă"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "darul lui"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pentru jertfă"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "de șelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pentru Yahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "parte bărbătească"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "parte femeiească"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fără meteahnă"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "va aduce"
+    }
+  ],
+  "timestamp": "2026-09-04T01:29:50.163111995Z",
+  "model": "glm-5.3"
+}

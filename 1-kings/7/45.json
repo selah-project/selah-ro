@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "și ⟨את⟩ oalele și ⟨את⟩ lopețile și ⟨את⟩ potirele și ⟨את⟩ toate uneltele cortului, pe care le-a făcut Hiram pentru regele Șelomo, casa lui Yahve — din aramă șlefuită.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "oalele"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "oalele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "lopețile"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "lopețile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "potirele"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "potirele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toate uneltele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "uneltele"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a făcut"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pentru regele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "aramă"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "șlefuită"
+    }
+  ],
+  "timestamp": "2026-09-04T03:11:04.057615790Z",
+  "model": "glm-5.3"
+}

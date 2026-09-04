@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Deschizi ⟨את⟩ mâna ta și saturi pe tot cel viu cu bunăvoință.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Deschizi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâna ta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mâna ta"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "și saturi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pe tot"
+    },
+    {
+      "surface": "חי",
+      "gloss": "cel viu"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "cu bunăvoință"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:00.724061053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 37,
+  "translation": "Privește-l pe omul integru și vezi-l pe cel drept, căci pace ⟨este⟩ sfârșitul omului.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Privește-l"
+    },
+    {
+      "surface": "תם",
+      "gloss": "pe omul integru"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "și vezi-l"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "pe cel drept"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sfârșitul"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "omului"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pace"
+    }
+  ],
+  "timestamp": "2026-09-04T04:58:46.344345856Z",
+  "model": "glm-5.3"
+}

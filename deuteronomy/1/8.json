@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Iată, am pus înaintea voastră ⟨את⟩ pământul: intrați și moșteniți ⟨את⟩ pământul pe care l-a jurat Yahve părinților voștri, lui Avraham, lui Ițhac și lui Iaacov, să le dea lor și seminției lor după ei.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Iată"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "am pus"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "באו",
+      "gloss": "intrați"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "și moșteniți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pământul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a jurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "părinților voștri"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "lui Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "lui Ițhac"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "și lui Iaacov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "să dea"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lor"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "și seminției lor"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "după ei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:59:05.283666Z",
+  "model": "glm-5.3"
+}

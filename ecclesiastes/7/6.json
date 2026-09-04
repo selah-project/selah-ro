@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Căci ca trosnetul spiniilor sub oală, așa este râsul prostului; și aceasta este hevel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ca trosnetul"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "spiniilor"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sub"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "oală"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "râsul"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "prostului"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "și"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-04T09:13:13.091787712Z",
+  "model": "glm-5.3"
+}

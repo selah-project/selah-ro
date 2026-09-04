@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Nu vei pofti casa aproapelui tău, nu vei pofti femeia aproapelui tău, nici sluga lui, nici roaba lui, nici boul lui, nici măgarul lui, și tot ce ⟨este⟩ al aproapelui tău.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "vei pofti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "apropapelui tău"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "vei pofti"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "apropapelui tău"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "nici sluga lui"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "nici roaba lui"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "nici boul lui"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "nici măgarul lui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "al aproapelui tău"
+    }
+  ],
+  "timestamp": "2026-09-04T06:43:04.523532091Z",
+  "model": "glm-5.3"
+}

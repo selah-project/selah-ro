@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 29,
+  "translation": "și o zecime pentru un miel, pentru cei paisprezece miei.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "și o zecime"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "zecime"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "pentru miel"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "pentru patru"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sprezece"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "miei"
+    }
+  ],
+  "timestamp": "2026-09-04T01:54:41.937217849Z",
+  "model": "glm-5.3"
+}

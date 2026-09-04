@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Dacă am uitat numele lui Elohim al nostru și am întins palmele noastre către un dumnezeu străin,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "am uitat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lui Elohim al nostru"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "și am întins"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "palmele noastre"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "către un dumnezeu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "străin"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:22.548500330Z",
+  "model": "glm-5.3"
+}

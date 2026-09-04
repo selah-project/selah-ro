@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Și a spus regele să se facă așa; și a fost dată lege în Șușan, iar ⟨את⟩ cei zece fii ai lui Haman i-au spânzurat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "să se facă"
+    },
+    {
+      "surface": "כן",
+      "gloss": "așa"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "și a fost dată"
+    },
+    {
+      "surface": "דת",
+      "gloss": "lege"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "în Șușan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iar ⟨את⟩",
+      "marks": "cei zece fii ai lui Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ai lui Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "i-au spânzurat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:48:42.969740929Z",
+  "model": "glm-5.3"
+}

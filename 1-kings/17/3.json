@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Pleacă de aici și întoarce-te spre răsărit și ascunde-te la pârâul Kerit, care ⟨este⟩ în fața Iardenului.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pleacă"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "de aici"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "și întoarce-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": "spre tine"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "spre răsărit"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "și ascunde-te"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "la pârâul"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "על",
+      "gloss": "în"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iardenului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:18:05.309147671Z",
+  "model": "glm-5.3"
+}

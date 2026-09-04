@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 20,
+  "translation": "Și a răspuns Ioav și a zis: Departe fie, departe fie de mine să înghit sau să pustiesc.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Și a răspuns"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a zis"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Departe fie"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "departe fie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "אם",
+      "gloss": "să"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "înghit"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sau să"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "pustiesc"
+    }
+  ],
+  "timestamp": "2026-09-04T03:03:20.175342512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 53,
+  "translation": "A spus nebunul în inima lui: „Nu ⟨este⟩ Elohim.” S-au stricat și s-au făcut scârboși cu nelegiuire; nu ⟨este⟩ cine să facă bine.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "A spus"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebunul"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "în inima lui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "S-au stricat"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "și s-au făcut scârboși"
+    },
+    {
+      "surface": "עול",
+      "gloss": "cu nelegiuire"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nu ⟨este⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "să facă"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bine"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:52.671942935Z",
+  "model": "glm-5.3"
+}

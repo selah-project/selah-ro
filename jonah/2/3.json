@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și a zis: Am strigat din strâmtorarea mea către Yahve, și El m-a răspuns; din pântecele lui Șeol am țipat — Tu ai auzit glasul meu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Am strigat"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "din strâmtorarea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "și El m-a răspuns"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "din pântecele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șeol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "am țipat"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ai auzit"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasul meu"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:02.542499063Z",
+  "model": "glm-5.3"
+}

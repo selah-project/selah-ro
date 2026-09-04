@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 145,
+  "translation": "Te vor lăuda, Yahve, toate lucrările tale, și cei credincioși ai tăi te vor binecuvânta.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Te vor lăuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "lucrările tale"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "și cei credincioși ai tăi"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "te vor binecuvânta"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:56.726345847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 55,
+  "translation": "Pustiiri ⟨sunt⟩ în mijlocul ei, și nu se retrag din piețele ei asuprire și vicleșug.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Pustiiri"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "în mijlocul ei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "se retrag"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "din piețele ei"
+    },
+    {
+      "surface": "תך",
+      "gloss": "asuprire"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "și vicleșug"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:34.804765640Z",
+  "model": "glm-5.3"
+}

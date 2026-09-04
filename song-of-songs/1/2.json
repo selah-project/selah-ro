@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Să mă sărute cu sărutările gurii lui, căci mai bune sunt dragostele tale decât vinul.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Să mă sărute"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "cu sărutările"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "gurii lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "mai bune sunt"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "dragostele tale"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "decât vinul"
+    }
+  ],
+  "timestamp": "2026-09-04T08:10:02.049978273Z",
+  "model": "glm-5.3"
+}

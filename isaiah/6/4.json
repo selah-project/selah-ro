@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și s-au cutremurat stâlpii pragurilor de glasul celui ce striga, și casa s-a umplut de fum.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "Și s-au cutremurat"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "stâlpii"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "pragurilor"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "de glasul"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "celui ce striga"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "și casa"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "s-a umplut"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "de fum"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:18.176767592Z",
+  "model": "glm-5.3"
+}

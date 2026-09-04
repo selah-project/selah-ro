@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Peste bătrâni am pricepere mai multă, căci poruncile tale le-am păzit.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "peste bătrâni"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "am pricepere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "le-am păzit"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:06.766720740Z",
+  "model": "glm-5.3"
+}

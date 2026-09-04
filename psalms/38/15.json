@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 38,
+  "translation": "Și am fost ca un om care nu aude și nu are în gura lui mustrări.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Și am fost"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ca un om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aude"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "și nu are"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "în gura lui"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "mustrări"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:09.485444684Z",
+  "model": "glm-5.3"
+}

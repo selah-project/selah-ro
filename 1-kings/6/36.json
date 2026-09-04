@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "Și a zidit ⟨את⟩ curtea dinăuntru: trei rânduri de piatră cioplită și un rând de bârne de cedru.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Și a zidit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "curtea dinăuntru"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curtea"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "dinăuntru"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trei"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rânduri de"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "piatră cioplită"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "și un rând"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "de bârne"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "de cedru"
+    }
+  ],
+  "timestamp": "2026-09-04T03:10:30.893842794Z",
+  "model": "glm-5.3"
+}

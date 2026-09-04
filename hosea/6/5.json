@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "De aceea am cioplit ⟨i⟩ prin navii, i-am ucis prin cuvintele gurii mele, iar judecățile tale ies ca lumina.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "De aceea (pentru aceasta)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "De aceea"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "am cioplit"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "prin navii"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "i-am ucis"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "prin cuvintele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gurii mele"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "iar judecățile tale"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ca lumina"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ies"
+    }
+  ],
+  "timestamp": "2026-09-04T09:05:00.056014743Z",
+  "model": "glm-5.3"
+}

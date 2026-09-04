@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 15,
+  "translation": "Și patruzeci și unu de ani a domnit în Ierușalaim; și numele mamei sale era Maaha, fiica lui Avișalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Și patruzeci"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "și unu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de ani"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a domnit"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "în Ierușalaim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "și numele"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamei sale"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fiica"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "lui Avișalom"
+    }
+  ],
+  "timestamp": "2026-09-04T09:21:02.495143378Z",
+  "model": "glm-5.3"
+}

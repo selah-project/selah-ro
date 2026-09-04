@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 91,
+  "translation": "Căci îngerilor lui va porunci pentru tine, să te păzească în toate căile tale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "îngerii lui"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "va porunci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pentru tine"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "să te păzească"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în toate"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "căile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:38.103326356Z",
+  "model": "glm-5.3"
+}

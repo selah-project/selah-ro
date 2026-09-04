@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a răspuns poporul și a spus: Departe fie de noi să părăsim ⟨את⟩ pe Yahve, ca să slujim altor dumnezei!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "și a răspuns"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "departe fie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "de noi"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "să părăsim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ca să slujim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dumnezei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altora"
+    }
+  ],
+  "timestamp": "2026-09-04T02:27:42.415431004Z",
+  "model": "glm-5.3"
+}

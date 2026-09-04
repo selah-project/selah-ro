@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și să se spele Aharon și fiii lui din el: ⟨את⟩ mâinile lor și ⟨את⟩ picioarele lor.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Și să se spele"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "și fiii lui"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "din el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mâinile lor"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mâinile lor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "picioarele lor"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "picioarele lor"
+    }
+  ],
+  "timestamp": "2026-09-04T01:24:25.523747749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "fiul lui Mihail, fiul lui Baaseia, fiul lui Malkia.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "lui Mihail"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "lui Baaseia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "lui Malkia"
+    }
+  ],
+  "timestamp": "2026-09-04T06:07:16.006067911Z",
+  "model": "glm-5.3"
+}

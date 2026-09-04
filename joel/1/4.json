@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Rămasul Gazamului l-a mâncat arbehul, și rămasul arbehului l-a mâncat Ialecul, și rămasul Ialecului l-a mâncat Hasilul.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Rămasul"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "Gazamului"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "l-a mâncat"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbehul"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "și rămasul"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbehului"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "l-a mâncat"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "Ialecul"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "și rămasul"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "Ialecului"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "l-a mâncat"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "Hasilul"
+    }
+  ],
+  "timestamp": "2026-09-04T04:40:05.002427870Z",
+  "model": "glm-5.3"
+}

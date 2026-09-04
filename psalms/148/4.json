@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Lăudați-l, cerurile cerurilor și apele care ⟨sunt⟩ deasupra cerurilor!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lăudați-l"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "cerurile"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "și apele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "deasupra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cerurilor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:54.560336442Z",
+  "model": "glm-5.3"
+}

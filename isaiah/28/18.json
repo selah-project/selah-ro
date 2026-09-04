@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "Și anulată va fi învoiala voastră cu ⟨את⟩ moartea, și înțelegerea voastră cu ⟨את⟩ Șeolul nu va ține; biciul revărsat, când va trece, și veți fi lui de călcare.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Și anulată va fi"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "învoiala voastră"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "moartea"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moartea"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "și înțelegerea voastră"
+    },
+    {
+      "surface": "את",
+      "gloss": "cu ⟨את⟩",
+      "marks": "Șeolul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șeolul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "va ține"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "biciul"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "revărsat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "va trece"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "și veți fi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "de călcare"
+    }
+  ],
+  "timestamp": "2026-09-04T03:44:29.609456733Z",
+  "model": "glm-5.3"
+}

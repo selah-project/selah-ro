@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Yahve, Elohim al meu, în tine m-am adăpostit; scapă-mă de toți prigonitorii mei și izbăvește-mă.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim al meu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m-am adăpostit"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "scapă-mă"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toți"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "prigonitorii mei"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "și izbăvește-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:01.785088755Z",
+  "model": "glm-5.3"
+}

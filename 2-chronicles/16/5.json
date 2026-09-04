@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și a fost, la auzul lui Bașa, că a încetat să mai ridice ⟨את⟩ Rama, și a oprit ⟨את⟩ lucrarea lui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Și a fost"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "la auzul"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "lui Bașa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "a încetat"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "să mai ridice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "și a oprit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lucrarea lui"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "lucrarea lui"
+    }
+  ],
+  "timestamp": "2026-09-04T06:24:29.722453017Z",
+  "model": "glm-5.3"
+}

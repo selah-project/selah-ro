@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "A spus către rege: adevărat ⟨este⟩ cuvântul pe care l-am auzit în țara mea despre cuvintele tale și despre înțelepciunea ta.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a spus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "adevărat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "în țara mea"
+    },
+    {
+      "surface": "על",
+      "gloss": "despre"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "cuvintele tale"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și despre"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "înțelepciunea ta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:21:38.502802647Z",
+  "model": "glm-5.3"
+}

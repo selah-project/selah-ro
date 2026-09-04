@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 25,
+  "translation": "Să nu iei de la ⟨את⟩ el dobândă și spor, ci să te temi de Elohim al tău, și să trăiască fratele tău cu tine.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "iei"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "de la ⟨את⟩ el",
+      "marks": "pe el"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "dobândă"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "și spor"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "și să te temi"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "de Elohim al tău"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "și să trăiască"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fratele tău"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cu tine"
+    }
+  ],
+  "timestamp": "2026-09-04T01:38:44.826501981Z",
+  "model": "glm-5.3"
+}

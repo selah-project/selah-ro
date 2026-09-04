@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Vorbește către Aharon și spune-i: când ridici luminile, ⟨את⟩ candelele, către fața sfeșnicului, vor lumina cele șapte candele.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "și spune-i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "când ridici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "candelele"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "candelele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "מול",
+      "gloss": "în fața"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "sfeșnicului"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "vor lumina"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "cele șapte"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "candele"
+    }
+  ],
+  "timestamp": "2026-09-04T06:51:43.334067049Z",
+  "model": "glm-5.3"
+}

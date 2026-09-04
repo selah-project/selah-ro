@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 69,
+  "translation": "Voi lăuda numele lui Elohim cu cântec și îl voi măări cu mulțumire.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "voi lăuda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lui Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "cu cântec"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "și îl voi măări"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "cu mulțumire"
+    }
+  ],
+  "timestamp": "2026-09-04T05:04:26.862039791Z",
+  "model": "glm-5.3"
+}

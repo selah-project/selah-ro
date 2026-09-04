@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Yahve, am iubit locuința casei tale și locul cortului slavei tale.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "am iubit"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "locuința"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "casei tale"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "și locul"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "cortului"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "slavei tale"
+    }
+  ],
+  "timestamp": "2026-09-04T04:56:33.085826930Z",
+  "model": "glm-5.3"
+}

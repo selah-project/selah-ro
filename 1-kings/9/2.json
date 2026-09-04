@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "s-a arătat Yahve către Șelomo a doua oară, cum i se arătase către el la Ghivon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "s-a arătat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Șelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "a doua oară"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "i se arătase"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "către el"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "la Ghivon"
+    }
+  ],
+  "timestamp": "2026-09-04T03:14:04.772309509Z",
+  "model": "glm-5.3"
+}

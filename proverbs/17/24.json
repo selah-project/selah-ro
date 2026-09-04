@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "În fața celui priceput ⟨este⟩ înțelepciunea, iar ochii nebunului la capătul pământului.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ în fața",
+      "marks": "feței celui priceput"
+    },
+    {
+      "surface": "פני",
+      "gloss": "feței celui priceput"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "cel priceput"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciunea"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "iar ochii"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nebunului"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "la capătul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pământului"
+    }
+  ],
+  "timestamp": "2026-09-04T05:21:31.261397556Z",
+  "model": "glm-5.3"
+}

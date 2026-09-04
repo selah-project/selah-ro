@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a zis filisteanul: Eu am batjocorit ⟨את⟩ rândurile de luptă ale lui Israel în ziua aceasta; dați-mi un om, și să ne luptăm împreună.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteanul"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "am batjocorit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rândurile de luptă"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rândurile de luptă"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ale lui Israel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dați"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un om"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "și să ne luptăm"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "împreună"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:46.459923290Z",
+  "model": "glm-5.3"
+}

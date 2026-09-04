@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 36,
+  "translation": "Și a unit ⟨את⟩ cele cinci perdele, una către alta; și celelalte cinci perdele le-a unit, una către alta.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Și a unit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cele cinci perdele"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinci"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "perdele"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "alta"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "și celelalte cinci"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "perdele"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "a unit"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "alta"
+    }
+  ],
+  "timestamp": "2026-09-04T06:46:02.442145319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 44,
+  "translation": "Elohim, cu urechile noastre am auzit, părinții noștri ne-au povestit ⟨את⟩ lucrul pe care l-ai lucrat în zilele lor, în zilele de odinioară.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "cu urechile noastre"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "am auzit"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "părinții noștri"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "au povestit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "lucrul"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ai lucrat"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "în zilele lor"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "în zilele"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "de odinioară"
+    }
+  ],
+  "timestamp": "2026-09-04T07:56:19.291763978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 28,
+  "translation": "⟨את⟩ un miel să-l faci dimineața, și ⟨את⟩ al doilea miel să-l faci între cele două seri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un miel"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": " mielul"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unul"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să-l faci"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "al doilea miel"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": " mielul"
+    },
+    {
+      "surface": "השני",
+      "gloss": "al doilea"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "să-l faci"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "cele două seri"
+    }
+  ],
+  "timestamp": "2026-09-04T01:54:42.034302901Z",
+  "model": "glm-5.3"
+}

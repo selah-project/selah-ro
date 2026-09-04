@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Yahve, dimineața vei auzi glasul meu, dimineața îmi voi așeza ⟨rugăciunea⟩ înaintea ta și voi aștepta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "vei auzi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasul meu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "îmi voi așeza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "înaintea ta"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "și voi aștepta"
+    }
+  ],
+  "timestamp": "2026-09-04T04:52:14.793813261Z",
+  "model": "glm-5.3"
+}

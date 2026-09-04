@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 13,
+  "translation": "Și a murit Elișa și l-au îngropat. Și cetele lui Moav intrau în țară la venirea anului.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Și a murit"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elișa"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "și l-au îngropat"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "Și cetele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "lui Moav"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "intrau"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "în țară"
+    },
+    {
+      "surface": "בא",
+      "gloss": "la venirea"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:30:01.035436564Z",
+  "model": "glm-5.3"
+}

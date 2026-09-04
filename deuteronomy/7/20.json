@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și chiar ⟨את⟩ viespea o va trimite Yahve, Elohimul tău, împotriva lor, până la pierirea celor rămași și a celor ascunși de fața ta.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Și chiar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viespea"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "viespea"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o va trimite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimul tău"
+    },
+    {
+      "surface": "בם",
+      "gloss": "împotriva lor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până la"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pierirea"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "celor rămași"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "și a celor ascunși"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "de fața ta"
+    }
+  ],
+  "timestamp": "2026-09-04T08:51:02.285931534Z",
+  "model": "glm-5.3"
+}

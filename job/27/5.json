@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 27,
+  "translation": "Departe fie de mine să vă fac drepți ⟨את⟩ pe voi; până îmi dau suflarea, nu voi îndepărta nevinovăția mea de la mine.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Departe fie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de mine"
+    },
+    {
+      "surface": "אם",
+      "gloss": "să"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "vă fac drepți"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pe voi",
+      "marks": "pe voi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "îmi dau suflarea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "voi îndepărta"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "nevinovăția mea"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de la mine"
+    }
+  ],
+  "timestamp": "2026-09-04T10:13:22.212995147Z",
+  "model": "glm-5.3"
+}

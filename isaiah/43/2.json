@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 43,
+  "translation": "Când vei trece prin ape, ⟨את⟩ cu tine ⟨sunt⟩ eu, și prin râuri nu te vor potopi; când vei merge prin chiar foc, nu te vei arde, și flacăra nu va arde în tine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Când"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "vei trece"
+    },
+    {
+      "surface": "במים",
+      "gloss": "prin ape"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cu tine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "și prin râuri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "te vor potopi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "când"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "vei merge"
+    },
+    {
+      "surface": "במו",
+      "gloss": "prin chiar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "foc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "te vei arde"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "și flacăra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "va arde"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    }
+  ],
+  "timestamp": "2026-09-04T03:50:16.782096335Z",
+  "model": "glm-5.3"
+}

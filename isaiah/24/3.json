@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "De-a binelea va fi golit pământul și de-a binelea va fi prădat, căci Yahve a grăit ⟨את⟩ cuvântul acesta.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "de-a binelea"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "va fi golit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pământul"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "și de-a binelea"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "va fi prădat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a grăit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuvântul"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cuvântul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acesta"
+    }
+  ],
+  "timestamp": "2026-09-04T09:22:21.177929275Z",
+  "model": "glm-5.3"
+}

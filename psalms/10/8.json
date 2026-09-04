@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Stă la pândă în curțile satelor, în ascunzișuri ucide ⟨pe⟩ nevinovat; ochii lui pentru cel lipsit de ajutor privesc pe furiș.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "stă"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "la pândă"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "în curțile satelor"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "în ascunzișuri"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ucide"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinovat"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ochii lui"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "pentru cel lipsit de ajutor"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "privesc pe furiș"
+    }
+  ],
+  "timestamp": "2026-09-04T04:54:28.542818774Z",
+  "model": "glm-5.3"
+}

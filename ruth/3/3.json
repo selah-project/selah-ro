@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Spală-te, unge-te, pune-ți haina pe tine și coboară-te la arie; nu te lăsa cunoscută de om până ce nu isprăvește de mâncat și de băut.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "Spală-te"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "unge-te"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "pune"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "haina ta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pe tine"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "și coboară-te"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "la arie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "te lăsa cunoscută"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "de om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până ce"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "isprăvește el"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "de mâncat"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "și de băut"
+    }
+  ],
+  "timestamp": "2026-09-04T05:39:58.137121757Z",
+  "model": "glm-5.3"
+}

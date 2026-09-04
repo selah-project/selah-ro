@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Și el a zis: Un cuvânt ⟨am de spus⟩ către tine. Și ea a zis: Vorbește.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și el a zis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Un cuvânt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "și ea a zis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Vorbește"
+    }
+  ],
+  "timestamp": "2026-09-04T03:08:16.134166865Z",
+  "model": "glm-5.3"
+}

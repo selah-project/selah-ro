@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Numai ⟨את⟩ seminția lui Levi să nu o numeri, și ⟨את⟩ numărul lor să nu-l iei în mijlocul fiilor lui Israel.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Numai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seminția lui Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "seminția"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "lui Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "să numeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "numărul lor"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "numărul lor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "să iei"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "în mijlocul"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T06:51:11.885452273Z",
+  "model": "glm-5.3"
+}

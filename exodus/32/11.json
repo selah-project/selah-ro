@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 32,
+  "translation": "Și a implorat Moșe ⟨את⟩ fața lui Yahve, Elohim său, și a spus: De ce, Yahve, să ardă mânia Ta împotriva poporului Tău, pe care l-ai scos din pământul Mițraimului, cu putere mare și cu mână tare?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Și a implorat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moșe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fața lui Yahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fața"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim său"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "למה",
+      "gloss": "De ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "să ardă"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mânia Ta"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "împotriva poporului Tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "l-ai scos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "din pământul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mițraimului"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "cu putere"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mare"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "și cu mână"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "tare"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:23.551586329Z",
+  "model": "glm-5.3"
+}

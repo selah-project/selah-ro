@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Și a slăbit Iehoșua ⟨את⟩ Amalec și ⟨את⟩ poporul lui la tăișul sabiei.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "Și a slăbit"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoșua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalec"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "poporul lui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "poporul lui"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "la tăișul"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabiei"
+    }
+  ],
+  "timestamp": "2026-09-04T08:45:41.987785230Z",
+  "model": "glm-5.3"
+}

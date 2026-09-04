@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 14,
+  "translation": "și am rupt ⟨את⟩ împărăția din casa lui David și ți-am dat-o ție; și n-ai fost ca slujitorul meu David, care a păzit poruncile mele și care a mers după mine cu toată inima lui, ca să facă numai ceea ce este drept în ochii mei.",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "și am rupt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "împărăția"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "împărăția"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "și am dat-o"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ai fost"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "ca slujitorul meu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "a păzit"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "poruncile mele"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "și care"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a mers"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după mine"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cu toată"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ca să facă"
+    },
+    {
+      "surface": "רק",
+      "gloss": "numai"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ceea ce este drept"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "în ochii mei"
+    }
+  ],
+  "timestamp": "2026-09-04T03:16:58.480178917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 23,
+  "translation": "Și a chemat Șaul ⟨את⟩ tot poporul la război, ca să coboare la Keila, să împresure pe David și pe oamenii lui.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Și a chemat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Șaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tot poporul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "la război"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "să coboare"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "la Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "să împresure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și pe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "oamenii lui"
+    }
+  ],
+  "timestamp": "2026-09-04T07:11:46.362987718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Câștigă înțelepciune, câștigă pricepere; nu uita și nu te abate de la cuvintele gurii mele.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Câștigă"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "înțelepciune"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "câștigă"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pricepere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "uita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și nu"
+    },
+    {
+      "surface": "תט",
+      "gloss": "te abate"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "de la cuvintele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gurii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T08:03:02.490127491Z",
+  "model": "glm-5.3"
+}

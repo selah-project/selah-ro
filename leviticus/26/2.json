@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "⟨את⟩ Șabaturile mele să păziți, și miqdașul meu să cinstiți cu frică; Eu ⟨sunt⟩ Yahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șabaturile mele"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Șabaturile mele"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "să păziți"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "și miqdașul meu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "să vă temeți de"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:49:18.467678453Z",
+  "model": "glm-5.3"
+}

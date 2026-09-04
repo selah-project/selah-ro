@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Și a zis Barac către ea: dacă mergi cu mine, merg; și dacă nu mergi cu mine, nu merg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a zis"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "către ea"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barac"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "merg"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "mergi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cu mine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "merg"
+    }
+  ],
+  "timestamp": "2026-09-04T08:52:11.957235783Z",
+  "model": "glm-5.3"
+}

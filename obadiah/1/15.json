@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "ro",
+  "chapter": 1,
+  "translation": "Căci aproape ⟨este⟩ ziua lui Yahve asupra tuturor neamurilor: cum ai făcut tu, se va face ție; răsplata ta se va întoarce pe capul tău.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "apropie"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "יוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "asupra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tuturor"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "neamurilor"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cum"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se va face"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ție"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "răsplata ta"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se va întoarce"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "pe capul tău"
+    }
+  ],
+  "timestamp": "2026-09-04T04:43:20.402822641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 77,
+  "translation": "În mare ⟨este⟩ calea ta, și cărările tale în ape multe, și urmele pașilor tăi nu au fost cunoscute.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "În mare"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "calea ta"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "și cărările tale"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în ape"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "multe"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "și urmele pașilor tăi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "au fost cunoscute"
+    }
+  ],
+  "timestamp": "2026-09-04T09:24:31.670577600Z",
+  "model": "glm-5.3"
+}

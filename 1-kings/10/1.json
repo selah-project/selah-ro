@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Și regina Șevei a auzit ⟨את⟩ vestea lui Șeloma, pentru numele lui Yahve, și a venit să-l încerce cu ghicitori.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Și regina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Șevei"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "a auzit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vestea"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "vestea"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "lui Șelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "pentru numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "și a venit"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "să-l încerce"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "cu ghicitori"
+    }
+  ],
+  "timestamp": "2026-09-04T03:14:03.103505947Z",
+  "model": "glm-5.3"
+}

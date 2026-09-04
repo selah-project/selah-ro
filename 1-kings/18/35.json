@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 18,
+  "translation": "Și apa a curs în jurul altarului, iar și ⟨את⟩ șanțul l-a umplut cu apă.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Și a curs"
+    },
+    {
+      "surface": "המים",
+      "gloss": "apa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "în jurul"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altarului"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "iar și"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "șanțul"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "șanțul"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "l-a umplut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cu apă"
+    }
+  ],
+  "timestamp": "2026-09-04T03:19:19.523363028Z",
+  "model": "glm-5.3"
+}

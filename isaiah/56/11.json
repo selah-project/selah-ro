@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 56,
+  "translation": "Iar câinii sunt violenți de nefeș, nu cunosc sătulul; și ei sunt păstori, nu știu să înțeleagă; toți s-au întors la drumul lor, fiecare la câștigul lui, de la un capăt la celălalt.",
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "Iar câinii"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "violenti de"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeș"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "cunosc"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sătulul"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "și ei"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "păstori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "știu"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "să înțeleagă"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toți"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "la drumul lor"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "s-au întors"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fiecare"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "la câștigul lui"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "de la un capăt la celălalt"
+    }
+  ],
+  "timestamp": "2026-09-04T03:52:55.329436399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 147,
+  "translation": "Dă fiarei hrana ei, puiilor de corb care strigă.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "dă"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "fiarei"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "hrana ei"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "puiilor"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "de corb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "strigă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:16:41.792724202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 9,
+  "translation": "Căci ai făcut ⟨את⟩ judecata mea și ⟨את⟩ pricina mea; ai șezut pe scaunul de domnie, judecând dreptatea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judecata mea"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "și pricina mea"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ai șezut"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "pe scaunul de domnie"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "judecând"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dreptatea"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:49.734020888Z",
+  "model": "glm-5.3"
+}

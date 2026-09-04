@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 16,
+  "translation": "Și îl vei chema la jertfă pe Ișai, iar eu îți voi face cunoscut ⟨את⟩ ce vei face; și îl vei unge pentru mine pe ⟨את⟩ cel pe care ți-l voi spune.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Și îl vei chema"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "pe Ișai"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "la jertfă"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "iar eu"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "îți voi face cunoscut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce vei face"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vei face"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "și îl vei unge"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cel pe care ți-l voi spune"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cel pe care"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "îți voi spune"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ție"
+    }
+  ],
+  "timestamp": "2026-09-04T02:46:21.910658668Z",
+  "model": "glm-5.3"
+}

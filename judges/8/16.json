@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "ro",
+  "chapter": 8,
+  "translation": "Și a luat ⟨את⟩ bătrânii cetății și ⟨את⟩ spini din pustiu și ⟨את⟩ mărăcinii, și i-a învățat cu ei ⟨את⟩ oamenii Sukotului.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Și a luat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bătrânii cetății"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bătrânii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cetății"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "spini din pustiu"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "spini"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ai pustiu-lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "mărăcinii"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "mărăcinii"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "și i-a învățat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "cu ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oamenii Sukotului"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotului"
+    }
+  ],
+  "timestamp": "2026-09-04T02:33:01.495507177Z",
+  "model": "glm-5.3"
+}

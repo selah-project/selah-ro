@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 109,
+  "translation": "Iar tu, Yahve, Adonai, fă ⟨את⟩ cu mine pentru numele tău, că bun este hesedul tău — scoate-mă!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iar tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fă"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cu mine",
+      "marks": "cu mine"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pentru"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bun"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedul tău"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "scoate-mă"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:45.031364083Z",
+  "model": "glm-5.3"
+}

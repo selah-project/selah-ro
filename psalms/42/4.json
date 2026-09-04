@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "A fost pentru mine lacrima mea pâine, ziua și noaptea, când îmi spună toată ziua: «Unde ⟨este⟩ Elohim al tău?»",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "a fost"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pentru mine"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "lacrima mea"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pâine"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "și noaptea"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "când spun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "către mine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ziua"
+    },
+    {
+      "surface": "איה",
+      "gloss": "unde"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim al tău"
+    }
+  ],
+  "timestamp": "2026-09-04T09:07:11.943967619Z",
+  "model": "glm-5.3"
+}

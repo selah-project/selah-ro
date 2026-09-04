@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 129,
+  "translation": "Mult m-au încleștat din tinerețile mele, dar nu au putut ⟨împotriva⟩ mea.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Mult"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "m-au încleștat"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "din tinerețile mele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "au putut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    }
+  ],
+  "timestamp": "2026-09-04T05:14:28.370224906Z",
+  "model": "glm-5.3"
+}

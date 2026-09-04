@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 30,
+  "translation": "Și a luat David ⟨את⟩ toată turma și vitele; le-au mânat înaintea turmei aceleia, și au zis: aceasta este prada lui David.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "și a luat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toată turma și vitele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "turma (de oi)"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "și vitele"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "le-au mânat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "înaintea"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "turmei"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aceleia"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "și au zis"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "prada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lui David"
+    }
+  ],
+  "timestamp": "2026-09-04T02:52:24.615606572Z",
+  "model": "glm-5.3"
+}

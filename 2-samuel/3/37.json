@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a știut tot poporul și tot Israelul în ziua aceea că nu fusese ⟨din⟩ partea regelui să-l omoare ⟨את⟩ Avner, fiul lui Ner.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Și a știut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "poporul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "și tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "acea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "fusese"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "⟨din⟩ partea regelui"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "să-l omoare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiul"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lui Ner"
+    }
+  ],
+  "timestamp": "2026-09-04T07:13:10.957345645Z",
+  "model": "glm-5.3"
+}

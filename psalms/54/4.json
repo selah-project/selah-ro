@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 54,
+  "translation": "Elohim, ascultă rugăciunea mea, ia aminte la cuvintele gurii mele.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascultă"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ia aminte"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "la cuvintele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gurii mele"
+    }
+  ],
+  "timestamp": "2026-09-04T05:01:34.451082420Z",
+  "model": "glm-5.3"
+}

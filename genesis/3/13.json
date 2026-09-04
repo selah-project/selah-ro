@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și a spus Yahve Elohim femeii: Ce este aceasta pe care ai făcut? Și a spus femeia: Șarpele m-a amăgit, și am mâncat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "femeii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ce"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aceasta"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ai făcut"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Și a spus"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "femeia"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Șarpele"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "m-a amăgit"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "și am mâncat"
+    }
+  ],
+  "timestamp": "2026-09-04T00:54:09.438118087Z",
+  "model": "glm-5.3"
+}

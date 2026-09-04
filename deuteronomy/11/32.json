@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și să păziți să faceți ⟨את⟩ toate hotarele și ⟨את⟩ judecățile pe care le pun eu înaintea voastră azi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "și să păziți"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "să faceți"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toate hotarele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toate"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hotarele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "judecățile"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "judecățile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pe care"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "înaintea voastră"
+    },
+    {
+      "surface": "היום",
+      "gloss": "azi"
+    }
+  ],
+  "timestamp": "2026-09-04T02:03:38.747391265Z",
+  "model": "glm-5.3"
+}

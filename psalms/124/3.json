@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 124,
+  "translation": "Atunci vii ne-ar fi înghițit, când s-a aprins mânia lor ⟨asupra⟩ noastră.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "atunci"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vii"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "ne-ar fi înghițit"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "când s-a aprins"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "mânia lor"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "împotriva noastră"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:05.889377411Z",
+  "model": "glm-5.3"
+}

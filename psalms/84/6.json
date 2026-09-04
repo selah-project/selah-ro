@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 84,
+  "translation": "Fericit omul a cărui tărie ⟨este⟩ în tine; drumuri ⟨sunt⟩ în inima lor.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Fericit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "omul"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "tărie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a cărui"
+    },
+    {
+      "surface": "בך",
+      "gloss": "în tine"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "drumuri"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "în inima lor"
+    }
+  ],
+  "timestamp": "2026-09-04T05:08:09.036803568Z",
+  "model": "glm-5.3"
+}

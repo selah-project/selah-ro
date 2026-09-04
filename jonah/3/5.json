@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Și au crezut oamenii din Ninive în Elohim, și au vestit un post, și s-au îmbrăcat cu saci, de la cel mai mare al lor și până la cel mai mic al lor.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Și au crezut"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "din Ninive"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "în Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "și au vestit"
+    },
+    {
+      "surface": "צום",
+      "gloss": "un post"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "și s-au îmbrăcat"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "cu saci"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "de la cel mai mare al lor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "și până la"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "cel mai mic al lor"
+    }
+  ],
+  "timestamp": "2026-09-04T04:44:39.875741803Z",
+  "model": "glm-5.3"
+}

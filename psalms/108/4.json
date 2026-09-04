@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 108,
+  "translation": "Te voi lăuda printre popoare, Yahve, și îți voi cânta printre națiuni.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Te voi lăuda"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "printre popoare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "și îți voi cânta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "printre"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "națiuni"
+    }
+  ],
+  "timestamp": "2026-09-04T05:11:47.318311760Z",
+  "model": "glm-5.3"
+}

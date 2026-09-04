@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ro",
+  "chapter": 46,
+  "translation": "Vor pregăti ⟨את⟩ mielul și ⟨את⟩ darul de mâncare și ⟨את⟩ untdelemnul, dimineața, dimineața — ardere de tot necurmată.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "vor pregăti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mielul"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mielul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "darul de mâncare"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "darul de mâncare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "untdelemnul"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "untdelemnul"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dimineața"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ardere de tot"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "necurmată"
+    }
+  ],
+  "timestamp": "2026-09-04T07:47:20.274643599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Să nu asuprești pe un plătit sărac și nevoiaș, dintre frații tăi sau dintre străinul tău care este în pământul tău, în porțile tale.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Să nu"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "asuprești"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "pe un plătit"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărac"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "și nevoiaș"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "dintre frații tăi"
+    },
+    {
+      "surface": "או",
+      "gloss": "sau"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "dintre străinul tău"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "este în pământul tău"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "în porțile tale"
+    }
+  ],
+  "timestamp": "2026-09-04T02:10:39.039686503Z",
+  "model": "glm-5.3"
+}

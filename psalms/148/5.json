@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 148,
+  "translation": "Să laude ⟨את⟩ numele lui Yahve, căci el a poruncit și au fost create.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "să laude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "numele lui Yahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "numele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "el"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a poruncit"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "și au fost create"
+    }
+  ],
+  "timestamp": "2026-09-04T05:17:07.955648265Z",
+  "model": "glm-5.3"
+}

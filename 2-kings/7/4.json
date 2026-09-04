@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 7:4",
+  "book": "2-kings",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Dacă zicem: Să intrăm în cetate — foametea ⟨este⟩ în cetate și vom muri acolo; și dacă ședem aici, vom muri. Și acum, veniți să cădem ⟨asupra⟩ taberei lui Aram: dacă ne lasă să trăim, vom trăi; și dacă ne omoară, atunci vom muri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dacă"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "zicem"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "Să intrăm"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "— foametea"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "în cetate"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "și vom muri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ședem"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aici"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "vom muri"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Și acum"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "veniți"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "să cădem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨asupra⟩"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "taberei"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "lui Aram"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dacă"
+    },
+    {
+      "surface": "יחינו",
+      "gloss": "ne lasă să trăim"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "vom trăi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "și dacă"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "ne omoară"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "vom muri"
+    }
+  ],
+  "timestamp": "2026-09-04T07:21:57.661521219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 115,
+  "translation": "Casa lui Aharon, încredeți-vă în Yahve; ajutorul lor și scutul lor ⟨este⟩ El.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Casa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lui Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "încredeți-vă"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "în Yahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ajutorul lor"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "și scutul lor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:32.644606627Z",
+  "model": "glm-5.3"
+}

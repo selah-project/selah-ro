@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 118,
+  "translation": "M-ai împins să mă răstorn, ⟨dar⟩ Yahve m-a ajutat.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "m-ai împins"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "să mă răstorn"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "să mă răstorn"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "iar Yahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "m-a ajutat"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:47.670149814Z",
+  "model": "glm-5.3"
+}

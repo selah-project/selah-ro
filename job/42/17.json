@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "ro",
+  "chapter": 42,
+  "translation": "Și a murit Iov, bătrân și sătul de zile.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Și a murit"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iov"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bătrân"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "și sătul"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de zile"
+    }
+  ],
+  "timestamp": "2026-09-04T05:37:03.117119504Z",
+  "model": "glm-5.3"
+}

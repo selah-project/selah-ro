@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Tot ce despică copita și are despicătură de copită și scoate rumegatul — printre vite — pe acela să-l mâncați.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tot ce"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "despică"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "copita"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "și are despicătură"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "despicătură"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "de copită"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "scoate"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumegatul"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "printre vite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pe acela"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "să-l mâncați"
+    }
+  ],
+  "timestamp": "2026-09-04T06:47:47.242726255Z",
+  "model": "glm-5.3"
+}

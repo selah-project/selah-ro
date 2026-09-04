@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 17,
+  "translation": "Iar orice nefeș care va mânca mortăciune sau fiară sfâșiată, dintre cei născuți în țară și dintre gér, să-și spele hainele și să se scalde în apă și va fi necurat până seara, apoi va fi curat.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "iar orice"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeș"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "care"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "va mânca"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "mortăciune"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "sau fiară sfâșiată"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "dintre cei născuți în țară"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "și dintre gér"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "să-și spele"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "și să se scalde"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în apă"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "și va fi necurat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "seara"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "apoi va fi curat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:35:56.148135598Z",
+  "model": "glm-5.3"
+}

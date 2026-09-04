@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Și întoarcerea lui era la Ramata, căci acolo era casa lui, și acolo judeca el ⟨את⟩ Israel; și a zidit acolo un altar lui Yahve.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Și întoarcerea lui"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "la Ramata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa lui"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "și acolo"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "judeca el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "și a zidit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "acolo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    }
+  ],
+  "timestamp": "2026-09-04T08:53:12.236376076Z",
+  "model": "glm-5.3"
+}

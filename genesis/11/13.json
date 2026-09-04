@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 11,
+  "translation": "Și a trăit Arpakșad, după nașterea lui Șelah, trei sute trei ani, și a născut fii și fiice.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Și a trăit"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakșad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "după"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nașterea lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Șelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Șelah"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sute"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "și trei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sute"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "și a născut"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "și fiice"
+    }
+  ],
+  "timestamp": "2026-09-04T00:56:47.320276840Z",
+  "model": "glm-5.3"
+}

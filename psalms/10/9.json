@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "Stă la pândă în ascunziș, ca un leu în culcușul lui; stă la pândă să răpească ⟨pe⟩ sărman; răpește ⟨pe⟩ sărman când îl trage în lațul lui.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "stă la pândă"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "în ascunziș"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ca un leu"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "în culcușul lui"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "stă la pândă"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "să răpească"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărman"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "răpește"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sărman"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "când îl trage"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "în lațul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T04:53:43.538544942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 116,
+  "translation": "Păzitor al celor naivi ⟨este⟩ Yahve; am fost smerit, și mie mi-a dat mântuire.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Păzitor"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "al celor naivi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "am fost smerit"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "și mie"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "mi-a dat mântuire"
+    }
+  ],
+  "timestamp": "2026-09-04T05:12:51.598682482Z",
+  "model": "glm-5.3"
+}

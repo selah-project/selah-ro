@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 41,
+  "translation": "A vorbit căpetenia paharnicilor ⟨את⟩ Paro, zicând: ⟨את⟩ păcatele mele eu aduc aminte astăzi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a vorbit"
+    },
+    {
+      "surface": "שר",
+      "gloss": "căpetenia"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "paharnicilor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zicând"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "păcatele mele"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "păcatele mele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "aduc aminte"
+    },
+    {
+      "surface": "היום",
+      "gloss": "astăzi"
+    }
+  ],
+  "timestamp": "2026-09-04T01:08:29.868843508Z",
+  "model": "glm-5.3"
+}

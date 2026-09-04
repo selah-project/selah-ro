@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "și ⟨את⟩ pielea taurului și ⟨את⟩ toată carnea lui, cu capul lui și cu picioarele lui, și măruntaiele lui și bălegarul lui.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "pielea taurului"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pielea"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "taurului"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "toată carnea lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toată"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "carnea lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "cu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "capul lui"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "și cu"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "picioarele lui"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "și măruntaiele lui"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "și bălegarul lui"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:19.596799779Z",
+  "model": "glm-5.3"
+}

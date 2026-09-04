@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ro",
+  "chapter": 26,
+  "translation": "Așa este omul care înșală ⟨את⟩ aproapele său și zice: Nu cumva eu glumesc?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Așa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omul"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "înșală"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aproapele său"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aproapele său"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "și zice"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Nu cumva"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "glumesc"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    }
+  ],
+  "timestamp": "2026-09-04T08:05:51.885151306Z",
+  "model": "glm-5.3"
+}

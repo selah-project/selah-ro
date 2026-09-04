@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ro",
+  "chapter": 21,
+  "translation": "Și a pus Avraham ⟨את⟩ șapte mielue de oaie deoparte singure.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Și a pus"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "șapte mielue de oaie"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "șapte"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "mielue de oaie"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "de oaie"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "deoparte singure"
+    }
+  ],
+  "timestamp": "2026-09-04T00:59:48.282159571Z",
+  "model": "glm-5.3"
+}

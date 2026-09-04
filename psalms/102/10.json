@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 102,
+  "translation": "Că cenușă ca pâine am mâncat și băutura mea cu plâns am amestecat-o.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "cenușă"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "ca pâine"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "am mâncat"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "și băutura mea"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "cu plâns"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "am amestecat-o"
+    }
+  ],
+  "timestamp": "2026-09-04T07:59:39.349825300Z",
+  "model": "glm-5.3"
+}

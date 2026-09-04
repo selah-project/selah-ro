@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ro",
+  "chapter": 22,
+  "translation": "Și a spus regele Israelului către slugile lui: Știți voi că al nostru ⟨este⟩ Ramot-Ghilad, și noi tăcem de luarea ei — ⟨את⟩ o — din mâna regelui Aramului?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "și a spus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelului"
+    },
+    {
+      "surface": "אל",
+      "gloss": "către"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slugile lui"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "știți"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "al nostru"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ghilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "și noi"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "tăcem"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "luarea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ o",
+      "marks": "Ramot-Ghilad"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "din mâna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramului"
+    }
+  ],
+  "timestamp": "2026-09-04T03:22:44.254782475Z",
+  "model": "glm-5.3"
+}

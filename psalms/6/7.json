@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "M-am osteneit în gemetul meu, înnădesc patul meu în fiecare noapte, cu lacrima mea topesc așternutul meu.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "m-am osteneit"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "în gemetul meu"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "înnădesc"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "în fiecare"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noapte"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "patul meu"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "cu lacrima mea"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "așternutul meu"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "topesc"
+    }
+  ],
+  "timestamp": "2026-09-04T07:53:19.758514964Z",
+  "model": "glm-5.3"
+}

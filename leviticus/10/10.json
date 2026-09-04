@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 10,
+  "translation": "și să despărțiți între sfânt și între comun, și între necurat și între curat.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "și să despărțiți"
+    },
+    {
+      "surface": "בין",
+      "gloss": "între"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sfânt"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "החל",
+      "gloss": "comun"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "necurat"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "și între"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "curat"
+    }
+  ],
+  "timestamp": "2026-09-04T01:32:00.874298395Z",
+  "model": "glm-5.3"
+}

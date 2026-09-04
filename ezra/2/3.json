@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 2,
+  "translation": "Fiii lui Paraș: două mii, o sută șaptezeci și doi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiii"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "lui Paraș"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "două mii"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "o sută"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "șaptezeci"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "și doi"
+    }
+  ],
+  "timestamp": "2026-09-04T08:16:01.732994326Z",
+  "model": "glm-5.3"
+}

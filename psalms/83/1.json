@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 83,
+  "translation": "Cântare, psalm al lui Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Cântare"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "al lui Asaf"
+    }
+  ],
+  "timestamp": "2026-09-04T05:06:50.937185197Z",
+  "model": "glm-5.3"
+}

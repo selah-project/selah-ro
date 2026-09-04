@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 74,
+  "translation": "Adu-ți aminte de aceasta: dușmanul a batjocorit ⟨pe⟩ Yahve, și un popor nelegiuit a defăimat numele tău.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Adu-ți aminte"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "de aceasta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dușmanul"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "a batjocorit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "și un popor"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nelegiuit"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "a defăimat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "numele tău"
+    }
+  ],
+  "timestamp": "2026-09-04T05:05:37.188681637Z",
+  "model": "glm-5.3"
+}

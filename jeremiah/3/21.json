@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "ro",
+  "chapter": 3,
+  "translation": "Un glas pe înălțimile golașe se aude, plânsul și rugămințiile fiilor lui Israel, căci au strâmbat ⟨את⟩ calea lor, au uitat ⟨את⟩ pe Yahve, Elohim al lor.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Un glas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "înălțimile golașe"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "se aude"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "plânsul"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "rugămințiile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "au strâmbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calea lor"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "calea lor"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "au uitat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim al lor"
+    }
+  ],
+  "timestamp": "2026-09-04T03:58:45.555914127Z",
+  "model": "glm-5.3"
+}

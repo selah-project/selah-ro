@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 24,
+  "translation": "Și a trimis ⟨את⟩ tinerii fiilor lui Israel, și au dus arderi-de-totală-jertfă, și au junghiat jertfe de pace lui Yahve, viței.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Și a trimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinerii fiilor lui Israel"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "tinerii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiilor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lui Israel"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "și au dus"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "arderi-de-totală-jertfă"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "și au junghiat"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "jertfe"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "de pace"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "viței"
+    }
+  ],
+  "timestamp": "2026-09-04T01:21:43.502564195Z",
+  "model": "glm-5.3"
+}

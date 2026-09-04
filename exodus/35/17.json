@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 35,
+  "translation": "⟨את⟩ covoarele curții, ⟨את⟩ stâlpii ei și ⟨את⟩ basele ei, și ⟨את⟩ perdeaua porții curții,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "covoarele curții"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "covoarele"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curții"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stâlpii ei"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "stâlpii ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "basele ei"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "basele ei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "și ⟨את⟩",
+      "marks": "perdeaua porții curții"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "perdeaua"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porții"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "curții"
+    }
+  ],
+  "timestamp": "2026-09-04T01:26:01.319790230Z",
+  "model": "glm-5.3"
+}

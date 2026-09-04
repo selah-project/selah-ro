@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "ro",
+  "chapter": 4,
+  "translation": "Că din casa legaților a ieșit să împărățească, că chiar în împărăția lui s-a născut sărac.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Că"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "din casa"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "legaților"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a ieșit"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "să împărățească"
+    },
+    {
+      "surface": "כי",
+      "gloss": "că"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chiar"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "în împărăția lui"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "s-a născut"
+    },
+    {
+      "surface": "רש",
+      "gloss": "sărac"
+    }
+  ],
+  "timestamp": "2026-09-04T09:26:14.569036001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Iar ce rămâne din carnea jertfei, în a treia zi, în foc să se ardă.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "iar ce rămâne"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "din carnea"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "jertfei"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "în ziua"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a treia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "în foc"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "să se ardă"
+    }
+  ],
+  "timestamp": "2026-09-04T01:30:54.101436787Z",
+  "model": "glm-5.3"
+}

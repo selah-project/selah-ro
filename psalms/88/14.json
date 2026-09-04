@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 88,
+  "translation": "Dar eu către tine, Yahve, am strigat, și dimineața rugăciunea mea te va întâmpina.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dar eu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "către tine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "am strigat"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "și dimineața"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rugăciunea mea"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "te va întâmpina"
+    }
+  ],
+  "timestamp": "2026-09-04T07:58:35.779233118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 119,
+  "translation": "Pentru totdeauna nu voi uita poruncile tale, căci prin ele m-ai făcut să trăiesc.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Pentru totdeauna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "voi uita"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "poruncile tale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "căci"
+    },
+    {
+      "surface": "בם",
+      "gloss": "prin ele"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "m-ai făcut să trăiesc"
+    }
+  ],
+  "timestamp": "2026-09-04T09:08:32.735636040Z",
+  "model": "glm-5.3"
+}

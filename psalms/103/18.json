@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 103,
+  "translation": "pentru cei care păzesc legământul lui și pentru cei care își amintesc poruncile lui, ca să le împlinească.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "pentru cei care păzesc"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "legământul lui"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "și pentru cei care își amintesc"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "poruncile lui"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ca să le împlinească"
+    }
+  ],
+  "timestamp": "2026-09-04T05:09:49.175186749Z",
+  "model": "glm-5.3"
+}

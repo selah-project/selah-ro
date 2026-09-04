@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "ro",
+  "chapter": 5,
+  "translation": "Să fie apăsătoare munca peste oameni și să lucreze în ea, și să nu se uite la cuvinte deșarte.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "să fie apăsătoare"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "munca"
+    },
+    {
+      "surface": "על",
+      "gloss": "peste"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oamenii"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "și să lucreze"
+    },
+    {
+      "surface": "בה",
+      "gloss": "în ea"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "și să nu"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "se uite"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "la cuvintele"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "deșarte"
+    }
+  ],
+  "timestamp": "2026-09-04T01:13:38.585821364Z",
+  "model": "glm-5.3"
+}

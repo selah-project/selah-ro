@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "ro",
+  "chapter": 6,
+  "translation": "În anul morții regelui Uziahu, am văzut ⟨את⟩ Adonai șezând pe un tron înalt și înălțat, și poalele lui umpleau ⟨את⟩ templul.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "În anul"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morții"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "regelui"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziahu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "și am văzut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "șezând"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "un tron"
+    },
+    {
+      "surface": "רם",
+      "gloss": "înalt"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "și înălțat"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "și poalele lui"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "umpleau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "templul"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templul"
+    }
+  ],
+  "timestamp": "2026-09-04T03:38:18.176140641Z",
+  "model": "glm-5.3"
+}

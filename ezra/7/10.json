@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ro",
+  "chapter": 7,
+  "translation": "Căci Ezra pregătise inima lui să caute ⟨את⟩ Tora lui Yahve, și să facă, și să învețe în Israel lege și judecată.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Căci"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "pregătise"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "inima lui"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "să caute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora lui Yahve"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui Yahve"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "și să facă"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "și să învețe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "în Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lege"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "și judecată"
+    }
+  ],
+  "timestamp": "2026-09-04T05:56:38.409575177Z",
+  "model": "glm-5.3"
+}

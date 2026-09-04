@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "ro",
+  "chapter": 19,
+  "translation": "Și cel ce o arde ⟨את⟩ ea își va spăla hainele în apă și își va scalda trupul în apă, și necurat este până seara.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Și cel ce o arde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ea",
+      "marks": "ea (vaca)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "își va spăla"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hainele"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în apă"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "și își va scalda"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "trupul"
+    },
+    {
+      "surface": "במים",
+      "gloss": "în apă"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "și necurat este"
+    },
+    {
+      "surface": "עד",
+      "gloss": "până"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "seara"
+    }
+  ],
+  "timestamp": "2026-09-04T01:50:43.516489739Z",
+  "model": "glm-5.3"
+}

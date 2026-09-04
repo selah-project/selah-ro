@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ro",
+  "chapter": 126,
+  "translation": "Cei ce seamănă în lacrimi cu strigăt de bucurie vor seceră.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "cei ce seamănă"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "în lacrimi"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "cu strigăt de bucurie"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "vor seceră"
+    }
+  ],
+  "timestamp": "2026-09-04T08:02:22.087084390Z",
+  "model": "glm-5.3"
+}
