@@ -94,3 +94,14 @@ docs/methodology/translation-discipline/ro.md); Cornilescu not PD —
 1688 Bucharest / 1874 Iași the witness candidates.
 
 — the shovel, with the assayer's checks in the groove
+
+
+## Addendum — 2026-09-06: the Elohimul class is closed
+
+Scott ratified the case-suffix ruling ("intact-stem inflection is
+lawful, welds and stem-breaks are not"). The 162 Elohimul verses held
+open since this chair's seating are **lawful as rendered** — the
+Romanian definite article on the intact stem is grammar carrying the
+Name, not erasure. The ruling closes the same question across eight
+chairs (ro hu kk sr hy ka rw qu) and stands for every future
+inflecting chair.
