@@ -25,3 +25,8 @@ Fișierele au forma aceasta: `<carte>/<capitol>/<verset>.json`.
 - **Numele sunt neschimbabile.** Articolul enclitic nu se lipește niciodată de un Nume (nu *Yahvele*, nu *Elohimul*); cazul îl poartă *lui* proclitic și prepozițiile (*slava lui Yahve*, *către Elohim*), iar *lui* este gramatică, nu cuvânt suplinit — nu intră în paranteze. Niciodată terminație românească pe un nume ebraic (*lui Avraham*, nu *Avrahamului*).
 - **Diacriticele sunt cele cu virgulă**: ș (U+0219) și ț (U+021B), niciodată formele cu sedilă.
 - Semnul **⟨את⟩** nu se șterge și nu se mută; unde את este pronumele *tu* (H859), se traduce *tu*.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
