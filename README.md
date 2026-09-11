@@ -85,3 +85,9 @@ Dacă vedeți o greșeală sau aveți o îndreptare:
 ## English summary
 
 **The Selah Romanian Rendering** — the Hebrew Bible (Tanakh) rendered verse by verse, word by word, into Romanian, faithful to the letter of the text. The 57th chair of the Selah project, the first Eastern Romance chair. Where the four-letter Name stands, we write **Yahve** — never *Domnul* (the Lord-title of the whole Romanian tradition), never *Iehova*, never *Cel Veșnic*, and never *Dumnezeu* in the Name's seat (that word stands in the witness column). שאול is **Șeol**, never *iad*. Every independent את is kept visible as **⟨את⟩**. Supplied words wear ⟨angle brackets⟩; there are no translator's notes; accuracy outranks readability. One verse per file: `<book>/<chapter>/<verse>.json`. License: CC BY-SA 4.0. Corrections welcome — open an Issue or Pull request, or write <support@selahproject.com>.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
