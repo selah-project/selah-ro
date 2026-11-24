@@ -7,7 +7,7 @@ Mulțumim — ajutați redarea aceasta să fie mai curată, mai la vedere și ma
 - Dacă un cuvânt cere discuție, sau poartă mai mult de o citire — deschideți un **Issue**.
 - Dacă greșeala este limpede și îndreptarea la fel de limpede — deschideți un **Pull request**.
 - Depozit: <https://github.com/selah-project/selah-ro>
-- Pentru întrebări de program sau de siguranță — <support@selahproject.com> sau [Selah Support](https://selahproject.com/support).
+- Pentru întrebări de program sau de siguranță — <https://s33k3r.com/learn/support> sau [Selah Support](https://s33k3r.com/learn/support).
 
 ## Ce să puneți în raport
 

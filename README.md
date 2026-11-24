@@ -67,7 +67,7 @@ Un verset — un fișier: versetul însuși, împreună cu o glosă pentru fieca
 
 ## Sprijiniți Selah
 
-Redarea aceasta este deschisă, sub licența CC BY-SA 4.0. Dacă lucrarea vă este de folos și vreți să sprijiniți traducerea, revizuirea, publicarea și continuarea ei — vedeți: [selahproject.com/support](https://selahproject.com/support)
+Redarea aceasta este deschisă, sub licența CC BY-SA 4.0. Dacă lucrarea vă este de folos și vreți să sprijiniți traducerea, revizuirea, publicarea și continuarea ei — vedeți: [s33k3r.com/learn/support](https://s33k3r.com/learn/support)
 
 ## Veniți să verificați
 
@@ -76,7 +76,7 @@ Cititori, învățăcei ai ebraicii, traducători și orice om care vorbește ro
 Dacă vedeți o greșeală sau aveți o îndreptare:
 
 - Deschideți un **Issue** sau un **Pull request** în depozit: <https://github.com/selah-project/selah-ro>
-- Sau scrieți-ne: <support@selahproject.com>
+- Sau scrieți-ne: <https://s33k3r.com/learn/support>
 
 Înainte să raportați o greșeală sau să propuneți o îndreptare, citiți întâi [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -84,10 +84,10 @@ Dacă vedeți o greșeală sau aveți o îndreptare:
 
 ## English summary
 
-**The Selah Romanian Rendering** — the Hebrew Bible (Tanakh) rendered verse by verse, word by word, into Romanian, faithful to the letter of the text. The 57th chair of the Selah project, the first Eastern Romance chair. Where the four-letter Name stands, we write **Yahve** — never *Domnul* (the Lord-title of the whole Romanian tradition), never *Iehova*, never *Cel Veșnic*, and never *Dumnezeu* in the Name's seat (that word stands in the witness column). שאול is **Șeol**, never *iad*. Every independent את is kept visible as **⟨את⟩**. Supplied words wear ⟨angle brackets⟩; there are no translator's notes; accuracy outranks readability. One verse per file: `<book>/<chapter>/<verse>.json`. License: CC BY-SA 4.0. Corrections welcome — open an Issue or Pull request, or write <support@selahproject.com>.
+**The Selah Romanian Rendering** — the Hebrew Bible (Tanakh) rendered verse by verse, word by word, into Romanian, faithful to the letter of the text. The 57th chair of the Selah project, the first Eastern Romance chair. Where the four-letter Name stands, we write **Yahve** — never *Domnul* (the Lord-title of the whole Romanian tradition), never *Iehova*, never *Cel Veșnic*, and never *Dumnezeu* in the Name's seat (that word stands in the witness column). שאול is **Șeol**, never *iad*. Every independent את is kept visible as **⟨את⟩**. Supplied words wear ⟨angle brackets⟩; there are no translator's notes; accuracy outranks readability. One verse per file: `<book>/<chapter>/<verse>.json`. License: CC BY-SA 4.0. Corrections welcome — open an Issue or Pull request, or write <https://s33k3r.com/learn/support>.
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
